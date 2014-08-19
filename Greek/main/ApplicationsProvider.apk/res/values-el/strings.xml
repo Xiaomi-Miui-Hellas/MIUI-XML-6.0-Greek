@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Αναζήτηση εφαρμογών</string>
+    <string name="application_desc">Εφαρμογές</string>
+    <string name="search_label">Εφαρμογή</string>
+    <string name="settings_description">Τα ονόματα των εγκατεστημένων εφαρμογών</string>
+</resources>

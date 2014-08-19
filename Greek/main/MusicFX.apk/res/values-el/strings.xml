@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Ενίσχυση μπάσων</string>
+  <string name="ci_extreme">FX booster</string>
+  <string name="eq_dialog_title">Ισοσταθμιστής</string>
+  <string name="headset_plug">Τοποθετήστε τα ακουστικά για αυτά τα εφέ.</string>
+  <string name="main_toggle_effects_title">Εφέ ήχου</string>
+  <string name="no_effects">Μη διαθέσιμα εφέ.</string>
+  <string name="picker_title">Πίνακας ελέγχου μουσικών εφέ</string>
+  <string name="pr_dialog_title">Προκαθορισμένο Reverb</string>
+  <string name="pr_summary">Επιπλέον επιδράσεις αντήχησης δωματίου</string>
+  <string name="pr_title">Reverb:</string>
+  <string name="setup">Ρυθμίσεις</string>
+  <string name="user">Χρήστης</string>
+  <string name="virtualizer_strength">3D εφέ</string>
+</resources>

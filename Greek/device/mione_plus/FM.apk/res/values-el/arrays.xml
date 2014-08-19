@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Μετονομασία</item>
+        <item>Αυτόματα</item>
+        <item>Διαγραφή</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Λήψη τρεχουσών παραμέτρων σταθμών</item>
+        <item>Λήψη παραμέτρων σάρωσης σταθμών επανάληψη 20 φορές</item>
+        <item>Λήψη παραμέτρων σάρωσης σταθμών</item>
+        <item>Λήψη παραμέτρων σάρωσης FM</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Θέσε FM RSSI Delta</item>
+        <item>Θέσε Signal Threshold</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Ενεργοποίηση της επιλογής</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+</resources>

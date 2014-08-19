@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Μία φορά</item>
+        <item>Δύο φορές</item>
+        <item>Τρείς φορές</item>
+        <item>Πέντε φορές</item>
+        <item>Δέκα φορές</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Όνομα</item>
+        <item>Παρατσούκλι</item>
+        <item>Τηλέφωνο</item>
+        <item>E-mail</item>
+        <item>Οργάνωση</item>
+        <item>IM</item>
+        <item>SIP τηλέφωνο</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα </item>
+        <item>Διεύθυνση</item>
+        <item>Σημείωση</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Ώρα λήψης</item>
+        <item>Ώρα αποστολής</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Μέσω μηνύματος</item>
+        <item>Μέσω Cloud μηνύματος</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Μέσω μηνύματος</item>
+        <item>Μέσω Cloud μηνύματος</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο όταν είναι σε σίγαση</item>
+        <item>Ποτέ</item>
+    </string-array>
+</resources>

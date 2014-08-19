@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Νότια Αμερική</item>
+        <item>Ευρώπη</item>
+        <item>Ιαπωνία</item>
+        <item>Ιαπωνία (Ευρύ)</item>
+        <item>Αυστραλία</item>
+        <item>Αυστρία</item>
+        <item>Βέλγιο</item>
+        <item>Βραζιλία</item>
+        <item>Κίνα</item>
+        <item>Τσεχία</item>
+        <item>Δανία</item>
+        <item>Φιλλανδία</item>
+        <item>Γαλλία</item>
+        <item>Γερμανία</item>
+        <item>Ελλάδα</item>
+        <item>Χονγκ Κονγκ</item>
+        <item>Ινδία</item>
+        <item>Ιρλανδία</item>
+        <item>Ιταλία</item>
+        <item>Κερέα</item>
+        <item>Μεξικό</item>
+        <item>Ολλανδία</item>
+        <item>Νέα Ζηλανδία</item>
+        <item>Νορβηγία</item>
+        <item>Πολωνία</item>
+        <item>Πορτογαλία</item>
+        <item>Ρωσσία</item>
+        <item>Σιγκαπούρη</item>
+        <item>Σλοβακία</item>
+        <item>Ισπανία</item>
+        <item>Ελβετία</item>
+        <item>Σουηδία</item>
+        <item>Ταϊβάν</item>
+        <item>Τουρκία</item>
+        <item>Αγγλία</item>
+        <item>Η.Π.Α.</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Νότια Αμερική (87.5MHz εως 108.0MHz σε 200 Khz βήμα)</item>
+        <item>Ευρώπη (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Ιαπωνία (76.0MHz εως 90.0MHz σε 100 Khz βήμα)</item>
+        <item>Ιαπωνία (ευρύ) (90.0MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Αυστραλία (87.7MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Αυστρία (87.5MHz εως  108.0MHz σε 50 Khz βήμα)</item>
+        <item>Βέλγιο (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Βραζιλία (87.8MHz εως 108.0MHz σε 200 Khz Step)</item>
+        <item>Κίνα (87.0MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Τσεχία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Δανία (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Φιλλανδία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Γαλλία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Γερμανία (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Ελλάδα (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Χονγκ Κονγκ (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Ινδία (91.0MHz εως 106.4MHz σε 100 Khz βήμα)</item>
+        <item>Ιρλανδία (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Ιταλία (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Κορέα (87.5MHz εως 108.0MHz σε 200 Khz βήμα)</item>
+        <item>Μεξικό (88.1MHz εως 107.9MHz σε 200 Khz βήμα)</item>
+        <item>Ολλανδία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Νέα Ζηλανδία (88.0MHz εως 107.0MHz σε 100 Khz βήμα)</item>
+        <item>Νορβηγία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Πολωνία (88.0MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Πορτογαλία (87.5MHz εως 108.0MHz σε 50 Khz βήμα)</item>
+        <item>Ρωσσία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Σιγκαπούρη (88.0MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Σλοβακία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Ισπανία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Ελβετία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Σουηδία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Ταϊβάν (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Τουρκία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Αγγλία (87.5MHz εως 108.0MHz σε 100 Khz βήμα)</item>
+        <item>Η.Π.Α. (88.1MHz εως 107.9MHz σε 200 Khz βήμα)</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Όλοι οι σταθμοί</item>
+        <item>Για ενήλικες</item>
+        <item>Κλασσική</item>
+        <item>Κλασσικό ΡΟΚ</item>
+        <item>Κολλεγιακά</item>
+        <item>Χώρες</item>
+        <item>Επείγοντα</item>
+        <item>Δοκιμαστικές εκπομπές</item>
+        <item>Κέντρα Ξένων Γλωσσών</item>
+        <item>Πληροφορίες</item>
+        <item>Τζαζ</item>
+        <item>Νέα</item>
+        <item>Νοσταλγία</item>
+        <item>Παλιά</item>
+        <item>Προσωπικότητες</item>
+        <item>Δημόσια</item>
+        <item>Θρησκευτική μουσική</item>
+        <item>Θρησκευτική ομιλία</item>
+        <item>Ρυθμικά και Μπλουζ</item>
+        <item>Ροκ</item>
+        <item>Απαλά</item>
+        <item>Απαλό Ροκ</item>
+        <item>Απαλά και Μπλούζ</item>
+        <item>Αθλητικά</item>
+        <item>Ομιλία</item>
+        <item>Τοπ 40</item>
+        <item>Καιρός</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Όλοι οι σταθμοί</item>
+        <item>Κουλτούρα</item>
+        <item>Current Affairs</item>
+        <item>"Παιδικά προγράμματα"</item>
+        <item>Χώρες</item>
+        <item>Ντοκυμαντέρ</item>
+        <item>Δράμα</item>
+        <item>Απαλή μουσική</item>
+        <item>Εκπαίδευση</item>
+        <item>Επείγοντα</item>
+        <item>Δοκιμή επείγοντος Test</item>
+        <item>Οικονομικά</item>
+        <item>Φολκλορική μουσική</item>
+        <item>Πληροφορίες</item>
+        <item>Τζαζ</item>
+        <item>Ελαφρά κλασσική</item>
+        <item>Ψυχαγωγική μουσική</item>
+        <item>Νέα</item>
+        <item>Εθνική μουσική</item>
+        <item>Άλλη</item>
+        <item>Παλιά μουσική</item>
+        <item>Σε κλήση</item>
+        <item>Ποπ μουσική</item>
+        <item>Θρησκευτικά</item>
+        <item>Ροκ μουσική</item>
+        <item>Επιστήμη</item>
+        <item>Βαριά κλασσικά</item>
+        <item>Κοινωνικές σχέσεις</item>
+        <item>Αθλητικά</item>
+        <item>Ταξίδια</item>
+        <item>Διάφορα</item>
+        <item>Καιρός</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Λήψη τρεχουσών παραμέτρων σταθμών</item>
+        <item>Λήψη παραμέτρων σάρωσης σταθμών επανάληψη 20 φορές</item>
+        <item>Λήψη παραμέτρων σάρωσης σταθμών</item>
+        <item>Λήψη παραμέτρων σάρωσης FM</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Θέσε FM RSSI Delta</item>
+        <item>Θέσε Signal Threshold</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Ενεργοποίηση της επιλογής</item>
+        <item>Ρύθμιση παραμέτρων αναζήτησης FM</item>
+        <item>RF Στατιστικά</item>
+    </string-array>
+     <string-array name="fm_mhz_number_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+        <item>,</item>
+     </string-array>
+</resources>

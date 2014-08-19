@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">"Περιβάλλον"</string>
+    <string name="bugreport_finished_title">Αναφορά λαθών που καταγράφηκαν</string>
+    <string name="bugreport_finished_text">Πατήστε για να προωθήσετε ένα μήνυμα σχετικά με τα σφάλματα </string>
+    <string name="bugreport_confirm">Η αναφορά σφάλματος περιέχει τα δεδομένα από διαφορετικές περιοχές του συστήματος αρχείων, συμπεριλαμβανομένων των ατομικών και των ιδιωτικών πληροφοριών. Μοιραστείτε το μόνο με αξιόπιστες εφαρμογές και τους άτομα.</string>
+    <string name="bugreport_confirm_repeat">Δείτε αυτό το μήνυμα την επόμενη φορά </string>
+</resources>

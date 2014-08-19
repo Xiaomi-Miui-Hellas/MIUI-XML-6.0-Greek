@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Σχόλια</string>
+    <string name="user_feedback">Σχόλια χρηστών</string>
+    <string name="report_miui">Αναφορά</string>
+    <string name="menu_send">Αποστολή αναφοράς</string>
+    <string name="menu_copy">Αντιγραφή</string>
+    <string name="menu_attach_screenshot">Επισύναψη στιγμιότυπου</string>
+    <string name="menu_discard">Απόρριψη</string>
+    <string name="description">Εισάγετε περιγραφή (απαιτείται)</string>
+    <string name="btn_send">Αποστολή</string>
+    <string name="err_type">Τυπος σφαλματος</string>
+    <string name="err_type_reboot">Επανεκκίνηση συστήματος</string>
+    <string name="err_type_force_close">Εξαναγκαστικός τερματισμός</string>
+    <string name="err_type_network">Προβλήματα δικτύου</string>
+    <string name="err_type_others">Άλλο</string>
+    <string name="err_type_power_consuming">Κατανάλωση ενέργειας</string>
+    <string name="err_type_call">Προβλήματα κλήσεων</string>
+    <string name="err_type_suggestion">Προτάσεις</string>
+    <string name="err_type_data_lost">Απώλεια δεδομένων</string>
+    <string name="status_msg_pending_upload">Ανεβαίνουν %d σχόλια…</string>
+    <string name="status_msg_collecting_log">Συλλογή αρχείων καταγραφής</string>
+    <string name="action_submit">Καταχώριση</string>
+    <string name="section_err_type">Τυπος σφαλματος</string>
+    <string name="section_description">Περιγραφη</string>
+    <string name="section_screenshot">Στιγμιοτυπο</string>
+    <string name="toast_report_sent_succeed">Η αναφορά έχει σταλεί</string>
+    <string name="toast_report_sent_failed">Αποτυχία αποστολής αναφοράς</string>
+    <string name="toast_report_copied_to_clipboard">Αναφορά αντιγράφηκε στο clipboard</string>
+    <string name="toast_description_required">Απαιτείται περιγραφή</string>
+    <string name="toast_pending_log_collection">Συλλογή αρχείων καταγραφής…</string>
+    <string name="toast_feedback_submitted">Το σχόλιό σας έχει καταχωρηθεί</string>
+    <string name="toast_feedback_pending_wlan">"Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο"</string>
+    <string name="discard_draft_dialog_title">Απόρριψη πρόχειρου</string>
+    <string name="discard_draft_dialog_content">Η αναφορά έχει τροποποιηθεί, ακουμπήστε το ΟΚ για να απορρίψετε την τρέχουσα.</string>
+    <string name="discard_draft_dialog_button_discard">ΟΚ</string>
+    <string name="discard_draft_dialog_button_cancel">Άκυρο</string>
+    <string name="network_unavailable_dialog_title">Μη διαθέσιμο δίκτυο</string>
+    <string name="network_unavailable_dialog_content">"Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ένα δίκτυο"</string>
+    <string name="network_unavailable_dialog_button_ok">ΟΚ</string>
+    <string name="wlan_unavailable_dialog_title">Μη διαθέσιμο WLAN</string>
+    <string name="wlan_unavailable_dialog_content">"%s απαιτείται για 2G/3G δεδομένα, το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο"</string>
+    <string name="wlan_unavailable_dialog_button_sent">Αποστολή τώρα</string>
+    <string name="wlan_unavailable_dialog_button_ok">ΟΚ</string>
+    <string name="packaging_dialog_content">Παράγεται αναφορά…</string>
+    <string name="bugreport_feedback_from">Από: %s</string>
+</resources>

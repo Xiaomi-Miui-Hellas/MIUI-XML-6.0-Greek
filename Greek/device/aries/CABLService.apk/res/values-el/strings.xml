@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Προσαρμογή φωτισμού</string>
+    <string name="cabl_settings_title">Ρυθμίσεις οπίσθιου φωτισμού</string>
+    <string name="cabl_enable_title">Ενεργοποίηση Προσαρμογής φωτισμού</string>
+    <string name="cabl_enable_summary_on">Θα επιδράσει στην εικόνα που εμφανίζεται στην οθόνη</string>
+    <string name="cabl_enable_summary_off">Ο φωτισμός δεν ανταποκρίνεται στην εικόνα που εμφανίζεται στην οθόνη</string>
+    <string name="cabl_levels_title">Επίπεδο</string>
+    <string name="cabl_levels_summary">Χαμηλότερο επίπεδο σημαίνει μεγαλύτερη εξοικονόμηση ενέργειας, αλλά μπορεί να κάνει την οθόνη πιο σκούρα από το συνηθισμένο</string>
+    <string name="cabl_info_default">Άγνωστη</string>
+    <string name="cabl_version_title">Έκδοση</string>
+</resources>

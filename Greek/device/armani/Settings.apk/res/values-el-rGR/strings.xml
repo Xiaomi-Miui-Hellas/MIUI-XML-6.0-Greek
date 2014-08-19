@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ct_mobile_data_hints">"You can't turn on data service for the card in slot 2 while data for the card in slot 1 is enabled."</string>
+  <string name="gemini_data_connection">Σύνδεση δεδομένων</string>
+  <string name="gemini_data_roaming_summary">Σύνδεση με υπηρεσίες δεδομένων κατά την περιαγωγή</string>
+  <string name="gemini_data_roaming_title">Περιαγωγή δεδομένων</string>
+  <string name="gemini_default_sim_title">Προεπιλεγμένη SIM</string>
+  <string name="gemini_general_settings_title">Γενικές ρυθμίσεις</string>
+  <string name="gemini_no_sim_indicator">Δεν υπάρχει κάρτα SIM</string>
+  <string name="gemini_roaming_settings_title">Περιαγωγή</string>
+  <string name="gemini_sim_info_editor_name">Επεξεργασία ονόματος κάρτας SIM</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">Αυτό το όνομα κάρτας SIM χρησιμοποιείται ήδη</string>
+  <string name="gemini_sim_info_editor_name_dup_title">Η αποθήκευση απέτυχε</string>
+  <string name="gemini_sim_info_editor_number">Πληκτρολογ. αρ. τηλεφ.</string>
+  <string name="gemini_sim_info_title">ΠΛΗΡΟΦΟΡΙΕΣ ΚΑΡΤΑΣ SIM</string>
+  <string name="gemini_sim_management_title">Διαχείριση κάρτας SIM</string>
+  <string name="gemini_sim_mode_progress_activating_message">Ενεργοποίηση…</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Απενεργοποίηση…</string>
+</resources>

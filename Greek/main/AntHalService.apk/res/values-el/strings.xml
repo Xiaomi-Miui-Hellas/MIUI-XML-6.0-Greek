@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANT HAL Υπηρεσία</string>
+    <string name="permdesc_antradio">Επιτρέπει στην εφαρμογή να ρυθμίσει απευθείας το ραδιόφωνο ΑΝΤ. Κακόβουλες εφαρμογές ενδέχεται να εμποδίσει την ANT Radio Service από την παροχή λειτουργικότητας ANT σε άλλες εφαρμογές.</string>
+    <string name="permlab_antradio">χρησιμοποιεί υλικό ANT</string>
+    <string name="permdesc_ant">Επιτρέπει στην εφαρμογή να επικοινωνήσει με ΑΝΤ συσκευές που χρησιμοποιούν την υπηρεσία μεσολάβησης. Κακόβουλες εφαρμογές μπορούν να αποκτήσουν πληροφορίες από, ή να διαβιβάζουν, ANT συσκευές χωρίς τη γνώση σας.</string>
+    <string name="permlab_ant">χρησιμοποίηση ANT interface ραδιοσυχνοτήτων</string>
+    <string name="permdesc_antAdmin">Επιτρέπει στην εφαρμογή να ρυθμίσει απευθείας το ραδιόφωνο ANT μέσω της υπηρεσίας μεσολάβησης. Κακόβουλες εφαρμογές ενδέχεται να εμποδίσει άλλες εφαρμογές ANT από τη σύνδεση με συσκευές ANT.</string>
+    <string name="permlab_antAdmin">ANT διαμόρφωση ελέγχου ραδιοφώνου</string>
+</resources>

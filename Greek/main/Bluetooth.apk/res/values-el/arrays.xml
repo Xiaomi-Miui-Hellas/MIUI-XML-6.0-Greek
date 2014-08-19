@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Μια σελίδα ανά πλευρά</item>
+        <item>Δύο σελίδες ανά πλευρά</item>
+        <item>Τέσσερις σελίδες ανά πλευρά</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Κάθετα</item>
+        <item>Οριζόντια</item>
+        <item>Αντίστροφα Οριζόντια</item>
+        <item>Αντίστροφα Κάθετα</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Μια Πλευρά</item>
+        <item>Δύο Πλευρές Μακριά Άκρη</item>
+        <item>Δύο Πλευρές Μικρή Άκρη</item>
+    </string-array>
+</resources>

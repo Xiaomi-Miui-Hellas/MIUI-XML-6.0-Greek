@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts_rate_entries">
+        <item>Πολύ αργό</item>
+        <item>Αργό</item>
+        <item>Κανονικό</item>
+        <item>Γρήγορο</item>
+        <item>Γρογορότερο</item>
+        <item>Πολύ γρήγορο</item>
+        <item>Ταχύ</item>
+        <item>Πολύ ταχύ</item>
+        <item>Γρηγορότερο</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Κανένα</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Καμμία</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+</resources>

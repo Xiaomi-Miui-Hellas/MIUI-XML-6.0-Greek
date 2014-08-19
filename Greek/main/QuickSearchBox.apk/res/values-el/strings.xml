@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Αναζήτηση</string>
+  <string name="apps_search_activity"/>
+  <string name="clear_shortcuts">Καθαρισμός συντομεύσεων</string>
+  <string name="clear_shortcuts_agree">Καθαρισμός</string>
+  <string name="clear_shortcuts_disagree">"Διαφωνώ"</string>
+  <string name="clear_shortcuts_prompt">"Αυτό θα καθαρίσει όλες τις συντομεύσεις και τις πρόσφατες προτάσεις αναζήτησης. (Για να διαγράψετε το ιστορικό περιήγησης, χρησιμοποιήστε τις ρυθμίσεις του προγράμματος περιήγησης.)"</string>
+  <string name="clear_shortcuts_summary">Εκκαθάριση συντομεύσεων και πρόσφατων προτάσεων αναζήτηση</string>
+  <string name="corpus_description_apps">Ονόματα από εγκατεστημένες εφαρμογές</string>
+  <string name="corpus_description_web">Αναζήτηση σε ιστό, σελιδοδείκτες και ιστορικού πλοηγού</string>
+  <string name="corpus_hint_apps">Αναζήτηση εφαρμογών</string>
+  <string name="corpus_label_apps">Εφαρμογές</string>
+  <string name="corpus_label_global">Όλα</string>
+  <string name="corpus_label_web">Ιστός</string>
+  <string name="corpus_selection_heading">Αναζήτηση</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">Καθαρισμός συντομεύσεων</string>
+  <string name="google_app_label">Google Search</string>
+  <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Google Search προτάσεις</string>
+  <string name="google_search_hint">Google Search</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Google Search</string>
+  <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="menu_help">Βοήθεια</string>
+  <string name="menu_settings">Ρυθμίσεις αναζήτησης</string>
+  <string name="remove_from_history">Διαγραφή από το ιστορικό αναζήτησης</string>
+  <string name="remove_from_history_failed">"Αδύνατη η διαγραφή από το ιστορικό"</string>
+  <string name="search_in_app_store">Αναζήτηση στο market</string>
+  <string name="search_in_web">Αναζήτηση στον ιστό</string>
+  <string name="search_settings">Ρυθμίσεις αναζήτησης</string>
+  <string name="search_sources">Περιεχόμενα αναζήτησης</string>
+  <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
+  <string name="search_widget">Αναζήτηση</string>
+  <string name="system_search_category_title">Τηλέφωνο</string>
+  <string name="voice_search_hint_title">Εκφώνησε:</string>
+</resources>

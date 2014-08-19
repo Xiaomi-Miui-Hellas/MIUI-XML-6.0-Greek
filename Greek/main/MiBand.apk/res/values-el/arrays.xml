@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+ <string-array name="weeks">
+  <item>Δευτέρα</item> 
+  <item>Τρίτη</item> 
+  <item>Τετάρτη</item> 
+  <item>Πέμπτη</item> 
+  <item>Παρασκευή</item> 
+  <item>Σάββατο</item> 
+  <item>Κυριακή</item> 
+  </string-array>
+ <string-array name="weeks_short">
+  <item>Δευ</item> 
+  <item>Τρι</item> 
+  <item>Τετ</item> 
+  <item>Πεμ</item> 
+  <item>Παρ</item> 
+  <item>Σαβ</item> 
+  <item>Κυρ</item> 
+  </string-array>
+ <string-array name="months">
+  <item>Ιανουάριος</item> 
+  <item>Φεβρουάριος</item> 
+  <item>Μάρτιος</item> 
+  <item>Απρίλιος</item> 
+  <item>Μάϊος</item> 
+  <item>Ιούνιος</item> 
+  <item>Ιούλιος</item> 
+  <item>Αύγουστος</item> 
+  <item>Σεπτέμβριος</item> 
+  <item>Οκτώβριος</item> 
+  <item>Νοέμβριος</item> 
+  <item>Δεκέμβριος</item> 
+  </string-array>
+ <string-array name="select_days">
+  <item>Δευτέρα</item> 
+  <item>Τρίτη</item> 
+  <item>Τετάρτη</item> 
+  <item>Πέμπτη</item> 
+  <item>Παρασκευή</item> 
+  <item>Σάββατο</item> 
+  <item>Κυριακή</item> 
+  </string-array>
+ <string-array name="short_days">
+  <item>Δευ</item> 
+  <item>Τρι</item> 
+  <item>Τετ</item> 
+  <item>Πεμ</item> 
+  <item>Παρ</item> 
+  <item>Σαβ</item> 
+  <item>Κυρ</item> 
+  </string-array>
+ <string-array name="select_days_simple">
+  <item>Μόνο μία</item> 
+  <item>Καθημερινά</item> 
+  <item>Δευτέρα ως Παρασκευή</item> 
+  <item>Προσαρμογή</item> 
+  </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_types">
+        <item>Λήψεις ROM</item>
+        <item>Λήψεις Kernel</item>
+    </string-array>
+    <string-array name="download_types_empty">
+        <item>Χωρίς λήψεις ROM</item>
+        <item>Χωρίς λήψεις Kernel</item>
+    </string-array>
+    <string-array name="install_options">
+        <item>Πρώτα Βackup</item>
+        <item>Wipe Data</item>
+        <item>Wipe Cache</item>
+    </string-array>
+    <string-array name="prokey_ops">
+        <item>Αγορά από Play Store</item>
+        <item>Κωδικός ενεργοποίησης</item>
+    </string-array>
+    <string-array name="prokey_ops_nomarket">
+        <item>Κωδικός ενεργοποίησης</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>αριστερή παρένθεση</item>
+        <item>δεξιά παρένθεση</item>
+        <item>παραγοντικό</item>
+        <item>φυσικός λογάριθμος</item>
+        <item>λογάριθμος</item>
+        <item>τετραγωνική ρίζα</item>
+        <item>διαιρούμενο με</item>
+        <item>πολλαπλασιαζόμενο επί</item>
+        <item>πρόσθεση</item>
+        <item>αφαίρεση</item>
+        <item> point </item>
+        <item>δύναμη</item>
+        <item>εφαπτόμενη</item>
+        <item>ημίτονο</item>
+        <item>συνημίτονο</item>
+        <item>π</item>
+        <item>ίσον</item>
+    </string-array>
+</resources>

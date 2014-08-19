@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>Απεριόριστα </item>
+        <item>20mb</item>
+        <item>10mb</item>
+        <item>5mb</item>
+        <item>2mb</item>
+        <item>1mb</item>
+        <item>512kb</item>
+        <item>Πάντα αναμονή για WLAN</item>
+    </string-array>
+</resources>

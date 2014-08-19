@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Καυτό</item>
+        <item>Κατάταξη</item>
+        <item>Νεώτερα</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Επιλεγμένα</item>
+        <item>Κατάταξη</item>
+        <item>Νεώτερα</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Δίκτυο</item>
+        <item>Τοπικά</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Επεισόδια</item>
+        <item>Περίληψη</item>
+    </string-array>
+</resources>

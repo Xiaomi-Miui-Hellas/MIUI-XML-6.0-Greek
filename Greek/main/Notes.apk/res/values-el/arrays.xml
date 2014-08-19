@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Όνομα</item>
+        <item>Ψευδώνυμο</item>
+        <item>Τηλέφωνο</item>
+        <item>E-mail</item>
+        <item>Οργανισμός</item>
+        <item>IM</item>
+        <item>Τηλέφωνο SIP</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα</item>
+        <item>Διεύθυνση</item>
+        <item>Σημείωση</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Μικρό</item>
+        <item>Προκαθορισμένο</item>
+        <item>Μεγάλο</item>
+        <item>Σούπερ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+   <string-array name="preferred_network_mode_choices">
+        <item>LTE / CDMA</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>Αυτόματο CDMA / EvDo</item>
+        <item>Αυτόματο GSM / WCDMA</item>
+        <item>Χωρίς WCDMA</item>
+        <item>Χωρίς GSM</item>
+        <item>GSM / WCDMA προτιμάται</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>Χωρίς TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Παγκόσμιο</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Χωρίς EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>Χωρίς WCDMA</item>
+        <item>Χωρίς GSM</item>
+        <item>GSM/WCDMA προτιμάται</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
+    </string-array>
+</resources>

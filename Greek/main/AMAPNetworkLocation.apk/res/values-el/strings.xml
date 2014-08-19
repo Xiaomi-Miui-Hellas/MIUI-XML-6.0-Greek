@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Τοποθεσία δικτύου</string>
+    <string name="location_warning_title">Συναίνεση τοποθεσίας</string>
+    <string name="location_warning_message">"Επιτρέπεται στην υπηρεσία εντοπισμού AutoNavi να συλλέγει ανώνυμα δεδομένα τοποθεσίας. Μερικά δεδομένα μπορούν να αποθηκευτούν στη συσκευή σας, και η συλλογή μπορεί να συμβεί ακόμη και όταν δεν υπάρχουν εφαρμογές που εκτελούνται. Χρεώσεις δεδομένων μπορεί να ισχύουν κατά τη διάρκεια αυτής της διαδικασίας."</string>
+    <string name="agree">Συμφωνώ</string>
+    <string name="disagree">Διαφωνώ</string>
+</resources>

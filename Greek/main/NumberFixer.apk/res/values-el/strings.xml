@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="learn_title">Μάθε Περισσότερα</string>
+    <string name="about">Περισσότερα για την εφαρμογή…</string>
+    <string name="more_apps">Περισσότερες εφαρμογές…</string>
+    <string name="upgrade">Στηρίξτε τον δημιουργό…</string>
+    <string name="app_name">Number Fixer</string>
+    <string name="intro">"Το Number Fixer περνά μέσα από τις επαφές σας και προσθέτει έναν κωδικό περιοχής για αριθμούς τηλεφώνου που τους λείπει.
+
+Ειδικά χρήσιμο για Flex Dialer + Google Voice τηλεφωνικούς καταλόγους."</string>
+    <string name="intro_popup">"Ευχαριστούμε που εγκαταστήσατε το Number Fixer!
+
+Αν βρείτε αυτή την εφααρμογή χρήσιμη, μπορείτε να αγοράσετε την donation έκδοση για να υποστηρίξω τη μελλοντική ανάπτυξη."</string>
+    <string name="controls">Έλεγχοι</string>
+    <string name="find_numbers">Προσθήκη κωδικού περιοχής/χώρας</string>
+    <string name="find_numbers_progress">Εύρεση #ψήφιων αριθμών…</string>
+    <string name="find_numbers_delete">Διαγραφή κωδικού περιοχής/χώρας</string>
+    <string name="find_numbers_delete_progress">Εύρεση #ψήφιων αριθμών που αρχίζουν με ~…</string>
+    <string name="number_list_title">Διόρθωση λίστας</string>
+    <string name="delete_dialog">Διαγραφή # από την λίστα?</string>
+    <string name="number_deleted">Ο αριθμός διαγράφηκε από την λίστα</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="go">Διόρθωση όλων</string>
+    <string name="area_code_label">Κωδικός περιοχής για πρόσθεση</string>
+    <string name="area_code_delete_label">Κωδικός περιοχής για διαγραφή</string>
+    <string name="fix_numbers_progress">Προσθήκη κωδικού περιοχής…</string>
+    <string name="fix_numbers_delete_progress">Διαγραφή κωδικού περιοχής…</string>
+    <string name="numbers_fixed">\# αριθμοί διορθώθηκαν</string>
+    <string name="num_digits_title">Μέγεθος αριθμού για εύρεση</string>
+    <string name="num_digits_label">Εύρεση αριθμών που είναι τόσα ψηφία:</string>
+    <string name="prefix_label">Εύρεση αριθμών που αρχίζουν με: (προαιρετικό)</string>
+    <string name="ok">Ok</string>
+    <string name="num_digits_prompt">Διαλέξτε μήκος</string>
+    <string name="confirm_add">"Προσθήκη #areacode# στην αρχή των #numresults# τηλεφ.αριθμών?
+
+πχ. το 555-5555 θα γίνει #areacode#555-5555"</string>
+    <string name="confirm_delete">"Διαγραφή #areacode# από την αρχή των #numresults# τηλεφ.αριθμών?
+
+πχ. το #areacode#555-5555 θα γίνει 555-5555"</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>πολύ μικρό</item>
+        <item>μικρό</item>
+        <item>μεσαίο</item>
+        <item>μεγάλο</item>
+        <item>τεράστιο</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Πήγαινε στο νεώτερο μήνυμα μετά την διαγραφή</item>
+        <item>Πήγαινε στο παλιώτερο μήνυμα μετά την διαγραφή</item>
+        <item>Πήγαινε στα εισερχόμενα μηνύματα μετά την διαγραφή</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Πολύ μικρό κείμενο</item>
+        <item>Μικρό κείμενο</item>
+        <item>Μεσαίο κείμενο</item>
+        <item>Μεγάλο κείμενο</item>
+        <item>Τεράστιο κείμενο</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Απάντηση</item>
+        <item>Απάντηση όλων</item>
+        <item>Προώθηση</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Επιτυχία</item>
+        <item>Χωρίς σύνδεση.</item>
+        <item>"Αδύνατη σύνδεση."</item>
+        <item>Σφάλμα ασφάλειας.</item>
+        <item>"Αδύνατος συγχρονισμός."</item>
+        <item>Εσωτερικό Σφάλμα</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Σύστημα</item>
+        <item>Συχνή Χρήση</item>
+        <item>Όλοι οι Φάκελοι</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Νεότερη</item>
+        <item>Παλαιότερη</item>
+        <item>Λίστα συζητήσεων</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Εμφάνιση νεότερης συζήτησης μετά την διαγραφή</item>
+        <item>Εμφάνιση παλαιότερης συζήτησης μετά την διαγραφή</item>
+        <item>Εμφάνιση λίστας συζητήσεων μετά την διαγραφή</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>νέα</item>
+        <item>παλιά</item>
+        <item>λίστα</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Εμφάνιση μόνο του αρχείου</item>
+        <item>Εμφάνιση μόνο διαγραμμένων</item>
+        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Εμφάνιση μόνο του αρχείου</item>
+        <item>Εμφάνιση μόνο διαγραμμένων</item>
+        <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
+    </string-array>
+    <string-array name="prefValues_removal_action">
+        <item>αρχείο</item>
+        <item>διαγραφή</item>
+        <item>αρχείο-και-διαγραφή</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Προκαθορισμένο</item>
+        <item>Τύπος</item>
+        <item>Όνομα</item>
+        <item>Αποστολέας</item>
+        <item>Ημ/νια</item>
+    </string-array>
+</resources>

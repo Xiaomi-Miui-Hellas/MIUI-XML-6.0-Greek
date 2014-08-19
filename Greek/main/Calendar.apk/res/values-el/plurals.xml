@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d λεπ.</item>
+        <item quantity="one">1 λεπ.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d μέρες</item>
+        <item quantity="one">1 μέρα</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">EΒΔΟΜΑΔΑ %d</item>
+        <item quantity="one">1η ΕΒΔΟΜΑΔΑ</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d γεγονότα</item>
+        <item quantity="one">1 γεγονός</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d γεγονότα</item>
+        <item quantity="one">+1 γεγονός</item>
+    </plurals>
+</resources>

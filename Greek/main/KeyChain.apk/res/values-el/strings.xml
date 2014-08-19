@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mπρελόκ</string>
+    <string name="title_no_certs">Δεν βρέθηκαν πιστοποιητικά</string>
+    <string name="title_select_cert">Επιλέξτε το πιστοποιητικό</string>
+    <string name="requesting_application">Η εφαρμογή %s έχει ζητήσει ένα πιστοποιητικό. Επιλέγοντας ένα πιστοποιητικό θα αφήσει την εφαρμογή να χρησιμοποιήσει αυτή την ταυτότητα με τους διακομιστές τώρα και στο μέλλον.</string>
+    <string name="requesting_server">Η εφαρμογή έχει εντοπίσει τον διακομιστή ως %s, αλλά θα πρέπει να δώσει την πρόσβαση με το πιστοποιητικό, μόνον εάν εμπιστεύεστε την εφαρμογή.</string>
+    <string name="install_new_cert_message">Μπορείτε να εγκαταστήσετε πιστοποιητικά από ένα αρχείο PKCS#12 με %1$s ή με %2$s επέκταση, βρίσκεται στο εξωτερικό μέσο αποθήκευσης.</string>
+    <string name="install_new_cert_button_label">Εγκατάσταση</string>
+    <string name="allow_button">Επέτρεψε</string>
+    <string name="deny_button">Άρνηση</string>
+</resources>

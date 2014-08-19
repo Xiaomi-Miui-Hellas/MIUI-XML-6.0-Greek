@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Κλασική ολίσθηση</item>
+        <item>Κλασική ολίσθηση (χωρίς υπέρβαση)</item>
+        <item>Σταδιακό σβήσιμο</item>
+        <item>Πέσιμο</item>
+        <item>Σελίδα</item>
+        <item>Αλληλουχία</item>
+        <item>Περιστροφή</item>
+        <item>Κύβος</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Προεπιλογή</item>
+        <item>Κέντρο</item>
+        <item>Αριστερά</item>
+        <item>Δεξιά</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Προκαθορισμένο</item>
+        <item>Κλασικός</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Καθαρός</item>
+        <item>Συννεφιά</item>
+        <item>Λίγη ομίχλη</item>
+        <item>Ομιχλώδης</item>
+        <item>Σοβαρή καταιγίδα</item>
+        <item>Καταιγίδα</item>
+        <item>Πολύ βαριά Βροχή</item>
+        <item>Κεραυνοί</item>
+        <item>Αρκετή βροχή</item>
+        <item>Βαριά βροχή</item>
+        <item>Βροχή</item>
+        <item>Ψιλόβροχο</item>
+        <item>Χιονόνερο</item>
+        <item>Χιονοθύελλα </item>
+        <item>Νιφάδες χιονιού</item>
+        <item>Ισχυρή χιονόπτωση</item>
+        <item>Χιονόπτωση</item>
+        <item>Ελαφρά χιονόπτωση</item>
+        <item>Ισχυρή αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Ελαφριά αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Χαλάζι</item>
+        <item>Αιωρούμενη σκόνη</item>
+        <item>Ομίχλη</item>
+    </string-array>
+</resources>

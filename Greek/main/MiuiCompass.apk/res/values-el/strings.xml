@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">%.1f</string>
+  <string name="altitude_title">Ύψος</string>
+  <string name="altitude_unit">μ</string>
+  <string name="app_label">Πυξίδα</string>
+  <string name="calibrate_failed_no_location">Αποτυχία Βαθμονόμησης: Αδυναμία λήψης για το τρέχον γεωγραφικό πλάτος και μήκος</string>
+  <string name="calibrate_failed_timeout">Η βαθμονόμηση απέτυχε: Το χρονικό όριο του διακομιστή έληξε</string>
+  <string name="calibrate_success">Ολοκλήρωση βαθμονόμησης</string>
+  <string name="cannot_get_location">Άγνωστη τοποθεσία</string>
+  <string name="dialog_calibrat_altitude">Βαθμονόμηση υψομέτρου μέσω της σύνδεσης στο Internet.</string>
+  <string name="dialog_title_no_network">Δεν βρέθηκε δίκτυο, συνδεθείτε μέσω Wi-Fi ή ενεργοποιήσετε τα δεδομένα</string>
+  <string name="direction_east">Α</string>
+  <string name="direction_north">Β</string>
+  <string name="direction_south">Ν</string>
+  <string name="direction_west">Δ</string>
+  <string name="getting_location">Λήψη τοποθεσίας…</string>
+  <string name="guide_toast">"Μπορεί να υπάρχει παρεμβολή  του μαγνητικού πεδίου, παρακαλούμε βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση."</string>
+  <string name="latitude">LAT</string>
+  <string name="location_east">Α</string>
+  <string name="location_north">Β</string>
+  <string name="location_south">Ν</string>
+  <string name="location_west">Δ</string>
+  <string name="longitude">LON</string>
+  <string name="menu_calibrate">Βαθμονόμηση</string>
+  <string name="menu_calibrate_altitude">Βαθμονόμηση ύψους</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Πίεση</string>
+  <string name="pressure_unit">hPa</string>
+</resources>

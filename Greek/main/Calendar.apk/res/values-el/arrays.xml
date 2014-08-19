@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Ειδοποίηση</item>
+        <item>Email</item>
+        <item>Μήνυμα κειμένου</item>
+        <item>Ξυπνητήρι</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Χωρίς υπενθύμιση</item>
+        <item>0 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>1 μέρα</item>
+        <item>2 μέρες</item>
+        <item>1 βδομάδα</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Χωρίς υπενθύμιση</item>
+        <item>0 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>1 μέρα</item>
+        <item>2 μέρες</item>
+        <item>1 βδομάδα</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Τοπική Προεπιλογή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Νησιά Μάρσαλ</item>
+        <item>Midway Island</item>
+        <item>Χαβάη</item>
+        <item>Αλάσκα</item>
+        <item>Ώρα Ειρηνικού</item>
+        <item>Τιχουάνα</item>
+        <item>Αριζόνα</item>
+        <item>Τσιουάουα</item>
+        <item>Ορεινή ώρα</item>
+        <item>Κεντρική Αμερική</item>
+        <item>Κεντρική ώρα</item>
+        <item>Πόλη του Μεξικού</item>
+        <item>Saskatchewan</item>
+        <item>Μπογκοτά</item>
+        <item>Ανατολική ώρα</item>
+        <item>Βενεζουέλα</item>
+        <item>Ώρα Ατλαντικού (Μπαρμπάντος)</item>
+        <item>Ώρα Ατλαντικού (Καναδά)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Νέα Γη</item>
+        <item>Βραζιλία</item>
+        <item>Μπουένος Άιρες</item>
+        <item>Γροιλανδία</item>
+        <item>Μοντεβιδέο</item>
+        <item>Mid-Atlantic</item>
+        <item>Αζόρες</item>
+        <item>Νησιά του Πράσινου Ακρωτηρίου</item>
+        <item>Casablanca</item>
+        <item>Λονδίνο, ουβλίνο</item>
+        <item>Άμστερνταμ, Βερολίνο</item>
+        <item>Βελιγράδι</item>
+        <item>Βρυξέλλες</item>
+        <item>Σαράγεβο</item>
+        <item>Βίντχουκ</item>
+        <item>Δυτικής Αφρικής</item>
+        <item>Αμάν, Ιορδανία</item>
+        <item>Αθήνα, Κωνσταντινούπολη</item>
+        <item>Βηρυττός, Λίβανος</item>
+        <item>Κάιρο</item>
+        <item>Ελσίνκι</item>
+        <item>Ιερουσαλήμ</item>
+        <item>Μινσκ</item>
+        <item>Χαράρε</item>
+        <item>Βαγδάτη</item>
+        <item>Μόσχα</item>
+        <item>Κουβέιτ</item>
+        <item>Ναϊρόμπι</item>
+        <item>Τεχεράνη</item>
+        <item>Μπακού</item>
+        <item>Τιφλίδα</item>
+        <item>Ερεβάν</item>
+        <item>Ντουμπάι</item>
+        <item>Καμπούλ</item>
+        <item>Ισλαμαμπάντ, Καράτσι</item>
+        <item>"Ural'sk"</item>
+        <item>Αικατερινούπολη</item>
+        <item>Καλκούτα</item>
+        <item>Σρι Λάνκα</item>
+        <item>Κατμαντού</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Κρασνογιάρσκ</item>
+        <item>Μπανγκόκ</item>
+        <item>Πεκίνο</item>
+        <item>Χονγκ Κονγκ</item>
+        <item>Ιρκούτσκ</item>
+        <item>Κουάλα Λουμπούρ</item>
+        <item>Περθ</item>
+        <item>Ταϊπέι</item>
+        <item>Σεούλ</item>
+        <item>Τόκιο, Οζάκα</item>
+        <item>Γιακούτσκ</item>
+        <item>Αδελαΐδα</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Χόμπαρτ</item>
+        <item>Σίδνεϊ, Καμπέρα</item>
+        <item>Βλαδιβοστόκ</item>
+        <item>Γκουάμ</item>
+        <item>Μαγκαντάν</item>
+        <item>Auckland</item>
+        <item>Φίτζι</item>
+        <item>Τόνγκα</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Απασχολημένος</item>
+        <item>Διαθέσιμος</item>
+        <item>Αβέβαιος</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Προκαθορισμένο</item>
+        <item>Ιδιωτικός</item>
+        <item>Κοινόχρηστος</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>πρώτο</item>
+        <item>δεύτερο</item>
+        <item>τρίτο</item>
+        <item>τέταρτο</item>
+        <item>τελευταίο</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Χωρίς απάντηση</item>
+        <item>Ναι</item>
+        <item>Ίσως</item>
+        <item>Όχι</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Μόνο αυτό το γεγονός</item>
+        <item>Αυτό και μελλοντικά γεγονότα</item>
+        <item>Όλα τα γεγονότα</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Αυτό &amp; μελλοντικά γεγονότα</item>
+        <item>Όλα τα γεγονότα</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Μόνο αυτό το γεγονός</item>
+        <item>Όλα τα γεγονότα στη σειρά</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Μέρα</item>
+        <item>Βδομάδα</item>
+        <item>Μήνας</item>
+        <item>Ατζέντα</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Έχω αργήσει μερικά λεπτά.</item>
+        <item>Θα είμαι εκεί σε περίπου 10 λεπτά.</item>
+        <item>Ξεκινήστε χωρίς εμένα.</item>
+        <item>"Συγνώμη, δεν θα τα καταφέρω. Θα πρέπει να το επαναπρογραμματίσουμε."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο όταν ο ήχος κλήσης είναι στο σιωπηλό</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Διαφανές μαύρο</item>
+        <item>Άσπρο φόντο</item>
+    </string-array>
+</resources>

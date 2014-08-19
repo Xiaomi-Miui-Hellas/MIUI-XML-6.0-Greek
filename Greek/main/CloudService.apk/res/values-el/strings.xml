@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Συγχρονισμός Mi</string>
+    <string name="find_device">Εύρεση συσκευής</string>
+    <string name="find_device_noise_title">Ήχος εντοπισμού συσκευής</string>
+    <string name="find_device_stop_noise">Πατήστε ΟΚ για σίγαση</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Μείωση χρήσης δεδομένων κινητής</string>
+    <string name="pref_title_sync_contacts_title">Συγχρονισμός επαφών</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Εμφάνιση φωτογραφιών: μόνο σε WLAN</string>
+    <string name="pref_title_sync_my_profile_title">Συγχρονισμός του προφίλ μου</string>
+    <string name="sub_sync_item_sms_summary">Μείωση χρήσης δεδομένων κινητής</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Συγχρονισμός MMS: μόνο σε WLAN</string>
+    <string name="sync_item_calllog_summary">Συγχρονισμός όλων των πραγματοποιηθέντων κλήσεων της συσκευής</string>
+    <string name="sync_item_calllog_title">Συγχρονισμός αρχείου κλήσεων</string>
+    <string name="sync_item_sms_summary">Συγχρονισμός μηνυμάτων μεταξύ συσκευών</string>
+    <string name="sync_item_sms_title">Συγχρονισμός μηνυμάτων</string>
+</resources>

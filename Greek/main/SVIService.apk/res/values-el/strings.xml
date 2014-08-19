@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ρυθμίσεις SVI</string>
+    <string name="svi_settings_title">Ρυθμίσεις προβολής SVI</string>
+    <string name="svi_enable_title">Ενεργοποίηση SVI προβολής</string>
+    <string name="svi_enable_summary_on">Ενίσχυση της προβολής με βάση την κατάσταση του περιβάλλοντος</string>
+    <string name="svi_enable_summary_off">Η οπτική εμπειρία δεν θα ενισχυθεί για τις συνθήκες του περιβάλλοντος</string>
+    <string name="svi_info_default">Άγνωστη</string>
+    <string name="svi_version_title">SVI Έκδοση</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d επαφές με τηλέφωνα</item>
+        <item quantity="one">1 επαφή με τηλέφωνο</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d επαφές</item>
+        <item quantity="one">1 επαφή</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d βρέθηκαν</item>
+        <item quantity="one">1 βρέθηκε</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d βρέθηκαν</item>
+        <item quantity="one">1 βρέθηκε</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">συγχωνεύθηκαν από %0$d πηγές</item>
+        <item quantity="one">χωρίς συγχώνευση</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d γκρουπ</item>
+        <item quantity="one">1 γκρουπ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d άτομα από %2$s</item>
+        <item quantity="one">%1$d άτομο από %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%1$d άτομο</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d νούμερα</item>
+        <item quantity="one">%1$d νούμερο</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Φωνητικά μηνύματα</item>
+        <item quantity="one">Φωνητικό μήνυμα</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκαν</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d αγαπημένα</item>
+        <item quantity="one">%1$d αγαπημένο</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d Πρόσφατες επαφές</item>
+        <item quantity="one">1 πρόσφατη επαφή</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d επαφές</item>
+        <item quantity="one">%1$d επαφή</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d αριθμοί</item>
+        <item quantity="one">%1$d αριθμός</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d emails επαφών</item>
+        <item quantity="one">1 email επαφής</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d αγαπημένα</item>
+        <item quantity="one">%1$d αγαπημένο</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d πρόσφατες επαφές</item>
+        <item quantity="one">1 πρόσφατη επαφή</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d επαφές προστέθηκαν"</item>
+        <item quantity="one">%1$d επαφή προστέθηκε</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d άτομα</item>
+        <item quantity="one">1 άτομο</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d επαφές έχουν εισαχθεί</item>
+        <item quantity="one">%1$d επαφή έχει εισαχθεί</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d επιλέχθηκαν"</item>
+        <item quantity="zero">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκαν</item>
+    </plurals>
+</resources>
