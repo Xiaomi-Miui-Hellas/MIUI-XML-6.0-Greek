@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="sim_manage_call_via">Κλήση μέσω</string>
-  <string name="sim_picker_settings">Επιλογή SIM card για ρύθμιση</string>
-  <string name="sim_slot_alert_message_3g">Τοποθετήστε την %s SIM card στην πρώτη υποδοχή, μπορείτε να απολαύσετε υψηλής ταχύτητας 3G δίκτυο..</string>
-  <string name="sim_slot_alert_message_disable">Κρατώντας την %s SIM card στην πρώτη υποδοχή, μπορεί να μη λειτουργεί σωστά.</string>
-</resources>
