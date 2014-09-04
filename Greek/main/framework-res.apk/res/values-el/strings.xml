@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="BaMmi">Φραγή κλήσεων</string>
   <string name="CLIRDefaultOffNextCallOff">Η αναγνώριση κλήσης βρίσκεται από προεπιλογή στην \"μη περιορισμένη\". Επόμενη κλήση: Μη περιορισμένη</string>
@@ -388,7 +388,7 @@
   <string name="kg_enter_confirm_pin_hint">Επιβεβαιώστε τον απαιτούμενο κωδικό PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
 
- Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
+Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
   <string name="kg_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις.</string>
   <string name="kg_forgot_pattern_button_text">Ξεχάσατε το μοτίβο</string>
@@ -440,6 +440,7 @@
   <string name="lockscreen_access_pattern_cleared">Το μοτίβο απαλείφθηκε</string>
   <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
   <string name="lockscreen_access_pattern_start">Ξεκίνησε η δημιουργία μοτίβου</string>
+  <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Καμία υπηρεσία.</string>
   <string name="lockscreen_charged">Μπαταρία πλήρης</string>
@@ -447,7 +448,7 @@
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση της σύνδεσής σας Google.
 
- Προσπαθήστε ξανά σε %d δευτερόλεπτα."</string>
+Προσπαθήστε ξανά σε %d δευτερόλεπτα."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Το τηλέφωνο θα επαναφερθεί στην εργοστασιακή προεπιλογή.</string>
   <string name="lockscreen_forgot_pattern_button_text">Ξεχάσατε το μοτίβο;</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;
@@ -473,11 +474,12 @@
   <string name="lockscreen_pattern_instructions">Σχεδιασμός μοτίβου για ξεκλείδωμα</string>
   <string name="lockscreen_pattern_wrong">Προσπαθήστε ξανά</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Η κάρτα SIM έχει απενεργοποιηθεί οριστικά.
- Επικοινωνήστε με τον παροχέα υπηρεσιών ασύρματου δικτύου για να λάβετε μια νέα κάρτα SIM."</string>
+Επικοινωνήστε με τον παροχέα υπηρεσιών ασύρματου δικτύου για να λάβετε μια νέα κάρτα SIM."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Η κάρτα SIM δεν μπορεί να χρησιμοποιηθεί.</string>
   <string name="lockscreen_plugged_in">Φόρτιση, %d%%</string>
   <string name="lockscreen_return_to_call">Επιστροφή στην κλήση</string>
   <string name="lockscreen_screen_locked">Η οθόνη κλειδώθηκε.</string>
+  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
   <string name="lockscreen_sim_locked_message">Η κάρτα SIM είναι κλειδωμένη.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Ανατρέξτε στον Οδηγό χρήσης ή επικοινωνήστε με την Εξυπηρέτηση πελατών.</string>
   <string name="lockscreen_sim_puk_locked_message">Η κάρτα SIM είναι κλειδωμένη με κωδικό PUK.</string>
@@ -930,6 +932,8 @@
   <string name="permgrouplab_voicemail">Αυτόματος τηλεφωνητής</string>
   <string name="permgrouplab_wallpaper">Ταπετσαρία</string>
   <string name="permgrouplab_writeDictionary">Εγγραφή στο λεξικό χρήστη</string>
+  <string name="permission">Permission</string>
+  <string name="permission_remember_choice">Remember</string>
   <string name="permission_request_notification_title">Απαιτείται άδεια</string>
   <string name="permission_request_notification_with_subtitle">"Ζητήθηκε άδεια
 για τον λογαριασμό %s."</string>
@@ -1170,6 +1174,8 @@
   <string name="phoneTypeWork">Εργασία</string>
   <string name="phoneTypeWorkMobile">Κινητό τηλέφωνο εργασίας</string>
   <string name="phoneTypeWorkPager">Βομβητής εργασίας</string>
+  <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
   <string name="policydesc_disableCamera">Να αποτρέπεται η χρήση των φωτογραφικών μηχανών της συσκευής.</string>
   <string name="policydesc_disableKeyguardFeatures">Αποφυγή της χρήσης ορισμένων λειτουργιών στο κλείδωμα πληκτρολογίου.</string>
   <string name="policydesc_encryptedStorage">Να απαιτείται η κρυπτογράφηση των αποθηκευμένων δεδομένων εφαρμογής</string>
@@ -1203,10 +1209,13 @@
   <string name="print_service_installed_message">πατήστε για ενεργοποίηση</string>
   <string name="print_service_installed_title">Εγκαταστάθηκε η υπηρεσία %s</string>
   <string name="progress_erasing">Διαγραφή χώρου αποθήκευσης USB...</string>
+  <string name="progress_nomediapresent">No removable media present…</string>
   <string name="progress_unmounting">Αποσύνδεση του χώρου αποθήκευσης USB...</string>
   <string name="quick_contacts_not_available">Δεν βρέθηκε καμία εφαρμογή για την προβολή αυτής της επαφής.</string>
   <string name="reason_service_unavailable">Η υπηρεσία εκτύπωσης δεν είναι ενεργοποιημένη</string>
   <string name="reason_unknown">άγνωστο</string>
+  <string name="reboot_confirm">Your phone will reboot.</string>
+  <string name="reboot_progress">Rebooting…</string>
   <string name="reboot_safemode_confirm">Θέλετε να κάνετε επανεκκίνηση στην ασφαλή λειτουργία; Αυτό θα απενεργοποιήσει όλες τις εφαρμογές τρίτων που έχετε εγκαταστήσει. Θα γίνει επαναφορά τους στην επόμενη επανεκκίνηση.</string>
   <string name="reboot_safemode_title">Επανεκκίνηση στην ασφαλή λειτουργία</string>
   <string name="recent_tasks_title">Πρόσφατα</string>
@@ -1348,8 +1357,15 @@
   <string name="ssl_certificate">Πιστοποιητικό ασφαλείας</string>
   <string name="ssl_certificate_is_valid">Αυτό το πιστοποιητικό είναι έγκυρο.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
   <string name="storage_sd_card">Κάρτα SD</string>
+  <string name="storage_uicc">UICC storage</string>
   <string name="storage_usb">Χώρος αποθήκευσης USB</string>
   <string name="submit">Υποβολή</string>
   <string name="sync_binding_label">Συγχρονισμός</string>
@@ -1375,6 +1391,7 @@
   <string name="time_picker_increment_hour_button">Αύξηση ώρας</string>
   <string name="time_picker_increment_minute_button">Αύξηση λεπτού</string>
   <string name="time_picker_increment_set_pm_button">Ορισμός ΜΜ</string>
+  <string name="transient_navigation_confirmation_long">Swipe from edge of screen to reveal system bar</string>
   <string name="turn_off_radio">Απενεργοποίηση ασύρματου</string>
   <string name="turn_on_radio">Ενεργοποίηση ασύρματου</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Αγγίξτε δύο φορές για έλεγχο εστίασης</string>
