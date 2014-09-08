@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_contact_backup_info">Δεδομένα (Αντίγραφο πληροφοριών Mi και Gmail)</string>
   <string name="account_login">Είσοδος</string>
@@ -38,80 +38,18 @@
   <string name="backup_report">Προβολή λεπτομερειών</string>
   <string name="backup_update">Ενημέρωση</string>
   <string name="batch_delete_backup_confirm">Διαγραφή %d αντιγράφου(ων)?</string>
-  <string name="button_abandon">Ακύρωση</string>
   <string name="button_backup">Δημιουργία αντιγράφου</string>
   <string name="button_cancel">Άκυρο</string>
   <string name="button_continue">Συνέχεια</string>
-  <string name="button_delete">Διαγραφή</string>
   <string name="button_finish">Τέλος</string>
   <string name="button_next">Επόμενο</string>
   <string name="button_ok">Εντάξει</string>
-  <string name="button_restore">Επαναφορά</string>
   <string name="button_return">Πίσω</string>
   <string name="call_title">Μητρώο κλήσεων</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_backup">Ακύρωση αντιγραφής</string>
   <string name="cancel_restore">Ακύρωση επαναφοράς</string>
-  <string name="cloud_app_backup_cancel">Ακύρωση αντιγραφής</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Η αντιγραφή δεν ολοκληρώθηκε, πιέστε 
-Ok για ακύρωση της διαδικασίας"</string>
-  <string name="cloud_app_backup_cancel_prompt_title">Ακύρωση Αντιγραφής</string>
-  <string name="cloud_app_backup_date">"Αντιγράφηκε την "</string>
-  <string name="cloud_app_backup_pending">Σε αναμονή…</string>
-  <string name="cloud_app_backup_progress">Δημιουργία αντιγράφων…</string>
-  <string name="cloud_app_backup_summary">Αυτόματη δημιουργία αντιγράφων ασφαλείας των εφαρμογών και δεδομένων χρήστη όταν η συσκευή φορτίζει και είναι συνδεδεμένη σε δίκτυο Wi-Fi</string>
-  <string name="cloud_app_backup_title">Αντίγραφο MiCloud</string>
-  <string name="cloud_app_check_data">Αναζήτηση δεδομένων από το MiCloud…</string>
-  <string name="cloud_app_check_data_fail">Αποτυχία εύρεσης δεδομένων από το MiCloud</string>
-  <string name="cloud_app_check_data_timeout">Αδυναμία αναζήτησης δεδομένων από το MiCloud</string>
-  <string name="cloud_app_current_device">Τρέχουσα συσκευή</string>
-  <string name="cloud_app_data_in_other_devices">Δεν υπάρχουν αντίγραφα του MiCloud σε αυτή την συσκευή.</string>
-  <string name="cloud_app_delete_data">Διαγραφή αντιγράφου</string>
-  <string name="cloud_app_device">Συσκευή</string>
-  <string name="cloud_app_dont_restore">"Άρνηση ανάκτησης"</string>
-  <string name="cloud_app_find_backup_prompt_1">Πριν την ανάκτηση, θέλετε να σώσετε τα τοπικά σας δεδομένα?</string>
-  <string name="cloud_app_find_backup_prompt_2">Εάν ακυρώσετε τώρα, θα γίνει επικάλυψη όταν γίνει ανάκτηση.</string>
-  <string name="cloud_app_function_summary">Όταν πάρετε αντίγραφα των δεδομένων σας στο cloud, μπορείτε να κάνετε γρήγορα ανάκτηση σε οποιαδήποτε συσκευή σας.</string>
-  <string name="cloud_app_invalid_op">"Δεν μπορείτε να δείτε τα δεδομένα στο cloud κατά την διάρκεια της αντιγραφής ή της ανάκτησης."</string>
-  <string name="cloud_app_invalid_op_when_removing">"Δεν μπορείτε να δείτε τα δεδομένα στο MiCloud κατά την διάρκεια της διαγραφής!"</string>
-  <string name="cloud_app_just_show_in_current_device">Εμφάνιση μόνο των εφαρμογών που είναι στη συσκευή</string>
-  <string name="cloud_app_load_data">Αναζήτηση λίστας αντιγράφων δεδομένων…</string>
-  <string name="cloud_app_load_data_timeout">Τέλος χρόνου αναζήτησης από το MiCloud</string>
-  <string name="cloud_app_loading_with_mobile_network_prompt">"Θα γίνει χρήση δεδομένων κινητής τηλεφωνίας. Θέλετε να συνεχίσετε?"</string>
-  <string name="cloud_app_mine">Κατεβασμένες εφαρμογές</string>
   <string name="cloud_app_name">Αντίγραφα Cloud</string>
-  <string name="cloud_app_no_data">Δεν υπάρχουν δεδομένα.</string>
-  <string name="cloud_app_no_network">Μη διαθέσιμο δίκτυο</string>
-  <string name="cloud_app_no_wifi">Μη διαθέσιμο Wi-Fi</string>
-  <string name="cloud_app_no_wifi_connect">Δεν υπάρχει διαθέσιμη σύνδεση σε Wi-Fi</string>
-  <string name="cloud_app_other_devices">Άλλες συσκευές</string>
-  <string name="cloud_app_remove_cancel">Ακύρωση διαγραφής</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Διαγραφή ημιτελούς αντιγράφου, πιέστε το OK
-για ακύρωση"</string>
-  <string name="cloud_app_remove_cancel_prompt_title">Σταμάτημα διαγραφής</string>
-  <string name="cloud_app_remove_error">Αποτυχία διαγραφής!</string>
-  <string name="cloud_app_remove_pending">Αναμονή διαγραφής…</string>
-  <string name="cloud_app_remove_progress">Διαγραφή…</string>
-  <string name="cloud_app_remove_prompt">%1$s από δεδομένα θα διαγραφεί. Θέλετε να συνεχίσετε?</string>
-  <string name="cloud_app_restore_action_bar_title">%1$s από τα δεδομένα έχει αντιγραφεί</string>
-  <string name="cloud_app_restore_app_and_data">Ανάκτηση δεδομένων και εφαρμογών</string>
-  <string name="cloud_app_restore_cancel">Ακύρωση ανάκτησης</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Ημιτελής Ανάκτηση, πιέστε OK
-to cancel restore"</string>
-  <string name="cloud_app_restore_cancel_prompt_title">Ακύρωση ανάκτησης</string>
-  <string name="cloud_app_restore_data">Ανάκτηση εφαρμογών που προηγουμένως εγκαταστάθηκαν</string>
-  <string name="cloud_app_restore_data_title">Ανάκτηση δεδομένων χρήστη</string>
-  <string name="cloud_app_restore_error">Αποτυχία ανάκτησης!</string>
-  <string name="cloud_app_restore_pending">Αναμονή για ολοκλήρωση ανάκτησης…</string>
-  <string name="cloud_app_restore_progress">Ανάκτηση…</string>
-  <string name="cloud_app_restore_prompt">Η ανάκτηση θα επικαλύψει τα τοπικά σας δεδομένα και τις εφαρμογές με αυτά που υπάρχουν στο Cloud.</string>
-  <string name="cloud_app_restore_query_error_prompt">"Αποτυχία λήψης δεδομένων από το MiCloud. Οι εφαρμογές και τα δεδομένα θα ανακτηθούν αυτόματα όταν η συσκευή θα μπορέσει να συνδεθεί."</string>
-  <string name="cloud_app_restore_success">Οι εφαρμογές ανακτήθηκαν!</string>
-  <string name="cloud_app_restore_summary">Ανάκτηση προηγουμένων εφαρμογών και δεδομένων του συνδεμένου χρήστη</string>
-  <string name="cloud_app_restore_wifi_prompt">Σύνδεση στο Internet μέσω Wi-Fi για την ανάκτηση δεδομένων και εφαρμογών.</string>
-  <string name="cloud_app_total_size">Μέγεθος αντιγράφου MiCloud: %1$s</string>
-  <string name="cloud_app_version_size">Έκδοση: %1$s, Μέγεθος: %2$s</string>
-  <string name="cloud_app_wait_wifi">Αναμονή για σύνδεση στο Wi-Fi</string>
   <string name="cloud_backup_hint">Είσοδος για ασφαλή αποθήκευση των αντιγράφων σας</string>
   <string name="cloud_backup_login">Είσοδος χρησιμοποιώντας τον λογαριασμό Mi</string>
   <string name="cloud_backup_window_title">MiCloud Αντίγραφα</string>
@@ -128,14 +66,13 @@ to cancel restore"</string>
   <string name="contact_title">Επαφές</string>
   <string name="current_account">Συνδεδεμένο ως %s</string>
   <string name="current_sim">Κάρτα SIM</string>
-  <string name="customization">&lt;u&gt;Παραμετροποίηση&lt;/u&gt;</string>
-  <string name="customization_under_wifi_prompt">Υποστήριξη μόνο με χρήση Wi-Fi</string>
   <string name="data_no_enough_space">Δεν υπάρχει αρκετή εσωτερική μνήμη ελευθερώστε λίγο χώρο και δοκιμάστε ξανά</string>
   <string name="data_no_enough_space_message">Η εσωτερική μνήμη είναι μικρότερη από 30MB και η επαναφορά ίσως αποτύχει Θέλετε σίγουρα να συνεχίσετε </string>
   <string name="date_format">HH mm ss dd/MM/yyyy</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_backup_process">Διαγραφή αντιγράφου ασφαλείας παρακαλώ περιμένετε </string>
   <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
   <string name="disable_encrypt_title">Η κρυπτογράφηση έχει απενεργοποιηθεί</string>
   <string name="enable_encrypt">Ενεργοποίηση τώρα</string>
@@ -152,10 +89,9 @@ to cancel restore"</string>
   <string name="findlost_contact_online">Επαναφορά διαγραμμένων επαφών απ το Cloud</string>
   <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στην λειτουργία προστασίας</string>
   <string name="guarded_mode_dialog_title">Λειτουργία προστασίας</string>
-  <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\n2. http://www.miliao.com\n\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string> 
+  <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\n2. http://www.miliao.com\n\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
   <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
   <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να αποθηκεύσετε επαφές σε άλλα τηλέφωνα όχι στο MI-ONE</string>
-  <string name="just_support_op_with_wifi_connected">Υποστηρίζεται μόνο κατά τη χρήση Wi-Fi</string>
   <string name="local_app_name">Αντίγραφα</string>
   <string name="local_backup_window_title">Τοπικό</string>
   <string name="local_home_title">Τοπικό</string>
@@ -203,6 +139,7 @@ to cancel restore"</string>
   <string name="sc_service_unavailable">Η υπηρεσία cloud δεν είναι διαθέσιμη</string>
   <string name="sc_unaccess_password_file">Χωρίς αποθήκευση λεπτομερειών κωδικών Wi-Fi</string>
   <string name="sc_unauthorized">Το πιστοποιητικό δεν είναι έγκυρο</string>
+  <string name="sd_not_available">No SD card detected</string>
   <string name="sdcard_no_enough_space">Δεν υπάρχει αρκετός χώρος στην κάρτα SD</string>
   <string name="sdcard_no_enough_space_message">Λίγος χώρος στην κάρτα SD το αντίγραφο ίσως να μη δημιουργηθεί θέλετε να συνεχίσετε</string>
   <string name="sdcard_unmounted">Δεν βρέθηκε κάρτα SD!</string>
@@ -249,4 +186,5 @@ to cancel restore"</string>
   <string name="unit_piece">"  Μονάδες"</string>
   <string name="unknown_hint">Άγνωστο</string>
   <string name="wifi_title">Ρυθμίσεις Wi-Fi</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

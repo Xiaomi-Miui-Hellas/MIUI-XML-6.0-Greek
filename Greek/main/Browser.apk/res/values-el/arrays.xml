@@ -110,13 +110,12 @@
         <item>tupian</item>
     </string-array>
     <string-array name="menu_theme_setting">
-        <item>Λευκό</item>
-        <item>Κίτρινο</item>
-        <item>Γκρι</item>
-        <item>Καφέ</item>
-        <item>Πράσινο</item>
-        <item>Μπλε</item>
-        <item>Σκούρο</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Blue</item>
     </string-array>
     <string-array name="baidu">
         <item>Google</item>

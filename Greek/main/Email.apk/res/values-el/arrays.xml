@@ -10,11 +10,6 @@
         <item>μεγάλο</item>
         <item>τεράστιο</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Πήγαινε στο νεώτερο μήνυμα μετά την διαγραφή</item>
-        <item>Πήγαινε στο παλιώτερο μήνυμα μετά την διαγραφή</item>
-        <item>Πήγαινε στα εισερχόμενα μηνύματα μετά την διαγραφή</item>
-    </string-array>
     <string-array name="smtp_host_prefixes">
         <item>pop3</item>
         <item>pop</item>

@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ACaddnumcontent">Enter area code</string>
   <string name="ACaddnumtitle">Προσθήκη προθέματος στις εξαιρέσεις</string>
   <string name="AD_ALLOW">Επιτρέψτε παρακλήσεις</string>
   <string name="AD_APPInfo">Πληροφ.</string>
@@ -18,21 +19,27 @@
   <string name="AD_Unistall">Απεγκατάσταση</string>
   <string name="Call_ADRESS">Τοπική blocklist</string>
   <string name="Call_BLACKLIST">Κλήση blocklist</string>
+  <string name="Call_DEFAULT">Smart blocklist</string>
   <string name="Call_MODENAME">Προεπιλεγμένη blocklist</string>
   <string name="Call_PREFIX">Πρόθεμα blocklist</string>
   <string name="Call_PRIVATE_CALL">Ιδιωτικές κλήσεις</string>
+  <string name="NACaddnumcontent">Enter phone number</string>
   <string name="NACaddnumtitle">Προσθήκη αριθμού στις εξαιρέσεις</string>
   <string name="PAST_BLOCK">Προηγουμένως έχουν μπλοκαριστεί</string>
   <string name="Phonepass">Επέτρεψε κλήσεις</string>
   <string name="SMS_ADRESS">Τοπική blocklist</string>
   <string name="SMS_BLACKLIST">Λίστα μηνυμάτων</string>
+  <string name="SMS_DEFAULT">Smart blocklist</string>
   <string name="SMS_KEYWORDS">Λέξη-κλειδί blocklist</string>
   <string name="SMS_MODENAME">Προεπιλεγμένη blocklist</string>
   <string name="SMS_PREFIX">Πρόθεμα blocklist</string>
   <string name="SMSpass">Επέτρεψε μηνύματα</string>
+  <string name="ad_block_hint">%d blocked</string>
   <string name="ad_install_monitor">Εγκατάσταση παρακολούθησης</string>
   <string name="ad_install_monitor_hint">Έλεγχος για adware κατά την εγκατάσταση της εφαρμογής</string>
+  <string name="ad_permission_hint">"Using Ad Blocker may affect your apps' performance or prevent them from working normally."</string>
   <string name="ad_relative_setting">Σχετικές ρυθμίσεις</string>
+  <string name="ad_single_block_hint">Blocked</string>
   <string name="ad_update_setting">Ενημέρωση ρυθμίσεων add blocker</string>
   <string name="ad_update_time">Ενημερώθηκε : %s</string>
   <string name="ad_update_time_unKnown">Ενημερώθηκε : άγνωστο</string>
@@ -41,6 +48,7 @@
   <string name="addwhitelist">Προσθήκη στις εξαιρέσεις</string>
   <string name="all_address_choose_hint">Όλες οι τοποθεσίες</string>
   <string name="app_name">Φρουρός</string>
+  <string name="backsound_set_hint">Set your backsound to %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>
   <string name="bl_block_info" formatted="false">Φραγμένα: αριθμός %d, λεπτομέρειες %d</string>
   <string name="bl_no_blacklist">Χωρίς φραγμένους αριθμούς</string>
@@ -49,6 +57,7 @@
   <string name="blacklist_prefix_add_hint">Προσθήκη όλων των αριθμών με πρόθεμα στή λίστα</string>
   <string name="block_message_number">Μηνύματα : %d</string>
   <string name="block_phone_number">Κλήσεις : %d</string>
+  <string name="call_delete_hint">Delete all blocked calls from selected number?</string>
   <string name="cancle">Ακύρωση</string>
   <string name="close_callwait">Οff</string>
   <string name="customizer_mode_user_define_name">Προσαρμογή</string>
@@ -80,8 +89,10 @@
   <string name="dlg_remove_address_blacklist">Αφαιρέστε αυτή τη θέση από blocklist και να αποκαταστήσει τα σχετικά μηνύματα στα εισερχόμενα?</string>
   <string name="dlg_remove_address_whitelist">Αφαιρέστε αυτή τη θέση από τις εξαιρέσεις?</string>
   <string name="dlg_remove_blacklist">Διαγραφή αυτού του αριθμού από την λίστα?</string>
+  <string name="dlg_remove_blacklist_ing">Removing from blocklist…</string>
   <string name="dlg_remove_blacklist_ok">Διαγραφή</string>
   <string name="dlg_remove_whitelist">Διαγραφή των αριθμών από τις εξαιρέσεις?</string>
+  <string name="dlg_remove_whitelist_ing">Removing from exceptions…</string>
   <string name="dlg_retore">Επαναφορά στην εφαρμογή μηνυμάτων?</string>
   <string name="dlg_retore_ok">Επαναφορά</string>
   <string name="dlg_white_address_antispam_message">Προσθήκη της τοποθεσίας στις εξαιρέσεις?</string>
@@ -114,7 +125,7 @@
   <string name="menu_call">Κλήση</string>
   <string name="menu_clear_all_call">Διαγραφή φραγμένων κλήσεων</string>
   <string name="menu_clear_all_sms">Διαγραφή όλων των φραγμένων μηνυμάτων</string>
-    <string name="menu_clear_current_call">Διαγραφή όλων των κλήσεων από αυτό τον αριθμό</string>
+  <string name="menu_clear_current_call">Διαγραφή όλων των κλήσεων από αυτό τον αριθμό</string>
   <string name="menu_clear_current_sms">Διαγραφή όλων των φραγμένων μηνυμάτων που στάλθηκαν από αυτόν τον αριθμό</string>
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_mark">Μαρκάρισμα</string>
@@ -131,6 +142,7 @@
   <string name="note_sms_none">Χωρίς μήνυμα για επεξεργασία</string>
   <string name="one_address_choose_hint">%s1 τοποθεσία</string>
   <string name="open_callwait">Οn</string>
+  <string name="sms_delete_hint">Delete all blocked messages sent from selected number?</string>
   <string name="st_advanced_setting_group">Προχωρημένες ρυθμίσεις</string>
   <string name="st_antispam_black_adress_add">Επιλογή περιοχής</string>
   <string name="st_antispam_bw_adress_add">Επιλογή τοποθεσίας</string>
@@ -146,16 +158,21 @@
   <string name="st_antispam_des_uesless">Αναποτελεσματικό</string>
   <string name="st_antispam_mode_add_new">Προσθήκη</string>
   <string name="st_antispam_mode_blacklist">Χρήση των φραγών</string>
+  <string name="st_antispam_mode_blacklist_state">1111211</string>
   <string name="st_antispam_mode_blacklist_sum">Αποκλείστε τη λήψη μηνυμάτων και κλήσεις από αριθμούς στη blocklist</string>
   <string name="st_antispam_mode_customize_sum">Δημιουργήστε το δικό σας σκηνικό</string>
   <string name="st_antispam_mode_denyownself_sum">Προσαρμοσμένη blocklist λειτουργία</string>
   <string name="st_antispam_mode_only_all_deny">Φραγή όλων</string>
+  <string name="st_antispam_mode_only_all_deny_state">1000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">Αποκλεισμός όλων των κλήσεων και μηνυμάτων</string>
   <string name="st_antispam_mode_only_contacts">Only allow contacts</string>
+  <string name="st_antispam_mode_only_contacts_state">1111000</string>
   <string name="st_antispam_mode_only_contacts_sum">Να επιτρέπονται μόνο κλήσεις και μηνύματα από τις Επαφές</string>
   <string name="st_antispam_mode_only_whitelist">Only allow exceptions</string>
+  <string name="st_antispam_mode_only_whitelist_state">1100000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Να επιτρέπονται μόνο κλήσεις και μηνύματα από αριθμούς στη λίστα εξαιρέσεων</string>
   <string name="st_antispam_mode_smart">Έξυπνη φραγή</string>
+  <string name="st_antispam_mode_smart_state">1111111</string>
   <string name="st_antispam_mode_smart_sum">Εφαρμόστε blocklist και να μπλοκάρει κάποια νούμερα από άγνωστους καλούντες</string>
   <string name="st_antispam_notification_sum">Εμφάνιση ειδοποίησης όταν κλήση ή μήνυμα είναι αποκλεισμένη</string>
   <string name="st_antispam_title_anoy_incoming">Κλήσεις αγνώστων</string>
