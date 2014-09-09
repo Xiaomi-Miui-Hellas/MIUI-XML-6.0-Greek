@@ -1,297 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="send_item">
-        <item>Μήνυμα κειμένου</item>
-        <item>Email</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>Δείκτης UV</item>
-        <item>Δείκτης ένδυσης</item>
-        <item>Δείκτης άνεσης</item>
-        <item>Δείκτης πλύσης</item>
-        <item>Δείκτης ξήρανσης</item>
-        <item>Δείκτης πρωινού</item>
-        <item>Δείκτης Τουρισμού</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_key">
-        <item>Ταχύτητα ανέμου:</item>
-        <item>Δείκτης UV:　</item>
-        <item>Ρουχισμός:</item>
-        <item>¨Ανεση:</item>
-        <item>Πλύσιμο αυτ.:</item>
-        <item>Δείκτης ξηρασίας:</item>
-        <item>AM άσκηση:</item>
-        <item>Ελεύθερος χρόνος:</item>
-    </string-array>
-    <string-array name="weather_image">
-        <item>Νεφελώδης</item>
-        <item>Νεφελώδης </item>
-        <item>Ομιχλώδης</item>
-        <item>Ομίχλη</item>
-        <item>Σοβαρές καταιγίδες</item>
-        <item>Βροχή-καταιγίδα</item>
-        <item>Έντονες βροχοπτώσεις</item>
-        <item>Καταιγίδα</item>
-        <item>Καταιγίδες</item>
-        <item>Ισχυρές βροχοπτώσεις</item>
-        <item>Βροχή</item>
-        <item>Ψιλόβροχο</item>
-        <item>Χιονόνερο</item>
-        <item>Χιονοθύελλα</item>
-        <item>Νιφάδες χιονιού</item>
-        <item>Ισχυρή χιονόπτωση</item>
-        <item>Χιονόπτωση</item>
-        <item>Ελαφρά χιονόπτωση</item>
-        <item>Ισχυρή καταιγίδα άμμου</item>
-        <item>Αμμοθύελλα</item>
-        <item>Ασθενής αμμοθύελλα</item>
-        <item>Αμμοθύελλα</item>
-        <item>Χαλάζι</item>
-        <item>Σκόνη</item>
-        <item>Καταχνιά</item>
-    </string-array>
-    <string-array name="weather_details_key">
-        <item>Μη διαθέσιμο</item>
-        <item>Κατάλληλος</item>
-        <item>Καλός</item>
-        <item>Αποφύγετε αν είναι δυνατόν</item>
-        <item>Δεν συνιστάται</item>
-        <item>Ιδανικός</item>
-        <item>Μέτριος</item>
-        <item>Αδύναμος</item>
-        <item>Μέσος</item>
-        <item>Ισχυρός</item>
-        <item>Πολύ ισχυρός</item>
-        <item>Δροσερός</item>
-        <item>Άνετος</item>
-        <item>Πολύ ζεστός</item>
-        <item>Ζεστός</item>
-        <item>Ζεστός</item>
-        <item>Δροσερός</item>
-        <item>Ψυχρός</item>
-        <item>Κρύος</item>
-        <item>Παγωμένος</item>
-        <item>Υψηλός</item>
-        <item>Μεσαίος</item>
-        <item>Χαμηλός</item>
-        <item>Ξαστεριά</item>
-        <item>Νεφελώδης</item>
-        <item>Βροχή</item>
-        <item>Αμμοθύελλα</item>
-        <item>Χιόνι</item>
-        <item>Σχετικά κατάλληλος</item>
-        <item>Κατάλληλες συνθήκες</item>
-        <item>Νεφελώδης</item>
-        <item>Λιγότερο από το ιδανικό</item>
-        <item>Ιδανικές συνθήκες</item>
-        <item>Κακές συνθήκες</item>
-        <item>Μέσες συνθήκες</item>
-    </string-array>
-    <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να κουκουλωθείτε!</item>
-        <item>Θυμηθείτε να κουκουλωθείτε!</item>
-        <item>Θυμηθείτε να κουκουλωθείτε!</item>
-        <item>Θυμηθείτε να κουκουλωθείτε!</item>
-        <item>Θυμηθείτε να κουκουλωθείτε!</item>
-        <item>Να είστε προσεκτικοί εκεί έξω!</item>
-        <item>Να είστε προσεκτικοί εκεί έξω!</item>
-        <item>Να είστε προσεκτικοί εκεί έξω!</item>
-        <item>Να είστε προσεκτικοί εκεί έξω!</item>
-        <item>Να είστε προσεκτικοί! Οι δρόμοι είναι ολισθηροί.</item>
-    </string-array>
-    <string-array name="weather_sms_content">
-        <item>Θυμηθείτε να βάλετε αντηλιακό.</item>
-        <item>Θα είναι θολά σήμερα.</item>
-        <item>Προσπαθήστε να παραμείνετε σε εσωτερικούς χώρους.</item>
-        <item>Οδηγήστε με ασφάλεια</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>"Είναι κάπως άσχημα εκεί έξω!"</item>
-        <item>Θυμηθείτε να πάρετε ένα καπέλο και κασκόλ.</item>
-        <item>Άσχημα τα πράγματα!</item>
-        <item>Θυμηθείτε να φοράτε καπέλο και κασκόλ!</item>
-        <item>Θυμηθείτε να φοράτε καπέλο και κασκόλ!</item>
-        <item>Θυμηθείτε να φορέσετε μια μάσκα.</item>
-        <item>Θυμηθείτε να φορέσετε μια μάσκα.</item>
-        <item>Θυμηθείτε να φορέσετε μια μάσκα.</item>
-        <item>Θυμηθείτε να φορέσετε μια μάσκα.</item>
-        <item>"Πραγματικά κατεβαίνει εκεί έξω!"</item>
-        <item>Θυμηθείτε να φορέσετε μια μάσκα.</item>
-        <item>Προσπαθήστε να παραμείνετε σε εσωτερικούς χώρους.</item>
-    </string-array>
-    <string-array name="weather_sms_addons">
-        <item>"Είναι $ σε @."</item>
-        <item>Θερμοκρασία: % βαθμοί.</item>
-        <item>Θυμηθείτε να πάρετε ομπρέλα!</item>
-        <item>Προσπαθήστε να μείνετε στεγνοί! :)</item>
-        <item>"Εάν στεγνώνετε ρούχα έξω, να θυμηθείτε να τα βάλετε μέσα αργότερα!"</item>
-        <item>Αποφύγετε την οδήγηση αν είναι δυνατόν.</item>
-        <item>Οδηγήστε με ασφάλεια!</item>
-        <item>"Να είστε προσεκτικοί εκεί έξω, είναι ολισθηρό."</item>
-        <item>Με το πάσο σας. Να είστε προσεκτικοί εκεί έξω.</item>
-        <item>Να είστε προσεκτικοί έξω.</item>
-        <item>Προσπαθήστε να μην είστε σε εξωτερικούς χώρους.</item>
-        <item>Φέρτε τα γυαλιά ηλίου σας.</item>
-        <item>Να φοράτε αντηλιακό και να φέρετε τα γυαλιά ηλίου.</item>
-        <item>"Φυσάει έξω. Θυμηθείτε να φορέστε σακάκι."</item>
-        <item>Θυμηθείτε να φορέσει μια μάσκα.</item>
-        <item>Θυμηθείτε να φέρει ένα σακάκι.</item>
-        <item>Θυμηθείτε να φορέσει μια μάσκα.</item>
-        <item>Θυμηθείτε να φέρετε γάντια και ένα καπέλο.</item>
-        <item>"Κάνει ζέστη!"</item>
-        <item>Προσπαθήστε να μείνετε κρύοι!</item>
-        <item>Κουκουλωθείτε!</item>
-        <item>Η θερμοκρασία μπορεί να πέσει …</item>
-        <item>Προσπαθήστε να παραμείνετε ζεστοί!</item>
-        <item>Να φοράτε ωτοασπίδες αν έχετε!</item>
-        <item>Πηγαίνετε έξω και να απολαύσετε τις καιρικές συνθήκες.</item>
-        <item>Πηγαίνετε για τρέξιμο και να πάρετε λίγο ήλιο!</item>
-        <item>«Είναι μια καλή ημέρα για να στεγνώσετε τα ρούχα!"</item>
-        <item>Θυμηθείτε να φορέσετε σακάκι!</item>
-    </string-array>
-    <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>6</item>
-        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
-        <item>7</item>
-        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
-        <item>8</item>
-        <item>"Μην ξεχάσετε την ηλιοπροστασία."</item>
-        <item>9</item>
-        <item>Βάλτε αντηλιακό αν χρειαστεί να βγείτε έξω!</item>
-        <item>10</item>
-        <item>Βάλτε αντηλιακό αν χρειαστεί να βγείτε έξω!</item>
-    </string-array>
-    <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>11</item>
-        <item>Ελαφρύ μπουφάν</item>
-        <item>12</item>
-        <item>Ελαφρύ μπουφάν</item>
-        <item>13</item>
-        <item>Καλοκαιρινά ρούχα</item>
-        <item>14</item>
-        <item>Καλοκαιρινά ρούχα</item>
-        <item>15</item>
-        <item>Ελαφρύ μπουφάν</item>
-        <item>16</item>
-        <item>Θυμηθείτε να φέρετε επιπλέον στρώματα!</item>
-        <item>17</item>
-        <item>Φέρτε ένα σακάκι!</item>
-        <item>18</item>
-        <item>Κουκουλωθείτε</item>
-        <item>19</item>
-        <item>Κουκουλωθείτε</item>
-    </string-array>
-    <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>1</item>
-        <item>«Είναι μια καλή ημέρα για ασκήσεις το πρωί"</item>
-        <item>2</item>
-        <item>Φέρτε τα στρώματα!</item>
-        <item>3</item>
-        <item>Φέρτε τα στρώματα!</item>
-        <item>4</item>
-        <item>Άσκηση σε εσωτερικούς χώρους!</item>
-    </string-array>
-    <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>20</item>
-        <item>Η Θερμοκρασία θα είναι σταθερή</item>
-        <item>21</item>
-        <item>Δροσερό και άνετο</item>
-        <item>22</item>
-        <item>Η Θερμοκρασία θα είναι ασταθής</item>
-        <item>23</item>
-        <item>Καθαρός ουρανός και άβολες θερμοκρασίες</item>
-        <item>24</item>
-        <item>Ζεστό και υγρό!</item>
-    </string-array>
-    <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>1</item>
-        <item>«Είναι μια καλή ημέρα για να πλύνετε το αυτοκίνητό σας!"</item>
-        <item>2</item>
-        <item>«Είναι μια καλή ημέρα για να πλύνετε το αυτοκίνητό σας!"</item>
-        <item>3</item>
-        <item>"Πρόκειται να βρέξει! Ακυρώστε το πλύσιμο του αυτοκινήτου σας."</item>
-        <item>25</item>
-        <item>"Πρόκειται να βρέξει! Ακυρώστε το πλύσιμο του αυτοκινήτου σας."</item>
-        <item>26</item>
-        <item>"Υπάρχει μια πρόβλεψη για αμμοθύελλα! Ακυρώστε το πλύσιμο του αυτοκινήτου σας."</item>
-        <item>27</item>
-        <item>"Πρόκειται να χιονίσει. Ακυρώστε το πλύσιμο του αυτοκινήτου σας."</item>
-        <item>4</item>
-        <item>Ακυρώστε το πλύσιμο του αυτοκινήτου σας</item>
-    </string-array>
-    <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>28</item>
-        <item>Κρεμάστε τα ρούχα σας να στεγνώσουν το απόγευμα.</item>
-        <item>29</item>
-        <item>Κρεμάστε τα ρούχα σας να στεγνώσουν οποιαδήποτε στιγμή.</item>
-        <item>30</item>
-        <item>Έχει σύννεφα, αλλά με τις υψηλές θερμοκρασίες, τα ρούχα σας θα είναι ακόμα ξηρά."</item>
-        <item>1</item>
-        <item>"Είναι μια καλή ημέρα για να στεγνώσουν τα ρούχα."</item>
-        <item>3</item>
-        <item>Διαλείπουσα βροχή όλη την ημέρα.</item>
-        <item>5</item>
-        <item>Καλές συνθήκες ξήρανσης.</item>
-        <item>4</item>
-        <item>Στεγνώστε τα ρούχα σας σε εσωτερικούς χώρους.</item>
-        <item>31</item>
-        <item>Στεγνώστε τα ρούχα σας σε εσωτερικούς χώρους.</item>
-    </string-array>
-    <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Μη διαθέσιμο</item>
-        <item>32</item>
-        <item>Σαφή και ηλιόλουστο με καλές θερμοκρασίες.</item>
-        <item>2</item>
-        <item>Άνετα και σταθερές θερμοκρασίες.</item>
-        <item>1</item>
-        <item>Άνετα και σταθερές θερμοκρασίες.</item>
-        <item>3</item>
-        <item>"Ο καιρός σήμερα θα είναι ασταθής."</item>
-        <item>33</item>
-        <item>"Ο καιρός σήμερα θα είναι ασταθής."</item>
-        <item>34</item>
-        <item>Ξαστεριά και ασθενείς ανέμους.</item>
-    </string-array>
-    <string-array name="weather_info_fl">
-        <item></item>
-        <item>Κουκουλωθείτε!</item>
-        <item>Αεράκι</item>
-        <item>Άνετος</item>
-        <item>Ν</item>
-        <item>Μη διαθέσιμο</item>
-    </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Weakest</item>
+        <item>Weak</item>
+        <item>Mid-range</item>
+        <item>Strong</item>
+        <item>Strongest</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Foggy</item>
+        <item>Heavy rainstorm</item>
+        <item>Downpour</item>
+        <item>Rainstorm</item>
+        <item>Thunderstorm</item>
+        <item>Shower</item>
+        <item>Heavy rainfall</item>
+        <item>Moderate rain</item>
+        <item>Light rain</item>
+        <item>Rain and snow mixed</item>
+        <item>Blizzard</item>
+        <item>Snow</item>
+        <item>Heavy snow</item>
+        <item>Moderate snow</item>
+        <item>Light snow</item>
+        <item>Strong sandstorm</item>
+        <item>Sand storm</item>
+        <item>Sand</item>
+        <item>Windy</item>
+        <item>Hail</item>
+        <item>Dust</item>
+        <item>Haze</item>
+        <item>Freezing rain</item>
+        <item>No data</item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>Wind N</item>
+        <item>Wind NE</item>
+        <item>Wind E</item>
+        <item>Wind SE</item>
+        <item>Wind S</item>
+        <item>Wind SW</item>
+        <item>Wind W</item>
+        <item>Wind NW</item>
+     </string-array>
 </resources>

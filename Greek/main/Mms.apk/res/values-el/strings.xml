@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">Δεν μπορεί να βρεθεί ένα πρόγραμμα για να ανοίξετε το συνημμένο</string>
   <string name="activity_not_found_uri">Δεν μπορεί να βρεθεί ένα πρόγραμμα για το σκοπό αυτό</string>
   <string name="addBlackList">Προσθ. στη μαύρη λίστα</string>
@@ -22,7 +23,10 @@
   <string name="adding_attachments">Παρακαλώ περιμένετε ενώ τα στοιχεία προστίθενται στο slideshow.</string>
   <string name="adding_attachments_title">Προσθήκη συνημμένων</string>
   <string name="adding_recipients">Προσθήκη παραληπτών…</string>
+  <string name="alert_dlg_cancel_button">Cancel</string>
+  <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Μηνύματα</string>
+  <string name="app_name">Device Management</string>
   <string name="attach_image">Εικόνες</string>
   <string name="attach_record_sound">Εγγραφή ήχου</string>
   <string name="attach_record_video">Λήψη βίντεο</string>
@@ -64,6 +68,8 @@
   <string name="confirm_delete_message">Το μήνυμα θα διαγραφεί.</string>
   <string name="confirm_dialog_locked_title">Διαγραφή κλειδωμένου μηνύματος?</string>
   <string name="confirm_dialog_title">Διαγραφή</string>
+  <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
+  <string name="confirm_dlg_title">Device Management</string>
   <string name="confirm_export_dialog_description">Κατάργηση επιλεγμένων ιδιωτικών επαφή, η συζήτηση θα μεταφερθεί στο κανονικό SMS. Θέλετε να συνεχίσετε?</string>
   <string name="confirm_export_dialog_title">Διαγραφή ιδιωτικής επαφής</string>
   <string name="confirm_no_block_positive">"Μην μπλοκάρετε και επαναφέρετε"</string>
@@ -72,6 +78,7 @@
   <string name="confirm_restore_all_title">Επαναφορά όλων των μηνυμάτων από αυτόν τον αριθμό？</string>
   <string name="confirm_restore_positive">Επαναφορά</string>
   <string name="confirm_restore_title">Επαναφορά όλων των επιλεγμένων μηνυμάτων?</string>
+  <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
   <string name="context_menu_add_contact">Προσθήκη στις Επαφές</string>
   <string name="context_menu_add_to_browser_favorite">Προσθήκη στα αγαπημένα</string>
   <string name="context_menu_browse_web">Αναζήτηση</string>
@@ -123,6 +130,7 @@
   <string name="edit_slideshow_activity">Επεξεργασία παρουσίασης</string>
   <string name="enable_password_protect">Ενεργοποίηση προστασία με κωδικό πρόσβασης</string>
   <string name="enable_visible_pattern_title">Κάνε το μοτίβο ορατό</string>
+  <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Διαγραφή</string>
   <string name="error_code_label">"Κωδικός σφάλματος: "</string>
   <string name="error_state">Ασυνεπής κατάσταση</string>
@@ -142,7 +150,11 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Φορτώνει…</string>
   <string name="fetion_prefix">[Fetion]</string>
+  <string name="file_create_time">Time created:</string>
   <string name="file_share_message_description">Θα ήθελα να μοιραστώ μαζί σας τα αρχεία</string>
+  <string name="file_size">Size:</string>
+  <string name="file_title">Name:</string>
+  <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Προώθηση από:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -159,6 +171,7 @@
   <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης(ες): %1$s</string>
   <string name="hidden_sender_address">Κρυφή διεύθυνση αποστολέα</string>
   <string name="hint_search_sms">%d SMS</string>
+  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="importing_progress_private_message">Εισαγωγή μηνυμάτων στο ιδιωτικό MessageBox</string>
   <string name="in_sms">Μήνυμα</string>
   <string name="insufficient_drm_rights">Ανιχνεύτηκαν ανεπαρκή δικαιώματα DRM.</string>
@@ -171,8 +184,11 @@
   <string name="loading_all_messages">Φόρτωση όλων των μηνυμάτων…</string>
   <string name="loading_conversations">Φόρτωση συνομιλιών…</string>
   <string name="loading_mms">Φόρτωση MMS…</string>
+  <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="me">Εγώ</string>
+  <string name="menu_call">Call</string>
   <string name="menu_compose_new">Σύνθεση</string>
+  <string name="menu_contact">Contact</string>
   <string name="menu_delete_messages">Διαγραφή μηνυμάτων</string>
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_forward">Προώθηση</string>
@@ -206,6 +222,10 @@
   <string name="msg_type_hint_mms">Μήνυμα πολυμέσων</string>
   <string name="msg_type_hint_mx">Cloud μηνυμα</string>
   <string name="msg_type_hint_sms">Μήνυμα κειμένου</string>
+  <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
+  <string name="msglist_more_refreshing">Refreshing…</string>
+  <string name="msglist_no_more_to_refresh">Already up to date</string>
+  <string name="msglist_release_to_more">Release to view more</string>
   <string name="multimedia_message">Μήνυμα πολυμέσων</string>
   <string name="multimedia_notification">Ειδοποίηση μηνύματος πολυμέσων</string>
   <string name="mx_activate_error_malformed_info">Αποτυχία ενεργοποίησης cloud μηνυμάτων, απαιτείται η επανενεργοποίηση των μηνυμάτων του cloud</string>
@@ -262,7 +282,7 @@
   <string name="phrase_confirm_delete_message">Η επιλεγμένη φράση θα διαγραφεί</string>
   <string name="phrase_empty">Καμία φράση</string>
   <string name="phrase_from">Από %1s</string>
-  <string name="phrase_list_title" formatted="false">Φράσεις (%1$d)</string>
+  <string name="phrase_list_title">Φράσεις (%1$d)</string>
   <string name="pick_too_many_recipients">Πάρα πολλοί παραλήπτες</string>
   <string name="play">Αναπαραγωγή</string>
   <string name="prefDefault_ringtone_repeat">1</string>
@@ -287,10 +307,8 @@
   <string name="pref_summary_mms_auto_retrieval">Αυτόματη ανάκτηση μηνυμάτων</string>
   <string name="pref_summary_mms_read_reports">Ζητήστε αναφορά ανάγνωσης για κάθε μήνυμα που στέλνετε</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Αυτόματη ανάκτηση μηνυμάτων κατά την περιαγωγή</string>
-  <string name="pref_summary_mx_feedback">"Βοηθήστε μας να βελτιώσουμε το MIUI!
-Αναφέρετε τα σφάλματα και στείλτε τα σχόλιά σας απευθείας στη Mi.”</string>
-  <string name="pref_summary_new_message_popup">Εμφάνιση pop-ups, όταν λαμβάνεται νέο μήνυμα</string>
-  <string name="pref_summary_new_message_popup_when_secure">Χωρίς ειδοποιήσεις popup όταν είναι ελεγχόμενη πρόσβαση</string>
+  <string name="pref_summary_mx_feedback">""Βοηθήστε μας να βελτιώσουμε το MIUI!
+Αναφέρετε τα σφάλματα και στείλτε τα σχόλιά σας απευθείας στη Mi.”"</string>
   <string name="pref_summary_notification_body_enabled">Προεπισκόπηση μηνυμάτων στην οθόνη κλειδώματος και γραμμή κατάστασης</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Η προεπισκόπηση μηνυμάτων να απενεργοποιείται όταν ο έλεγχος πρόσβασης είναι ενεργοποιημένος</string>
   <string name="pref_summary_off_system_mms_priority">Άλλες εφαρμογή μπορεί να λάβουν το MMS πριν η εφαρμογή συστήματος MMS το λάβει</string>
@@ -311,7 +329,6 @@
   <string name="pref_title_mms_delete">Όριο μηνυμάτων πολυμέσων</string>
   <string name="pref_title_mms_read_reports">Ανάγνωση εκθέσεων</string>
   <string name="pref_title_mms_retrieval_during_roaming">Αυτόμ. ανάκτηση περιαγωγής</string>
-  <string name="pref_title_new_message_popup">Pop-ups για Νέο μήνυμα</string>
   <string name="pref_title_notification_body_enabled">Εμφάνιση προεπισκόπησης</string>
   <string name="pref_title_ringtone_repeat">Συχνότητα υπενθύμισης</string>
   <string name="pref_title_show_recent_contacts">Πρόσφατες επαφές</string>
@@ -334,6 +351,7 @@
   <string name="private_settings">Ιδιωτικό Περιβάλλον</string>
   <string name="processing">Επεξεργασία…</string>
   <string name="prvate_contact">Ιδιωτική επαφή</string>
+  <string name="quick_reply">Reply</string>
   <string name="rate_limit_surpassed">Επιβεβαίωση</string>
   <string name="received_label">"Λήψεις: "</string>
   <string name="recipient_editor_count_format">%d</string>
@@ -356,6 +374,7 @@
   <string name="restore_blocked_message">Επαναφορά μπλοκαρισμένου μηνύματος</string>
   <string name="restore_to_phone_memory_failed">Απέτυχε να αποκαταστήσει τη μνήμη του τηλεφώνου!</string>
   <string name="restored_to_phone_memory">"Αποκατάσταση μνήμης τηλεφώνου"</string>
+  <string name="retrive_hms_tips">Retrieving...</string>
   <string name="save">Αποθήκευση</string>
   <string name="save_ringtone">Αποθήκευση ως ήχος κλήσης</string>
   <string name="save_to_sim">Αποθηκεύσετε στην κάρτα SIM</string>
@@ -380,6 +399,13 @@
   <string name="select_recipient">Επιλέξτε παραλήπτη</string>
   <string name="select_top_text">Κείμενο στην κορυφή</string>
   <string name="send">Αποστολή</string>
+  <string name="send_hms_editor_hints">Cloud Message</string>
+  <string name="send_message_dlg_check_hint">Remember my choice</string>
+  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_title">Device Management</string>
+  <string name="send_message_notification_msg">Device Management send message permission request</string>
+  <string name="send_message_notification_tickerText">Device Management permission request</string>
+  <string name="send_message_notification_title">Device Management</string>
   <string name="send_signature_confirm_dialog_message">Δεν βρέθηκε το σώμα του μηνύματος. Είστε σίγουροι ότι θέλετε να στείλετε μόνο την υπογραφή?</string>
   <string name="send_signature_confirm_dialog_title">Επιβεβαίωση Αποστολής</string>
   <string name="send_sms">Αποστολή μηνύματος</string>
@@ -392,6 +418,7 @@
   <string name="service_not_activated">Η υπηρεσία δεν ενεργοποιείται στο δίκτυο.</string>
   <string name="set">Ορισμός</string>
   <string name="set_smsc_address_title_miui">Προκαθορισμένος αριθμός κέντρου SMS</string>
+  <string name="share_img">Share</string>
   <string name="show_all_messages">Δείτε όλα τα μηνύματα</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
@@ -411,6 +438,9 @@
   <string name="sms_full_title">Μνήμη μηνυμάτων κειμένου πλήρης</string>
   <string name="sms_rejected_body">Το εισερχόμενο μήνυμα απορρίφθηκε για άγνωστη αιτία.</string>
   <string name="sms_rejected_title">Γραπτό μήνυμα απορρίπτεται</string>
+  <string name="sp_category_all">All service messages</string>
+  <string name="sp_category_bank">Bank service messages</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Μηνύματα ειδοποίησης</string>
   <string name="sp_mark_as_read">Σημείωση όλων των μηνυμάτων ως αναγνωσμένα?</string>
   <string name="sp_mark_as_read_progress">Σήμανση όλων των μηνυμάτων ως αναγνωσμένα…</string>
@@ -468,22 +498,16 @@
   <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
   <string name="unsticked_conversation">Ήδη αφαιρέθηκε το καρφίτσωμα</string>
   <string name="unsupported_media_format">Μη υποστηριζόμενος %1$s τύπος αρχείου</string>
+  <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
+  <string name="user_agreement2">" User agreement"</string>
+  <string name="user_agreement3">" and "</string>
+  <string name="user_agreement4">Privacy policy</string>
+  <string name="user_agreement5">By touching OK, you agree to the terms outlined in these documents.</string>
   <string name="view">Προβολή</string>
   <string name="view_bookmark">Προβολή αρχικού μηνύματος</string>
+  <string name="view_hms_details">Details</string>
   <string name="view_message_details">Προβολή λεπτομερειών</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="xiaomi_service_number">Service number</string>
   <string name="yes">Ναι</string>
-  <string name="confirm_delete_RUIM_message"/>
-  <string name="confirm_delete_all_RUIM_messages"/>
-  <string name="festival_sms_sdcard_unready"/>
-  <string name="message_saved_as_dravt"/>
-  <string name="mx_dspt_disabled"/>
-  <string name="restore_default"/>
-  <string name="ruim_empty"/>
-  <string name="ruim_full_title"/>
-  <string name="ruim_manage_messages_title"/>
-  <string name="save_to_ruim"/>
-  <string name="select_conversations"/>
-  <string name="sending_message"/>
-  <string name="sms_sender declared"/>
- </resources>
+</resources>

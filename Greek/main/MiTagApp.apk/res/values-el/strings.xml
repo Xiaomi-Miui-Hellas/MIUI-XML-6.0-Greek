@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add">Προσθήκη</string>
   <string name="add_configure">Προσθήκη διαμόρφωσης</string>
@@ -42,7 +42,7 @@
   <string name="contact">Μοίρασμα επαφής</string>
   <string name="contact_address">Διεύθυνση</string>
   <string name="contact_card">Όνομα κάρτας</string>
-  <string name="contact_compay">Εταιρεία</string>
+  <string name="contact_company">Company</string>
   <string name="contact_email">Email</string>
   <string name="contact_name">Όνομα</string>
   <string name="contact_phone">Τηλέφωνο</string>
@@ -50,9 +50,9 @@
   <string name="create">Δημιουργία</string>
   <string name="create_configs_prompt">Για να προσθέσετε μια εργασία, επιλέξτε Προσθήκη</string>
   <string name="create_tag">Νέο</string>
-    <string name="data">Δεδομένα</string>
-    <string name="data_net">Δίκτυο κινητής</string>
-    <string name="delete">Διαγραφή</string>
+  <string name="data">Δεδομένα</string>
+  <string name="data_net">Δίκτυο κινητής</string>
+  <string name="delete">Διαγραφή</string>
   <string name="deleting">Διαγραφή…</string>
   <string name="detect_empty_tag">Άδειο ετικέτα ανιχνεύεται</string>
   <string name="detect_tag">Ανιχνεύθηκε Tag</string>
@@ -75,12 +75,16 @@
   <string name="err_nfc_off">Ενεργοποιήστε το NFC στις Ρυθμίσεις &gt; Ασύρματα &amp; δίκτυα &gt; Περισσότερα &gt; NFC</string>
   <string name="err_no_enough_space">Δεν υπάρχει αρκετός χώρος για την ετικέτα</string>
   <string name="err_no_nfc">"Το τηλέφωνό σας δεν υποστηρίζει NFC. Αυτή η εφαρμογή δεν μπορεί να λειτουργήσει."</string>
+  <string name="err_parse_external_data">This file type is not supported</string>
   <string name="err_tag_not_supported">"Το τηλέφωνό σας δεν υποστηρίζει tagging"</string>
-    <string name="err_tag_read_only">"Δεν μπορείς να γράψεις σε αυτό το Tag"</string>
+  <string name="err_tag_protected">This tag is password protected. Please enter the correct password.</string>
+  <string name="err_tag_read_only">"Δεν μπορείς να γράψεις σε αυτό το Tag"</string>
   <string name="error_password">Κωδικός λάθους</string>
   <string name="failed_install">Αποτυχία να εγκαταστήσετε</string>
+  <string name="failed_to_erase">Failed to erase the tag</string>
+  <string name="failed_to_write">Failed to write the tag</string>
+  <string name="gps">GPS δορυφόροι</string>
   <string name="help_title">Βοήθεια</string>
-    <string name="gps">GPS δορυφόροι</string>
   <string name="hint_input_address">Διεύθυνση</string>
   <string name="hint_input_alarm_label">Εισάγετε την ετικέτα συναγερμού</string>
   <string name="hint_input_message">Μήνυμα</string>
@@ -117,19 +121,18 @@
   <string name="open_xiaomi_web">Πηγαίνετε στο Xiaomi.com</string>
   <string name="password_preference">Tag κωδικού</string>
   <string name="percent">%s%%</string>
+  <string name="personal">Προσωπικό</string>
   <string name="phone">Τηλέφωνο</string>
-    <string name="personal">Προσωπικό</string>
   <string name="phone_call">Κλήση</string>
   <string name="phone_to_tag">Για να επεξεργαστείτε μια ετικέτα,</string>
   <string name="pick_contact">Επιλέξτε επαφή</string>
   <string name="pick_contacts">Επιλέξτε επαφές</string>
+  <string name="play_music_desc">Αναπαρ. ή παύση μουσικής</string>
+  <string name="play_song">Αναπαρ. μουσικής</string>
   <string name="preference">Ρυθμίσεις</string>
+  <string name="pwd_alert">Set a password now</string>
   <string name="pwd_pref">Προστατέψτε την ετικέτα από το ξαναγράψιμο</string>
   <string name="pwd_pref_desc">Γράψτε το χαρακτηριστικό προστασίας ενεργοποιείται όταν γράφει αυτοκόλλητα αυτοκόλλητα αυτοκόλλητα άλλοι πρέπει να ξαναγράψουμε τον κωδικό σας</string>
-    <string name="play_music_desc">Αναπαρ. ή παύση μουσικής</string>
-    <string name="play_song">Αναπαρ. μουσικής</string>
-  <string name="pwd_prot_off">OFF</string>
-  <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Διαβάστε μια ετικέτα</string>
   <string name="reading">Διάβασμα…</string>
   <string name="remote_app">Αναμονή για να κατεβάσετε ...</string>
@@ -198,6 +201,7 @@
   <string name="write_pon_pon_tile">Γράψτε tag</string>
   <string name="write_success">Τέλος εγγραφής</string>
   <string name="write_tag">Γράψτε tag</string>
+  <string name="writing">Writing…</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος για αποθήκευση, παρακαλούμε να ελέγξετε την κάρτα SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

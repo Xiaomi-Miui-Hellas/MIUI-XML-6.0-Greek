@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Parse_error_dlg_text">Υπήρξε ένα πρόβλημα αναλύοντας το πακέτο.</string>
   <string name="Parse_error_dlg_title">Σφάλμα ανάλυσης πακέτου</string>
@@ -51,6 +51,15 @@
   <string name="perm_privacy_app_trust_summary">Η MIUI θα παρακολουθεί αυτή την εφαρμογή</string>
   <string name="perm_sysopt_boost_auto_start">Δικαιώματα αυτόματης έναρξης</string>
   <string name="perm_sysopt_boost_auto_start_summary">Η εφαρμογή θα ξεκινά αυτόματα!</string>
+  <string name="permission_action_accept">Accept</string>
+  <string name="permission_action_prompt">Prompt</string>
+  <string name="permission_action_reject">Deny</string>
+  <string name="permission_group_title_charges_related">Phone</string>
+  <string name="permission_group_title_media_related">Multimedia</string>
+  <string name="permission_group_title_others">Others</string>
+  <string name="permission_group_title_privacy_related">Privacy</string>
+  <string name="permission_group_title_settings_related">Settings</string>
+  <string name="permission_send_sms_descx">App can send SMS and MMS</string>
   <string name="privacy_relative">Δικαιώματα απορρήτου</string>
   <string name="safe_guard_support">Τεχνική υποστήριξη που παρέχεται από %1$s</string>
   <string name="safe_relative">Ασφαλής δικαιώματα</string>
@@ -73,6 +82,7 @@
   <string name="unknown_apps_dlg_text">"Για λόγους ασφαλείας, το τηλέφωνό σας έχει ρυθμιστεί να απαγορεύει την εγκατάσταση εφαρμογών που προέρχονται από ανεπίσημες πηγές. Για να γίνει άρση της απαγόρευσης, μπορείτε να εγκαταστήσετε εφαρμογές από οποιαδήποτε πηγή, αλλά το τηλέφωνό σας και τα προσωπικά δεδομένα μπορούν να δεχθούν επίθεση από τις εφαρμογές άγνωστων πηγών, και θα πρέπει να αναλάβετε την πλήρη ευθύνη για τις πιθανές συνέπειες. Μπορείτε επίσης να τις τροποποιήσετε μέσω Ρυθμίσεις-&gt;Ασφάλεια-&gt;Άγνωστες πηγές."</string>
   <string name="unknown_apps_dlg_title">Η εγκατάσταση έχει μπλοκαριστεί</string>
   <string name="unknown_installer">Άγνωστος installer</string>
+  <string name="virus_scan_caller_unknown">Unknown</string>
   <string name="virus_scan_clear">Αφαίρεση</string>
   <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
   <string name="virus_scan_is_risk">Η εφαρμογή αυτή παρουσιάζει κίνδυνο!</string>

@@ -1,59 +1,53 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
- <string-array name="weeks">
-  <item>Δευτέρα</item> 
-  <item>Τρίτη</item> 
-  <item>Τετάρτη</item> 
-  <item>Πέμπτη</item> 
-  <item>Παρασκευή</item> 
-  <item>Σάββατο</item> 
-  <item>Κυριακή</item> 
-  </string-array>
- <string-array name="weeks_short">
-  <item>Δευ</item> 
-  <item>Τρι</item> 
-  <item>Τετ</item> 
-  <item>Πεμ</item> 
-  <item>Παρ</item> 
-  <item>Σαβ</item> 
-  <item>Κυρ</item> 
-  </string-array>
- <string-array name="months">
-  <item>Ιανουάριος</item> 
-  <item>Φεβρουάριος</item> 
-  <item>Μάρτιος</item> 
-  <item>Απρίλιος</item> 
-  <item>Μάϊος</item> 
-  <item>Ιούνιος</item> 
-  <item>Ιούλιος</item> 
-  <item>Αύγουστος</item> 
-  <item>Σεπτέμβριος</item> 
-  <item>Οκτώβριος</item> 
-  <item>Νοέμβριος</item> 
-  <item>Δεκέμβριος</item> 
-  </string-array>
- <string-array name="select_days">
-  <item>Δευτέρα</item> 
-  <item>Τρίτη</item> 
-  <item>Τετάρτη</item> 
-  <item>Πέμπτη</item> 
-  <item>Παρασκευή</item> 
-  <item>Σάββατο</item> 
-  <item>Κυριακή</item> 
-  </string-array>
- <string-array name="short_days">
-  <item>Δευ</item> 
-  <item>Τρι</item> 
-  <item>Τετ</item> 
-  <item>Πεμ</item> 
-  <item>Παρ</item> 
-  <item>Σαβ</item> 
-  <item>Κυρ</item> 
-  </string-array>
- <string-array name="select_days_simple">
-  <item>Μόνο μία</item> 
-  <item>Καθημερινά</item> 
-  <item>Δευτέρα ως Παρασκευή</item> 
-  <item>Προσαρμογή</item> 
-  </string-array>
+     <string-array name="fortune">
+        <item>"It's easy to hit goal for one day but hard for every day."</item>
+        <item>"It's not an easy thing to achieve a goal every single day."</item>
+        <item>You are making new record everyday!</item>
+        <item>Enjoy building a better you!</item>
+        <item>You are never a loser until you quit trying.</item>
+        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
+        <item>Achieve one goal a day.</item>
+        <item>Keep challenge yourself to be better today.</item>
+        <item>Just do it.</item>
+        <item>Keep practicing, winning will take care of itself.</item>
+     </string-array>
+     <string-array name="months">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάϊος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+     </string-array>
+     <string-array name="select_days_simple">
+        <item>Μόνο μία</item>
+        <item>Καθημερινά</item>
+        <item>Δευτέρα ως Παρασκευή</item>
+        <item>Προσαρμογή</item>
+     </string-array>
+     <string-array name="weeks">
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+     </string-array>
+     <string-array name="weeks_short">
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+        <item>Κυρ</item>
+     </string-array>
 </resources>

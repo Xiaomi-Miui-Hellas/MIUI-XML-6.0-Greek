@@ -1,13 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_not_found">"Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας"</string>
   <string name="application_name">MiHome</string>
+  <string name="apply_as_lock_wallpaper">Apply</string>
+  <string name="apply_as_lock_wallpaper_message">Apply this wallpaper to your lock screen too?</string>
   <string name="aqi_quality_index_dangerous">Επικίνδυνο</string>
   <string name="aqi_quality_index_good">Καλό</string>
   <string name="aqi_quality_index_hazardous">Πολύ επικίνδυνο</string>
   <string name="aqi_quality_index_light_pollution">Ελαφριά μόλυνση</string>
   <string name="aqi_quality_index_moderate">Μέτριο</string>
   <string name="aqi_quality_index_unhealthy">Ανθυγιεινό</string>
+  <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
   <string name="buffering">Προ-φορτώνει…</string>
   <string name="cancel_action">Άκυρο</string>
   <string name="cancel_btn_label">Άκυρο</string>
@@ -16,16 +19,21 @@
   <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
   <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
   <string name="confirm_btn_label">ΟΚ</string>
+  <string name="current_wallpaper">Current</string>
+  <string name="custom_wallpaper_picker">Browse</string>
   <string name="default_folder_title_game">Παιχνίδια</string>
   <string name="default_folder_title_recommend">Προτάσεις</string>
   <string name="default_folder_title_security">Ασφάλεια</string>
   <string name="default_folder_title_tools">Εργαλεία</string>
   <string name="default_name">Προκαθορισμένο</string>
-  <string name="default_shortcut_title_10086">google.com</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
+  <string name="editing_add_widget_tips">Edit widgets</string>
+  <string name="editing_mode_title_empty">Select items</string>
+  <string name="editing_set_transition_effect_tips">Choose screen transition effect</string>
+  <string name="editing_set_wallpaper_tips">Choose wallpaper</string>
   <string name="editing_tips">Προσθήκη ή επεξεργασία widget</string>
   <string name="emptyplaylist">Άδεια λίστα αναπαραγωγής</string>
   <string name="encryption">Κρυπτογράφηση</string>
@@ -53,12 +61,16 @@
   <string name="gadget_clock_12_label">Ρολόι 2x1</string>
   <string name="gadget_clock_22_label">Ρολόι 2x2</string>
   <string name="gadget_clock_24_label">Ρολόι 4x2</string>
+  <string name="gadget_clock_label">Clock</string>
   <string name="gadget_error_text">Πρόβλημα φόρτωσης widget</string>
   <string name="gadget_google_search_label">Google Search</string>
   <string name="gadget_load_error">Φόρτωση Widget…</string>
+  <string name="gadget_mtz_label">Mi Gadgets</string>
   <string name="gadget_photo_22_label">Κορνίζα 2x2</string>
   <string name="gadget_photo_24_label">Κορνίζα 4x2</string>
   <string name="gadget_photo_44_label">Κορνίζα 4x4</string>
+  <string name="gadget_photo_label">Image</string>
+  <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">Κλικ για εγκατάσταση του MIUI weather</string>
   <string name="gadget_weather_aqi_title">Ποιότητα αέρα</string>
   <string name="gadget_weather_download_message">Λήψη πακέτου: %1$s. Μεγέθους: %2$s. Παρακαλώ δοκιμάστε πάλι μετά την ολοκλήρωση της λήψης</string>
@@ -69,6 +81,7 @@
   <string name="gadget_weather_low_temp">Χαμηλή θερμοκρασία</string>
   <string name="gadget_weather_theme_type">Τύπος Gadget</string>
   <string name="gadget_weather_time_format">d/MM EEE</string>
+  <string name="gadget_weather_title">Weather</string>
   <string name="gadget_weather_title_14">Καιρός 4X1</string>
   <string name="gadget_weather_title_24">Καιρός 4X2</string>
   <string name="global_search_hint">Εισαγωγή λέξεων προς αναζήτηση</string>
@@ -82,6 +95,8 @@
   <string name="install">Εγκατάσταση</string>
   <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
   <string name="loading_desktop">Φόρτωση του launcher…</string>
+  <string name="lock_screen_failed_message">"Can't apply"</string>
+  <string name="lock_screen_success_message">Applied</string>
   <string name="maml_component_customization_title">Ρυθμίσεις εξαρτημάτων</string>
   <string name="menu_add">Προσθήκη</string>
   <string name="menu_back_desktop">Πίσω στην αρχική οθόνη</string>
@@ -97,6 +112,8 @@
   <string name="menu_sort">Ταξινόμηση εικονιδίων εφαρμογών</string>
   <string name="menu_wallpaper">Ταπετσαρία</string>
   <string name="menu_workspace_preview">Προεπισκόπηση</string>
+  <string name="multi_selecting_tips">To pick up an app, touch its icon</string>
+  <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
   <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
   <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
@@ -126,6 +143,7 @@
   <string name="pref_wallpaper_scroll_type_title">Τύποι κύλισης ταπετσαρίας</string>
   <string name="preferences_general_title">Γενικες ρυθμισεις</string>
   <string name="preferences_title">Ρυθμίσεις Launcher</string>
+  <string name="process" />
   <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
   <string name="resource_select">Επιλογή</string>
   <string name="screen_button_disabled_message">Τα κουμπιά στην κάτω οθόνη είναι απενεργοποιημένα. Μπορούν να ενεργοποιηθούν πιέζοντας το \"Home\" και \"Power\"</string>
@@ -134,7 +152,8 @@
   <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
   <string name="select_frame">Κάδρο</string>
   <string name="select_photo">Φωτογραφία</string>
-  <string name="sharedUserId"/>
+  <string name="settings_shortcut">Settings</string>
+  <string name="sharedUserId" />
   <string name="sort_by_abc">Ταξινόμηση ανά όνομα</string>
   <string name="sort_by_frequency">Ταξινόμιση ανά χρήση</string>
   <string name="sort_by_not_defined">Ταξινόμιση από προεπιλογή</string>
@@ -152,15 +171,10 @@
   <string name="status_bar_toggle_lock">Κλείδωμα</string>
   <string name="status_bar_toggle_mute">Αθόρυβο</string>
   <string name="status_bar_toggle_network_type">Δίκτυο</string>
-  <string name="status_bar_toggle_power_high">Απόδοση</string>
-  <string name="status_bar_toggle_power_low">Οικονομία ενέργειας</string>
-  <string name="status_bar_toggle_power_mid">Κανονικό</string>
   <string name="status_bar_toggle_power_mode">Τύπος κατανάλωσης</string>
   <string name="status_bar_toggle_privacy_mode">Φρουρός</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_reboot">Επανεκκίνηση</string>
-  <string name="status_bar_toggle_ring">Κουδούνι</string>
-  <string name="status_bar_toggle_ringtone">Ήχος κλήσης</string>
   <string name="status_bar_toggle_rotate">Περιστροφή</string>
   <string name="status_bar_toggle_screen_button">Κουμπιά</string>
   <string name="status_bar_toggle_screenshot">Στιγμιότυπο</string>
@@ -173,6 +187,11 @@
   <string name="status_bar_toggle_vibrate">Δόνηση</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
+  <string name="status_downloaded">downloaded</string>
+  <string name="status_downloading">downloading</string>
+  <string name="status_installing">installing</string>
+  <string name="status_paused">paused</string>
+  <string name="status_pending">pending</string>
   <string name="title_select_live_folder">Επιλογή φακέλου</string>
   <string name="title_select_shortcut">Επιλογή συντόμευσης</string>
   <string name="toggle_select_title">Επιλογή κουμπιού</string>

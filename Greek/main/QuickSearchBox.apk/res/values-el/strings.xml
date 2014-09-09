@@ -34,6 +34,7 @@
   <string name="search_sources">Περιεχόμενα αναζήτησης</string>
   <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
   <string name="search_widget">Αναζήτηση</string>
+  <string name="send_secret_code">Send secret code</string>
   <string name="system_search_category_title">Τηλέφωνο</string>
   <string name="voice_search_hint_title">Εκφώνησε:</string>
 </resources>

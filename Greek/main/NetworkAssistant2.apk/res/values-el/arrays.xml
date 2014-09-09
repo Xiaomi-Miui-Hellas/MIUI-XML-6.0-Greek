@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_uints">
-        <item>B</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>Χτες</item>
-        <item>Σήμερα</item>
-        <item>Αυτό το μήνα</item>
-    </string-array>
-    <string-array name="date_of_app_all">
+     <string-array name="date_of_app">
+        <item>Χτες (Δεδομένα)</item>
+        <item>Σήμερα (Δεδομένα)</item>
+        <item>Αυτό το μήνα (Δεδομένα)</item>
+     </string-array>
+     <string-array name="date_of_app_all">
         <item>Χτες (Δεδομένα)</item>
         <item>Σήμερα (Δεδομένα)</item>
         <item>Αυτό το μήνα (Δεδομένα)</item>
         <item>Χτες WLAN</item>
         <item>Σήμερα WLAN</item>
         <item>Αυτό το μήνα WLAN</item>
-    </string-array>
-    <string-array name="date_of_app">
-        <item>Χτες (Δεδομένα)</item>
-        <item>Σήμερα (Δεδομένα)</item>
-        <item>Αυτό το μήνα (Δεδομένα)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>Χτες</item>
+        <item>Σήμερα</item>
+        <item>Αυτό το μήνα</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Yesterday: "</item>
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
         <item>3 δευτ</item>
         <item>4 δευτ</item>
         <item>5 δευτ</item>
@@ -32,14 +35,23 @@
         <item>7 δευτ</item>
         <item>8 δευτ</item>
         <item>9 δευτ</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Πάρτε ένα πρότυπο μηνύματος αυτόματα</item>
+        <item>Ρυθμίστε το πρότυπο μήνυμα με το χέρι</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
         <item>Χρήση δεδομένων</item>
         <item>WLAN χρήση</item>
         <item>Συνολική κατανάλωση</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Πάρτε ένα πρότυπο μηνύματος αυτόματα</item>
-        <item>Ρυθμίστε το πρότυπο μήνυμα με το χέρι</item>
-    </string-array>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
+        <item>"Data saved "</item>
+     </string-array>
+     <string-array name="traffic_uints">
+        <item>M</item>
+        <item>G</item>
+     </string-array>
 </resources>
