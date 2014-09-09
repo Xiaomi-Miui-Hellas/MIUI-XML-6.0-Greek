@@ -85,8 +85,10 @@
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Τζαζ</string>
   <string name="eq_metal">Μέταλ</string>
-  <stri   <string name="dialog_hint_network_error">"Can't connect to the network. Check your data connection and try again."</string>
-  t">Επιλογή χρήστη %d</string>
+  <string name="eq_pop">Ποπ</string>
+  <string name="eq_preset_create">Δημιουργία</string>
+  <string name="eq_preset_format">Επιλογή χρήστη %d</string>
+  <string name="dialog_hint_network_error">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="eq_preset_hint">Παρακαλώ ονομάστε την επιλογή σας</string>
   <string name="eq_preset_rename">Μετονομασία</string>
   <string name="eq_preset_select">Επιλογή μιας ρύθμισης</string>
@@ -218,4 +220,4 @@
   <string name="unknown_artist_name">Άγνωστος καλλιτέχνης</string>
   <string name="valid_period">"Έγκυρο από: "</string>
   <string name="vip_recommend_title">Υψηλότερη ποιότητα μουσικής</string>
-</resources
+</resources>
