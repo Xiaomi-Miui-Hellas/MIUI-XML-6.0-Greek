@@ -28,11 +28,11 @@
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>
      </plurals>
-     <plurals name="folder_τραγούδια_count">
+     <plurals name="folder_songs_count">
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>
      </plurals>
-     <plurals name="send_τραγούδια_toast">
+     <plurals name="send_songs_toast">
         <item quantity="other">%d τραγούδια θα αποσταλούν</item>
         <item quantity="one">1 τραγούδι θα αποσταλεί</item>
      </plurals>
