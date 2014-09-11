@@ -5,35 +5,35 @@
         <item quantity="one">1 τραγούδι θα ληφθεί.</item>
      </plurals>
      <plurals name="Nexpired_remind">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">%d ημέρες απομένουν</item>
+        <item quantity="one">%d ημέρα απομένει</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d songs added to playlist</item>
-        <item quantity="one">1 song added to playlist</item>
+        <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα</item>
+        <item quantity="one">1 τραγούδι προστέθηκε στη λίστα</item>
      </plurals>
      <plurals name="Ntracks_count">
-        <item quantity="other">%d Songs</item>
-        <item quantity="one">%d Song</item>
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d τραγούδια διαγράφηκαν από την λίστα</item>
         <item quantity="one">1 τραγούδι διαγράφηκε από την λίστα</item>
      </plurals>
      <plurals name="Ntracks_search_result">
-        <item quantity="other">%d songs found</item>
-        <item quantity="one">%d song found</item>
+        <item quantity="other">%d τραγούδια βρέθηκαν</item>
+        <item quantity="one">%d τραγούδι βρέθηκε</item>
      </plurals>
      <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">1 τραγούδι</item>
      </plurals>
-     <plurals name="folder_songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+     <plurals name="folder_τραγούδια_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">1 τραγούδι</item>
      </plurals>
-     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
-        <item quantity="one">1 song will be sent</item>
+     <plurals name="send_τραγούδια_toast">
+        <item quantity="other">%d τραγούδια θα αποσταλούν</item>
+        <item quantity="one">1 τραγούδι θα αποσταλεί</item>
      </plurals>
 </resources>
