@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Βοηθός</string>
+  <string name="help_content">Αυτή η εφαρμογή είναι συμβατή μόνο με την κινεζική γλώσσα</string>
+  <string name="setting">Ρυθμίσεις</string>
+  <string name="voice_engine">Μηχανές σύνθεσης ομιλίας</string>
+  <string name="more_engines">Δείτε περισσότερα (αγορά Xiaomi) ...</string>
+  <string name="voice_report">Ειδοποιήσεις φωνής</string>
+  <string name="report_method">Διαμορφώστε το πώς</string>
+  <string name="phone_report">Εισερχόμενη</string>
+  <string name="sms_report">Νέο SMS</string>
+</resources>
