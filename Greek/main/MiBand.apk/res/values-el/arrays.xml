@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="fortune">
-        <item>"It's easy to hit goal for one day but hard for every day."</item>
-        <item>"It's not an easy thing to achieve a goal every single day."</item>
-        <item>You are making new record everyday!</item>
-        <item>Enjoy building a better you!</item>
-        <item>You are never a loser until you quit trying.</item>
-        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
-        <item>Achieve one goal a day.</item>
-        <item>Keep challenge yourself to be better today.</item>
-        <item>Just do it.</item>
-        <item>Keep practicing, winning will take care of itself.</item>
+        <item>"Είναι εύκολο να πετύχετε ένα στόχο για μία ημέρα, αλλά δύσκολο για κάθε μέρα.."</item>
+        <item>"Δεν είναι εύκολο πράγμα να επιτευχθεί ένας στόχος κάθε μέρα."</item>
+        <item>Θα κάνετε νέο ρεκόρ καθημερινά!</item>
+        <item>Απολαύστε την οικοδόμηση ενός καλύτερου εαυτού σας!</item>
+        <item>Δε θα είστε ποτέ χαμένος μέχρι να σταματήσετε την προσπάθεια.</item>
+        <item>Είμαστε αυτό που κάνουμε επανειλημμένα. Η Αριστεία δεν είναι μια πράξη, αλλά μια συνήθεια.</item>
+        <item>Επίτευξη ενός στόχου την ημέρα.</item>
+        <item>Προκαλέστε τον εαυτό σας για ένα καλύτερο σήμερα.</item>
+        <item>Απλά κάντε το.</item>
+        <item>Κάντε εξάσκηση, κερδίζοντας στόχους θα αισθανθείτε καλύτερα.</item>
      </string-array>
      <string-array name="months">
         <item>Ιανουάριος</item>

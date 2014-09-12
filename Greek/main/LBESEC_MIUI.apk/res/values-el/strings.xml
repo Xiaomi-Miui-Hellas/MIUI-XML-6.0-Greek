@@ -65,7 +65,7 @@
   <string name="HIPS_Group_DataPrivacy">Απόρρητο</string>
   <string name="HIPS_Group_Expense">Ασφάλεια</string>
   <string name="HIPS_Group_Internet">Πρόσβαση στο διαδίκτυο</string>
-  <string name="HIPS_Group_Location">Positioning</string>
+  <string name="HIPS_Group_Location">Εντοπισμός</string>
   <string name="HIPS_Group_PIM">Προσωπικές πληροφορίες</string>
   <string name="HIPS_Group_PhoneID">Ταυτοποίηση συσκευής</string>
   <string name="HIPS_Group_ROOT">ROOT</string>
@@ -76,18 +76,18 @@
   <string name="HIPS_Perm_AudioRecorder">Ηχογράφηση</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Τοπική κλήση και καταγραφή ήχου</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">Μπορούν να καταγράφουν κλήσεις και ήχους…(%1$s)</string>
-  <string name="HIPS_Perm_AutoStart">Autostart</string>
-  <string name="HIPS_Perm_AutoStart_Desc">Autostart</string>
-  <string name="HIPS_Perm_AutoStart_Hint">%1$s app(s) is allowed to autostart</string>
+  <string name="HIPS_Perm_AutoStart">Αυτόματη εκκίνηση</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Αυτόματη εκκίνηση</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s εφαρμογή(έs) επιτρέπεται να ξεκινήσουν αυτόματα</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Ενεργοποίηση Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ενεργοποίηση Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Μπορούν να κάνουν χρήση Bluetooth…(%1$s)</string>
-  <string name="HIPS_Perm_Calendar">Access calendar</string>
-  <string name="HIPS_Perm_Calendar_Desc">Access calendar</string>
-  <string name="HIPS_Perm_Calendar_Hint">%1$s app(s) is allowed to access calendar</string>
+  <string name="HIPS_Perm_Calendar">Πρόσβαση ημερολογίου</string>
+  <string name="HIPS_Perm_Calendar_Desc">Πρόσβαση ημερολογίου</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s εφαρμογή(ές) μπορούν να κάνουν χρήση ημερολογίου</string>
   <string name="HIPS_Perm_Call">Τηλεφωνική κλήση</string>
   <string name="HIPS_Perm_CallLog">Μητρώο κλήσεων</string>
-  <string name="HIPS_Perm_CallLog_Access">διαβάσει το μητρώο κλήσεων</string>
+  <string name="HIPS_Perm_CallLog_Access">διαβάζει το μητρώο κλήσεων</string>
   <string name="HIPS_Perm_CallLog_Desc">Πρόσβαση στα μητρώα κλήσεών σας</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s έχουν την άδεια πρόσβασης στα μητρώα σας</string>
   <string name="HIPS_Perm_CallMonitor">Παρακολούθηση κλήσεων</string>
@@ -104,9 +104,9 @@
   <string name="HIPS_Perm_Contact_Access">διαβάσει την λίστα επαφών</string>
   <string name="HIPS_Perm_Contact_Desc">Πρόσβαση στη λίστα επαφών</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s εφαρμογές έχουν το δικαίωμα πρόσβασης στις επαφές σας</string>
-  <string name="HIPS_Perm_DisableKeyguard">Unlock device</string>
-  <string name="HIPS_Perm_DisableKeyguard_Desc">Unlock device</string>
-  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s app(s) is allowed to unlock device</string>
+  <string name="HIPS_Perm_DisableKeyguard">Ξεκλείδωμα συσκευής</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Ξεκλείδωμα συσκευής</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s εφαρμογή(ές) μπορούν να ξεκλειδώσουν την συσκευή</string>
   <string name="HIPS_Perm_EndCall">Απόρριψη τρέχουσας κλήσης</string>
   <string name="HIPS_Perm_GetCallState">λήψη τρέχουσας κατάστασης κλήσης</string>
   <string name="HIPS_Perm_ListenCallState">παρακολούθηση κατάστασης κλήσης</string>
@@ -136,9 +136,9 @@
   <string name="HIPS_Perm_Network_Send">Αποστολή δεδομένων</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Άγνωστη διεύθυνση</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Χρήση Wi-Fi δικτύου</string>
-  <string name="HIPS_Perm_Notification">Send notifications</string>
-  <string name="HIPS_Perm_Notification_Desc">Send notifications</string>
-  <string name="HIPS_Perm_Notification_Hint">%1$s app(s) is allowed to send notifications</string>
+  <string name="HIPS_Perm_Notification">Αποστολή ειδοποιήσεων</string>
+  <string name="HIPS_Perm_Notification_Desc">Αποστολή ειδοποιήσεων</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s εφαρμ.μπορούν να στείλουν ειδοποιήσεις</string>
   <string name="HIPS_Perm_PhoneID">Αναγνωριστικό τηλεφώνου</string>
   <string name="HIPS_Perm_PhoneID_Desc">Λήψη του αναγνωριστικού του τηλεφώνου σας, συμπεριλαμβανομένου και του IMEI, IMSI, κτλ</string>
   <string name="HIPS_Perm_PhoneID_Hint">Έχουν την άδεια για να πάρουν το ID του τηλεφώνου…(%1$s)</string>
@@ -193,9 +193,9 @@
   <string name="HIPS_Perm_WIFI_Connectivity">Χρήση WIFI</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Χρήση WIFI</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">Μπορούν να κάνουν χρήση Wi-Fi…(%1$s)</string>
-  <string name="HIPS_Perm_Wakelock">Wakelock</string>
-  <string name="HIPS_Perm_Wakelock_Desc">Keep system from sleeping</string>
-  <string name="HIPS_Perm_Wakelock_Hint">%1$s app(s) is allowed to keep system from sleeping</string>
+  <string name="HIPS_Perm_Wakelock">Κλείδωμα αφύπνισης</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Αποτροπή ύπνου συστήματος</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s εφαρμ.μπορούν να αποτρέψουν στο σύστημα από τον ύπνο</string>
   <string name="HIPS_SecurityPrompt_Accept">Επιτρεπόμενα (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Αποδοχή</string>
   <string name="HIPS_SecurityPrompt_Caption">Προειδοποίηση ασφαλείας</string>
@@ -211,7 +211,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Αποθήκευση της επιλογής μου</string>
   <string name="HIPS_SecurityPrompt_Title">Το %1$s προσπαθεί να %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d δικαιώματα</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$dpermissions - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d άδειες - &lt;font color=#478800&gt;Έμπιστες&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Τερματισμός</string>
   <string name="Privacy_App_Installed">Ρύθμιση δικαιωμάτων</string>
   <string name="Privacy_App_Launch">Έναρξη</string>
