@@ -137,7 +137,6 @@
      </plurals>
      <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d νέο μήνυμα. Εμφάνιση.</item>
-        <item quantity="other">%1$d νέο μήνυμα. Εμφάνιση.</item>
         <item quantity="zero">Show %1$d new messages.</item>
         <item quantity="one">Show %1$d new message.</item>
         <item quantity="two">Show %1$d new messages.</item>
