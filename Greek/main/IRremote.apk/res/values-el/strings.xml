@@ -179,6 +179,6 @@
      <string name="privacy_content">Θα χρησιμοποιήσετε το τηλεχειριστήριο，αποδέχεστε τους όρους χρήσης και τις προυποθέσεις ;</string>
      <string name="privacy_disagree">Ακύρωση</string>
      <string name="privacy_nohit">Χωρίς συμβουλές</string>
-     <string name="privacy_title">Όροι & Προϋποθέσεις</string>
+     <string name="privacy_title">Όροι &amp; Προϋποθέσεις</string>
      <string name="speech_init_failed">Δεν ανιχνεύθηκε η iFLYTek υπηρεσία φωνής, μπορείτε να κάνετε κλικ εδώ για να την κατεβάσετε...</string>
 </resources>
