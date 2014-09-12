@@ -137,7 +137,6 @@
   <string name="hand_night_exit_button_text">Έξοδος ωυχτερινής λειτουργίας</string>
   <string name="hdr_exit_button_text">Αφήστε τη λειτουργία HDR</string>
   <string name="height">Ύψος</string>
-  <string name="image_file_name_format">'IMG'_ddMMyyyy_HHmmss</string>
   <string name="import_complete">Εισαγωγή πλήρης</string>
   <string name="import_contact">Εισαγωγή επαφής</string>
   <string name="import_fail">Η εισαγωγή απέτυχε!</string>
@@ -166,7 +165,6 @@
   <string name="pano_dialog_prepare_preview">Προετοιμασία για πανοραμική θέα ...</string>
   <string name="pano_dialog_title">Πανοραμική</string>
   <string name="pano_dialog_waiting_previous">Περιμένετε μέχρι να ολοκληρωθεί η προηγούμενη πανοραμική</string>
-  <string name="pano_file_name_format">'PANO'_ddMMyyyy_HHmmss</string>
   <string name="pano_how_to_use_prompt">Πατήστε το κουμπί κλείστρου για να αρχίσετε να παίρνετε πανοραμικές φωτογραφίες</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Μείνετε σταθεροί, ενώ κινείστε</string>
   <string name="pano_how_to_use_prompt_to_move">Μετακινήστε τη φωτογραφική μηχανή οριζόντια και απαλά</string>
@@ -439,7 +437,6 @@
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Κάμερα</string>
   <string name="video_err">Δεν είναι δυνατή η αναπαραγωγή βίντεο.</string>
-  <string name="video_file_name_format">'VID'_ddMMyyyy_HHmmss</string>
   <string name="video_reach_size_limit">Έχει φτάσει στο μέγιστο μέγεθος.</string>
   <string name="video_snapshot_hint">Πάρτε μια φωτογραφία κατά τη διάρκεια εγγραφής βίντεο πατώντας την οθόνη προεπισκόπησης.</string>
   <string name="videocamera_settings_label">Ρυθμίσεις βίντεο</string>
