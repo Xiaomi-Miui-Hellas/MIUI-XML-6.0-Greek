@@ -149,4 +149,11 @@
     <string name="micloud_main_sync_on_wifi">Χρήση WLAN</string>
     <string name="micloud_main_data_unsynced">%d δεν συγχρονίζονται</string>
     <string name="micloud_main_last_sync_time">Τελευταίος συχρονισμός</string>
+	<string name="micloud_intro_01_part_01"></string>
+    <string name="micloud_intro_01_part_02"></string>
+    <string name="micloud_intro_02_part_01"></string>
+    <string name="micloud_intro_02_part_02"></string>
+    <string name="micloud_intro_03_part_01"></string>
+    <string name="micloud_intro_03_part_02"></string>
+
 </resources>
