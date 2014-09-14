@@ -142,8 +142,6 @@
     <string name="launch">Launch</string>
     <string name="price">￥%1$s</string>
     <string name="progress">%1$s%%</string>
-    <string name="send">@miui:string/send</string>
-    <string name="delete">@miui:string/delete</string>
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">Pending…</string>
     <string name="paused">Paused</string>
