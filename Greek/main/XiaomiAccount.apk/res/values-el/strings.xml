@@ -8,11 +8,11 @@
   <string name="login">Είσοδος</string>
   <string name="verify">Επαλήθευση</string>
   <string name="register">Δημιουργία λογαριασμού</string>
-  <string name="register_by_email">&lt;u&gt;Χρήση e-mail&lt;/u&gt;</string>
+  <string name="register_by_email">Χρήση e-mail</string>
   <string name="next">Επόμενο</string>
   <string name="prev">Προηγούμενο</string>
-  <string name="forget_password">&lt;u&gt;Ξεχάσατε τον κωδικό σας;&lt;/u&gt;</string>
-  <string name="foreign_login">&lt;u&gt;Χώρα/κώδικας&lt;/ u&gt;</string>
+  <string name="forget_password">Ξεχάσατε τον κωδικό σας;</string>
+  <string name="foreign_login">Χώρα/κώδικας</string>
   <string name="seperator_forget_and_foreign"> | </string>
   <string name="password">Εισάγετε τον κωδικό</string>
   <string name="captcha">Εισάγετε τον κωδικό</string>
