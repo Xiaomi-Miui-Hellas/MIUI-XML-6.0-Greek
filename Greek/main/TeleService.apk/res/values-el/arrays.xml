@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string-array name="ims_call_types">
         <item>Φωνή</item>
         <item>Βίντεο</item>
