@@ -1422,11 +1422,11 @@ Attempts Remaining :"</string>
   <string name="volume_alarm">Ένταση ήχου ξυπνητηριού</string>
   <string name="volume_bluetooth_call">Ένταση ήχου για εισερχόμενη κληση μέσω Bluetooth</string>
   <string name="volume_call">Ένταση ήχου κλήσης</string>
-  <string name="volume_icon_description_bluetooth">Ένταση ήχου Bluetooth</string>
-  <string name="volume_icon_description_incall">Ένταση ήχου κλήσεων</string>
-  <string name="volume_icon_description_media">Ένταση ήχου πολυμέσων</string>
-  <string name="volume_icon_description_notification">Ένταση ήχου ειδοποιήσεων</string>
-  <string name="volume_icon_description_ringer">Ένταση ήχου κλήσης</string>
+  <string name="volume_icon_description_bluetooth">Ένταση ήχου</string>
+  <string name="volume_icon_description_incall">Ένταση ήχου</string>
+  <string name="volume_icon_description_media">Ένταση ήχου</string>
+  <string name="volume_icon_description_notification">Ένταση ήχου</string>
+  <string name="volume_icon_description_ringer">Ένταση ήχου</string>
   <string name="volume_music">Ένταση ήχου πολυμέσων</string>
   <string name="volume_music_hint_playing_through_bluetooth">Αναπαραγωγή μέσω Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Ορίστηκε αθόρυβος ήχος κλήσης</string>
