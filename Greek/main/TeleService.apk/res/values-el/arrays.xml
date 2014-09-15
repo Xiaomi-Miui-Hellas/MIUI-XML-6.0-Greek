@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ims_call_types">
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Προεπιλογή Δικτύου</item>
+        <item>Απόκρυψη αριθμού</item>
+        <item>Εμφάνιση αριθμού</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Αγγλικά</item>
+        <item>Γαλλικά</item>
+        <item>Ισπανικά</item>
+        <item>Ιαπωνικά</item>
+        <item>Κορεάτικα</item>
+        <item>Κινέζικα</item>
+        <item>Εβραϊκά</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Κανονικός</item>
+        <item>Μακρύς</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Πάντα</item>
+        <item>Μόνο σε σίγαση</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="clir_values_miui">
+        <item>ΠΡΟΕΠΙΛΟΓΗ</item>
+        <item>ΑΠΟΚΡΥΨΗ</item>
+        <item>ΕΜΦΑΝΙΣΗ</item>
+    </string-array>
+</resources>
