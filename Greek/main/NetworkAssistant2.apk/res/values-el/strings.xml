@@ -266,8 +266,8 @@ Peak: %1$s %2$s υπόλοιπα | %3$s σε χρήση</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">Σώθηκαν αυτό το μήνα: </string>
   <string name="traffic_saving_history_total_month_default">Μέσος όρος ανά μήνα:</string>
-  <string name="traffic_saving_history_total_month_value">Ακρόαση &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; τραγουδιών / Συνομιλία για &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; ώρες / Ανάγνωση &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; άρθρων</string>
-  <string name="traffic_saving_history_total_month_value_default">Ακρόαση &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; τραγουδιών / Συνομιλία για &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; ώρες / Ανάγνωση &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; άρθρων</string>
+  <string name="traffic_saving_history_total_month_value">"Ακρόαση &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> τραγουδιών / Συνομιλία για &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ώρες / Ανάγνωση &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> άρθρων"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Ακρόαση &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> τραγουδιών / Συνομιλία για &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> ώρες / Ανάγνωση &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> άρθρων"</string>
   <string name="traffic_saving_history_total_rate">Τιμή</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Σώθηκαν δεδομένα</string>
