@@ -2129,7 +2129,7 @@
   <string name="sync_wifi_label">Ρύθμιση συγχρονισμού Wi-Fi</string>
   <string name="sync_wifi_only">Μόνο Wi-Fi</string>
   <string name="system">Σύστημα</string>
-  <string name="system_app_settings">System apps</string>
+  <string name="system_app_settings">Εφαρμογές συστήματος</string>
   <string name="system_backup_section_title">Αντίγραφα</string>
   <string name="system_package">Οι ενημερώσεις του συστήματος δεν μπορούν να εγκατασταθούν σε εξωτερικά μέσα.</string>
   <string name="system_storage">Εσωτερικος χωρος αποθηκευσης</string>
