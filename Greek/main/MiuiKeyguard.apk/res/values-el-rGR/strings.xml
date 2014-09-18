@@ -23,8 +23,8 @@
   <string name="input_pin_code">PIN</string>
   <string name="input_pin_code_to_unlock">Ξεκλείδωμα συσκευής</string>
   <string name="pincode_set_to_default_msg">Το PIN είναι 1234, παρακαλούμε να επαναφέρετε τον κωδικό PIN εδώ.</string>
-  <string name="incorrect_pukcode_remaining_attempts">Λάθος κωδικός PUK %d απομένουν προσπάθειες</string>
-  <string name="incorrect_pincode_remaining_attempts">Εσφαλμένος κωδικός PIN %d απομένουν προσπάθειες</string>
+  <string name="incorrect_pukcode_remaining_attempts">Λάθος κωδικός PUK απομένουν %d προσπάθειες</string>
+  <string name="incorrect_pincode_remaining_attempts">Εσφαλμένος κωδικός PIN απομένουν %d προσπάθειες</string>
   <string name="incorrect_pukcode">Λανθασμένος PUK</string>
   <string name="incorrect_pincode">Εσφαλμένος κωδικός PIN</string>
   <string name="puk_operation_failed">Η λειτουργία PUK απέτυχε.</string>
