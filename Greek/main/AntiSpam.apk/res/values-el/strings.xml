@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="ACaddnumcontent">Enter area code</string>
+  <string name="fw_blocked_join">" και "</string>
+  <string name="ACaddnumcontent">Εισαγωγή κωδικού περιοχής</string>
   <string name="ACaddnumtitle">Προσθήκη προθέματος στις εξαιρέσεις</string>
   <string name="AD_ALLOW">Επιτρέψτε παρακλήσεις</string>
   <string name="AD_APPInfo">Πληροφ.</string>
@@ -11,19 +12,19 @@
   <string name="AD_COUNT">%d σε φραγή</string>
   <string name="AD_Info">Ad plug-in</string>
   <string name="AD_Info_Hint">Το Adware χρησιμοποιείται από τρίτες εταιρείες για την αποστολή διαφημίσεων στη συσκευή σας.</string>
-  <string name="AD_NOT_BLOCK">Μην κάνει block</string>
+  <string name="AD_NOT_BLOCK">Χωρίς block</string>
   <string name="AD_SCANNING">Σάρωση…</string>
   <string name="AD_SCAN_BUTTON">Σάρωση</string>
   <string name="AD_TITLE_COUNT">%d εφαρμ. περιέχουν διαφημ.</string>
   <string name="AD_TITLE_NON_COUNT">Χωρίς διαφημίσεις</string>
   <string name="AD_Unistall">Απεγκατάσταση</string>
-  <string name="Call_ADRESS">Τοπική blocklist</string>
-  <string name="Call_BLACKLIST">Κλήση blocklist</string>
-  <string name="Call_DEFAULT">Smart blocklist</string>
-  <string name="Call_MODENAME">Προεπιλεγμένη blocklist</string>
+  <string name="Call_ADRESS">Τοπικό blocklist</string>
+  <string name="Call_BLACKLIST">Κλήσης blocklist</string>
+  <string name="Call_DEFAULT">Έξυπνο blocklist</string>
+  <string name="Call_MODENAME">Προεπιλεγμένο blocklist</string>
   <string name="Call_PREFIX">Πρόθεμα blocklist</string>
   <string name="Call_PRIVATE_CALL">Ιδιωτικές κλήσεις</string>
-  <string name="NACaddnumcontent">Enter phone number</string>
+  <string name="NACaddnumcontent">Εισαγωγή αριθμού τηλεφώνου</string>
   <string name="NACaddnumtitle">Προσθήκη αριθμού στις εξαιρέσεις</string>
   <string name="PAST_BLOCK">Προηγουμένως έχουν μπλοκαριστεί</string>
   <string name="Phonepass">Επέτρεψε κλήσεις</string>
