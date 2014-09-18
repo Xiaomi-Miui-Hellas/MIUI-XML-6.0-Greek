@@ -1116,7 +1116,6 @@
     <string name="voicemail">Τηλεφωνητής</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_default">Προεπιλογή</string>
-    <string name="voicemail">Τηλεφωνητής</string>
     <string name="voicemail_notification_ringtone_title">Ήχος</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Δόνηση</string>
     <string name="voicemail_notification_vibrate_when_default">ποτέ</string>
