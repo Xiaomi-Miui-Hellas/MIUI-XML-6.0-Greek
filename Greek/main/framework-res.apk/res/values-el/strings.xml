@@ -246,8 +246,8 @@
   <string name="factorytest_no_action">Δεν βρέθηκε πακέτο που να παρέχει την ενέργεια FACTORY_TEST.</string>
   <string name="factorytest_not_system">Η ενέργεια FACTORY_TEST υποστηρίζεται μόνο για πακέτα που είναι εγκατεστημένα στον κατάλογο /system/app.</string>
   <string name="factorytest_reboot">Επανεκκίνηση</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
+  <string name="fast_scroll_numeric_alphabet">" 0123456789ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
   <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
   <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
