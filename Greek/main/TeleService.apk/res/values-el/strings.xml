@@ -14,7 +14,6 @@
     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
     <string name="add_zero_prefix">Προσθήκη 0 προθέμ. στα κινητά</string>
     <string name="adding_fdn_contact">Προσθήκη σταθερού αριθμού…</string>
-    <string name="adding_fdn_contact">Προσθέτοντας τον σταθερό αριθμό κλήσης…</string>
     <string name="additional_cdma_call_settings">Πρόσθετες ρυθμίσεις CDMA κλήσεων</string>
     <string name="additional_gsm_call_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="administrative_disable">Υπηρεσιακό απενεργοποιημένο</string>
@@ -181,7 +180,6 @@
     <string name="call_recording_setting">Καταγραφή κλήσεων</string>
     <string name="call_recording_unknown_error">Προέκυψε ένα άγνωστο σφάλμα.</string>
     <string name="call_recording_notification_summary">Δείτε την κοινοποίηση στη γραμμή κατάστασης όταν η κλήση έχει καταγραφεί</string>
-    <string name="call_recording_notification_title">Κοινοπ. καταγραφής κλήσεων</string>
     <string name="call_recording_prompt">Εγγραφή ανοικτής κλήσης</string>
     <string name="call_remove_exception_numbers_confirm">%d θα διαγραφούν.</string>
     <string name="call_settings">Ρυθμίσεις κλήσεων</string>
@@ -455,7 +453,7 @@
     <string name="enforce_proximity_title">Αποτροπή τυχαίων κλήσεων</string>
     <string name="enterName">Όνομα</string>
     <string name="enterNumber">Τηλέφωνο</string>
-    <string name="enter_input"false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά!</string>
+    <string name="enter_input"  formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά!</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN της κάρτας SIM:</string>
     <string name="entertainment_news_settings">Ψυχαγωγικές Ειδήσεις</string>
