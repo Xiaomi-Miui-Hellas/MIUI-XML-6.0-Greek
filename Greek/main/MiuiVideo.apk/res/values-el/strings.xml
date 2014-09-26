@@ -15,13 +15,11 @@
   <string name="vp_cancel">Ακύρωση</string>
   <string name="vp_download_file_fail">Η λήψη απέτυχε. Βεβαιωθείτε ότι έχετε αρκετό χώρο</string>
   <string name="vp_download_connect_fail">Δεν μπορώ να βρω τη διεύθυνση URL. Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά."</string>
-  <string name="vp_loading"><CDATA>στη λήψη </CDATA></string>
   <string name="vp_client_message">Θέλετε να εγκαταστήσετε το %1$s?</string>
   <string name="vp_plugin_message">Απολαύστε τον ήχο HD, θα εγκατασταθεί ένα plug-in HD, συμφωνείτε?</string>
   <string name="vp_closedialog">Επιβεβαίωση</string>
   <string name="vp_hint">Συμβουλή</string>
   <string name="vp_maintitlearea">"Απολαύστε την υψηλής ευκρίνειας βίντεο και μεγάλες ταχύτητες λήψης, σε ότι υπάρχει διαθέσιμο! Πατήστε το πλήκτρο OK για την αρχική οθόνη"</string>
-  <string name="local_media">Τοπικά</string>
   <string name="add_favorite_success">Starred</string>
   <string name="add_more_addons">Add more addons</string>
   <string name="addon">" plugins"</string>
@@ -158,7 +156,7 @@
   <string name="loading_video_netplay_label_v5">Φόρτωση ροής, παρακαλώ περιμένετε…</string>
   <string name="local_detail_more">%d more videos</string>
   <string name="local_favorite_empty_hint">Empty</string>
-  <string name="local_media">Local videos</string>
+  <string name="local_media">Τοπικά βίντεο</string>
   <string name="local_media_empty_hint">No local videos</string>
   <string name="local_video">Local</string>
   <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Mi για να συγχρονίσετε και να ενημερώσετε τα shows τα οποία ακολουθείτε.</string>
@@ -306,7 +304,7 @@
   <string name="vp_get_url_error">"Can't find URL for this video."</string>
   <string name="vp_hide_media_info">Hide video info</string>
   <string name="vp_high_definition">HD</string>
-  <string name="vp_loading">Loading…</string>
+  <string name="vp_loading">Φόρτωση…</string>
   <string name="vp_media_info">View video info</string>
   <string name="vp_milink">MiLink</string>
   <string name="vp_next_ci">Το Επόμενο επεισόδιο</string>
