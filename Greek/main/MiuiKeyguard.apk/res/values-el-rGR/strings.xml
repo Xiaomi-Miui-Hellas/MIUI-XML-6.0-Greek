@@ -73,4 +73,5 @@
   <string name="default_lockscreen_unlock_hint_text">Σύρτε για ξεκλείδωμα</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε με Bluetooth</string>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Η συσκευή Bluetooth είναι πολύ μακριά για να ξεκλειδώσετε τη συσκευή.</string>
-</resources>
+  <string name="keyguard_torch_cover_text">Πατήστε παρατεταμένα το κουμπί λειτουργίας για να κρατήσει αναμμένο το φακό</string>
+  </resources>

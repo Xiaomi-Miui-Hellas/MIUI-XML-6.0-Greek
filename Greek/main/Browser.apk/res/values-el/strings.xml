@@ -36,7 +36,9 @@
   <string name="add_quicklink_to_popular">Προσθήκη στην αρχική σελίδα</string>
   <string name="add_quicklinks">Προσθήκη</string>
   <string name="add_to_bookmark">Προσθήκη στα αγαπημένα</string>
-  <string name="add_to_quicklink">Προσθήκη στην σελίδα έναρξης</string>
+  <string name="add_to_desk">Προσθήκη στην αρχική σελίδα</string>
+  <string name="add_to_desk_success">Προστέθηκε στην αρχική σελίδα</string>
+  <string name="add_to_quicklink">Προσθήκη στους συνδέσμους</string>
   <string name="added_to_bookmarks">Προστέθηκε στους σελιδοδείκτες.</string>
   <string name="adjust_text_zoom_toast">Αλλάζοντας το Zoom στις σελίδες, ίσως τις κάνει να μην εμφανίζονται σωστά</string>
   <string name="alert_tips">Η σελίδα που επισκέπτεστε μπορεί να αποτελέσει πιθανόν κίνδυνο για την ασφάλειά σας, θέλετε να συνεχίσετε?</string>
