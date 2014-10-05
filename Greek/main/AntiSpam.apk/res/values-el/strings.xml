@@ -143,6 +143,8 @@
   <string name="note_sms_none">Χωρίς μήνυμα για επεξεργασία</string>
   <string name="one_address_choose_hint">%s1 τοποθεσία</string>
   <string name="open_callwait">Οn</string>
+  <string name="sim_not_ready">Δεν είναι έτοιμη η SIM card</string>
+  <string name="st_title_not_sim">Άδειο</string>
   <string name="sms_delete_hint">Delete all blocked messages sent from selected number?</string>
   <string name="st_advanced_setting_group">Προχωρημένες ρυθμίσεις</string>
   <string name="st_antispam_black_adress_add">Επιλογή περιοχής</string>

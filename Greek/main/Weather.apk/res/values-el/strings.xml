@@ -56,4 +56,5 @@
   <string name="activity_find_city_dialog_set">Ρυθμίσεις</string>
   <string name="activity_find_city_dialog_title">Υπηρεσία τοποθεσίας</string>
   <string name="activity_find_city_dialog_message">Επιτρέπεται η χρήση εύρεσης τοποθεσίας για τον καιρό.</string>
+  <string name="view_sun_titile">Ανατολή και Δύση</string>
 </resources>
