@@ -7,7 +7,22 @@
   <string name="action_clear_sms_inbox">Καθαρισμός εισερχομένων SMS</string>
   <string name="action_close">Κλείσιμο</string>
   <string name="action_home">Πίσω</string>
-  <string name="action_kuaidi">Γρήγορο taxi</string>
+  <string name="action_key_back">Πίσω</string>
+  <string name="action_key_back_long">Πίσω (Μακρύ πάτημα)</string>
+  <string name="action_key_call">Κλήση</string>
+  <string name="action_key_direction">Κατεύθυνση</string>
+  <string name="action_key_end_call">Τέλος κλήσης</string>
+  <string name="action_key_enter">Εισαγωγή</string>
+  <string name="action_key_home">Αρχική οθόνη</string>
+  <string name="action_key_home_long">Αρχική οθόνη (Μακρύ πάτημα)</string>
+  <string name="action_key_menu">Μενού</string>
+  <string name="action_key_menu_long">Μενού (Μακρύ πάτημα)</string>
+  <string name="action_key_play_next">Επόμενο</string>
+  <string name="action_key_play_pause">Παύση/Αναπαραγωγή</string>
+  <string name="action_key_play_prev">Προηγούμενο</string>
+  <string name="action_key_power">Power</string>
+  <string name="action_key_power_long">Power (Μακρύ πάτημα)</string>
+  <string name="action_kuaidi">Γρήγορη taxi</string>
   <string name="action_lock_screen">Οθόνη κλειδώματος</string>
   <string name="action_open_camera">Κάμερα</string>
   <string name="action_open_camera2">Άλμπουμ</string>
@@ -39,11 +54,26 @@
   <string name="birthday">Γενέθλια:</string>
   <string name="call_to">Κλήση</string>
   <string name="cancel">Άκυρο</string>
+  <string name="category_0">Εφαρμογή</string>
+  <string name="category_1">Ρυθμίσεις συστήματος</string>
+  <string name="category_2">Κλειδιά</string>
   <string name="category_app">Εφαρμογές</string>
   <string name="category_system_settings">Ρυθμίσεις</string>
   <string name="chooser_dust_cap">Mikey (λειτ.σύνδεσης)</string>
   <string name="clean_memory">Καθαρισμός μνήμης</string>
+  <string name="click_count_union">Φορές</string>
   <string name="click_to_open">Άνοιγμα</string>
+  <string name="click_type_0">Μηδέν</string>
+  <string name="click_type_1">Ένα</string>
+  <string name="click_type_10">Δέκα</string>
+  <string name="click_type_2">Δύο</string>
+  <string name="click_type_3">Τρία</string>
+  <string name="click_type_4">Τέσσερα</string>
+  <string name="click_type_5">Πέντε</string>
+  <string name="click_type_6">Έξι</string>
+  <string name="click_type_7">Επτά</string>
+  <string name="click_type_8">Οκτώ</string>
+  <string name="click_type_9">Εννέα</string>
   <string name="close_all">Κλείσιμο όλων</string>
   <string name="close_flash_error">Αποτυχία κλεισίματος φλας!</string>
   <string name="close_recorder">Έξοδος εγγραφής</string>
@@ -109,6 +139,10 @@
 Αποστολή φωνής, λήψη φωτογραφιών, παιχνίδια…
 χρησιμοποιήστε τον οδηγό κλειδώματος"</string>
   <string name="input_phone">Εισαγωγή τηλεφώνου</string>
+  <string name="key_direction_down">Κάτω</string>
+  <string name="key_direction_left">Αριστερά</string>
+  <string name="key_direction_right">Δεξιά</string>
+  <string name="key_direction_up">Επάνω</string>
   <string name="long_click">Πιέστε και κρατήστε</string>
   <string name="message_photo_end">Η φωτογραφία σώθηκε</string>
   <string name="name">Όνομα:</string>
@@ -138,6 +172,7 @@
   <string name="select_baiduvoicesearch">Baidu voice search</string>
   <string name="select_camera">Επιλογή κάμερας</string>
   <string name="select_device">Επιλογή συσκευής</string>
+  <string name="select_direction">Κατευθύνσεις</string>
   <string name="setting_buy">Αγορά MiKeys</string>
   <string name="setting_feedback">Σχόλια</string>
   <string name="setting_instant_photo_desc">Πριν από την λήψη φωτογραφίας, η κάμερα εστιάζει</string>
@@ -188,6 +223,7 @@
   <string name="splash_mikey_sprite">"Σύρετε οπουδήποτε στην οθόνη
 Κάντε κλικ στο πλήκτρο του μετρητή της οθόνης"</string>
   <string name="splash_tip">Σύνδεση στο MiKey</string>
+  <string name="super_difficult_click">Δυσκολία Κλίκ</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Wizard</string>
   <string name="task_title_prefix">"Εργασία: "</string>
@@ -207,6 +243,8 @@
   <string name="toggle_sleep">Αδράνεια</string>
   <string name="toggle_wifi">Wi-Fi</string>
   <string name="toolbox_outer_desc">Επιλογή επιπλέον ή υπαρχόντων λειτουργιών</string>
+      <string name="unsupport_content">Παρακαλώ αναβαθμίστε στην τελευταία επίσημη έκδοση (Developer) της MIUI, για να υποστηρίξει αυτή την λειτουργία!!!</string>
+    <string name="unsupport_title">Αυτή η λειτουργία δεν υποστηρίζεται</string>
   <string name="update_message">Ενημέρωση!</string>
   <string name="vcard_prompt">Η επαφή δεν μπορεί να προστεθεί χωρίς όνομα</string>
   <string name="web">Ιστιοσελίδα:</string>
