@@ -110,7 +110,6 @@
     <string name="MSG202_CREATE_LINK_REVIEWING">Περιεκτικότητα Μοιραστείτε περιέχουν ευαίσθητου χαρακτήρα, είναι τεχνητή δοκιμή.</string>
     <string name="MSG202_CREATE_LINK_TOO_OFTEN">Δημιουργήστε μια κοινόχρηστη σύνδεση πάρα πολύ συχνά.</string>
     <string name="MSG202_UN_SUPPORT_OPERATOR">Εμείς δεν υποστηρίζουν τις σημερινές επιχειρήσεις του δικτύου.</string>
-    <string name="SDcard_tip_when_upgrade">APP αρχείο αναβάθμισης κεχρί router πρέπει να αποθηκεύονται στην κάρτα μνήμης, εγκαταστήστε ξανά την κάρτα μνήμης μετά την αναβάθμιση</string>
     <string name="accessibility_all_apps_button">Εφαρμογές</string>
     <string name="accessibility_delete_button">Κατάργηση</string>
     <string name="accessibility_search_button">Αναζήτηση</string>
@@ -283,8 +282,6 @@
     <string name="cancel_action">Ακύρωση</string>
     <string name="cancel_backup">"&lt;u&gt; Ακυρώσετε το αντίγραφο ασφαλείας &lt;/u&gt;"</string>
     <string name="change_back_name">Τροποποίηση ονόματος συσκευής</string>
-    <string name="change_back_name_fail">Επεξεργασία ονόματος Σημείωση απέτυχε, παρακαλώ προσπαθήστε ξανά</string>
-    <string name="changeing_back_name">Παρατηρήσεις είχαν τροποποιηθεί</string>
     <string name="channel_internal">Beta έκδοση</string>
     <string name="channel_preview">Προεπισκόπηση</string>
     <string name="channel_release">Σταθερό</string>
@@ -541,7 +538,6 @@
     <string name="folder_sound">Εγγραφή</string>
     <string name="folder_tap_to_close">Αγγίξτε για να κλείσει το φάκελο</string>
     <string name="folder_tap_to_rename">Αγγίξτε για να μετονομάσετε</string>
-    <string name="g_s">GB / s</string>
     <string name="g_s">G/S</string>
     <string name="gb">GB</string>
     <string name="get_binding_info">Λήψη πληροφοριών λογαριασμού Xunlei, παρακαλώ περιμένετε.</string>
