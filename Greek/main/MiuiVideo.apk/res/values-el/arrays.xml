@@ -19,7 +19,7 @@
         <item>Περίληψη</item>
     </string-array>
     <string-array name="addon_list_tabs">
-        <item>All Specials</item>
-        <item>My Specials</item>
+        <item>Όλες οι προσφορές</item>
+        <item>Οι προσφορές μου</item>
     </string-array>
 </resources>
