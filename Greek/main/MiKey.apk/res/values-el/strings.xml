@@ -107,7 +107,7 @@
   <string name="disable_mikey_sprite">Disable MiKey wizard</string>
   <string name="earphone">Ακουστικά</string>
   <string name="email">E-mail:</string>
-  <string name="enable_mikey_sprite">Enable MiKey wizard</string>
+  <string name="enable_mikey_sprite">Ενεργοποίηση MiKey οδηγού</string>
   <string name="fail_generate_barcode">Αποτυχία δημιουργίας κωδικού QR</string>
   <string name="faq_comp_text">Για την MIUI και τα Xiaomi τηλέφωνα. Η τρέχουσα έκδοση του MiKey είναι διαθέσιμη στο &lt;a href=http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/>xiaomi.eu&lt;/a></string>
   <string name="faq_comp_title">Υποστηριζόμενες συσκευές</string>
