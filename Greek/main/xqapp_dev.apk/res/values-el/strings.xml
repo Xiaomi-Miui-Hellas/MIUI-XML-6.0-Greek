@@ -8,7 +8,7 @@
     <string name="KSCSDK_DATA_UNSCHEDULE">Σύνδεση δικτύου είναι κάποια ερώτηση, κάποιος θα προσπαθήσουμε και πάλι τώρα.</string>
     <string name="KSCSDK_FRAMEWORK_UNSUPPORT">Πελάτης είναι κάποιο πρόβλημα, εγκαταστήστε μια νέα εκδοχή του και προσπαθήστε ξανά.</string>
     <string name="KSCSDK_INVALID_PARAM">Πελάτης είναι κάποια ερώτηση, κάποιος θα προσπαθήσουμε και πάλι τώρα.</string>
-    <string name="KSCSDK_IOERR_FILE_CHANGED">Ω αρχείο γρήγορο δίσκο έχει αλλάξει.</string>
+    <string name="KSCSDK_IOERR_FILE_CHANGED">To αρχείο γρήγορο δίσκο έχει αλλάξει.</string>
     <string name="KSCSDK_IOERR_MISS_FILE">Δεν μπορείτε να βρείτε το αρχείο, και θα προσπαθήσει και πάλι τώρα.</string>
     <string name="KSCSDK_IOERR_NO_PROMISSION">Δεν μπορείτε να βρείτε το αρχείο, και θα προσπαθήσει και πάλι τώρα.</string>
     <string name="KSCSDK_LIMIT_NO_SPACE">Τηλεφωνική κάρτα SD είναι πλήρης, διαγράψτε κάτι και δοκιμάστε ξανά τώρα.</string>
@@ -280,7 +280,7 @@
     <string name="camera_waiting">Υπό επεξεργασία ...</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_action">Ακύρωση</string>
-    <string name="cancel_backup">"&lt;u&gt; Ακυρώσετε το αντίγραφο ασφαλείας &lt;/u&gt;"</string>
+    <string name="cancel_backup">"Ακυρώσετε το αντίγραφο ασφαλείας"</string>
     <string name="change_back_name">Τροποποίηση ονόματος συσκευής</string>
     <string name="channel_internal">Beta έκδοση</string>
     <string name="channel_preview">Προεπισκόπηση</string>
@@ -617,7 +617,7 @@
     <string name="kb_s">KB/S</string>
     <string name="kick_device_error">Αποτυχία προσθήκης στη μαύρη λίστα, παρακαλώ προσπαθήστε ξανά.</string>
     <string name="know_button">Επιβεβαίωση</string>
-    <string name="kuaipan_account">"&lt;u&gt;Δημιουργία αντιγράφων ασφαλείας σε υπάρχον Cloud/Mi λογαριασμού&lt;/u&gt;"</string>
+    <string name="kuaipan_account">"Δημιουργία αντιγράφων ασφαλείας σε υπάρχον Cloud/Mi λογαριασμού"</string>
     <string name="kuaipan_account_input_hint">Παρακαλώ εισάγετε το email/τηλέφωνο.</string>
     <string name="kuaipan_account_kp">Kuaipan/αριθμός λογαριασμού τηλεφώνου</string>
     <string name="kuaipan_account_logout_hint">Η αποσύνδεση θα σταματήσει το αντίγραφο ασφαλείας.</string>
@@ -714,7 +714,7 @@
     <string name="login_admin_password_tip">Εισάγετε τον κωδικό πρόσβασης διαχειριστή</string>
     <string name="login_bind_confirm">Επιβεβαίωση</string>
     <string name="login_bind_start">Μια στιγμή ...</string>
-    <string name="login_change_account">"&lt;u&gt;Εναλλαγή λογαριασμών&lt;/u&gt;"</string>
+    <string name="login_change_account">"Εναλλαγή λογαριασμών"</string>
     <string name="login_forget_password">Ξεχάσατε τον κωδικό σας</string>
     <string name="login_guide_description_1">Γεια σας %s 
 Για να συνδεθείτε στο Mi Wi-Fi</string>
@@ -734,10 +734,10 @@
     <string name="login_passport_login_fail">Αποτυχία σύνδεσης στο λογαριασμό Mi.</string>
     <string name="login_passport_login_waiting">Σύνδεση...</string>
     <string name="login_password_tip">Κωδικός πρόσβασης</string>
-    <string name="login_system_account_admin_password">"&lt;u&gt;Σύνδεση Διαχειριστή&lt;/u&gt;"</string>
+    <string name="login_system_account_admin_password">"Σύνδεση Διαχειριστή"</string>
     <string name="login_system_login">Είσοδος</string>
     <string name="login_xiaomi_account_login">Σύνδεσης του λογαριασμού Mi</string>
-    <string name="login_xiaomi_account_login_link">"&lt;u&gt;Σύνδεση στο Mi λογαριασμό&lt;/u&gt;"</string>
+    <string name="login_xiaomi_account_login_link">"Σύνδεση στο Mi λογαριασμό"</string>
     <string name="m_s">M/S</string>
     <string name="mac_address">MAC Address</string>
     <string name="mb">MB</string>
@@ -874,7 +874,7 @@
     <string name="next_button">Επόμενο</string>
     <string name="no_backname">Χωρίς όνομα.</string>
     <string name="no_client">Δεν συνδέθηκαν συσκευές σήμερα</string>
-    <string name="no_dial_required">"&lt;u&gt;Δεν απαιτείται κλήση&lt;/u&gt;"</string>
+    <string name="no_dial_required">"Δεν απαιτείται κλήση"</string>
     <string name="no_file_to_backup">Δεν υπάρχει καμία ανάγκη για να δημιουργήσετε αντίγραφα ασφαλείας των αρχείων</string>
     <string name="no_images">Δεν υπάρχει</string>
     <string name="no_install_ants_app">Cloud μυρμήγκια πελάτης δεν έχει εγκατασταθεί</string>
@@ -913,9 +913,9 @@
     <string name="passport_binding_loading">Σε σύνδεση, παρακαλώ περιμένετε ...</string>
     <string name="passport_binding_no_empty_tip">Το περιεχόμενο λείπει.</string>
     <string name="passport_binding_password_input_hint">Κωδικός πρόσβασης</string>
-    <string name="passport_binding_skip_bind">"&lt;u&gt;Παράκαμψη και είσοδος στην αρχική σελίδα&lt;/u&gt;"</string>
+    <string name="passport_binding_skip_bind">"Παράκαμψη και είσοδος στην αρχική σελίδα"</string>
     <string name="passport_binding_title">Σύνδεση του λογαριασμού Mi</string>
-    <string name="passport_login_retry_other_passport">"&lt;u&gt;Σύνδεση με άλλο λογαριασμό&lt;/u&gt;"</string>
+    <string name="passport_login_retry_other_passport">"Σύνδεση με άλλο λογαριασμό"</string>
     <string name="passport_login_retry_prompt">Θέλετε να συνεχίσετε να χρησιμοποιείτε αυτό το λογαριασμό;</string>
     <string name="passport_manager">Αριθμός λογαριασμού Mi</string>
     <string name="passport_prompt_login_fail">Αποτυχία σύνδεσης.</string>
@@ -967,7 +967,7 @@
     <string name="plugin_nfc_not_support">Συγγνώμη, αυτό το τηλέφωνο δεν υποστηρίζει λειτουργίες NFC.</string>
     <string name="plugin_nfc_put_mobile_up_router">Τοποθετήστε το κινητό τηλέφωνο στο Mi Wi-Fi.</string>
     <string name="plugin_nfc_setting">Ρύθμιση NFC</string>
-    <string name="plugin_nfc_setting_clear"> \""&lt;u&gt;Κατάργηση των υφιστάμενων NFC ρυθμίσεων&lt;/u&gt;"\" </string>
+    <string name="plugin_nfc_setting_clear">"Κατάργηση των υφιστάμενων NFC ρυθμίσεων" </string>
     <string name="plugin_nfc_setting_clear_succ">Αποτυχία διαγραφής</string>
     <string name="plugin_nfc_setting_clear_title">Αφαίρεση υφιστάμενων ρυθμίσεων NFC</string>
     <string name="plugin_nfc_setting_succ">Η εγκατάσταση είναι πλήρης</string>
@@ -1574,7 +1574,7 @@ Kingsoft δίσκο ακολουθώντας την ακραία, επικεντ
     <string name="wan_setting_account_password_failed">Εσφαλμένος αριθμός λογαριασμού ή λάθος κωδικός</string>
     <string name="wan_setting_account_password_success">Ο λογαριασμός έχει ρυθμιστεί με επιτυχία</string>
     <string name="wan_setting_dhcp_description">Το Mi Wi-Fi δεσμεύει αυτόματα, έτσι δεν υπάρχει καμία ανάγκη για κλήση.</string>
-    <string name="wan_setting_dhcp_link">"&lt;u&gt;Απαιτεί dial-up&lt;/u&gt;"</string>
+    <string name="wan_setting_dhcp_link">"Απαιτεί dial-up"</string>
     <string name="wan_setting_dhcp_title">Εξωτερική ρύθμιση του δικτύου</string>
     <string name="wan_setting_loading">Ρύθμιση εξωτερικού δίκτυου...</string>
     <string name="wan_setting_password_error">Ο κωδικός πρόσβασης πρέπει να εισαχθεί</string>
@@ -1586,7 +1586,7 @@ Kingsoft δίσκο ακολουθώντας την ακραία, επικεντ
     <string name="wan_setting_pppoe_edit_message">Παρακαλώ επιλέξετε χειροκίνητα την απαιτούμενη dial-up</string>
     <string name="wan_setting_pppoe_edit_password_hint">Broadband κωδικός</string>
     <string name="wan_setting_pppoe_edit_title">Επεξεργασία πληροφοριών ευρυζωνικού λογαριασμού</string>
-    <string name="wan_setting_pppoe_link">"&lt;u&gt;Δεν απαιτείται κλήση&lt;/u&gt;"</string>
+    <string name="wan_setting_pppoe_link">"Δεν απαιτείται κλήση"</string>
     <string name="wan_setting_pppoe_password_tip">Broadband κωδικός:</string>
     <string name="wan_setting_pppoe_title">Ρυθμίσεις λογαριασμού Broadband</string>
     <string name="wan_setting_type_check_failed">Αποτυχία ανίχνευσης τύπου εξωτερικού δικτύου</string>

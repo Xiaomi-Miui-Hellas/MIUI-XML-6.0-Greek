@@ -7,7 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Έκδοση:</string>
   <string name="actor_colon">Ηθοποιός:</string>
-  <string name="vp_loading_download">"&lt;CDATA&gt;στις λήψεις &lt;/CDATA&gt;"</string>
+  <string name="vp_loading_download">"στις λήψεις"</string>
   <string name="vp_install_title">Σημειώσεις για την εγκατάσταση</string>
   <string name="vp_install">Εγκατάσταση</string>
   <string name="vp_confirm">Επιβεβαίωση</string>
@@ -44,7 +44,7 @@
   <string name="app_name">Βίντεο</string>
   <string name="area_colon">"Χώρα: "</string>
   <string name="authenticated_failed">Αποτυχία εισόδου</string>
-  <string name="authenticating">"&lt;CDATA&gt;Επαλήθευση&lt;/CDATA&gt;"</string>
+  <string name="authenticating">"Επαλήθευση"</string>
   <string name="authenticating_manually">Αποτυχία πιστοποίησης</string>
   <string name="average_score">Μέσος όρος</string>
   <string name="avg_score">%.1f</string>
@@ -151,7 +151,7 @@
   <string name="key_back_down_toast">Για να εξέλθετε, πιέστε πάλι Πίσω</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">"&lt;CDATA&gt;Φόρτωση&lt;/CDATA&gt;"</string>
+  <string name="loading">"Φόρτωση"</string>
   <string name="loading_video_netplay_label">Φόρτωση, παρακαλώ περιμένετε ...</string>
   <string name="loading_video_netplay_label_v5">Φόρτωση ροής, παρακαλώ περιμένετε ...</string>
   <string name="local_detail_more">%d περισσότερα βίντεο</string>
