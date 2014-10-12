@@ -587,10 +587,8 @@
     <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλεγμένης εφαρμογής</string>
     <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη στο %s .</string>
     <string name="description_image_button_one">ένα</string>
-    <string name="description_image_button_two">δύο
-</string>
-    <string name="description_image_button_three">τρία
-</string>
+    <string name="description_image_button_two">δύο</string>
+    <string name="description_image_button_three">τρία</string>
     <string name="description_image_button_four">τέσσερα</string>
     <string name="description_image_button_five">πέντε</string>
     <string name="description_image_button_six">έξι</string>

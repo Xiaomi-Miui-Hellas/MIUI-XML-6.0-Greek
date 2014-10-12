@@ -21,8 +21,7 @@
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Αρχική μόνο</item>
-        <item>Αυτόμα</item>
-    </string-array>
+        <item>Αυτόματα</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Κανονικός</item>
