@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Παγκόσμια</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA+LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo μόνο</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>CDMA/EvDo αυτομ.</item>
+        <item>GSM/WCDMA αυτομ.</item>
+        <item>WCDMA μόνο</item>
+        <item>GSM μόνο</item>
+        <item>GSM/WCDMA προτιμάται</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Αρχική μόνο</item>
+        <item>Αυτόμα</item>
+    </string-array>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Κανονικός</item>
+        <item>Μακρύς</item>
+    </string-array>
+</resources>
