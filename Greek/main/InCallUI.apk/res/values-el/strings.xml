@@ -64,18 +64,15 @@
     <string name="audio_mode_earpiece">Ακουστικό handset</string>
     <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων;
-</string>
-    <string name="pause_prompt_str">Αποστολή τόνων
-</string>
+    <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων;</string>
+    <string name="pause_prompt_str">Αποστολή τόνων</string>
     <string name="send_button">Αποστολή</string>
     <string name="pause_prompt_yes">Ναι</string>
     <string name="pause_prompt_no">Όχι</string>
     <string name="wild_prompt_str">Αντικατάσταση συμβόλου με</string>
     <string name="modify_call_prompt_yes">Ναι</string>
     <string name="modify_call_prompt_no">Όχι</string>
-    <string name="modify_call_failure_str">Το αίτημα τροποποίησης κλήσης απέτυχε
-</string>
+    <string name="modify_call_failure_str">Το αίτημα τροποποίησης κλήσης απέτυχε</string>
     <string name="modify_call_option_title">Ποιο είδος κλήσεων;</string>
     <string name="modify_call_option_vt">VT</string>
     <string name="modify_call_option_vt_tx">Μετάδοση βίντεο</string>
@@ -85,8 +82,7 @@
     <string name="upgrade_vt_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε κλήση βίντεο;</string>
     <string name="upgrade_vt_tx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε εκπομπή βίντεο μόνο;</string>
     <string name="upgrade_vt_rx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε λήψη βίντεο μόνο;</string>
-    <string name="vt_init_fail_str">Η VT προετοιμασία απέτυχε. Υποβάθμιση σε κλήση Volte
-</string>
+    <string name="vt_init_fail_str">Η VT προετοιμασία απέτυχε. Υποβάθμιση σε κλήση Volte</string>
     <string name="no_vm_number">Λείπει ο αριθμός αυτόματου τηλεφωνητή</string>
     <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός για τον αυτόματο τηλεφωνητή στην κάρτα SIM.</string>
     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
@@ -374,8 +370,7 @@
     <string name="fake_phone_activity_placeCall_text">Ψευδής εισερχόμενη κλήση</string>
     <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
     <string name="card_title_dialing">Κλήση</string>
-    <string name="card_title_redialing">Επανάληψη...
-</string>
+    <string name="card_title_redialing">Επανάληψη...</string>
     <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
     <string name="card_title_threeway_call">Τριμερής κλήση</string>
     <string name="card_title_incoming_call">Εισερχόμενη κλήση</string>
@@ -445,8 +440,7 @@
     <string name="dtmf_tones_summary">Ρυθμίστε το μήκος των τόνων DTMF</string>
     <string name="network_message">Μήνυμα δικτύου</string>
     <string name="ota_title_activate">Ενεργοποιήστε το τηλέφωνό σας</string>
-    <string name="ota_touch_activate">Μια ειδική κλήση πρέπει να γίνει για να ενεργοποιήσετε το τηλέφωνό σας. 
-Μετά το πάτημα του \"Ενεργοποίηση\", ακούστε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας.</string>
+    <string name="ota_touch_activate">Μια ειδική κλήση πρέπει να γίνει για να ενεργοποιήσετε το τηλέφωνό σας./nΜετά το πάτημα του \"Ενεργοποίηση\", ακούστε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας.</string>
     <string name="ota_skip_activation_dialog_title">Παράκαμψη ενεργοποίησης;</string>
     <string name="ota_skip_activation_dialog_message">Εάν παραλείψετε την ενεργοποίηση, δεν θα μπορείτε να πραγματοποιείτε κλήσεις ή να συνδεθείτε σε δίκτυα κινητής τηλεφωνίας (αν και μπορείτε να συνδεθείτε σε δίκτυα WLAN). Μέχρι να ενεργοποιήσετε το τηλέφωνό σας, θα σας ζητηθεί να το ενεργοποιήσετε κάθε φορά που το ανοίγετε.</string>
     <string name="ota_skip_activation_dialog_skip_label">Παράβλεψη</string>
