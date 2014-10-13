@@ -389,7 +389,6 @@
     <string name="dial_pad_autocomplete">Αυτόματη συμπλήρωση πληκτρολογίου</string>
     <string name="dial_related_setting_catory">Κληση</string>
     <string name="dialerKeyboardHintText">Χρήση πληκτρολογίου για να καλέσετε</string>
-    <string name="dial_pad_autocomplete">Αυτόματη συμπλήρωση πληκτρολογίου</string>
     <string name="dialog_network_priority_title">Προτεραιότητα</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="disable_all_cf">Απενεργοποιήστε όλες τις δυνατότητες προώθησης κλήσεων</string>
@@ -590,7 +589,6 @@
     <string name="labelCallerId">Ταυτότητα καλούντος</string>
     <string name="labelGSMMore">Ρυθμίσεις κλήσης GSM</string>
     <string name="labelNwService">Ρυθμίσεις παροχής υπηρεσιών δικτύου</string>
-    <string name="label_available">Διαθέσιμα δίκτυα</string>
     <string name="label_cdp">PIN ξεκλειδώματος εταιρικής SIM</string>
     <string name="label_ndp">PIN ξεκλειδώματος κάρτας δικτύου SIM</string>
     <string name="label_nsdp">PIN ξεκλειδώματος υποσυνόλου κάρτας δικτύου SIM</string>
