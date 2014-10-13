@@ -210,7 +210,7 @@
     <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
     <string name="throttle_rate">Πολιτική ρυθμού δεδομένων</string>
     <string name="throttle_help">Μάθετε περισσότερα</string>
-    <string name="throttle_status_subtext">%1$s (%2$d\u066A) από %3$s μέγιστη περίοδο\nΗ επόμενη περίοδος αρχίζει σε %4$d ημέρες (%5$s)</string></string>
+    <string name="throttle_status_subtext">%1$s (%2$d\u066A) από %3$s μέγιστη περίοδο\nΗ επόμενη περίοδος αρχίζει σε %4$d ημέρες (%5$s)</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d\u066A) από %3$s μέγιστη περίοδο</string>
     <string name="throttle_data_rate_reduced_subtext">%1$s υπέρβαση μέγιστου ορίου\nΟ ρυθμός των δεδομένων μειώνεται σε %2$d Kb/s</string>
     <string name="throttle_time_frame_subtext">%1$d του κύκλου έχει παρέλθει\nΗ επόμενη περίοδος αρχίζει σε %2$d ημέρες (%3$s)</string>
