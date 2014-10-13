@@ -64,18 +64,15 @@
     <string name="audio_mode_earpiece">Ακουστικό handset</string>
     <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων;
-</string>
-    <string name="pause_prompt_str">Αποστολή τόνων
-</string>
+    <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων;</string>
+    <string name="pause_prompt_str">Αποστολή τόνων</string>
     <string name="send_button">Αποστολή</string>
     <string name="pause_prompt_yes">Ναι</string>
     <string name="pause_prompt_no">Όχι</string>
     <string name="wild_prompt_str">Αντικατάσταση συμβόλου με</string>
     <string name="modify_call_prompt_yes">Ναι</string>
     <string name="modify_call_prompt_no">Όχι</string>
-    <string name="modify_call_failure_str">Το αίτημα τροποποίησης κλήσης απέτυχε
-</string>
+    <string name="modify_call_failure_str">Το αίτημα τροποποίησης κλήσης απέτυχε</string>
     <string name="modify_call_option_title">Ποιο είδος κλήσεων;</string>
     <string name="modify_call_option_vt">VT</string>
     <string name="modify_call_option_vt_tx">Μετάδοση βίντεο</string>
@@ -85,8 +82,7 @@
     <string name="upgrade_vt_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε κλήση βίντεο;</string>
     <string name="upgrade_vt_tx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε εκπομπή βίντεο μόνο;</string>
     <string name="upgrade_vt_rx_prompt">Θα θέλατε να αναβαθμίσετε την κλήση σε λήψη βίντεο μόνο;</string>
-    <string name="vt_init_fail_str">Η VT προετοιμασία απέτυχε. Υποβάθμιση σε κλήση Volte
-</string>
+    <string name="vt_init_fail_str">Η VT προετοιμασία απέτυχε. Υποβάθμιση σε κλήση Volte</string>
     <string name="no_vm_number">Λείπει ο αριθμός αυτόματου τηλεφωνητή</string>
     <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός για τον αυτόματο τηλεφωνητή στην κάρτα SIM.</string>
     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
@@ -123,22 +119,22 @@
     <string name="labelCFU">Προώθηση πάντα</string>
     <string name="messageCFU">Να γίνεται πάντα χρήση αυτού του αριθμού</string>
     <string name="sum_cfu_enabled_indicator">Προώθηση όλων των κλήσεων</string>
-    <string name="sum_cfu_enabled">Προώθηση όλων των κλήσεων σε <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfu_enabled">Προώθηση όλων των κλήσεων σε {0}</string>
     <string name="sum_cfu_enabled_no_number">Αριθμός δεν είναι διαθέσιμος</string>
     <string name="sum_cfu_disabled">Απενεργοποιημένο</string>
     <string name="labelCFB">Προώθηση όταν είμαι απασχολημένος/η</string>
     <string name="messageCFB">Αρίθμηση όταν είμαι απασχολημένος/ή</string>
-    <string name="sum_cfb_enabled">Προώθηση στο <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfb_enabled">Προώθηση στο {0}</string>
     <string name="sum_cfb_disabled">Απενεργοποιημένο</string>
     <string name="disable_cfb_forbidden">Ο πάροχός σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι κατειλημμένο.</string>
     <string name="labelCFNRy">Προώθηση όταν δεν απαντάω</string>
     <string name="messageCFNRy">Αρίθμηση όταν δεν απαντάω</string>
-    <string name="sum_cfnry_enabled">Προώθηση στο <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfnry_enabled">Προώθηση στο {0}</string>
     <string name="sum_cfnry_disabled">Απενεργοποιημένο</string>
     <string name="disable_cfnry_forbidden">Ο πάροχός σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας δεν απαντά.</string>
     <string name="labelCFNRc">Προώθηση όταν δεν είμαι διαθέσιμος/η</string>
     <string name="messageCFNRc">Αρίθμηση όταν δεν είμαι διαθέσιμος/η</string>
-    <string name="sum_cfnrc_enabled">Προώθηση στο <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfnrc_enabled">Προώθηση στο {0}</string>
     <string name="sum_cfnrc_disabled">Απενεργοποιημένο</string>
     <string name="disable_cfnrc_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι απρόσιτο.</string>
     <string name="updating_title">Ρυθμίσεις κλήσης</string>
@@ -170,7 +166,7 @@
     <string name="empty_networks_list">Δεν βρέθηκαν δίκτυα.</string>
     <string name="search_networks">Αναζήτηση δικτύων</string>
     <string name="network_query_error">Προέκυψε σφάλμα κατά την αναζήτηση δικτύων.</string>
-    <string name="register_on_network">Εγγραφή στο <xliff:g id="network">%s</xliff:g>\u2026</string>
+    <string name="register_on_network">Εγγραφή στο %s</string>
     <string name="not_allowed">Η κάρτα SIM δεν επιτρέπει σύνδεση σε αυτό το δίκτυο.</string>
     <string name="connect_later">Δεν είναι δυνατή η σύνδεση σε αυτό το δίκτυο τώρα. Δοκιμάστε ξανά αργότερα.</string>
     <string name="registration_done">Έγινε εγγραφή στο δίκτυο.</string>
@@ -210,11 +206,11 @@
     <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
     <string name="throttle_rate">Πολιτική ρυθμού δεδομένων</string>
     <string name="throttle_help">Μάθετε περισσότερα</string>
-    <string name="throttle_status_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) από <xliff:g id="used">%3$s</xliff:g> μέγιστη περίοδο\nΗ επόμενη περίοδος αρχίζει σε <xliff:g id="used">%4$d</xliff:g> ημέρες (<xliff:g id="used">%5$s</xliff:g>)</string></string>
-    <string name="throttle_data_usage_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) από <xliff:g id="used">%3$s</xliff:g> μέγιστη περίοδο</string>
-    <string name="throttle_data_rate_reduced_subtext"><xliff:g id="used">%1$s</xliff:g> υπέρβαση μέγιστου ορίου\nΟ ρυθμός των δεδομένων μειώνεται σε <xliff:g id="used">%2$d</xliff:g> Kb/s</string>
-    <string name="throttle_time_frame_subtext">%1$d</xliff:g>\u066A του κύκλου έχει παρέλθει\nΗ επόμενη περίοδος αρχίζει σε <xliff:g id="used">%2$d</xliff:g> ημέρες (<xliff:g id="used">%3$s</xliff:g>)</string>
-    <string name="throttle_rate_subtext">Η ταχύτητα δεδομένων θα μειωθεί σε <xliff:g id="used">%1$d</xliff:g> Kb/s αν υπερβείτε το όριο</string>
+    <string name="throttle_status_subtext">%1$s (%2$d) από %3$s> μέγιστη περίοδο\nΗ επόμενη περίοδος αρχίζει σε %4$d ημέρες (%5$s)</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d) από %3$s μέγιστη περίοδο</string>
+    <string name="throttle_data_rate_reduced_subtext">%1$s υπέρβαση μέγιστου ορίου\nΟ ρυθμός των δεδομένων μειώνεται σε %2$d Kb/s</string>
+    <string name="throttle_time_frame_subtext">%1$d του κύκλου έχει παρέλθει\nΗ επόμενη περίοδος αρχίζει σε %2$d ημέρες (%3$s)</string>
+    <string name="throttle_rate_subtext">Η ταχύτητα δεδομένων θα μειωθεί σε %1$d Kb/s αν υπερβείτε το όριο</string>
     <string name="throttle_help_subtext">Περισσότερες πληροφορίες σχετικά με το δίκτυο κινητής τηλεφωνίας της πολιτικής χρήσης των δεδομένων του φορέα σας</string>
     <string name="cell_broadcast_sms">Εκπομπή κυψέλης SMS</string>
     <string name="enable_disable_cell_bc_sms">Εκπομπή κυψέλης SMS</string>
@@ -368,14 +364,13 @@
     <string name="fdn_enable_puk2_requested">Ο κωδικός είναι λανθασμένος. Αλλαγή του PIN2 και δοκιμάστε ξανά.</string>
     <string name="puk2_requested">Λανθασμένος κωδικός, η κάρτα SIM είναι κλειδωμένη. Ο PUK2 ζητήθηκε.</string>
     <string name="doneButton">Ολοκληρώθηκε</string>
-    <string name="caller_manage_header">Κλήση συνδιάσκεψης <xliff:g id="conf_call_time">%s</xliff:g></string>
+    <string name="caller_manage_header">Κλήση συνδιάσκεψης >%s</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_infoText_text">Εισερχόμενος αριθμός τηλεφώνου</string>
     <string name="fake_phone_activity_placeCall_text">Ψευδής εισερχόμενη κλήση</string>
     <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
     <string name="card_title_dialing">Κλήση</string>
-    <string name="card_title_redialing">Επανάληψη...
-</string>
+    <string name="card_title_redialing">Επανάληψη...</string>
     <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
     <string name="card_title_threeway_call">Τριμερής κλήση</string>
     <string name="card_title_incoming_call">Εισερχόμενη κλήση</string>
@@ -384,21 +379,21 @@
     <string name="card_title_hanging_up">Τερματισμός</string>
     <string name="card_title_in_call">Σε κλήση</string>
     <string name="card_title_in_call_short">Σε κλήση</string>
-    <string name="card_title_my_phone_number">Ο αριθμός μου είναι <xliff:g id="my_phone_number">%s</xliff:g></string>
+    <string name="card_title_my_phone_number">Ο αριθμός μου είναι %s</string>
     <string name="notification_dialing">Κλήση</string>
     <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
     <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
-    <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> αναπάντητες κλήσεις</string>
-    <string name="notification_missedCallTicker">Αναπάντητη κλήση από <xliff:g id="missed_call_from">%s</xliff:g></string>
+    <string name="notification_missedCallsMsg">%s αναπάντητες κλήσεις</string>
+    <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
     <string name="notification_ongoing_call">Κλήση σε εξέλιξη</string>
     <string name="notification_on_hold">Σε αναμονή</string>
     <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
     <string name="notification_voicemail_title">Νέο μήνυμα στον αυτόματο τηλεφωνητή</string>
-    <string name="notification_voicemail_title_count">Νέο μήνυμα (<xliff:g id="count">%d</xliff:g>)</string>
-    <string name="notification_voicemail_text_format">Κλήση <xliff:g id="voicemail_number">%s</xliff:g></string>
+    <string name="notification_voicemail_title_count">Νέο μήνυμα (%d)</string>
+    <string name="notification_voicemail_text_format">Κλήση %s</string>
     <string name="notification_voicemail_no_vm_number">Ο αριθμός αυτόματου τηλεφωνητή είναι άγνωστος</string>
     <string name="notification_network_selection_title">Καμία υπηρεσία</string>
-    <string name="notification_network_selection_text">Το επιλεγμένο δίκτυο ((<xliff:g id="operator_name">%s</xliff:g>) δεν είναι διαθέσιμο</string>
+    <string name="notification_network_selection_text">Το επιλεγμένο δίκτυο (%s) δεν είναι διαθέσιμο</string>
     <string name="notification_action_end_call">Τερματισμός</string>
     <string name="notification_missedCall_call_back">Επανάκληση</string>
     <string name="notification_missedCall_message">Μήνυμα</string>
@@ -419,7 +414,7 @@
     <string name="emergency_enable_radio_dialog_title">Κλήση έκτακτης ανάγκης</string>
     <string name="emergency_enable_radio_dialog_message">Ενεργοποίηση πομποδέκτη...</string>
     <string name="emergency_enable_radio_dialog_retry">Εκτός περιοχής κάλυψης, επανάληψη κλήσης...</string>
-    <string name="dial_emergency_error">Η κλήση δεν έγινε. (<xliff:g id="operator_name">%s</xliff:g>) δεν είναι ο αριθμός έκτακτης ανάγκης!</string>
+    <string name="dial_emergency_error">Η κλήση δεν έγινε. (%s) δεν είναι ο αριθμός έκτακτης ανάγκης!</string>
     <string name="dial_emergency_empty_error">Η κλήση δεν έγινε. Πληκτρολογήστε έναν αριθμό έκτακτης ανάγκης!</string>
     <string name="dialerKeyboardHintText">Χρησιμοποιήστε το πληκτρολόγιο για να καλέσετε έναν αριθμό</string>
     <string name="onscreenHoldText">Αναμονή</string>
@@ -445,8 +440,7 @@
     <string name="dtmf_tones_summary">Ρυθμίστε το μήκος των τόνων DTMF</string>
     <string name="network_message">Μήνυμα δικτύου</string>
     <string name="ota_title_activate">Ενεργοποιήστε το τηλέφωνό σας</string>
-    <string name="ota_touch_activate">Μια ειδική κλήση πρέπει να γίνει για να ενεργοποιήσετε το τηλέφωνό σας. 
-Μετά το πάτημα του \"Ενεργοποίηση\", ακούστε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας.</string>
+    <string name="ota_touch_activate">Μια ειδική κλήση πρέπει να γίνει για να ενεργοποιήσετε το τηλέφωνό σας.\nΜετά το πάτημα του \"Ενεργοποίηση\", ακούστε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας.</string>
     <string name="ota_skip_activation_dialog_title">Παράκαμψη ενεργοποίησης;</string>
     <string name="ota_skip_activation_dialog_message">Εάν παραλείψετε την ενεργοποίηση, δεν θα μπορείτε να πραγματοποιείτε κλήσεις ή να συνδεθείτε σε δίκτυα κινητής τηλεφωνίας (αν και μπορείτε να συνδεθείτε σε δίκτυα WLAN). Μέχρι να ενεργοποιήσετε το τηλέφωνό σας, θα σας ζητηθεί να το ενεργοποιήσετε κάθε φορά που το ανοίγετε.</string>
     <string name="ota_skip_activation_dialog_skip_label">Παράβλεψη</string>
@@ -476,7 +470,7 @@
     <string name="voicemail_settings">Εγκατάσταση</string>
     <string name="voicemail_number_not_set">Δεν ορίστηκε</string>
     <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
-    <string name="calling_via_template">Κλήση μέσω <xliff:g id="provider_name">%s</xliff:g></string>
+    <string name="calling_via_template">Κλήση μέσω %s</string>
     <string name="contactPhoto">φωτογραφία επαφής</string>
     <string name="goPrivate">σε ιδιωτική</string>
     <string name="selectContact">επιλέξτε επαφή</string>
@@ -510,7 +504,7 @@
     <string name="alert_dialog_close">Κλείστε το προφίλ</string>
     <string name="alert_dialog_ok">ΟΚ</string>
     <string name="close_profile">Κλείσιμο</string>
-    <string name="primary_account_summary_with">Πρωτοβάθμιος λογαριασμός. <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
+    <string name="primary_account_summary_with">Πρωτοβάθμιος λογαριασμός. %s</string>
     <string name="registration_status_checking_status">Έλεγχος κατάστασης ...</string>
     <string name="registration_status_registering">Δήλωση ...</string>
     <string name="registration_status_still_trying">Ακόμα προσπαθώ ...</string>
@@ -522,7 +516,7 @@
     <string name="registration_status_failed_try_later">Αποτυχία εγγραφής λογαριασμού: (%s)! Θα προσπαθήσω αργότερα</string>
     <string name="registration_status_invalid_credentials">Αποτυχία εγγραφής λογαριασμού: Λάθος όνομα χρήστη ή τον κωδικό πρόσβασης.</string>
     <string name="registration_status_server_unreachable">Αποτυχία εγγραφής λογαριασμού: Ελέγξτε το όνομα του διακομιστή.</string>
-    <string name="third_party_account_summary">Αυτός ο λογαριασμός είναι σήμερα σε χρήση από την εφαρμογή <xliff:g id="account_owner" example="Google Talk">%s</xliff:g>.</string>
+    <string name="third_party_account_summary">Αυτός ο λογαριασμός είναι σήμερα σε χρήση από την εφαρμογή %s.</string>
     <string name="sip_edit_title">Στοιχεία λογαριασμού SIP</string>
     <string name="sip_edit_new_title">Στοιχεία λογαριασμού SIP</string>
     <string name="domain_address_title">Διακομιστής</string>
@@ -545,7 +539,7 @@
     <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">▷ Αγγίξτε για προβολή όλων</string>
     <string name="advanced_settings_hide">▽ Αγγίξτε για απόκρυψη όλων</string>
-    <string name="empty_alert"><xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> απαιτείται και δεν μπορεί να μείνει κενό.</string>
+    <string name="empty_alert">%s απαιτείται και δεν μπορεί να μείνει κενό.</string>
     <string name="not_a_valid_port">Ο αριθμός θύρας πρέπει να είναι μεταξύ 1000 και 65534.</string>
     <string name="no_internet_available_title">Δεν υπάρχει σύνδεση στο Internet</string>
     <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WLAN</string>
@@ -581,7 +575,7 @@
     <string name="respond_via_sms_setting_summary"></string>
     <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απόκριση</string>
     <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλεγμένης εφαρμογής</string>
-    <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη στο <xliff:g id="phone_number">%s</xliff:g>.</string>
+    <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη στο %s.</string>
     <string name="description_image_button_one">ένα</string>
     <string name="description_image_button_two">δύο</string>
     <string name="description_image_button_three">τρία</string>
@@ -608,13 +602,13 @@
     <string name="description_direction_up_left">Πάνω αριστερά</string>
     <string name="description_direction_down_left">Κάτω Αριστερά</string>
     <string name="description_direction_down_right">Κάτω Δεξιά</string>
-    <string name="description_direction_up">Σύρετε προς τα πάνω για <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
-    <string name="description_direction_left">Σύρετε προς τα αριστερά για <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
-    <string name="description_direction_right">Σύρετε τα δεξιά για <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+    <string name="description_direction_up">Σύρετε προς τα πάνω για %s.</string>
+    <string name="description_direction_left">Σύρετε προς τα αριστερά για %s.</string>
+    <string name="description_direction_right">Σύρετε τα δεξιά για %s.</string>
     <string name="voicemail_notification_vibrate_when_title">Δόνηση</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Δόνηση</string>
     <string name="voicemail_notification_ringtone_title">Ήχος</string>
-    <string name="default_notification_description">Προεπιλογή ήχου (<xliff:g id="default_sound_title">%1$s</xliff:g>)</string>
+    <string name="default_notification_description">Προεπιλογή ήχου (%1$s)</string>
     <string name="voicemail_notification_vibrate_when_default">ποτέ</string>
     <string name="ringtone_title">Ήχος κλήσης τηλεφώνου</string>
     <string name="vibrate_on_ring_title">Δόνηση όταν χτυπάει</string>
