@@ -19,6 +19,7 @@
     <string name="administrative_disable">Υπηρεσιακό απενεργοποιημένο</string>
     <string name="administrative_enable">Υπηρεσιακό ενεργοποιημένο</string>
     <string name="advanced_settings">Προαιρετικές ρυθμίσεις</string>
+    <string name="advanced_settings_container">πεδίο προχωρημένων ρυθμίσεων</string>
     <string name="advanced_settings_hide">▽ Αγγίξτε για απόκρυψη όλων</string>
     <string name="advanced_settings_show">▷ Αγγίξτε για εμφάνιση όλων</string>
     <string name="advertisements_disable">Διαφημίσεις ανενεργές</string>
@@ -45,7 +46,7 @@
     <string name="answer_widget_title">Χειρονομία απάντησης</string>
     <string name="antispam_marked_count">Αναφορά από %1$d MIUI χρήστες</string>
     <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_notification_title">Άγνωστος αριθμός</string>
+    <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνωρίστηκε ως %s</string>
     <string name="apn_settings">Ονόματα σημείου πρόσβασης</string>
     <string name="areacode_required">Απαιτείται κωδικός περιοχής</string>
@@ -76,25 +77,6 @@
     <string name="auto_answer_summary_not_enabled">Απενεργοποιημένο</string>
     <string name="auto_country_code">Προσθήκη κωδικού της χώρας</string>
     <string name="auto_country_code_sum">Αυτόματη προσθήκη του κωδικού της χώρας πριν από την κλήση των επαφών</string>
-    <string name="autoip_remove_exception_numbers_confirm">%d αριθμοί θα διαγράφονται.</string>
-    <string name="autoip_summary_not_enabled">δεν έχει ενεργοποιηθεί</string>
-    <string name="autoip_add_zero_prefix">Προσθήκη 0 προθέματος στα κινητά</string>
-    <string name="autoip_add_exception_numbers">Προσθήκη αριθμών</string>
-    <string name="autoip_areacode_required">Απαιτείται κωδικός περιοχής</string>
-    <string name="autoip_areacode_required_accept">OK</string>
-    <string name="autoip_areacode_required_for_emergency_number">Κωδικός περιοχής απαιτείται για κλήσεις ανάγκης</string>
-    <string name="autoip_autoip_current_areacode_summary">Τρέχων κωδικός περιοχής: %s</string>
-    <string name="autoip_current_areacode">Τρέχων κωδικός περιοχής</string>
-    <string name="autoip_current_areacode_summary">Ο κωδικός της περιοχής σας</string>
-    <string name="autoip_exception">"Δεν χρειάζονται IP πρόθεμα"</string>
-    <string name="autoip_exception_summary">%d σύνολο</string>
-    <string name="autoip_exception_summary_more">,… %d σύνολο</string>
-    <string name="autoip_no_exceptions">"Προσθέστε αριθμούς που δεν απαιτούν πρόθεμα IP"</string>
-    <string name="autoip_prefix">IP πρόθεμα</string>
-    <string name="autoip_prefix_summary">"Πρόθεμα IP παρόχου: %s"</string>
-    <string name="autoip_setting">Αυτόματες ρυθμίσεις IP</string>
-    <string name="autoip_summary">Προσθήκη IP προθέματος στα σταθερά νούμερα</string>
-    <string name="autoip_support_local_numbers">Πάντα χρήση IP προθέματος</string>
     <string name="auto_record_call_summary">Όλες οι κλήσεις που καταγράφονται, θα αποθηκεύονται στο φάκελο MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title">Αυτόματη εγγραφή</string>
     <string name="auto_record_scenario_enteries_always">Όλοι οι αριθμοί</string>
@@ -110,8 +92,27 @@
     <string name="auto_redial_pref_title">Αυτόματη επανάκληση</string>
     <string name="auto_retry_mode_summary">Ενεργοποίηση λειτουργίας αυτόματης επανάληψης</string>
     <string name="auto_retry_mode_title">Αυτόματη επανάληψη</string>
-    <string name="autoip">Αυτόματη IP κλήση</string>
+    <string name="autoip">Αυτόματη κλήση IP</string>
+    <string name="autoip_add_exception_numbers">Προσθήκη αριθμών</string>
+    <string name="autoip_add_zero_prefix">Προσθήκη 0 προθέματος στα κινητά</string>
+    <string name="autoip_areacode_required">Απαιτείται κωδικός περιοχής</string>
+    <string name="autoip_areacode_required_accept">OK</string>
+    <string name="autoip_areacode_required_for_emergency_number">Κωδικός περιοχής απαιτείται για κλήσεις ανάγκης</string>
+    <string name="autoip_autoip_current_areacode_summary">Τρέχων κωδικός περιοχής: %s</string>
+    <string name="autoip_current_areacode">Τρέχων κωδικός περιοχής</string>
+    <string name="autoip_current_areacode_summary">Ο κωδικός της περιοχής σας</string>
+    <string name="autoip_exception">"Δεν χρειάζονται IP πρόθεμα"</string>
+    <string name="autoip_exception_summary">%d σύνολο</string>
+    <string name="autoip_exception_summary_more">,… %d σύνολο</string>
+    <string name="autoip_no_exceptions">"Προσθέστε αριθμούς που δεν απαιτούν πρόθεμα IP"</string>
+    <string name="autoip_prefix">IP πρόθεμα</string>
+    <string name="autoip_prefix_summary">"Πρόθεμα IP παρόχου: %s"</string>
+    <string name="autoip_remove_exception_numbers_confirm">%d αριθμοί θα διαγράφονται.</string>
+    <string name="autoip_setting">Αυτόματες ρυθμίσεις IP</string>
     <string name="autoip_sum">Προσθέστε ένα πρόθεμα IP σε ένα ξένο αριθμό</string>
+    <string name="autoip_summary">Προσθήκη IP προθέματος στα σταθερά νούμερα</string>
+    <string name="autoip_summary_not_enabled">δεν έχει ενεργοποιηθεί</string>
+    <string name="autoip_support_local_numbers">Πάντα χρήση IP προθέματος</string>
     <string name="back">Πίσω</string>
     <string name="badPin">"Ο παλιός αριθμός PIN που πληκτρολογήσατε δεν είναι σωστός. Δοκιμάστε ξανά."</string>
     <string name="badPin2">"Το παλιό PIN2 που πληκτρολογήσατε δεν είναι σωστό. Δοκιμάστε ξανά."</string>
@@ -124,7 +125,7 @@
     <string name="callFailed_cb_enabled">"Δεν μπορείτε να κάνετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργοποιημένη."</string>
     <string name="callFailed_congestion">Φορτωμένο δίκτυο</string>
     <string name="callFailed_dialToDial">Το ερώτημα τροποποιήθηκε ώστε να καλέσετε ένα διαφορετικό αριθμό</string>
-  <string name="callFailed_dialToSs">Το αίτημα κλήσης τροποποιήθηκε σε SS αίτημα.</string>
+    <string name="callFailed_dialToSs">Το αίτημα κλήσης τροποποιήθηκε σε SS αίτημα.</string>
     <string name="callFailed_dialToUssd">Το αίτημα κλήσης τροποποιήθηκε σε USSD αίτημα.</string>
     <string name="callFailed_dialTodial">Το αίτημα κλήσης τροποποιήθηκε σε με διαφορετικό αριθμό.</string>
     <string name="callFailed_dsac_restricted">Όλες οι κλήσεις περιορίζονται από τον έλεγχο πρόσβασης.</string>
@@ -166,21 +167,23 @@
     <string name="call_record_auto_whitelist_summary">%d αριθμοί</string>
     <string name="call_record_auto_whitelist_summary_for_one">1 αριθμός</string>
     <string name="call_record_button_label">Εγγραφή %s</string>
-    <string name="call_record_whitelist_custom">Προσαρμοσμένη λίστα</string>
     <string name="call_record_error_access">"Δεν είναι δυνατή η εγγραφή, ενώ είστε σε λειτουργία επισκεπτών"</string>
+    <string name="call_record_whitelist_custom">Προσαρμοσμένη λίστα</string>
+    <string name="call_record_on_summary">Αυτόματη εγγραφή ενεργή</string>
+    <string name="call_record_setting">Ρυθμίσεις εγγραφής κλήσης</string>
     <string name="call_recording_notification_message">Αγγίξτε για να δείτε %s.</string>
     <string name="call_recording_notification_message_low_space">Η εγγραφή έχει διακοπεί: Δεν υπάρχει αρκετός χώρος.</string>
     <string name="call_recording_notification_message_sd_unmounted">Η εγγραφή έχει διακοπεί: η κάρτα SD δεν είναι προσαρτημένη.</string>
     <string name="call_recording_notification_message_start_failed">Ο recorder χρησιμοποιείται από άλλη εφαρμογή.</string>
+    <string name="call_recording_notification_summary">Δείτε την κοινοποίηση στη γραμμή κατάστασης όταν η κλήση έχει καταγραφεί</string>
     <string name="call_recording_notification_title">Η κλήση καταγράφηκε</string>
     <string name="call_recording_notification_title_error">Η ηχογράφηση κλήσης απέτυχε</string>
     <string name="call_recording_path_name_of_sdcard">SD Κάρτα</string>
+    <string name="call_recording_prompt">Εγγραφή ανοικτής κλήσης</string>
     <string name="call_recording_sd_error">"Δεν είναι δυνατή η πρόσβαση στην κάρτα SD"</string>
     <string name="call_recording_sd_space_low">Δεν υπάρχει αρκετός χώρος: η SD κάρτα σας είναι πλήρης</string>
     <string name="call_recording_setting">Καταγραφή κλήσεων</string>
     <string name="call_recording_unknown_error">Προέκυψε ένα άγνωστο σφάλμα.</string>
-    <string name="call_recording_notification_summary">Δείτε την κοινοποίηση στη γραμμή κατάστασης όταν η κλήση έχει καταγραφεί</string>
-    <string name="call_recording_prompt">Εγγραφή ανοικτής κλήσης</string>
     <string name="call_remove_exception_numbers_confirm">%d θα διαγραφούν.</string>
     <string name="call_settings">Ρυθμίσεις κλήσεων</string>
     <string name="call_settings_category">Κληση</string>
@@ -202,7 +205,7 @@
     <string name="callind_multi_sim">Ρυθμίσεις SUBS</string>
     <string name="calling_via_template">Κλήση μέσω %s</string>
     <string name="callwait_open_hint">\"Αναμονή Κλήσεων\" είναι μια υπηρεσία που παρέχεται από τον φορέα εκμετάλλευσης, εάν λάβετε ένα \"MMI τον κωδικό σφάλματος\" εντολών, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας για να ανοίξετε την υπηρεσία αναμονής κλήσεων</string>
-  <string name="cancel">Ακύρωση</string>
+    <string name="cancel">Ακύρωση</string>
 	<string name="cancel_call">Ακύρωση</string>
     <string name="card_01">Κάρτα 1 / SUB 1</string>
     <string name="card_02">Κάρτα 2 / SUB 2</string>
@@ -261,6 +264,7 @@
     <string name="cfb_title">Προώθηση όταν είμαι απασχολημένος</string>
     <string name="cfnrc_title">Προώθηση όταν είμαι απρόσιτος</string>
     <string name="cfnry_title">Προώθηση όταν δεν απαντάω</string>
+    <string name="cfnrc_title_cta">Προώθηση όταν είμαι απρόσιτος</string>
     <string name="cfu_title">Προώθηση πάντα</string>
     <string name="change_num">Ενημέρωση</string>
     <string name="change_password">Αλλαγή κωδικού φραγής</string>
@@ -283,20 +287,21 @@
     <string name="command_error_sim_absent">Δεν ανιχνεύθηκε κάρτα ICC</string>
     <string name="command_error_sim_pin2">Απαιτείται το PIN2 για να ολοκληρωθεί αυτή η λειτουργία</string>
     <string name="command_error_sim_puk2">Το PIN2 είναι κλειδωμένο,απαιτείται το PUK2 για να ξεκλειδώσει</string>
+    <string name="cloud_antispam_title">Αναγνώριση αγνώστων αριθμών</string>
     <string name="command_error_sms_fail_retry">Απέτυχε η αποστολή SMS</string>
     <string name="command_error_unsupported_mode">"Ο προτιμώμενος τύπος δικτύου δεν υποστηρίζεται"</string>
     <string name="command_error_unsupported_request">"Η λειτουργία δεν υποστηρίζεται"</string>
     <string name="confCall">Κλήση συνδιάσκεψης</string>
-    <string name="config_sub_title">Διαμόρφωση Συνδρομής</string>
     <string name="config_dialing_emergency_number_suffix"/>
-    <string name="confirm_password_label">Επιβεβαίωση νέου κωδικού</string>
-    <string name="confirm_pin2_label">Επιβεβαιώστε το νέο PIN2</string>
-    <string name="confirm_pin_label">Επιβεβαίωση νέου PIN</string>
+    <string name="config_sub_title">Διαμόρφωση Συνδρομής</string>
     <string name="confirm_delete_message_title">Διαγράψτε αυτό το μήνυμα?</string>
     <string name="confirm_delete_sim_entry">%d επαφές στην κάρτα SIM θα διαγραφούν.</string>
     <string name="confirm_no_countrycode_for_custom_location">Εισάγετε τον αριθμό τηλεφώνου χωρίς κωδικό χώρας</string>
+    <string name="confirm_password_label">Επιβεβαίωση νέου κωδικού</string>
     <string name="confirm_pin2_hint">Επιβεβαιώστε το νέο PIN2</string>
+    <string name="confirm_pin2_label">Επιβεβαιώστε το νέο PIN2</string>
     <string name="confirm_pin_hint">Επιβεβαίωση νέου PIN</string>
+    <string name="confirm_pin_label">Επιβεβαίωση νέου PIN</string>
     <string name="connect_disconnect_vibrate_none">Καθόλου</string>
     <string name="connect_disconnect_vibrate_normal">Κανονικό</string>
     <string name="connect_disconnect_vibrate_summary">"Δόνηση όταν το πρόσωπο που  καλείτε απαντά στην κλήση σας"</string>
@@ -306,11 +311,11 @@
     <string name="contactAddFailed">Αποτυχία προσθήκης επαφής στην κάρτα SIM.</string>
     <string name="contactAddSuccess">Η επαφή προστέθηκε στην κάρτα SIM.</string>
     <string name="contactPhoto">Φωτογραφία επαφής</string>
+    <string name="contactScreen">Προσθ/επεξ επαφών SIM</string>
     <string name="contactUpdateFailed">Απέτυχε η ενημέρωση επαφής.</string>
     <string name="contactUpdateSuccess">Η επαφή ενημερώθηκε.</string>
     <string name="contactdeleteFailed">Απέτυχε η διαγραφή επαφών από την κάρτα SIM.</string>
     <string name="contactdeleteSuccess">Η επαφή διεγράφη.</string>
-    <string name="contactScreen">Προσθ/επεξ επαφών SIM</string>
     <string name="contacts_icon_label">Επαφές</string>
     <string name="corporate_unlock_failed">Αίτημα ξεκλειδώματος εταιρικής SIM ανεπιτυχής.</string>
     <string name="corporate_unlock_success">Ξεκλείδωμα εταιρικού δικτύου SIM επιτυχές.</string>
@@ -336,6 +341,7 @@
     <string name="default_contacts_countrycode">Προεπιλεγμένος κωδικός χώρας</string>
     <string name="default_contacts_countrycode_hint">Εισάγετε τον κωδικό της χώρας</string>
     <string name="default_contacts_countrycode_sum">Προεπιλεγμένος κωδικός χώρας για τις επαφές σας: %s</string>
+    <string name="deactivate_all">Ακύρωση όλων</string>
     <string name="default_ims_call_type">Φωνή</string>
     <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
     <string name="delete">Διαγραφή</string>
@@ -347,7 +353,7 @@
     <string name="delete_sim_contact_confirm_title">Διαγραφή επαφών SIM</string>
     <string name="delete_sim_entries_finish">Οι Επαφές SIM έχουν διαγραφεί</string>
     <string name="delete_sim_entry">Διαγραφή</string>
-    <string name="deleting_fdn_contact">Διαγράφοντας τον σταθερό αριθμό κλήσης…</string>
+    <string name="deleting_fdn_contact">Διαγράφεται ο σταθερός αριθμός…</string>
     <string name="deleting_sim_entry">Διαγραφή…</string>
     <string name="description_call_recording">Καταγραφή κλήσης…</string>
     <string name="description_delete_button">διαγραφή</string>
@@ -383,6 +389,8 @@
     <string name="dial_pad_autocomplete">Αυτόματη συμπλήρωση πληκτρολογίου</string>
     <string name="dial_related_setting_catory">Κληση</string>
     <string name="dialerKeyboardHintText">Χρήση πληκτρολογίου για να καλέσετε</string>
+    <string name="dial_pad_autocomplete">Αυτόματη συμπλήρωση πληκτρολογίου</string>
+    <string name="dialog_network_priority_title">Προτεραιότητα</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="disable_all_cf">Απενεργοποιήστε όλες τις δυνατότητες προώθησης κλήσεων</string>
     <string name="disable_cfb_forbidden">"Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι κατειλημμένο."</string>
@@ -451,9 +459,10 @@
     <string name="enable_telocation_title">Χρήση της τοποθεσίας μου</string>
     <string name="enforce_proximity_summary">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετείται σε μια τσέπη</string>
     <string name="enforce_proximity_title">Αποτροπή τυχαίων κλήσεων</string>
-    <string name="enterName">Όνομα</string>
-    <string name="enterNumber">Τηλέφωνο</string>
-    <string name="enter_input"  formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά!</string>
+    <string name="enterName">Όνομα:</string>
+    <string name="enterNumber">Τηλέφωνο:</string>
+    <string name="enter_input" formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά!</string>
+    <string name="enter_callbarring_password">Εισαγωγή κωδικού φραγής(4 ψηφία)</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN της κάρτας SIM:</string>
     <string name="entertainment_news_settings">Ψυχαγωγικές Ειδήσεις</string>
@@ -488,13 +497,17 @@
 Επικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει."</string>
     <string name="fw_get_in_vm_failed">"Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.
 Αλλαγή σε νέο πάροχο ούτως ή άλλως?"</string>
+    <string name="fdn_contacts_empty">Χωρίς επαφές στη λίστα.</string>
     <string name="general_news_settings">Γενικές Ειδήσεις</string>
+    <string name="general_setting">Ρυθμίσεις</string>
     <string name="get_pin2">Πληκτρολογήστε τον κωδικό PIN2</string>
     <string name="get_smsc_address_error">"Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά."</string>
     <string name="get_smsc_address_timeout">Λήξη χρονικού ορίου σύνδεσης</string>
     <string name="goPrivate">Μετάβαση σε ιδιωτικό</string>
     <string name="go_private">Ιδιωτική λειτουργία</string>
-    <string name="gsm_umts_options">Επιλογές GSM / UMTS</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">Είδος δικτύου</string>
+    <string name="gsm_umts_network_preferences_title">Είδος δικτύου</string>
+    <string name="gsm_umts_options">Επιλογές GSM/UMTS</string>
     <string name="hac_mode_summary">Ενεργοποίηση συμβατότητας των βοηθημάτων ακοής</string>
     <string name="hac_mode_title">Ακουστικά βαρηκοΐας</string>
     <string name="handon_ringer_summary">Το τηλέφωνο δεν θα δονείται όταν έχετε μια εισερχόμενη κλήση</string>
@@ -532,8 +545,8 @@
     <string name="incall_error_supp_service_separate">Δεν είναι δυνατός ο διαχωρισμός κλήσεων.</string>
     <string name="incall_error_supp_service_switch">Δεν είναι δυνατή η εναλλαγή κλήσεων.</string>
     <string name="incall_error_supp_service_transfer">Δεν είναι δυνατή η μεταφορά της κλήσης.</string>
-    <string name="incall_error_turn_off_airplane_mode">Απενεργ. λειτ. πτήσης</string>
     <string name="incall_error_supp_service_unknown">Υπηρεσία που δεν υποστηρίζεται.</string>
+    <string name="incall_error_turn_off_airplane_mode">Απενεργ. λειτ. πτήσης</string>
     <string name="incall_screen_background_summary">"Χρησιμοποιήστε την ταπετσαρία της οθόνης κλειδώματος, όταν δεν υπάρχει εικόνα που σχετίζεται με την επαφή"</string>
     <string name="incall_screen_background_title">Φόντο οθόνη κλήσης</string>
     <string name="incall_status_dialed_mmi">Έναρξη ακολουθίας MMI…</string>
@@ -563,6 +576,16 @@
     <string name="labelCFNRc">Προώθηση όταν δεν εντοπίζεται</string>
     <string name="labelCFNRy">Προώθηση όταν δεν απαντάω</string>
     <string name="labelCFU">Προώθηση πάντα</string>
+    <string name="invalid_password">Δώστε έναν κωδικό με 4 ψηφία</string>
+    <string name="label_available">Διαθέσιμα δίκτυα</string>
+    <string name="lable_all_incoming">Όλες οι εισερχόμενες</string>
+    <string name="lable_all_out_except">Διεθνείς εξερχόμενες κλήσεις εκτός προς PLMN</string>
+    <string name="lable_all_outgoing">Όλες οι εξερχόμενες κλήσεις</string>
+    <string name="lable_all_outgoing_international">Διεθνείς εξερχόμενες κλήσεις</string>
+    <string name="lable_call_barring">Φραγή</string>
+    <string name="lable_disable">Ανενεργό</string>
+    <string name="lable_enable">Ενεργό</string>
+    <string name="lable_incoming_calls_except">Εισερχόμενες κλήσεις κατά την περιαγωγή</string>
     <string name="labelCW">Aναμονή κλήσεων</string>
     <string name="labelCallerId">Ταυτότητα καλούντος</string>
     <string name="labelGSMMore">Ρυθμίσεις κλήσης GSM</string>
@@ -620,6 +643,7 @@
     <string name="mhh_enable">Ιατρική, Υγεία, και Νοσοκομείο ενεργά</string>
     <string name="mismatchPin">"Οι αριθμοί PIN που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
     <string name="mismatchPin2">"Οι αριθμοί PIN2 που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
+    <string name="mismatch_password">Ο κωδικός που δώσατε δεν ταιριάζει</string>
     <string name="mismatch_pin">"Τα PIN δεν ταιριάζουν"</string>
     <string name="mismatch_pin2">"Οι αριθμοί PIN2 δεν ταιριάζουν"</string>
     <string name="missed_call_notify_five_times">5 φορές</string>
@@ -628,15 +652,27 @@
     <string name="missed_call_notify_ten_times">10 φορές</string>
     <string name="missed_call_notify_thrice">3 φορές</string>
     <string name="missed_call_notify_times_summary">Επιλέξτε τον αριθμό των υπενθυμίσεων που θέλετε να έχετε για τις χαμένες κλήσεις (επιλογή με βήματα 5 λεπτών)</string>
+    <string name="mo_call_type_title">MO τύπος κλήσης</string>
     <string name="missed_call_notify_times_title">Υπενθύμιση χαμένων κλήσεων</string>
     <string name="missed_call_notify_twice">2 φορές</string>
     <string name="mmiCancelled">Ο κώδικας MMI ακυρώθηκε</string>
     <string name="mmiStarted">Έναρξη κώδικα MMI</string>
     <string name="mobile_network_setting">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
     <string name="mobile_networks">Δίκτυα κινητής τηλεφωνίας</string>
-    <string name="modify_call_failure_str">"Το αίτημα για τροποποίηση κλήσης απέτυχε
-"</string>
+    <string name="modify_call_failure_str">"Το αίτημα για τροποποίηση κλήσης απέτυχε"</string>
+    <string name="msim_info_editor_number">Επεξεργασία αριθμού SIM</string>
+    <string name="msim_info_editor_set_name_error">"Δεν μπορεί να σωθεί. Κάτι πήγε στραβά…"</string>
+    <string name="msim_mode_progress_activating_message">Ενεργοποίηση</string>
+    <string name="msim_mode_progress_deactivating_message">Απενεργοποίηση</string>
+    <string name="msim_not_set_summary">Δεν ορίστηκε</string>
+    <string name="msim_pref_title_data">Internet</string>
+    <string name="msim_pref_title_voice">Κλήση</string>
     <string name="modify_call_option_title">Ποιο είδος κλήσης?</string>
+    <string name="msim_apn_not_set">Δεν ορίστηκε</string>
+    <string name="msim_default_setting">Προεπιλεγμένες ρυθμίσεις</string>
+    <string name="msim_enable_sim">Ενεργοποίηση</string>
+    <string name="msim_general_setting">Ρυθμίσεις</string>
+    <string name="msim_info_editor_name">Επεξ. ονόματος SIM</string>
     <string name="modify_call_option_voice">Μόνο φωνή</string>
     <string name="modify_call_option_vt">VT</string>
     <string name="modify_call_option_vt_rx">Λήψη Βίντεο</string>
@@ -644,21 +680,48 @@
     <string name="modify_call_prompt_no">Όχι</string>
     <string name="modify_call_prompt_yes">Ναι</string>
     <string name="multi_category_disable">Πολλαπλών κατηγοριών ανενεργό</string>
+    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="msim_set_icc_card_error">ICC σφάλμα κάρτας</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Αδύνατο κατά την διάρκεια κλήσης"</string>
+    <string name="msim_set_sub_not_supported_slot_id_error">Σφάλμα SIM card</string>
+    <string name="msim_setting_categery_title">Πληροφορίες SIM</string>
+    <string name="msim_setting_no_sim_indicator">Χωρίς SIM</string>
+    <string name="msim_setting_operator_network_title">Δίκτυο παρόχου</string>
+    <string name="msim_setting_screen_title">SIM cards και δίκτυα κινητής</string>
+    <string name="msim_setting_sim_info_editor_title">Επεξ. πληροφοριών SIM</string>
+    <string name="msim_sim_lock">Κλειδωμένο</string>
+    <string name="msim_sim_radio_off">Απενεργοποιημένο</string>
+    <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο internet, επιλέξατε ως προτειμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
     <string name="multi_category_enable">Πολλαπλών κατηγοριών ενεργό</string>
     <string name="name">Όνομα</string>
+    <string name="name_hint_text">Όνομα.</string>
     <string name="national_disable">Εθνικές ειδήσεις απενεργοποιημένες</string>
     <string name="national_enable">Εθνικές ειδήσεις ενεργοποιημένες</string>
+    <string name="network_settings_auto_select_title">"Χωρίς αυτόματη επιλογή δικτύου"</string>
+    <string name="network_settings_automatically_option">Αυτόματη επιλογή παρόχου (%s)</string>
+    <string name="network_settings_confirm_message">Δίκτυο ίσως μη διαθέσιμο.</string>
     <string name="network_forbidden">%s (απαγορευμένο)</string>
     <string name="network_manage_settings">Ρυθμίσεις Δικτύου</string>
     <string name="network_message">Μήνυμα  δικτύου</string>
     <string name="network_query_error">Σφάλμα κατά την αναζήτηση δικτύων.</string>
+    <string name="network_settings_data_connected_change">Αδύνατη η αλλαγή δικτύου κατά την χρήση δεδομένων. Σταμάτημα χρήσης δεδομένων και αλλαγή παρόχου;</string>
+    <string name="network_settings_duringcall">"Η λειτουργεία δεν επιτρέπεται κατά την διάρκεια κλήσης"</string>
+    <string name="network_settings_forbidden">%s (απαγορεύεται)</string>
+    <string name="network_settings_information">Πληροφορία</string>
+    <string name="network_settings_next">Επόμενο</string>
+    <string name="network_settings_query_failed_message">Αποτυχία αναζήτηση δικτύου. Πατήστε Ακύρωση για χρήση της προεπιλογής ή ΟΚ για επανάληψη.</string>
     <string name="network_settings_sel_sub">Ρυθμίσεις SUBS</string>
     <string name="network_work_query_failed_message">Αποτυχία αναζήτησης δικτύου. Πατήστε Άκυρο για την χρήση του προεπιλεγμένου δικτύου, ή Πατήστε ΟΚ για νέα προσπάθεια.</string>
     <string name="networks">Φορείς εκμετάλλευσης δικτύων</string>
     <string name="networks_title">Φορείς δικτύου</string>
+    <string name="network_settings_select_automatic_hint">"Αδύνατη η εγγραφή στο δίκτυο που επιλέξατε.
+Θα γίνει χρήση της προεπιλογής."</string>
+    <string name="network_settings_turn_off">Εκτός λειτουργίας</string>
+    <string name="network_settings_warn_message">"Χρήση μόνο των δικτύων που επιλέγετε."</string>
     <string name="newPin2Label">Νέο PIN2</string>
     <string name="newPinLabel">Νέο PIN</string>
     <string name="new_cards_available">Νέα κάρτα διαθέσιμη. Παρακαλώ ρυθμίστε τις συνδρομές.</string>
+    <string name="new_password_label">Νέος κωδικός(4 ψηφία)</string>
     <string name="new_pin2_hint">Νέο PIN2</string>
     <string name="new_pin_hint">Νέο PIN</string>
     <string name="next">Επόμενο</string>
@@ -672,6 +735,7 @@
     <string name="no_voip">Κλήσεις μέσω Διαδικτύου δεν υποστηρίζονται</string>
     <string name="no_volte">Αδύνατη η πραγματοποίηση IMS κλήσης</string>
     <string name="no_wifi_available">Θα πρέπει να είστε συνδεδεμένοι σε ένα δίκτυο WLAN για κλήσεις μέσω του Διαδικτύου (χρήση του ασύρματου &amp; Ρυθμίσεις δικτύου).</string>
+    <string name="no_vt_allowed">Για να κάνετε βιντεο-κλήση, κλείστε την λειτουργία TTY</string>
     <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WLAN</string>
     <string name="non_ivr_menu_collapse_menu">Σύμπτυξη μενού</string>
     <string name="non_ivr_menu_view_menu">Προβολή μενού</string>
@@ -680,6 +744,7 @@
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
     <string name="notification_action_end_call">Τερματισμός κλήσης</string>
     <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
+    <string name="not_allowed">"Η SIM card δεν επιτρέπει σύνδεση σε αυτό το δίκτυο."</string>
     <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
     <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
     <string name="notification_missedCall_call_back">Επανάκληση</string>
@@ -727,6 +792,7 @@
     <string name="onscreen_add_call_text">Προσθήκη κλήσης</string>
     <string name="onscreen_audio_mode">Απάντηση χρησιμοποιώντας</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+    <string name="old_password_label">Παλιός κωδικός(4 ψηφία)</string>
     <string name="onscreen_audio_mode_handset">Handsfree</string>
     <string name="onscreen_audio_mode_headset">Ακουστικά</string>
     <string name="onscreen_audio_mode_speaker">Μεγάφωνο</string>
@@ -744,7 +810,9 @@
     <string name="onscreen_tools_off">Εργαλεία</string>
     <string name="onscreen_tools_on">Εργαλεία</string>
     <string name="open">Άνοιξε</string>
-  <string name="open_miui">Άνοιξε</string>
+    <string name="open_miui">Άνοιξε</string>
+    <string name="old_pin2_label">Παλιό PIN2</string>
+    <string name="old_pin_label">Παλιό PIN</string>
     <string name="optional_summary">&lt;Προαιρετικό></string>
     <string name="ota_activate">Ενεργοποίηση</string>
     <string name="ota_call_end">Πίσω</string>
@@ -764,6 +832,11 @@
     <string name="ota_touch_activate">"Χρειάζεται μια ειδική κλήση για να ενεργοποιήσετε την υπηρεσία του τηλεφώνου σας. 
 
 Μετά το πάτημα του “Ενεργοποίηση”, ακούσετε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας."</string>
+    <string name="ota_hfa_activation_dialog_message">"Το τηλέφωνο ενεργοποιεί την υπηρεσία δεδομένων.
+
+
+Αυτό μπορεί να πάρει 5 λεπτά."</string>
+    <string name="ota_hfa_activation_title">Ενεργοποίηση...</string>
     <string name="ota_try_again">Δοκιμάστε ξανά</string>
     <string name="ota_unsuccessful">"Το τηλέφωνό σας δεν έχει ενεργοποιηθεί. 
 Μπορεί να χρειαστεί να βρείτε μια περιοχή με καλύτερη κάλυψη (κοντά σε ένα παράθυρο, ή εκτός). 
@@ -781,6 +854,7 @@
     <string name="phone_in_ecm_call_notification_text">Σύνδεση δεδομένων απενεργοποιημένη</string>
     <string name="phone_in_ecm_notification_title">Λειτουργία επανάκλησης έκτακτης ανάγκης</string>
     <string name="phone_numbers">Εισάγετε Τηλέφωνα</string>
+    <string name="phone_number_hint_text">Αριθμός τηλεφώνου.</string>
     <string name="pick_outgoing_call_phone_type">Πραγματοποίηση κλήσης</string>
     <string name="pick_outgoing_sip_phone">Χρησιμοποιήστε τον λογαριασμό για κλήσεις μέσω του Διαδικτύου:</string>
     <string name="pin2_attempts">"
@@ -822,7 +896,7 @@
     <string name="preferred_network_mode_gsm_only_summary">Προτιμώμενη λειτουργία δικτύου: GSM μόνο</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Προτιμώμενη λειτουργία δικτύου: CDMA + LTE / EVDO</string>
-  <string name="preferred_network_mode_lte_cdma_summary">Προτιμώμενη λειτουργία δικτύου: LTE/CDMA</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Προτιμώμενη λειτουργία δικτύου: LTE/CDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: GSM / WCDMA / LTE</string>
     <string name="preferred_network_mode_lte_summary">Προτιμώμενη λειτουργία δικτύου: LTE</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Προτιμώμενη λειτουργία δικτύου: LTE / WCDMA</string>
@@ -841,8 +915,20 @@
     <string name="preferred_network_mode_wcdma_only_summary">Προτιμώμενη λειτουργία δικτύου: WCDMA μόνο</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Προτιμώμενη λειτουργία δικτύου: WCDMA προτιμάται</string>
     <string name="preferred_network_type_3g_only_warning">"Δεν θα είστε σε θέση να συνδεθείτε σε ένα δίκτυο, αν η κάρτα SIM δεν έχει λειτουργικότητα 3G."</string>
+    <string name="pocket_mode_summary">Το τηλέφωνο θα κλειδώσει αυτόματα όταν μπεί σε τσέπη</string>
+    <string name="pocket_mode_title">Πρόληψη ατυχών κλήσεων</string>
+    <string name="port">Θύρα</string>
+    <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
+    <string name="preference_dial_pad_touch_tone_default">Προεπιλογή</string>
+    <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
+    <string name="preference_dial_pad_touch_tone_title">Τόνοι πληκτρολογίου</string>
+    <string name="preference_telocation_summary_countrycode_off">"Χωρίς αυτομ.κλήση κωδικού χώρας"</string>
+    <string name="preference_telocation_summary_countrycode_on">Αυτομ.κλήση κωδικού χώρας</string>
+    <string name="preference_telocation_summary_teloc_off">Απόκρυψη τόπου επαφής</string>
+    <string name="preference_telocation_summary_teloc_on">Προβολή τόπου επαφής</string>
+    <string name="preference_telocation_title">Τοποθεσία</string>
     <string name="preferred_network_type_cdma">CDMA</string>
-  <string name="preferred_network_type_group_title">Δίκτυο κινητής τηλεφωνίας (%s)</string>
+    <string name="preferred_network_type_group_title">Δίκτυο κινητής τηλεφωνίας (%s)</string>
     <string name="preferred_network_type_gsm_umts">GSM/WCDMA</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Προτιμήστε τα δίκτυα 3G</string>
     <string name="preferred_network_type_pref_entries_auto">Αυτόματο</string>
@@ -850,7 +936,7 @@
     <string name="preferred_network_type_pref_entries_only_2g">Μόνο δίκτυα 2G (εξοικονομεί μπαταρία)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Μόνο δίκτυα 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
-  <string name="preferred_network_type_tds_cdma">GSM/TD-SCDMA</string>
+    <string name="preferred_network_type_tds_cdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Προτιμώμενος τύπος δικτύου</string>
     <string name="primary_account_summary_with">Βασικός λογαριασμός. %s</string>
     <string name="private_num">Περιορισμένος αριθμός</string>
@@ -954,6 +1040,7 @@
     <string name="select_automatically">Επιλέξτε αυτόματα</string>
     <string name="select_network_automatic_hint">"Αδύνατη η σύνδεση στο δίκτυο που επιλέξατε.
 Θα χρησιμοποιηθεί Πίσω στο προκαθορισμένο."</string>
+    <string name="select_voice_call_sim">Επιλογή SIM card</string>
     <string name="sendSms">Αποστολή μηνύματος</string>
     <string name="send_button">Αποστολή</string>
     <string name="send_keepalive_title">Αποστολή keep-alive</string>
@@ -1047,7 +1134,7 @@
     <string name="sub3_summary">Διαχείριση Συνδρομής 3</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>
-  <string name="sub_3">SUB 3</string>
+    <string name="sub_3">SUB 3</string>
     <string name="sub_one">Διαχειριστείτε τις συνδρομές 1</string>
     <string name="subone">Συνδρομή 1</string>
     <string name="subtwo">Συνδρομή 2</string>
@@ -1087,7 +1174,6 @@
     <string name="t9_indexing_rebuilding_message">Επαναδημιουργία T9 ευρετηρίων…</string>
     <string name="technology_news_disable">Ειδήσεις τεχνολογίας ανενεργές</string>
     <string name="technology_news_enable">Ειδήσεις τεχνολογίας ενεργές</string>
-    <string name="telocation_setting">Ρυθμίσεις τοποθεσίας</string>
     <string name="telocation_auto_country_code">Add country code</string>
     <string name="telocation_auto_country_code_summary">Automatically add country code before dialing contacts</string>
     <string name="telocation_call_assistant">Dialing assistant</string>
@@ -1112,6 +1198,7 @@
     <string name="telocation_number_type_jituan">Group number</string>
     <string name="telocation_number_type_mob">Mobile phone</string>
     <string name="telocation_number_type_tel">Landline</string>
+    <string name="telocation_setting">Ρυθμίσεις τοποθεσίας</string>
     <string name="telocation_show_settings">Ρυθμισεις οθονης</string>
     <string name="third_party_account_summary">Αυτός ο λογαριασμός χρησιμοποιείται από την %s εφαρμογή.</string>
     <string name="throttle_current_usage">Τα δεδομένα που χρησιμοποιήθηκαν την τρέχουσα περίοδο</string>
@@ -1155,6 +1242,8 @@
     <string name="upgrade_vt_tx_prompt">Θέλετε να αναβαθμίσετε την κλήση σε κλήση που μεταδίδει μόνο βίντεο?</string>
     <string name="use_ims_default">Χρήση προεπιλεγμένου IMS</string>
     <string name="use_ims_default_summary">Να χρησιμοποιείται πάντα ο IMS για φωνητικές κλήσεις</string>
+    <string name="uplmn_list_setting_add_plmn">Νέο PLMN</string>
+    <string name="uplmn_list_setting_title">Προτιμώμενα δίκτυα</string>
     <string name="use_ims_default_title">Χρήση πάντα του IMS</string>
     <string name="username_title">Όνομα Χρήστη</string>
     <string name="ussdRunning">Κωδικός USSD εκτελείται …</string>
@@ -1181,14 +1270,13 @@
     <string name="voicemail_provider">Υπηρεσία τηλεφωνητή</string>
     <string name="voicemail_provider_sum">Επιλέξτε την υπηρεσία τηλεφωνητή</string>
     <string name="voicemail_settings">Ρυθμίσεις αυτόματου τηλεφωνητή</string>
+    <string name="voicemail_provider_summary">Επιλογή υπηρεσίας τηλεφωνητή</string>
     <string name="voicemail_settings_for">Ρυθμίσεις για %s</string>
     <string name="voicemail_settings_number_hint">Εισάγετε τον αριθμό του αυτόματου τηλεφωνητή</string>
     <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
     <string name="voicemail_settings_number_title">Αριθμός αυτόματου τηλεφωνητή</string>
-    <string name="vt_init_fail_str">"Η φόρτωση του VT απέτυχε. Υποβάθμιση κλήσης σε VoLTE
-"</string>
-    <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
-"</string>
+    <string name="vt_init_fail_str">"Η φόρτωση του VT απέτυχε. Υποβάθμιση κλήσης σε VoLTE"</string>
+    <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?"</string>
     <string name="wild_prompt_str">Αντικαταστήστε το χαρακτήρα με</string>
     <string name="wrong_password">Σφάλμα κωδικού</string>
     <string name="xdivert_active">Ενεργή</string>
