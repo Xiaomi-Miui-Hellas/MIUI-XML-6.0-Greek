@@ -737,7 +737,7 @@
     <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WLAN</string>
     <string name="non_ivr_menu_collapse_menu">Σύμπτυξη μενού</string>
     <string name="non_ivr_menu_view_menu">Προβολή μενού</string>
-    <string name="not_a_valid_port">Ο αριθμός θύρας θα πρέπει να είναι μέσα στο 1000 και 65534.</string>    <string name="not_allowed">"Η κάρτα SIM σας δεν επιτρέπει σύνδεση σε αυτό το δίκτυο."</string>
+    <string name="not_a_valid_port">Ο αριθμός θύρας θα πρέπει να είναι μέσα στο 1000 και 65534.</string>
     <string name="not_connected">"Δεν συνδέθηκε"</string>
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
     <string name="notification_action_end_call">Τερματισμός κλήσης</string>
