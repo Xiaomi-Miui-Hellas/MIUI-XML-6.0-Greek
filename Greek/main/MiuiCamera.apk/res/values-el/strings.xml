@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="effect_setting_top_text">Εφφέ</string>
-  <string name="pref_face_beauty_title">Τόνος του δέρματος</string>
   <string name="Import">Εισαγωγή</string>
   <string name="access_sd_fail">Δεν είναι δυνατή η πρόσβαση στο χώρο αποθήκευσης USB.</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Εναλλαγή μεταξύ κάμερας και βίντεο (άμμεσα για %s )</string>
@@ -32,6 +30,7 @@
   <string name="cancel">Ακύρωση</string>
   <string name="cannot_connect_camera_once">Δεν είναι δυνατή η σύνδεση με κάμερα, παρακαλώ κάντε επανεκκίνηση</string>
   <string name="cannot_connect_camera_twice">Δεν είναι δυνατή η σύνδεση με κάμερα, παρακαλώ κάντε επανεκκίνηση του τηλεφώνου σας</string>
+  <string name="cannot_move_warning_message">"Λήψη φωτογραφίας, κρατήστε την κάμερα σταθερή"</string>
   <string name="clear_effects">Διαγραφή εφέ</string>
   <string name="close">Κλείσιμο</string>
   <string name="cloud_album_details">Λεπτομέρειες Album σύννεφο:</string>
@@ -82,6 +81,7 @@
   <string name="effect_goofy_face_small_mouth">Μικρό στόμα</string>
   <string name="effect_goofy_face_squeeze">Συμπίεση</string>
   <string name="effect_none">Χωρίς</string>
+  <string name="effect_setting_top_text">Εφφέ</string>
   <string name="effect_silly_faces">Μορφασμοί</string>
   <string name="error_app_unsupported">Η ανάλυση βίντεο δεν υποστηρίζεται από αυτόν τον κωδικοποιητή.</string>
   <string name="error_app_unsupported_hfr_720p">Το 720p μπορεί να υποστηρίξει έως και 90 FPS</string>
@@ -159,6 +159,7 @@
   <string name="no_thumbnail">Χωρίς μικρογραφίες</string>
   <string name="not_enough_space">Ανεπαρκής μνήμη</string>
   <string name="not_selectable_in_scene_mode">Δεν μπορεί να επιλεγεί η λειτουργία σκηνής</string>
+  <string name="object_track_enable_toast">Σύρτε στην οθόνη προεπισκόπησης για να ενεργοποιήσετε την παρακολούθηση αντικειμένου.</string>
   <string name="ok">OK</string>
   <string name="orientation">Προσανατολισμός</string>
   <string name="pano_dialog_panorama_failed">Αδυναμία αποθήκευσης της πανοραμικής</string>
@@ -172,8 +173,13 @@
   <string name="pano_too_fast_prompt">Πάρα πολύ γρήγορα</string>
   <string name="path">Δρομολόγιση</string>
   <string name="people">Επαφές</string>
+  <string name="pref_advance_settings">Ρυθμίσεις για προχωρημένους</string>
   <string name="pref_advanced_functions">Προηγμένα χαρακτηριστικά</string>
   <string name="pref_advanced_settings">Ρυθμίσεις για προχωρημένους</string>
+  <string name="pref_audio_indicator_entry_off">Ήχος off</string>
+  <string name="pref_audio_indicator_entry_on">Ήχος on</string>
+  <string name="pref_camcorder_settings">Ρυθμίσεις κάμερας</string>
+  <string name="pref_camcorder_settings_category">Ρυθμίσεις φωτογραφιών και βίντεο</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -181,6 +187,8 @@
   <string name="pref_camera_antibanding_entry_3">Αυτόματα</string>
   <string name="pref_camera_antibanding_title">Ζωνοπερατό φίλτρο</string>
   <string name="pref_camera_audio_capture_title">Λήψη ήχου</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Αυτόμ.λήψη όταν είναι σταθερή</string>
+  <string name="pref_camera_auto_chroma_flash_title">Έγχρωμο Φλας</string>
   <string name="pref_camera_auto_focus_title_entry_off">Off</string>
   <string name="pref_camera_auto_focus_title_entry_on">Ενεργό</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Σταθμισμένο κέντρο</string>
@@ -205,6 +213,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Ρετρό</string>
   <string name="pref_camera_coloreffect_title">Εφφέ</string>
   <string name="pref_camera_contrast_title">Αντίθεση</string>
+  <string name="pref_camera_countdown_title">Αντίστροφη μέτρηση</string>
   <string name="pref_camera_current_k_value">Τρέχουσα τιμή</string>
   <string name="pref_camera_default_suffix"> (Προεπιλογή)</string>
   <string name="pref_camera_denoise_title">Μείωση θορύβου</string>
@@ -266,8 +275,8 @@
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Επιλέξτε το μέγεθος της εικόνας</string>
-  <string name="pref_camera_picturesize_entry_standard">Πρότυπο 4:3</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη 16:9</string>
+  <string name="pref_camera_picturesize_entry_standard">Πρότυπο 4:3</string>
   <string name="pref_camera_picturesize_title">Μέγεθος εικόνας</string>
   <string name="pref_camera_picturesize_title_simple_mode">Μορφή εικόνας</string>
   <string name="pref_camera_raw_data_title">RAW</string>
@@ -295,6 +304,7 @@
   <string name="pref_camera_scenemode_entry_sports">Αθλητισμός</string>
   <string name="pref_camera_scenemode_entry_sunset">Ηλιοβασίλεμα</string>
   <string name="pref_camera_scenemode_title">Λειτουργία σκηνής</string>
+  <string name="pref_camera_settings">Γενικές ρυθμίσεις</string>
   <string name="pref_camera_settings_category">Ρυθμίσεις κάμερας</string>
   <string name="pref_camera_settings_title">Ρυθμίσεις</string>
   <string name="pref_camera_sharpness_title">Καθαρότητα</string>
@@ -310,6 +320,7 @@
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">Ενεργό</string>
   <string name="pref_camera_touchafaec_title">Αγγίξτε για εστίαση</string>
+  <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
   <string name="pref_camera_video_duration_entry_10">10 λεπτά</string>
   <string name="pref_camera_video_duration_entry_120">2 ώρες</string>
   <string name="pref_camera_video_duration_entry_30">30 λεπτά</string>
@@ -333,12 +344,16 @@
   <string name="pref_camera_zsl_entry_off">Off</string>
   <string name="pref_camera_zsl_entry_on">Ενεργό (Μέγ. 1Μ Pixels)</string>
   <string name="pref_camera_zsl_title">ZSL</string>
+  <string name="pref_capture_settings">Ρυθμίσεις κάμερας</string>
   <string name="pref_exposure_title">Έκθεση</string>
+  <string name="pref_face_beauty_title">Τόνος του δέρματος</string>
+  <string name="pref_front_mirror_title">Ανεστραμμένη μπροστινή κάμερα</string>
   <string name="pref_grp_advanced_settings">Ρυθμίσεις για προχωρημένους</string>
   <string name="pref_grp_capture_settings">Ρυθμίσεις λήψης</string>
   <string name="pref_grp_picture_settings">Ρυθμίσεις εικόνας</string>
   <string name="pref_grp_restore_settings">Επαναφορά ρυθμίσεων</string>
   <string name="pref_manual_exposure_title">Χειροκίνητη έκθεση</string>
+  <string name="pref_priority_storage_title">Αποθήκευση σε κάρτα SD</string>
   <string name="pref_scan_qrcode_title">Εντοπισμός κωδικών QR</string>
   <string name="pref_setting_title">Ρυθμίσεις</string>
   <string name="pref_settings_mode">Λειτουργία κάμερας</string>
@@ -358,6 +373,8 @@
   <string name="pref_video_speed_entry_fast">Γρήγορη</string>
   <string name="pref_video_speed_entry_normal">Κανονικά</string>
   <string name="pref_video_speed_entry_slow">Αργή</string>
+  <string name="pref_video_speed_fast_title">Γρήγορη κίνηση</string>
+  <string name="pref_video_speed_slow_title">Αργή κίνηση</string>
   <string name="pref_video_speed_title">Ταχύτητα Βίντεο</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0,3 δευτερόλεπτα (10 φορές)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 δευτερόλεπτο (120 φορές)</string>
@@ -400,6 +417,7 @@
   <string name="set_image">Χρησιμοποιήστε την εικόνα ως</string>
   <string name="set_label_all_albums">Όλα τα άλμπουμ</string>
   <string name="set_label_local_albums">Τοπικά άλμπουμ</string>
+  <string name="setting_top_text">Επιλογές</string>
   <string name="share">Μοίρασμα</string>
   <string name="show_all">Προβολή όλων</string>
   <string name="show_images_only">Εικόνες μόνο</string>
@@ -407,11 +425,14 @@
   <string name="show_videos_only">Βίντεο μόνο</string>
   <string name="simple_mode_button_text_audio_capture">Κλείστε τη σύλληψη ήχου</string>
   <string name="simple_mode_button_text_color_effect">Έξοδος από τα εφφέ</string>
+  <string name="simple_mode_button_text_countdown">Έξοδος αντίστροφης μέτρησης</string>
   <string name="simple_mode_button_text_face_beauty">Έξοδος από τον τόνο του δέρματος</string>
+  <string name="simple_mode_button_text_fast_video">Έξοδος αργής κίνησης</string>
   <string name="simple_mode_button_text_hand_night">Έξοδος από τη Νυχτερινή λειτουργία</string>
   <string name="simple_mode_button_text_hdr">Έξοδος από τη λειτουργία HDR</string>
   <string name="simple_mode_button_text_panorama">Έξοδος από τη λειτουργία πανόραμα</string>
   <string name="simple_mode_button_text_slow_video">Έξοδος από τη γρήγορη κίνηση</string>
+  <string name="simple_mode_button_text_ubifocus">Έξοδος επανεστίασης</string>
   <string name="simple_mode_title">Απλή λειτουργία</string>
   <string name="slideshow">Παρουσίαση</string>
   <string name="snapshot_lower_than_video">Το μέγεθος σύλληψης βίντεο είναι μικρότερο από το μέγεθος του βίντεο. Παρακαλώ επιλέξτε μια ανάλυση μεγαλύτερη ή ίση με το τρέχον μέγεθος του βίντεο.</string>
@@ -432,7 +453,10 @@
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Η λήψη φωτογραφιών σε ριπές δεν υποστηρίζεται όταν είναι ενεργή η ομορφιά του προσώπου.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Η λειτουργία ριπής δεν υποστηρίζεται όταν το HDR είναι ενεργοποιημένο.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Η λειτουργία ριπής δεν υποστηρίζεται όταν το ISO  έχει οριστεί ως αυτόματο.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Φωτογραφίες και βίντεο δεν μπορεί να εμφανίζονται όταν η οθόνη είναι κλειδωμένη.</string>
   <string name="toast_start_audio_capture">Εκπέμπει ήχο κλείστρου κατά τη λήψη</string>
+  <string name="ubi_focus_capture_fail">"Αδυναμία ληψης φωτογραφίας"</string>
+  <string name="ubifocus_capture_warning_message">"Για καλύτερα αποτελέσματα, η εικόνα σας πρέπει να περιέχει αντικείμενα (όχι λιγότερο από 1 μέτρο από το φακό) και μακρύτερα"</string>
   <string name="undo">Ακύρωση</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Κάμερα</string>
@@ -459,16 +483,4 @@
   <string name="wifi_security">Ασφάλεια:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Παρακαλούμε ελέγξτε την ασφάλεια πριν να συνδεθείτε σε αυτό το δίκτυο Wi-Fi</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Φωτογραφίες και βίντεο δεν μπορεί να εμφανίζονται όταν η οθόνη είναι κλειδωμένη.</string>
-  <string name="pref_camera_countdown_title">Αντίστροφη μέτρηση</string>
-  <string name="simple_mode_button_text_countdown">Έξοδος αντίστροφης μέτρησης</string>
-  <string name="pref_priority_storage_title">Αποθήκευση σε κάρτα SD</string>
-  <string name="pref_front_mirror_title">Ανεστραμμένη μπροστινή κάμερα</string>
-  <string name="pref_video_speed_fast_title">Γρήγορη κίνηση</string>
-  <string name="pref_video_speed_slow_title">Αργή κίνηση</string>
-  <string name="pref_camera_settings">Γενικές ρυθμίσεις</string>
-  <string name="pref_advance_settings">Ρυθμίσεις για προχωρημένους</string>
-  <string name="pref_camcorder_settings">Ρυθμίσεις κάμερας</string>
-  <string name="pref_camcorder_settings_category">Ρυθμίσεις φωτογραφιών και βίντεο</string>
-  <string name="pref_capture_settings">Ρυθμίσεις κάμερας</string>
 </resources>
