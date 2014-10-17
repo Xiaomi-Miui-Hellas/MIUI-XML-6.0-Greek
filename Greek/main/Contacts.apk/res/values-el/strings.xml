@@ -200,6 +200,7 @@
   <string name="createContactShortcutSuccessful">Το widget της επαφής έχει προστεθεί στην Αρχική οθόνη</string>
   <string name="create_group_dialog_title">Δημιουργία νέας ομάδας</string>
   <string name="create_group_item_label">Δημιουργία νέας ομάδας</string>
+  <string name="create_qrcode_fail_message">"Αδύνατη η δημιουργία QR κωδικού"</string>
   <string name="customLabelPickerTitle">Προσαρμοσμένο όνομα ετικέτας</string>
   <string name="custom_list_filter">Ορίστε την προσαρμοσμένη προβολή</string>
   <string name="custom_nickname_hint">Πληκτρολογήστε ψευδώνυμο</string>
@@ -351,6 +352,7 @@
   <string name="export_sim_contacts_dialog_message">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφές</string>
   <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
   <string name="export_to_sim">Εξαγωγή σε κάρτα SIM</string>
+    <string name="export_to_sim1">Εξαγωγή σε κάρτα SIM 1</string>  
   <string name="export_to_sim2">Εξαγωγή σε κάρτα SIM 2</string>
   <string name="export_to_sim_title">Εξαγωγή…</string>
   <string name="export_vcard_description">"Εξαγωγή vCard στον εσωτερικό χώρο αποθήκευσης του τηλεφώνου"</string>
@@ -424,6 +426,7 @@
   <string name="import_from_other_phone">Εισαγωγή από άλλο τηλέφωνο</string>
   <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
   <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
+  <string name="import_from_sim1">Εισαγωγή από κάρτα SIM 1</string>
   <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
   <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
   <string name="import_name">Όνομα</string>
@@ -716,6 +719,7 @@
   <string name="pref_key_rebuild_t9_index_message">Αναδόμηση του δείκτη για την επίλυση ζητημάτων αναζήτησης</string>
   <string name="pref_key_rebuild_t9_index_title">Ανακατασκευή στοιχείων δείκτη</string>
   <string name="pref_key_sim_manage">Διαμορφώστε την κάρτα SIM</string>
+  <string name="pref_key_sim_manage1">Διαμορφώστε την κάρτα SIM 1</string>
   <string name="pref_key_sim_manage2">Διαμορφώστε την κάρτα SIM 2</string>
   <string name="pref_summary_import_from_account">Μεταφορά επαφών από λογαριασμούς Google και Exchange στο Mi λογαριασμό μου</string>
   <string name="pref_title_account_import">Εισαγωγη απο το λογαριασμο</string>
@@ -764,6 +768,8 @@
   <string name="profile_display_name">Ρύθμιση του προφίλ μου</string>
   <string name="profile_name">Το προφίλ μου</string>
   <string name="profile_name_photo">Εγώ</string>
+  <string name="qr_card_card">Ο QR κωδικός μου</string>
+  <string name="qrcode_card_title">QR κωδικός</string>
   <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
   <string name="quit_dialog_confirm_title">"Δεν έχουν συγχωνευθεί επαφές"</string>
   <string name="readOnlyContactDeleteConfirmation">Αυτή η επαφή περιέχει πληροφορίες από πολλαπλούς λογαριασμούς. Οι πληροφορίες από τους λογαριασμούς μόνο για ανάγνωση θα είναι κρυμμένες στις λίστες επαφών σας, δεν διαγράφονται.</string>
@@ -960,6 +966,8 @@
   <string name="scan">Σάρωση</string>
   <string name="scan_duplicate_message">%1$d επαφές με ταυτόσημες πληροφορίες</string>
   <string name="scan_merge">Αναζήτηση για διπλές επαφές…</string>
+  <string name="scan_qrcode_card_hint1">Σάρωση QR κωδικού</string>
+  <string name="scan_qrcode_card_hint2">Προσθήκη πληροφοριών στις επαφές σας</string>
   <string name="scanning">Σάρωση…</string>
   <string name="scanning_sdcard_failed_message">Αιτία: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"Ο αποθηκευτικός χώρος δεν μπορεί να σαρωθεί"</string>
@@ -1063,6 +1071,7 @@
   <string name="splitConfirmation_title">Διαχωρισμός επαφής?</string>
   <string name="starredList">Με αστέρι</string>
   <string name="starred_contacts">Αγαπημένα</string>
+  <string name="starred_yellowpage">Αγαπημένοι φάκελοι</string>
   <string name="status_available">Διαθέσιμος</string>
   <string name="status_away">Απουσιάζω</string>
   <string name="status_busy">Απασχολημένος</string>
