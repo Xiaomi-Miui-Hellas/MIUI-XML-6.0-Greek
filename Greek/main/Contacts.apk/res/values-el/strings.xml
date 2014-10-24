@@ -156,7 +156,6 @@
   <string name="config_export_extensions_to_consider" />
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
-  <string name="config_import_vcard_type">Προεπιλογή</string>
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">Διαγραφή ιστορικού κλήσεων?</string>
   <string name="confirm_delete_selected_all_call_logs">Διαγραφή ιστορικού κλήσεων?</string>
