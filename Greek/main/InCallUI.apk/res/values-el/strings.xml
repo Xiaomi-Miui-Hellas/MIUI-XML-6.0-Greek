@@ -609,7 +609,6 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Δόνηση</string>
     <string name="voicemail_notification_ringtone_title">Ήχος</string>
     <string name="default_notification_description">Προεπιλογή ήχου (%1$s)</string>
-    <string name="voicemail_notification_vibrate_when_default">ποτέ</string>
     <string name="ringtone_title">Ήχος κλήσης τηλεφώνου</string>
     <string name="vibrate_on_ring_title">Δόνηση όταν χτυπάει</string>
     <string name="dtmf_tone_enable_title">Ήχος αφής πληκτρολογίου</string>
