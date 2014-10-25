@@ -5,7 +5,6 @@
   <string name="cabl_enable_summary_on">Ο οπίσθιος φωτισμός θα αναπροσαρμογή με βάση το περιεχόμενο της οθόνης</string>
   <string name="cabl_enable_title">Ενεργοποίηση προσαρμοσμένου φωτισμού περιεχομένου</string>
   <string name="cabl_info_default">Unknown</string>
-  <string name="cabl_level_default">Auto</string>
   <string name="cabl_levels_summary">Το Χαμηλό επίπεδο ποιότητας υποδεικνύουν στο CABL θα προσπαθήσει να σώσει όσο το δυνατόν περισσότερη ενέργεια, χωρίς να επηρεάζεται σημαντικά το περιεχόμενο που εμφανίζεται. Αυτόματο επίπεδο οπτικής ποιότητας σημαίνει, ότι το CABL θα προσπαθήσει να μεγιστοποιήσει εξοικονόμηση ενέργειας με βάση τον τύπο αυτόματης ανίχνευσης του περιεχομένου που εμφανίζεται.</string>
   <string name="cabl_levels_title">Επίπεδο οπτικής ποιότητας</string>
   <string name="cabl_settings_title">Ρυθμίσεις προσαρμοσμένου φωτισμού</string>

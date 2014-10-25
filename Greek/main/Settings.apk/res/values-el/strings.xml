@@ -2073,7 +2073,6 @@
     <string name="status_bar_settings_show_notification_icon">Προβολή εικονιδίων ειδοποίησης</string>
   <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ.screenshot</string>
     <string name="status_bar_settings_show_statusBar_notification">Προβολή στη lock screen και στο drop down</string>
-  <string name="status_bar_settings_show_statusBar_notification">Προβολή στο keyguard</string>
   <string name="status_bar_settings_show_wifi_name">Προβολή Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Μπάρα κατάστασης</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Κλείσιμο μετά το άγγιγμα</string>

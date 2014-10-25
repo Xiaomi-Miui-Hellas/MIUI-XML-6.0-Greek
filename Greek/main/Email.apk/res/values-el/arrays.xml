@@ -50,11 +50,6 @@
         <item>Εμφάνιση παλαιότερης συζήτησης μετά την διαγραφή</item>
         <item>Εμφάνιση λίστας συζητήσεων μετά την διαγραφή</item>
     </string-array>
-    <string-array name="prefValues_autoAdvance">
-        <item>νέα</item>
-        <item>παλιά</item>
-        <item>λίστα</item>
-    </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Εμφάνιση μόνο του αρχείου</item>
         <item>Εμφάνιση μόνο διαγραμμένων</item>
@@ -64,11 +59,6 @@
         <item>Εμφάνιση μόνο του αρχείου</item>
         <item>Εμφάνιση μόνο διαγραμμένων</item>
         <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
-    </string-array>
-    <string-array name="prefValues_removal_action">
-        <item>αρχείο</item>
-        <item>διαγραφή</item>
-        <item>αρχείο-και-διαγραφή</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Προκαθορισμένο</item>

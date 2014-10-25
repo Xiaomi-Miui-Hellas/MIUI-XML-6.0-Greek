@@ -329,16 +329,6 @@
        <item>Αργό δίκτυο λόγο αδύναμου σήματος</item>
        <item>Μεταφορά…</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-       <item>Κανένα</item>
-       <item>720x480 mdpi</item>
-       <item>720x480 mdpi (αφαλές)</item>
-       <item>1280x720 tvdpi</item>
-       <item>1280x720 tvdpi (ασφαλές)</item>
-       <item>1920x1080 xhdpi</item>
-       <item>1920x1080 xhdpi (ασφαλές)</item>
-       <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="perm_hips_action">
        <item>Επέτρεψε</item>
        <item>Ρώτα</item>

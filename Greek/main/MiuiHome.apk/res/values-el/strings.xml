@@ -91,7 +91,6 @@
   <string name="guide_install_app_msg">Η εφαρμογή δεν εγκαταστάθηκε. Εύρεση εφαρμογής στο Market τώρα?</string>
   <string name="guide_install_app_title">Εγκατάσταση εφαρμογής</string>
   <string name="guide_tips_editing_mode">Κρατήστε πατημένο το παρακάτω widget για να το σύρετε στην οθόνη</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">Εγκατάσταση</string>
   <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
   <string name="loading_desktop">Φόρτωση του launcher…</string>
