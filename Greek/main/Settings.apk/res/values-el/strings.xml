@@ -555,7 +555,7 @@
   <string name="clear_user_data_text">Καθαρισμός δεδομένων</string>
     <string name="cmcc_dm_settings_disable_summary">Απενεργ.αυτόμ. boot</string>
     <string name="cmcc_dm_settings_enable_summary">Ενεργ.αυτόμ. boot</string>
-    <string name="cmcc_dm_settings_title">Δικαιώματα διχείρισης συσκευής</string>
+    <string name="cmcc_dm_settings_title">Δικαιώματα διαχείρισης συσκευής</string>
   <string name="color_black">Μαύρο</string>
   <string name="color_blue">Μπλε</string>
   <string name="color_calibration_none">Εγχώριο</string>
@@ -636,7 +636,6 @@
   <string name="data_usage_app_restrict_background_summary">Απενεργοποίηση στοιχείων σε κινητά δίκτυα. Μη δίκτυα κινητής τηλεφωνίας θα χρησιμοποιηθούν εφόσον είναι διαθέσιμα.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Για να περιορίσετε τα δεδομένα παρασκηνίου για την εφαρμογή αυτή, ορίστε για πρώτη φορά ένα όριο δεδομένων κινητής τηλεφωνίας.</string>
   <string name="data_usage_app_restrict_dialog">"Αυτό το χαρακτηριστικό μπορεί να προκαλέσει μια εφαρμογή που εξαρτάται από τα δεδομένα υπόβαθρου να σταματήσει να λειτουργεί όταν μόνο τα δίκτυα κινητής τηλεφωνίας είναι διαθέσιμα.
-
 
 Μπορείτε να βρείτε περισσότερα κατάλληλα στοιχεία ελέγχου χρήσης δεδομένων στις ρυθμίσεις που είναι διαθέσιμες μέσα από την εφαρμογή."</string>
   <string name="data_usage_app_restrict_dialog_title">Περιορισμός δεδομένων παρασκηνίου?</string>
@@ -2102,8 +2101,6 @@
   <string name="status_service_state">Κατάσταση υπηρεσίας</string>
   <string name="status_signal_strength">Ισχύς σήματος</string>
     <string name="status_sim">Κατάσταση SIM</string>
-
-
     <string name="status_summary">Χτυπήστε για προβολή λεπτομεριών</string>
   <string name="status_unavailable">Μη διαθέσιμο</string>
   <string name="status_up_time">Χρόνος εν ενεργεία</string>
@@ -2193,7 +2190,6 @@
   <string name="trackball_wake_title">Ξύπνημα Ιχνόσφαιρας</string>
   <string name="transition_animation_scale_title">Κλίμακα μετάβασης animation</string>
   <string name="translation_contributors_title">Συνεργάτες</string>
-
   <string name="trusted_credentials">Ασφαλή πιστοποιητικά</string>
   <string name="trusted_credentials_disable_confirmation">Απενεργοποίηση του πιστοποιητικού CA συστήματος</string>
   <string name="trusted_credentials_disable_label">Απενεργοποίηση</string>
