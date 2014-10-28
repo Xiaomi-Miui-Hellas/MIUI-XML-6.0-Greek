@@ -122,7 +122,6 @@
     <string name="close_callwait">Απενεργοποίηση</string>
     <string name="sure">Επιβεβαίωση</string>
     <string name="cancle">Ακύρωση</string>
-    <string name="st_title_addwhitelist">Προσθήκη στις εξαιρέσεις</string>
     <string name="st_hint_add_phonenumber">Είσοδος αριθμού</string>
     <string name="st_hint_add_head_number">Πρόθεμα (\"*\" θα προστεθεί αυτόματα)</string>
     <string name="st_message_SMSpass">Επέτρεψε μηνύματα</string>
