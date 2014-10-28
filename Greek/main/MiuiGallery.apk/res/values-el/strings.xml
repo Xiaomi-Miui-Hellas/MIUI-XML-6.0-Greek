@@ -62,7 +62,7 @@
     <string name="bigscreen_slide_fail_cause_loading">Παρακαλώ ξεκινήστε την παρουσίαση μετά την φόρτωση της εικόνας.</string>
     <string name="bigscreen_slide_playing">Παρουσίαση παίζει στο %s</string>
     <string name="bigscreen_video_quit">Πατήστε για έξοδο</string>
-    <string name="browse_category">Εξερευνηση εικονων</string>
+    <string name="browse_category">Εξερεύνηση εικόνων</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Από άλλα</string>
     <string name="by_sms">SMS</string>
@@ -228,7 +228,7 @@
     <string name="frame_semicircle">Ημικύκλιο</string>
     <string name="frame_white">Λευκό</string>
     <string name="gallery_cloud_provider_name">MiCloud άλμπουμ</string>
-    <string name="gallery_setting">Ρυθμίσεις</string>
+    <string name="gallery_setting">Άλμπουμ</string>
     <string name="get_album_info_in_process">Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε ...</string>
     <string name="global_setting">Ρυθμίσεις</string>
     <string name="grain">Φιλμ με κόκκους</string>
@@ -254,11 +254,11 @@
     <string name="immomo_camera">Immomo</string>
     <string name="import_complete">Η εισαγωγή ολοκληρώθηκε</string>
     <string name="import_fail">Αποτυχία εισαγωγής</string>
-    <string name="impunity_declaration">Συμφωνείτε για σύνδεση στο internet με την χρήση του άλμπουμ;</string>
+    <string name="impunity_declaration">Συμφωνείτε για σύνδεση στο Internet με την χρήση του άλμπουμ;</string>
     <string name="impunity_declaration_ignore">"Όχι προβολή ξανά"</string>
     <string name="impunity_declaration_settings">Προβολή ειδοποίησης δικτύου</string>
     <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου σε κάθε εκκίνηση του άλμπουμ</string>
-    <string name="impunity_declaration_title">Ειδοποίηδη δικτύου</string>
+    <string name="impunity_declaration_title">Ειδοποίηση δικτύου</string>
     <string name="initial_cloud_button_text">Έναρξη χρήσης του MiCloud</string>
     <string name="initial_cloud_text">Οποτεδήποτε κι από οπουδήποτε, οργανώστε τις εικόνες σας</string>
     <string name="initializing_cloud">Αρχικοποίηση του Cloud Άλμπουμ ...</string>
@@ -361,7 +361,7 @@
     <string name="operation_too_often">Υπέρβαση ορίου συχνότητας, παρακαλώ δοκιμάστε μετά από 1 λεπτό.</string>
     <string name="operation_unset_as_screensaver">Ακύρωση Screensaver</string>
     <string name="orientation">Προσανατολισμός</string>
-    <string name="other_category">Αλλες ρυθμισεις</string>
+    <string name="other_category">Άλλες ρυθμίσεις</string>
     <string name="owner_album_subtitle">Κοινή χρήση με %1$s μέλη</string>
     <string name="path">Διαδρομή</string>
     <string name="people">Άτομα</string>
@@ -371,7 +371,7 @@
     <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
     <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
     <string name="photo_paint_adjust">ρυθμίστε</string>
-    <string name="photo_paint_effect">εφφέ</string>
+    <string name="photo_paint_effect">εφέ</string>
     <string name="photo_saved">Η φωτογραφία αποθηκεύτηκε στο %s άλμπουμ</string>
     <string name="photo_size">Μέγεθος</string>
     <string name="photoeditor_name">Photo Studio</string>
@@ -478,7 +478,7 @@
     <string name="size_between">%1$s εώς %2$s</string>
     <string name="skip_hide_special_album">"Δεν μπορεί να κρύψει άλμπουμ του συστήματος (π.χ.. Κάμερα, Screenshots)"</string>
     <string name="slideshow">Παρουσίαση</string>
-    <string name="slideshow_category">Κατηγορια παρουσιασης</string>
+    <string name="slideshow_category">Κατηγορία παρουσίασης</string>
     <string name="slideshow_dream_name">Προβολή διαφανειών</string>
     <string name="slideshow_interval">Διάρκεια Παρουσίασης</string>
     <string name="slideshow_interval_dialog_title">Το διάστημα πρέπει να είναι μεγαλύτερο απο 0 δευτερόλεπτα</string>
@@ -518,7 +518,7 @@
     <string name="tint">Απόχρωση</string>
     <string name="title">Τίτλος</string>
     <string name="to_count">%d σύνολο</string>
-    <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιτοι επιτρεπόμενοι παραλήπτες.</string>
+    <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιστοι επιτρεπόμενοι παραλήπτες.</string>
     <string name="try_to_send">Προσπάθεια αποστολής</string>
     <string name="ubifocus_data_missing">Μερικά από τα στοιχεία για αυτή την εικόνα λείπουν</string>
     <string name="ubifocus_guide_text">Αγγίξτε &amp; κρατήστε για επανεστίαση</string>
