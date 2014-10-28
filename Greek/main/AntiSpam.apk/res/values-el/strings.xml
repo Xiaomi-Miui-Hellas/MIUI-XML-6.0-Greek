@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Φρουρός</string>
-	<string name="fw_blocked">Λίστα αποκλεισμένων</string>
+    <string name="fw_blocked">Λίστα αποκλεισμένων</string>
     <string name="fw_blocked_count">"Αποκλεισμένο(ι)"</string>
     <string name="fw_blocked_join">" και "</string>
     <string name="tab_title">Φρουρός</string>
