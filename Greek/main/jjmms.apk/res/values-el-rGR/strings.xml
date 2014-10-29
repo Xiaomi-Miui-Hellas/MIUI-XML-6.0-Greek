@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JeejenMms</string>
+    <string name="wap_push_title">[WAP Push]</string>
+    <string name="message_queued">"Αυτή τη στιγμή δεν μπορούμε να στείλετε το μήνυμά σας. Η αποστολή θα πραγματοποιηθεί όταν η υπηρεσία θα είναι διαθέσιμη."</string>
+    <string name="download_later">"Δεν μπορείτε να κατεβάσετε τώρα. Προσπαθήστε ξανά αργότερα."</string>
+    <string name="invalid_destination">"Μη έγκυρη διεύθυνση προορισμού."</string>
+    <string name="service_network_problem">Δεν ήταν δυνατή η αποστολή λόγο προβλήματος στο δίκτυο.</string>
+    <string name="service_message_not_found">"Το μήνυμα έχει λήξει ή δεν είναι διαθέσιμο."</string>
+    <string name="service_not_activated">Η υπηρεσία δεν είναι ενεργοποιημένη στο δίκτυο.</string>
+    <string name="no_subject">(Χωρίς θέμα)</string>
+    <string name="unknown_sender">Άγνωστος αποστολέας</string>
+    <string name="dl_failure_notification">"Δεν ήταν δυνατή η λήψη του μηνύματος %1$s από %2$s ."</string>
+</resources>
