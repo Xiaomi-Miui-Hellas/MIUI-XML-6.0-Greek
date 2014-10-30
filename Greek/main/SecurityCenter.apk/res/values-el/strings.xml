@@ -458,8 +458,8 @@
     <string name="hints_latest_garbage_cleanup_date">Τελευτ. καθαρισμός πριν %d ημέρες</string>
     <string name="activity_title_deep_clean">Περιοδικός καθαρισμός</string>
     <string name="hints_garbage_cleanup_result_safe">Βέλτιστη</string>
-    <string name="hints_garbage_cleanup_result_risk">Συνιστάται καθαρισμός</string>
-    <string name="hints_garbage_cleanup_result_danger">Προτείνεται καθαρισμός</string>
+    <string name="hints_garbage_cleanup_result_risk">Επικίνδυνο. Συνιστάται καθαρισμός</string>
+    <string name="hints_garbage_cleanup_result_danger">Κίνδυνος. Προτείνεται καθαρισμός</string>
     <string name="toast_garbage_list_empty">Δεν απαιτείται ανάλυση, όλα είναι εντάξει!</string>
     <string name="hints_quick_cleanning">Καθαρισμός…</string>
     <string name="hints_finish_quick_scan">Η ανάλυση είναι πλήρης</string>
