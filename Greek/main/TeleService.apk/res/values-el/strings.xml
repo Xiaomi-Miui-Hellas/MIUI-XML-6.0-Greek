@@ -515,9 +515,6 @@
     <string name="no_vt_allowed">Για να κάνετε βίντεο-κλήση, κλείστε την λειτουργία TTY</string>
     <string name="sip_system_decide">Αυτόματο</string>
     <string name="sip_always_send_keepalive">Αποστολή πάντα</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="domain_address">Διακομιστής</string>
     <string name="username">Όνομα Χρήστη</string>
     <string name="password">Κωδικός</string>
