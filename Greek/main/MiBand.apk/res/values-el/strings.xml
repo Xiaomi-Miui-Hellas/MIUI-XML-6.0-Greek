@@ -21,7 +21,7 @@
   <string name="alarm_repeat_title_format">%s έχει επιλεγεί</string>
   <string name="alarm_ring">Αφύπνιση</string>
   <string name="alarm_setting">Ρυθμίσεις συναγερμού</string>
-  <string name="am">ΜΜ</string>
+  <string name="am">ΠΜ</string>
   <string name="apk_download_ok">Ολοκλήρωση λήψης της εφαρμογής MiBand</string>
   <string name="apk_uptodate">Έχετε εγκατεστημένη την τελευταία έκδοση</string>
   <string name="app_exit_press_again">Πατήστε πάλι για έξοδο</string>
@@ -274,7 +274,7 @@
   <string name="please_input_gender">Παρακαλώ επιλέξτε το φύλο σας</string>
   <string name="please_knock_bracelet">Παρακαλώ κάντε tap στα MiBand για σύνδεση</string>
   <string name="please_set_sport_goal">Ορισμός στόχου των σπορ</string>
-  <string name="pm">ΠΜ</string>
+  <string name="pm">ΜΜ</string>
   <string name="point">λεπτά</string>
   <string name="points_exchange">Εξαργυρώστε τους πόντους</string>
   <string name="prev_step">Προηγούμενο</string>
