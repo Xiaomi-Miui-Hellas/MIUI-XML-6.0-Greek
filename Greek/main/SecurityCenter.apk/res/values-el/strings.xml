@@ -189,7 +189,7 @@
     <string name="usage_type_no_coverage">Διάρκεια χωρίς σήμα</string>
     <string name="usage_type_gps">GPS</string>
     <string name="process_kernel_label">Λειτουργικό Android</string>
-    <string name="process_mediaserver_label">Διακομιστής μέσων ενημέρωσης</string>
+    <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="power_screen">Οθόνη</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">Bluetooth</string>
