@@ -612,8 +612,8 @@
     <string name="button_text_reject_timer">Σε απόρριψη ( %d )</string>
     <string name="button_text_next_step">Επόμενο</string>
     <string name="button_text_next_step_timer">Επόμενο ( %d )</string>
-    <string name="toast_root_apply_accept">Ακύρωση αδείας Root ( %s )</string>
-    <string name="toast_root_apply_reject">Η άδεια root μπλοκάρεται ( %s )</string>
+    <string name="toast_root_apply_accept">Παραχώρηση Root στο ( %s )</string>
+    <string name="toast_root_apply_reject">Άρνηση Root στο ( %s )</string>
     <string name="permission_send_sms_descx">Αποστολή SMS και MMS</string>
     <string name="toast_backup_is_running">Ένα αντίγραφο ασφαλείας είναι ήδη σε εξέλιξη. Παρακαλώ δοκιμάστε ξανά σε 1 ή 2 λεπτά.</string>
     <string name="toast_backup_uninstall_failed">Αποτυχία να κάνετε backup %d εφαρμογών. Παρακαλώ δοκιμάστε ξανά σε 1 ή 2 λεπτά.</string>
