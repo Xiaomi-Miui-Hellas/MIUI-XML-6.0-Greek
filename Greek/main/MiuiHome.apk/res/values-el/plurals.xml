@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="editing_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="two">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">%1$d επιλέχθηκαν</item>
+        <item quantity="zero">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκε</item>
+        <item quantity="two">%1$d επιλέχθηκαν</item>
+        <item quantity="few">%1$d επιλέχθηκαν</item>
+        <item quantity="many">%1$d επιλέχθηκαν</item>
      </plurals>
      <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Απεγκατάσταση \"%1$s\" και  %2$d άλλων εφαρμογών?</item>
@@ -19,9 +19,9 @@
      </plurals>
      <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$ εφαρμογές απεγκαταστάθηκαν</item>
-        <item quantity="zero">%1$d apps uninstalled</item>
-        <item quantity="one">Εφαρμογές απεγκαταστάθηκε</item>
-        <item quantity="two">%1$d apps uninstalled</item>
-        <item quantity="many">%1$d apps uninstalled</item>
+        <item quantity="zero">%1$d εφαρμογές απεγκαταστάθηκαν</item>
+        <item quantity="one">Εφαρμογή απεγκαταστάθηκε</item>
+        <item quantity="two">%1$d εφαρμογές απεγκαταστάθηκαν</item>
+        <item quantity="many">%1$d εφαρμογές απεγκαταστάθηκαν</item>
      </plurals>
 </resources>
