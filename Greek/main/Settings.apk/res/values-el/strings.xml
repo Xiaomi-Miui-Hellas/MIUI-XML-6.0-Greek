@@ -2079,6 +2079,7 @@
   <string name="status_bar_settings_toggle_layout_style_compact">Μπάρα</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Σελίδα</string>
   <string name="status_bar_style_settings">Ειδοποιήσεις</string>
+  <string name="status_bar_toggle_arrangement">Οργάνωση διακοπτών</string>
   <string name="status_bt_address">Διεύθυνση Bluetooth</string>
   <string name="status_data_state">Κατάσταση κινητού δικτύου</string>
   <string name="status_icc_id">ICCID</string>
