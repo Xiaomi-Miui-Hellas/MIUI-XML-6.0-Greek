@@ -14,7 +14,7 @@
     <string name="status_bar_toggle_privacy_mode">Επισκέπτης</string>
     <string name="status_bar_toggle_reboot">Επανεκκίνηση</string>
     <string name="status_bar_toggle_rotate">Περιστροφή</string>
-    <string name="status_bar_toggle_screen_button">Κουμπιά</string>
+    <string name="status_bar_toggle_screen_button">Πλήκτρα</string>
     <string name="status_bar_toggle_screenshot">Στιγμιότυπο</string>
     <string name="status_bar_toggle_shutdown">Τερματισμός</string>
     <string name="status_bar_toggle_sync">Συγχρονισμός</string>
@@ -73,11 +73,11 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="call_record_sample_prefix_miui">Εγγραφή κλήσης</string>
     <string name="fm_record_smaple_prefix_miui">Εγγραφή ραδιοφώνου</string>
     <string name="unknown_caller">Άγνωστος αριθμός</string>
-    <string name="call_record_or">" or "</string>
+    <string name="call_record_or">" ή "</string>
     <string name="presentation_unknown">Άγνωστος αριθμός</string>
     <string name="presentation_private">Απόρρητος αριθμός</string>
     <string name="presentation_payphone">Καρτοτηλέφωνο</string>
-    <string name="caller_info_name_delimiter">" or "</string>
+    <string name="caller_info_name_delimiter">" ή "</string>
     <string name="sim_added_reboot_title">Η κάρτα SIM θα ενεργοποιηθεί μετά την επανεκκίνηση της συσκευής σας.</string>
     <string name="sim_added_reboot_confirm">Επανεκκίνηση</string>
     <string name="yellow_page_unable_send_sms">Αδύνατη η αποστολή SMS</string>
@@ -95,7 +95,7 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="key_btn_space">Space</string>
     <string name="key_btn_ok">OK</string>
     <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις</string>
-    <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
+    <string name="softap_notifif_title">Hotspot \"%s\" ενεργό</string>
     <string name="softap_notifif_summary">%d συνδέσεις</string>
     <string name="maml_component_customization_title">Ρυθμίσεις</string>
     <string name="default_name">Προεπιλογή</string>

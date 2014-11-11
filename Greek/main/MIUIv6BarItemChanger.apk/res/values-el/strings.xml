@@ -14,7 +14,7 @@
     <string name="data_autolight">Αυτόματο</string>
     <string name="data_block">Κλείδωμα</string>
     <string name="data_bluetooth">BT</string>
-    <string name="data_buttons">Κουμπιά</string>
+    <string name="data_buttons">Πλήκτρα</string>
     <string name="data_gps">GPS</string>
     <string name="data_guest">Επισκέπτης</string>
     <string name="data_light">Φακός</string>
@@ -33,7 +33,7 @@
     <string name="err_reset">Αποτυχία επαναφοράς των ρυθμίσεων</string>
     <string name="err_saving">Σφάλμα κατά την αποθήκευση των ρυθμίσεων</string>
     <string name="howtouse_text">"1. Χρησιμοποιείστε \"Drag'n'Drop\" για να οργανώσετε τους διακόπτες ανάλογα με τις προτιμήσεις σας.
-2. Πατήστε του κουμπί \"Αποθήκευση\".
+2. Πατήστε το κουμπί \"Αποθήκευση\".
 3. Ολοκληρώθηκε!"</string>
     <string name="howtouse_text1">Το κουμπί \"Επαναφορά\" θα οργανώσει τους διακόπτες με την προεπιλεγμένη σειρά.</string>
     <string name="main_header">Μεταφέρετε και αποθέστε τους διακόπτες με την σειρά που προτιμάτε</string>
@@ -42,7 +42,7 @@
     <string name="main_reset_button">Επαναφορά</string>
     <string name="main_save_button">Αποθήκευση</string>
     <string name="main_settings_question">Είστε σίγουροι ότι θέλετε να επαναφέρετε τις ρυθμίσεις σας?</string>
-    <string name="main_settings_question_no">Ναι</string>
-    <string name="main_settings_question_yes">Όχι</string>
+    <string name="main_settings_question_no">Όχι</string>
+    <string name="main_settings_question_yes">Ναι</string>
     <string name="main_settings_saved">Οι ρυθμίσεις αποθηκεύτηκαν</string>
 </resources>
