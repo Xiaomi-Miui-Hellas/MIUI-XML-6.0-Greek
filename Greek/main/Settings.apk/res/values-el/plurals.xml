@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Απομένουν %1$d βήματα για να γίνετε προγραμματιστής.</item>
+        <item quantity="one">Απομένει %1$d βήμα για να γίνετε προγραμματιστής.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d μικρά γράμματα.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 μικρό γράμμα.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d ειδικούς χαρακτήρες.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 ειδικό χαρακτήρα.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d αριθμούς.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 αριθμό.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 ειδικό σύμβολο.</item>
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d μικρά γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 μικρό γράμμα.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-       <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
-       <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 κεφαλαίο γράμμα.</item>
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 κεφαλαίο γράμμα.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d αριθμούς.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 αριθμό.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 ειδικό σύμβολο.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d ειδικούς χαρακτήρες.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 ειδικό χαρακτήρα.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-       <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν ειδοποιήσεις</item>
-       <item quantity="one">%d εφαρμογή μπορεί να διαβάσει ειδοποιήσεις</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
-       <item quantity="other">Βρέθηκαν %1$s εκτυπωτές</item>
-       <item quantity="one">Βρέθηκε %1$s εκτυπωτής</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-       <item quantity="other">"Είστε %1$d βήματα πριν την είσοδο στο cit."</item>
-       <item quantity="one">"Είστε %1$d βήμα πριν την είσοδο στο cit."</item>
-    </plurals>
-    <plurals name="show_dev_countdown">
-       <item quantity="other">Απομένουν %1$d βήματα για να γίνετε προγραμματιστής.</item>
-       <item quantity="one">Απομένει %1$d βήμα για να γίνετε προγραμματιστής.</item>
-    </plurals>
-    <plurals name="show_pho_countdown">
-       <item quantity="other">"Είστε %1$d βήματα πριν την είσοδο στις πληροφορίες συσκευής."</item>
-       <item quantity="one">"Είστε %1$d βήμα πριν την είσοδο στις πληροφορίες συσκευής."</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-       <item quantity="other">"Είστε %1$d βήματα πριν την αναφορά bug."</item>
-       <item quantity="one">"Είστε %1$d βήμα πριν την αναφορά bug."</item>
+        <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν ειδοποιήσεις</item>
+        <item quantity="one">%d εφαρμογή μπορεί να διαβάσει ειδοποιήσεις</item>
     </plurals>
     <plurals name="wrong_pin_code">
-       <item quantity="other">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένουν %d προσπάθειες.</item>
-       <item quantity="one">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένει άλλη %d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+        <item quantity="other">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένουν %d προσπάθειες.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένει άλλη %d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Βρέθηκαν %1$s εκτυπωτές</item>
+        <item quantity="one">Βρέθηκε %1$s εκτυπωτής</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Είστε %1$d βήματα πριν την είσοδο στις πληροφορίες συσκευής.</item>
+        <item quantity="one">Είστε %1$d βήμα πριν την είσοδο στις πληροφορίες συσκευής.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Είστε %1$d βήματα πριν την είσοδο στο cit.</item>
+        <item quantity="one">Είστε %1$d βήμα πριν την είσοδο στο cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Είστε %1$d βήματα πριν την αναφορά bug.</item>
+        <item quantity="one">Είστε %1$d βήμα πριν την αναφορά bug.</item>
     </plurals>
 </resources>

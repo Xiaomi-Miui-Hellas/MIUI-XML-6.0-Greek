@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="more_coupons_count">
-        <item quantity="other">%d coupons</item>
-        <item quantity="one">1 coupon</item>
-     </plurals>
+    <plurals name="more_coupons_count">
+        <item quantity="other">%d κουπόνια</item>
+        <item quantity="one">1 κουπόνι</item>
+    </plurals>
+    <plurals name="review_count">
+        <item quantity="other">Δείτε όλα τα %d σχόλια</item>
+        <item quantity="one">Δείτε 1 σχόλιο</item>
+    </plurals>
 </resources>
