@@ -282,4 +282,11 @@
     <string name="dlg_title_not_open_stranger_identify">Ενεργοποίηση αναγνώρισης κλήσης αγνώστων αριθμών</string>
     <string name="dlg_message_not_open_stranger_identify">Πρέπει να ενεργοποιήσετε την αναγνώριση κλήσης αγνώστων αριθμών στο Τηλέφωνο > Ρυθμίσεις, προτού να προσθέσετε ετικέτα σε έναν αριθμό.</string>
     <string name="button_to_setting">Ρυθμίσεις</string>
+	<string name="report">Αναφορά</string>
+    <string name="report_error">Λήξη χρονικού ορίου αναφοράς, παρακαλώ δοκιμάστε ξανά αργότερα</string>
+    <string name="report_error_not_net">Δεν είστε συνδεδεμένοι με το δίκτυο, παρακαλώ δοκιμάστε ξανά αργότερα</string>
+    <string name="report_only">Παρακαλώ επιλέξτε τουλάχιστον ένα SMS</string>
+    <string name="report_sms">Έκθεση μέσω SMS</string>
+    <string name="report_success">Επιτυχία αναφοράς</string>
+
 </resources>
