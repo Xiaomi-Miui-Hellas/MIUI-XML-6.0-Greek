@@ -6,8 +6,6 @@
     <string name="advanced">Προηγμένο πάνελ</string>
     <string name="clear_history">>Καθαρισμός ιστορικού</string>
     <string name="text_copied_toast">Κείμενο αντιγράφηκε.</string>
-    <string name="standard">απλό</string>
-    <string name="scientific">επιστημονικό</string>
     <string name="leftParenDesc">αριστερή παρένθεση</string>
     <string name="rightParenDesc">δεξιά παρένθεση</string>
     <string name="factorialDesc">παραγοντικό</string>
@@ -28,6 +26,4 @@
     <string name="eDesc">"Αριθμός Euler's"</string>
     <string name="piDesc">π</string>
     <string name="equalDesc">ίσον</string>
-    <string name="switch_to_scientific_pad">εναλλαγή σε επιστημονικό</string>
-    <string name="switch_to_standard_pad">εναλλαγή σε απλό</string>
 </resources>
