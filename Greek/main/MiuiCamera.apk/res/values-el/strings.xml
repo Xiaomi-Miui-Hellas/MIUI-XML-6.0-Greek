@@ -339,7 +339,6 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Λάμπα πυρακτώσεως</string>
   <string name="pref_camera_whitebalance_entry_manual">Χειροκίνητα</string>
   <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
-  <string name="pref_camera_whitebalance_k_value_title">Τιμή ισορροπίας K White</string>
   <string name="pref_camera_whitebalance_title">Ισορροπία λευκού</string>
   <string name="pref_camera_zsl_entry_off">Off</string>
   <string name="pref_camera_zsl_entry_on">Ενεργό (Μέγ. 1Μ Pixels)</string>
