@@ -2852,4 +2852,8 @@
     <string name="status_bar_toggle_arrangement">Οργάνωση διακοπτών</string>
     <string name="later">Reboot later</string>
     <string name="sound_category_calls_and_notification_title">Ήχος κλήσης &amp; ειδοποιήσεις</string>
+    <string name="music_dirac_mode_piston">Mi Pistons</string>
+    <string name="sim_pin_disabled">Ακυρώθηκε το PIN1, κλειδωμένο!</string>
+    <string name="sim_pin_enabled">PIN1 κλειδωμένο!</string>
+    <string name="status_bar_toggle_arrangement">Διάταξη διακοπτών</string>
 </resources>
