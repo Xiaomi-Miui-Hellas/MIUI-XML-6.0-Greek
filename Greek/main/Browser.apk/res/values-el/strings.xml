@@ -711,7 +711,7 @@
   <string name="webview_find_on_page">Εύρεση στη σελίδα</string>
   <string name="webview_js_dialog_before_unload">"%s
 
-Είστε σύγουροι πως θέλετε να βγείτε από αυτή τη σελίδα?"</string>
+Είστε σίγουροι πως θέλετε να βγείτε από αυτή τη σελίδα?"</string>
   <string name="webview_js_dialog_before_unload_negative_button">Μείνετε στη σελίδα</string>
   <string name="webview_js_dialog_before_unload_positive_button">Φύγετε από την σελίδα</string>
   <string name="webview_js_dialog_before_unload_title">Επιβεβαίωση πλοήγησης</string>

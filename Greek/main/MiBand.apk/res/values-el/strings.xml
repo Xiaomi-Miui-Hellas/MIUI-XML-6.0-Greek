@@ -144,7 +144,7 @@
   <string name="exit_app_continue">Συνέχεια της εξόδου</string>
   <string name="exit_app_tips">"Η έξοδος θα αναγκάσει το MiBand να αποσυνδεθεί από την συσκευή."</string>
   <string name="exit_login">Αποσύνδεση</string>
-  <string name="exit_login_1">Είστε σύγουροι για την αποσύνδεση?</string>
+  <string name="exit_login_1">Είστε σίγουροι για την αποσύνδεση?</string>
   <string name="failed_enable_bt">Το Bluetooth δεν είναι ενεργό!</string>
   <string name="feedback">Σχολιασμός</string>
   <string name="female">Γυναίκα</string>

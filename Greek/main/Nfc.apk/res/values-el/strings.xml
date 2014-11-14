@@ -24,7 +24,7 @@
     <string name="disconnected_headset">Αποσυνδέθηκε</string>
     <string name="pairing_headset_failed">Αδύνατη η σύζευξη</string>
     <string name="failed_to_enable_bt">Αδυναμία ενεργοποίησης του Bluetooth</string>
-    <string name="confirm_pairing">Θέλετε σύγουρα τη σύζευξη με την Bluetooth συσκευή %1$s?</string>
+    <string name="confirm_pairing">Θέλετε σίγουρα τη σύζευξη με την Bluetooth συσκευή %1$s?</string>
     <string name="pair_yes">Ναι</string>
     <string name="pair_no">Όχι</string>
     <string name="tap_again_to_pay">Πιέστε για πληρωμή με %1$s</string>

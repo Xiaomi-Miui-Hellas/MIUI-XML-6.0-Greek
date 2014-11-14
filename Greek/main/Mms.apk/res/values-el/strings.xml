@@ -68,7 +68,7 @@
   <string name="confirm_delete_message">Το μήνυμα θα διαγραφεί.</string>
   <string name="confirm_dialog_locked_title">Διαγραφή κλειδωμένου μηνύματος?</string>
   <string name="confirm_dialog_title">Διαγραφή</string>
-  <string name="confirm_dlg__msg">CMCC ειδοποίηση: Η δωρεάν υπηρεσία ταχυδρομείου CMCC δεν θα παρέχεται αν ακυρώσετε την υπηρεσία. Είστε σύγουροι για την ακύρωση;</string>
+  <string name="confirm_dlg__msg">CMCC ειδοποίηση: Η δωρεάν υπηρεσία ταχυδρομείου CMCC δεν θα παρέχεται αν ακυρώσετε την υπηρεσία. Είστε σίγουροι για την ακύρωση;</string>
   <string name="confirm_dlg_title">Διαχείρηση συσκευής</string>
   <string name="confirm_export_dialog_description">Κατάργηση επιλεγμένων ιδιωτικών επαφή, η συζήτηση θα μεταφερθεί στο κανονικό SMS. Θέλετε να συνεχίσετε?</string>
   <string name="confirm_export_dialog_title">Διαγραφή ιδιωτικής επαφής</string>

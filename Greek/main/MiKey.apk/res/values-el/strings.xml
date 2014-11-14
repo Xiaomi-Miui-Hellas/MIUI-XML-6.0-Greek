@@ -128,7 +128,7 @@
   <string name="faq_title">MiKey FAQ</string>
   <string name="faq_voice_text">Παρακαλώ εισάγετε το Μi-Key και προσπαθήστε πάλι.</string>
   <string name="faq_voice_title">Χωρίς ήχο κατά την διάρκεια κλήσης?</string>
-  <string name="faq_vsm_text">Συγουρευτείτε πως αποσυνδέσατε το Mi-Key πριν την αφαίρεση του καλύματος της συσκευής!</string>
+  <string name="faq_vsm_text">Σιγουρευτείτε πως αποσυνδέσατε το Mi-Key πριν την αφαίρεση του καλύματος της συσκευής!</string>
   <string name="faq_vsm_title">Προσοχή!</string>
   <string name="file_delimiter">/</string>
   <string name="flash_lable">Φλας</string>
