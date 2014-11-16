@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Εγκαταστάτης πιστοποιητικού</string>
+    <string name="app_name">Πρόγρ. εγκατάστασης πιστοποιητικού</string>
     <string name="pick_file_title">Επιλογή πιστοποιητικού</string>
     <string name="pkcs12_password_dialog_title">Εξαγωγή πιστοποιητικού</string>
     <string name="extracting_pkcs12">Εξάγεται…</string>
@@ -10,23 +10,23 @@
     <string name="credential_password">Δώστε τον κωδικό για την εξαγωγή των πιστοποιητικών.</string>
     <string name="credential_info">Το πακέτο περιέχει:</string>
     <string name="p12_description">Πιστοποιητικά σε PKCS12 κλειδιά.</string>
-    <string name="one_userkey">κλειδί ενός χρήστη</string>
-    <string name="one_usercrt">πιστοπ. ενός χρήστη</string>
+    <string name="one_userkey">Κλειδί ενός χρήστη</string>
+    <string name="one_usercrt">Πιστοπ. ενός χρήστη</string>
     <string name="one_cacrt">ένα CA πιστοποιητικό</string>
     <string name="n_cacrts">%d CA πιστοποιητικά</string>
     <string name="password_error">Δώστε το σωστό κωδικό.</string>
     <string name="password_empty_error">Δώστε τον κωδικό.</string>
-    <string name="name_empty_error">Δώστ όνομα.</string>
+    <string name="name_empty_error">Δώστε όνομα.</string>
     <string name="name_char_error">Δώστε όνομα που περιέχει μόνο γράμματα και αριθμούς.</string>
-    <string name="storage_error">"Δεν μπορεί να σωθεί. Αγγίξτε για επανάληψη."</string>
-    <string name="unable_to_save_cert">"Δεν μπορεί να σωθεί. Ο χώρος αποθήκευσης διαπιστευτηρίων δεν είναι ενεργοποιημένος ή δεν έχει προετοιμαστεί σωστά."</string>
+    <string name="storage_error">Δεν μπορεί να σωθεί. Αγγίξτε για επανάληψη.</string>
+    <string name="unable_to_save_cert">Δεν μπορεί να σωθεί. Ο χώρος αποθήκευσης διαπιστευτηρίων δεν είναι ενεργοποιημένος ή δεν έχει προετοιμαστεί σωστά.</string>
     <string name="cert_not_saved">Το πιστοποιητικό δεν είναι εγκατεστημένο.</string>
     <string name="no_cert_to_saved">Κανένα πιστοποιητικό για εγκατάσταση.</string>
     <string name="invalid_cert">Το πιστοποιητικό δεν είναι έγκυρο.</string>
     <string name="cert_is_added">%s είναι εγκατεστημένα.</string>
-    <string name="cert_too_large_error">"Δεν ήταν δυνατή η εγκατάσταση επειδή το μέγεθος του πιστοποιητικού είναι πολύ μεγάλο."</string>
-    <string name="cert_missing_error">"Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν ήταν δυνατό να εντοπιστεί."</string>
-    <string name="cert_read_error">"Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν μπορεί να διαβάσει."</string>
+    <string name="cert_too_large_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το μέγεθος του πιστοποιητικού είναι πολύ μεγάλο.</string>
+    <string name="cert_missing_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν ήταν δυνατό να εντοπιστεί.</string>
+    <string name="cert_read_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν μπορεί να διαβάσει.</string>
     <string name="no_cert_file_found">Δεν βρέθηκε αρχείο πιστοποιητικού στο χώρο αποθήκευσης USB.</string>
     <string name="sdcard_not_present">Το USB δεν είναι διαθέσιμο.</string>
     <string name="only_primary_user_allowed">Μόνο ο κάτοχος αυτής της συσκευής μπορεί να εγκαταστήσει πιστοποιητικά.</string>
