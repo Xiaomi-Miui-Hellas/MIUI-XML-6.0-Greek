@@ -72,10 +72,10 @@
   <string name="err_fail_to_erase">Αποτυχία διαγραφής της ετικέτας</string>
   <string name="err_fail_to_read">Αποτυχία ανάγνωσης της ετικέτας</string>
   <string name="err_fail_to_write">Αποτυχία γραφής της ετικέτας</string>
-  <string name="err_nfc_off">Ενεργοποιήστε το NFC στις Ρυθμίσεις &gt; Ασύρματα &amp; δίκτυα &gt; Περισσότερα &gt; NFC</string>
+  <string name="err_nfc_off">Ενεργοποιήστε το NFC στις Ρυθμίσεις &gt; Δίκτυο &amp; συνδεσιμότητα &gt; Πρόσθετες ρυθμίσεις &gt; NFC</string>
   <string name="err_no_enough_space">Δεν υπάρχει αρκετός χώρος για την ετικέτα</string>
   <string name="err_no_nfc">"Το τηλέφωνό σας δεν υποστηρίζει NFC. Αυτή η εφαρμογή δεν μπορεί να λειτουργήσει."</string>
-  <string name="err_parse_external_data">Αυτός ο τύπος αρχείου δεν υπαοστηρίζεται</string>
+  <string name="err_parse_external_data">Αυτός ο τύπος αρχείου δεν υποστηρίζεται</string>
   <string name="err_tag_not_supported">"Το τηλέφωνό σας δεν υποστηρίζει tagging"</string>
   <string name="err_tag_protected">Αυτό το Tag προστατεύεται με κωδικό. Παρακαλώ εισάγετε τον σωστό κωδικό.</string>
   <string name="err_tag_read_only">"Δεν μπορείς να γράψεις σε αυτό το Tag"</string>
