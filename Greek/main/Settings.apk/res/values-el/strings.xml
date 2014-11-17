@@ -15,20 +15,24 @@
     <string name="music_headset_calibrate_confirm">Ενεργοποίηση ρυθμίσεων ;</string>
     <string name="music_headset_no_contected">Δεν ανιχνεύτηκαν ακουστικά</string>
     <string name="music_headset_calibrate_wrong_key">Λάθος κουμπί</string>
+    <string name="music_HiFi_title">Ήχος Hi-Fi</string>
     <string name="music_mi_effect_title">Βελτίωση ήχου Mi</string>
     <string name="music_mi_effect_summary">Χρήση της βελτίωσης ήχου για το ηχείο</string>
-    <string name="music_headphone_settings">Ρυθμίσεις τύπου ακουστικών</string>
-    <string name="music_dirac_mode_in_ear">Mi in-ear ακουστικά</string>
-    <string name="music_dirac_mode_earbuds">Mi ear-buds</string>
-    <string name="music_dirac_mode_piston_100">Mi piston-1</string>
+    <string name="music_headphone_settings">Επιλογή τύπου ακουστικών</string>
+    <string name="music_dirac_control">Βελτιστοποίηση ποιότητας ήχου</string>
+    <string name="music_dirac_mode_off">Απενεργοποίηση Dirac</string>
     <string name="music_dirac_mode_general">Γενικά</string>
-    <string name="music_dirac_mode_general_earbuds">Γενικά ear-buds</string>
-    <string name="music_dirac_mode_general_inear">Γενικά in-ear</string>
+    <string name="music_dirac_mode_general_earbuds">Γενικά Ear-Buds</string>
+    <string name="music_dirac_mode_general_inear">Γενικά In-Ear</string>
+    <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+    <string name="music_dirac_mode_earbuds">Mi Ear-buds</string>
+    <string name="music_dirac_mode_piston_100">Mi Piston</string>
+    <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-    <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+    <string name="music_dirac_mode_piston_basic">Βασική έκδοση</string>
     <string name="music_audio_effect_settings">Ρυθμίσεις ήχου</string>
     <string name="music_equalizer">Ισοσταθμιστής</string>
-    <string name="menu_item_show_more">Show more</string>
+    <string name="menu_item_show_more">Περισσότερα</string>
     <string name="ringtone_mute">Κανένα</string>
     <string name="title_system_resource">Πόροι του συστήματος</string>
     <string name="resource_ringtone_volume_mute">Το κουδούνι είναι απενεργοποιημένο</string>
@@ -64,14 +68,14 @@
     <string name="status_bar_settings_show_carrier_summary">Προβολή μόνο στην οθόνη κλειδώματος</string>
     <string name="status_bar_settings_show_wifi_name">Προβολή Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Επεξ. ονόματος Wi-Fi</string>
-    <string name="status_bar_screen_button_key">Οθόνη εικονικών πλήκτρων</string>
+    <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
+    <string name="status_bar_settings_long_click_sort">Πιέστε &amp; κρατήστε για μετακίνηση</string>
+    <string name="status_bar_screen_button_key">Εικονικά πλήκτρα Οθόνης</string>
     <string name="status_bar_key_position_custom">Προσαρμ.θέσης πλήκτρων</string>
     <string name="status_bar_screen_key_menu">Πλήκτρο μενού</string>
     <string name="status_bar_screen_key_home">Πλήκτρο Αρχικής οθόνης</string>
     <string name="status_bar_screen_key_recent_apps">Πλήκτρο πρόσφατων εφαρμ.</string>
     <string name="status_bar_screen_key_back">Πλήκτρο Πίσω</string>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
     <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
     <string name="create">Δημιουργία</string>
@@ -80,7 +84,7 @@
     <string name="device_info_default">Άγνωστο</string>
     <string name="show_dev_on">Είστε πλέον ένας προγραμματιστής!</string>
     <string name="show_dev_already">Δεν χρειάζεται, είστε ήδη ένας προγραμματιστής.</string>
-    <string name="header_category_wireless_networks">Ασύρματα &amp; Δίκτυα</string>
+    <string name="header_category_wireless_networks">Δίκτυο &amp; συνδεσιμότητα</string>
     <string name="header_category_device">Συσκευή</string>
     <string name="header_category_personal">Προσωπικά δεδομένα</string>
     <string name="header_category_system">Σύστημα</string>
@@ -99,7 +103,7 @@
     <string name="radioInfo_service_in">Σε λειτουργία</string>
     <string name="radioInfo_service_out">Εκτός λειτουργίας</string>
     <string name="radioInfo_service_emergency">Μόνο κλήσεις έκτακτης ανάγκης</string>
-    <string name="radioInfo_service_off">Radio off</string>
+    <string name="radioInfo_service_off">Εκτός δικτύου</string>
     <string name="radioInfo_roaming_in">Περιαγωγή</string>
     <string name="radioInfo_roaming_not">Χωρίς περιαγωγή</string>
     <string name="radioInfo_phone_idle">Αδρανής</string>
@@ -140,8 +144,8 @@
     <string name="battery_info_screen_on">Με οθόνη ενεργή</string>
     <string name="battery_info_status_unknown">Άγνωστο</string>
     <string name="battery_info_status_charging">Φορτίζει</string>
-    <string name="battery_info_status_charging_ac">AC</string>
-    <string name="battery_info_status_charging_usb">USB</string>
+    <string name="battery_info_status_charging_ac">(AC)</string>
+    <string name="battery_info_status_charging_usb">(USB)</string>
     <string name="battery_info_status_charging_wireless">(ασύρματα)</string>
     <string name="battery_info_status_discharging">Αποφόρτιση</string>
     <string name="battery_info_status_not_charging">Δεν φορτίζει</string>
@@ -155,7 +159,7 @@
     <string name="battery_info_health_unknown">Άγνωστο</string>
     <string name="battery_info_health_good">Καλή</string>
     <string name="battery_info_health_overheat">Υπερθέρμανση</string>
-    <string name="battery_info_health_dead">Νεκρό</string>
+    <string name="battery_info_health_dead">Νεκρή</string>
     <string name="battery_info_health_over_voltage">Υπερφόρτωση</string>
     <string name="battery_info_health_unspecified_failure">Άγνωστο σφάλμα</string>
     <string name="battery_info_health_cold">Κρύα</string>
@@ -180,63 +184,62 @@
     <string name="bluetooth_disable_profile_title">Απενεργοποίηση προφίλ</string>
     <string name="bluetooth_disable_profile_message">Θα απενεργοποιηθεί &lt; br>&lt; b>%1$s&lt; /b>&lt; br>&lt; br>From &lt; br>&lt; b>%2$s&lt; /b></string>
     <string name="bluetooth_connected">Συνδέθηκε</string>
-    <string name="bluetooth_connected_no_headset">Συνδεδεμένο εκτός HSP/HFP</string>
-    <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο εκτός A2DP</string>
+    <string name="bluetooth_connected_no_headset">Συνδεδεμένο (χωρίς τηλέφωνο)</string>
+    <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς πολυμέσα)</string>
     <string name="bluetooth_connected_no_map">Συνδεδεμένο (χωρίς πρόσβαση μηνύματος)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο εκτός HSP/HFP/A2DP</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσα)</string>
     <string name="bluetooth_disconnected">Αποσυνδέθηκε</string>
     <string name="bluetooth_disconnecting">Αποσύνδεση…</string>
     <string name="bluetooth_connecting">Σύνδεση…</string>
-    <string name="bluetooth_unknown" />
     <string name="bluetooth_pairing">Σύζευξη…</string>
-    <string name="bluetooth_device">handsfree/ακουστικά</string>
+    <string name="bluetooth_device">Ανώνυμη συσκευή Bluetooth</string>
     <string name="progress_scanning">Σάρωση</string>
     <string name="bluetooth_no_devices_found">Δε βρέθηκαν συσκευές Bluetooth</string>
     <string name="bluetooth_notif_ticker">Αίτημα σύζευξης Bluetooth</string>
     <string name="bluetooth_notif_title">Αίτημα σύζευξης</string>
-    <string name="bluetooth_notif_message">"Επιλογή για σύζευξη με "</string>
+    <string name="bluetooth_notif_message">Επιλογή για σύζευξη με %1$s</string>
     <string name="bluetooth_show_received_files">Εμφάνιση ληφθέντων αρχείων</string>
     <string name="device_picker">Επιλογή συσκευών Bluetooth</string>
     <string name="bluetooth_permission_request">Αίτημα άδειας Bluetooth</string>
-    <string name="bluetooth_ask_enablement">Μια εφαρμογή στο τηλέφωνό σας ζητά την άδεια να ενεργοποιήσετε το Bluetooth. Θέλετε να το κάνετε αυτό</string>
-    <string name="bluetooth_ask_discovery">Μια εφαρμογή στο τηλέφωνό σας ζητά άδεια για να ενεργοποιήσετε το Bluetooth και να κάνει το τηλέφωνό σας να εντοπιστεί από άλλες συσκευές για %1$d δευτερόλεπτα. Θέλετε να το κάνετε αυτό</string>
-    <string name="bluetooth_ask_lasting_discovery">Μια εφαρμογή στο τηλέφωνό σας ζητά άδεια για να κάνει το τηλέφωνό σας πάντα ανιχνεύσιμο από άλλες συσκευές Bluetooth. Θέλετε να το κάνετε αυτό</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Μια εφαρμογή στο τηλέφωνό σας ζητά την άδεια να ενεργοποιήσετε το Bluetooth και το τηλέφωνό σας να εντοπιστεί από άλλες συσκευές για %1$d δευτερόλεπτα Θέλετε να το κάνετε αυτό</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Μια εφαρμογή στο τηλέφωνό σας ζητά άδεια για να ενεργοποιήσετε το Bluetooth και να κάνει το τηλέφωνό σας να εντοπιστεί από άλλες συσκευές. Θέλετε να το κάνετε αυτό</string>
+    <string name="bluetooth_ask_enablement">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth.</string>
+    <string name="bluetooth_ask_discovery">Μια εφαρμογή θέλει να κάνει το τηλέφωνό σας να είναι ορατό σε άλλες συσκευές Bluetooth για %1$d δευτερόλεπτα.</string>
+    <string name="bluetooth_ask_lasting_discovery">Μια εφαρμογή θέλει να κάνει το τηλέφωνό σας να είναι ορατό σε άλλες συσκευές Bluetooth. Μπορείτε να το αλλάξετε αυτό αργότερα στις ρυθμίσεις Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να κάνει το τηλέφωνό σας ορατό σε άλλες συσκευές για %1$d δευτερόλεπτα.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να κάνει το τηλέφωνό σας ορατό σε άλλες συσκευές. Μπορείτε να το αλλάξετε αυτό αργότερα στις ρυθμίσεις Bluetooth.</string>
     <string name="bluetooth_turning_on">Ενεργοποίηση Bluetooth…</string>
     <string name="bluetooth_turning_off">Απενεργοποίηση Bluetooth</string>
     <string name="bluetooth_auto_connect">Αυτόματη σύνδεση</string>
     <string name="bluetooth_connection_permission_request">Αίτηση σύνδεσης Bluetooth</string>
-    <string name="bluetooth_connection_notif_message">Αγγίξτε για σύνδεση με το \"%1$s\"</string>
-    <string name="bluetooth_connection_dialog_text">Θέλετε να συνδεθείτε με το \"%1$s\"</string>
+    <string name="bluetooth_connection_notif_message">Αγγίξτε για σύνδεση με το \"%1$s\".</string>
+    <string name="bluetooth_connection_dialog_text">Θέλετε να συνδεθείτε με το \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Αναζήτηση βιβλίου επαφών</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s ζητά πρόσβαση στις επαφές και το μητρώο κλήσεων σας. Να δοθεί πρόσβαση στο %2$s</string>
     <string name="bluetooth_remember_choice">Να μην ερωτηθώ ξανά</string>
     <string name="bluetooth_pb_remember_choice">Να μην ερωτηθώ ξανά</string>
     <string name="bluetooth_map_request">Αίτημα πρόσβασης στο μήνυμα</string>
-    <string name="bluetooth_map_acceptance_dialog_text">%1$s επιθυμεί να αποκτήσει πρόσβαση στα μηνύματά σας. Παραχώρηση πρόσβασης σε %2$s;</string>
+    <string name="bluetooth_map_acceptance_dialog_text">%1$s επιθυμεί να αποκτήσει πρόσβαση στα μηνύματά σας. Παραχώρηση πρόσβασης σε %2$s?</string>
     <string name="date_and_time">Ημερομηνία &amp; Ώρα</string>
     <string name="choose_timezone">Επιλογή ζώνης ώρας</string>
     <string name="default_date_format">dd/MM/yyyy</string>
-    <string name="normal_date_format">Κανονικό %s</string>
-    <string name="display_preview_label">Προεπισκόπηση</string>
-    <string name="display_font_size_label">Μέγεθος γραμματοσειράς</string>
-    <string name="intent_sender_data_label">Δεδομένα</string>
+    <string name="normal_date_format">Κανονικό (%s)</string>
+    <string name="display_preview_label">Προεπισκόπηση:</string>
+    <string name="display_font_size_label">Μέγεθος γραμματοσειράς:</string>
+    <string name="intent_sender_data_label">Δεδομένα:</string>
     <string name="intent_sender_sendbroadcast_text">Αποστολή μετάδοσης</string>
-    <string name="intent_sender_action_label">Ενέργεια</string>
+    <string name="intent_sender_action_label">Ενέργεια:</string>
     <string name="intent_sender_startactivity_text">Έναρξη δραστηριοτήτων</string>
     <string name="intent_sender_resource_label">Πόρος</string>
-    <string name="intent_sender_account_label">Λογαριασμός</string>
+    <string name="intent_sender_account_label">Λογαριασμός:</string>
     <string name="proxy_settings_title">Διαμεσολαβητής</string>
     <string name="proxy_clear_text">Εκκαθάριση</string>
     <string name="proxy_port_label">Πόρτα</string>
     <string name="proxy_port_hint">8080</string>
     <string name="proxy_exclusionlist_label">Μη χρησιμοποιείτε proxy για</string>
-    <string name="proxy_exclusionlist_hint">example com mycomp test com localhost</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Επαναφορά προεπιλογών</string>
     <string name="proxy_action_text">Αποθήκευση</string>
     <string name="proxy_hostname_label">Όνομα Διακομιστή</string>
-    <string name="proxy_hostname_hint">proxy example com</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Προσοχή</string>
     <string name="proxy_error_dismiss">Εντάξει</string>
     <string name="proxy_error_invalid_host">Το όνομα διακομιστή που πληκτρολογήσατε δεν είναι έγκυρο</string>
@@ -244,42 +247,42 @@
     <string name="proxy_error_empty_port">Πρέπει να συμπληρώσετε το πεδίο θύρα</string>
     <string name="proxy_error_empty_host_set_port">Το πεδίο θύρα πρέπει να είναι κενό αν το πεδίο διακομιστής είναι κενό</string>
     <string name="proxy_error_invalid_port">Η θύρα που πληκτρολογήσατε δεν είναι έγκυρη</string>
-    <string name="proxy_warning_limited_support">Ο proxy HTTP χρησιμοποιείται από το πρόγραμμα περιήγησης, αλλά δεν μπορεί να χρησιμοποιείται από τις άλλες εφαρμογές</string>
+    <string name="proxy_warning_limited_support">Ο HTTP proxy χρησιμοποιείται από το πρόγραμμα περιήγησης, αλλά δεν μπορεί να χρησιμοποιηθεί από τις άλλες εφαρμογές</string>
     <string name="proxy_url">"PAC URL: "</string>
-    <string name="radio_info_signal_location_label">Τοποθεσία</string>
-    <string name="radio_info_neighboring_location_label">Γειτονικό CID</string>
+    <string name="radio_info_signal_location_label">Τοποθεσία:</string>
+    <string name="radio_info_neighboring_location_label">Γειτονικό CID:</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
-    <string name="radio_info_data_attempts_label">Απόπειρες δεδομένων</string>
-    <string name="radio_info_gprs_service_label">Υπηρεσία GPRS</string>
-    <string name="radio_info_roaming_label">Περιαγωγή</string>
-    <string name="radio_info_imei_label">IMEI</string>
-    <string name="radio_info_call_redirect_label">Ανακατεύθυνση κλήσης</string>
-    <string name="radio_info_ppp_resets_label">Αριθμός PPP από την εκκίνηση</string>
-    <string name="radio_info_gsm_disconnects_label">Αποσυνδέσεις GSM</string>
-    <string name="radio_info_current_network_label">Τρέχον Δίκτυο</string>
-    <string name="radio_info_data_successes_label">Επιτυχίες δεδομένων</string>
-    <string name="radio_info_ppp_received_label">Ληφθέντα PPP</string>
-    <string name="radio_info_gsm_service_label">Υπηρεσία GSM</string>
-    <string name="radio_info_signal_strength_label">Ισχύς σήματος</string>
-    <string name="radio_info_call_status_label">Κατάσταση κλήσης</string>
-    <string name="radio_info_ppp_sent_label">Σταλθέντα PPP</string>
-    <string name="radio_info_radio_resets_label">Επαναφορές μόντεμ</string>
-    <string name="radio_info_message_waiting_label">Μήνυμα σε αναμονή</string>
-    <string name="radio_info_phone_number_label">Αριθμός τηλεφώνου</string>
-    <string name="radio_info_band_mode_label">Επιλογή μπάντα δικτύου</string>
-    <string name="radio_info_network_type_label">Τύπος δικτύου</string>
-    <string name="radio_info_set_perferred_label">Ορισμός προτιμώμενου τύπου δικτύου</string>
-    <string name="radio_info_ping_ipaddr">Ping IpAddr</string>
-    <string name="radio_info_ping_hostname">Ping Hostname(www.google.com)</string>
-    <string name="radio_info_http_client_test">HTTP Client test</string>
+    <string name="radio_info_data_attempts_label">Απόπειρες δεδομένων:</string>
+    <string name="radio_info_gprs_service_label">Υπηρεσία GPRS:</string>
+    <string name="radio_info_roaming_label">Περιαγωγή:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_call_redirect_label">Ανακατεύθυνση κλήσης:</string>
+    <string name="radio_info_ppp_resets_label">Αριθμός PPP από την εκκίνηση:</string>
+    <string name="radio_info_gsm_disconnects_label">Αποσυνδέσεις GSM:</string>
+    <string name="radio_info_current_network_label">Τρέχον Δίκτυο:</string>
+    <string name="radio_info_data_successes_label">Επιτυχίες δεδομένων:</string>
+    <string name="radio_info_ppp_received_label">Ληφθέντα PPP:</string>
+    <string name="radio_info_gsm_service_label">Υπηρεσία GSM:</string>
+    <string name="radio_info_signal_strength_label">Ισχύς σήματος:</string>
+    <string name="radio_info_call_status_label">Κατάσταση κλήσης:</string>
+    <string name="radio_info_ppp_sent_label">Σταλθέντα PPP:</string>
+    <string name="radio_info_radio_resets_label">Επαναφορές δικτύου:</string>
+    <string name="radio_info_message_waiting_label">Μήνυμα σε αναμονή:</string>
+    <string name="radio_info_phone_number_label">Αριθμός τηλεφώνου:</string>
+    <string name="radio_info_band_mode_label">Επιλογή μπάντας δικτύου</string>
+    <string name="radio_info_network_type_label">Τύπος δικτύου:</string>
+    <string name="radio_info_set_perferred_label">Ορισμός προτιμώμενου τύπου δικτύου:</string>
+    <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+    <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
+    <string name="radio_info_http_client_test">HTTP Client test:</string>
     <string name="ping_test_label">Εκτέλεση δοκιμής ping</string>
-    <string name="radio_info_smsc_label">SMSC</string>
+    <string name="radio_info_smsc_label">SMSC:</string>
     <string name="radio_info_smsc_update_label">Ενημέρωση</string>
     <string name="radio_info_smsc_refresh_label">Ανανέωση</string>
     <string name="radio_info_toggle_dns_check_label">Έλεγχος DNS</string>
     <string name="oem_radio_info_label">Συγκεκριμένες πληροφορίες ΟΕΜ/Ρυθμίσεις</string>
     <string name="band_mode_title">Ορισμός μπάντας GSM/UMTS</string>
-    <string name="band_mode_loading">Φόρτωση λίστας μπάντας</string>
+    <string name="band_mode_loading">Φόρτωση λίστας μπάντας…</string>
     <string name="band_mode_set">Ορισμός</string>
     <string name="band_mode_failed">Ανεπιτυχής</string>
     <string name="band_mode_succeeded">Επιτυχής</string>
@@ -287,18 +290,17 @@
     <string name="sdcard_settings_screen_mass_storage_text">Εισάγετε συσκευή αποθήκευσης USB</string>
     <string name="sdcard_settings_total_bytes_label">Σύνολο χώρου</string>
     <string name="sdcard_settings_not_present_status">Δεν υπάρχει συσκευή αποθήκευσης USB</string>
-    <string name="sdcard_settings_available_bytes_label">Διαθέσιμος χώρος</string>
+    <string name="sdcard_settings_available_bytes_label">Διαθέσιμος χώρος:</string>
     <string name="sdcard_settings_mass_storage_status">Η συσκευή USB λειτουργεί ως συσκευή μαζικής αποθήκευσης</string>
     <string name="sdcard_settings_unmounted_status">Η συσκευή USB μπορεί να αφαιρεθεί</string>
     <string name="sdcard_settings_bad_removal_status">Η συσκευή USB αφαιρέθηκε πρόωρα</string>
-    <string name="sdcard_settings_used_bytes_label">Χώρος σε χρήση</string>
-    <string name="sdcard_settings_scanning_status">Ανάγνωση συσκευής USB</string>
+    <string name="sdcard_settings_used_bytes_label">Χώρος σε χρήση:</string>
+    <string name="sdcard_settings_scanning_status">Σάρωση συσκευής USB για πολυμέσα…</string>
     <string name="sdcard_settings_read_only_status">Η συσκευή USB είναι μόνο για ανάγνωση</string>
     <string name="skip_label">Επόμενο</string>
     <string name="next_label">Επόμενο</string>
-    <string name="language_picker_title">Τοπικές ρυθμίσεις</string>
+    <string name="language_picker_title">Γλώσσα</string>
     <string name="activity_picker_label">Επιλέξτε δραστηριότητα</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Πληροφορίες σχετικά με τη συσκευή</string>
     <string name="battery_info_label">Πληροφορίες μπαταρίας</string>
     <string name="display_label">Εμφάνιση</string>
@@ -310,9 +312,9 @@
     <string name="settings_label_launcher">Ρυθμίσεις</string>
     <string name="settings_shortcut">Ρυθμίσεις</string>
     <string name="airplane_mode">Λειτουργία πτήσης</string>
-    <string name="radio_controls_title">Ασύρματα &amp; Δίκτυα</string>
-    <string name="wireless_networks_settings_title">Ρυθμίσεις ασύρματου &amp; δικτύου</string>
-    <string name="radio_controls_summary">Wi-Fi Bluetooth λειτουργία πτήσης δεδομένα δικτύου και VPN</string>
+    <string name="radio_controls_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="wireless_networks_settings_title">Ασύρματα &amp; Δίκτυα</string>
+    <string name="radio_controls_summary">Διαχείριση Wi-Fi, Bluetooth, λειτουργία πτήσης, δεδομένα δικτύου και VPN</string>
     <string name="roaming">Περιαγωγή δεδομένων</string>
     <string name="roaming_enable">Σύνδεση στα δεδομένα δικτύου κατά την περιαγωγή</string>
     <string name="roaming_disable">Αποσύνδεση από τα δεδομένα δικτύου κατά την περιαγωγή</string>
@@ -352,13 +354,12 @@
     <string name="owner_info_settings_title">Πληροφορίες ιδιοκτήτη</string>
     <string name="security_enable_widgets_title">Ενεργ.γραφ.στοιχείων</string>
     <string name="security_enable_widgets_disabled_summary">Απενεργοποιήθηκε από το διαχειριστή</string>
-    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Πληκτρολογήστε το κείμενο που θα φαίνεται στην οθόνη κλειδώματος</string>
-    <string name="show_user_info_on_lockscreen_label">Εμφάνιση πληροφοριών του χρήστη στην οθόνη κλειδώματος</string>
+    <string name="show_user_info_on_lockscreen_label">Εμφάνιση πληροφοριών χρήστη στην οθόνη κλειδώματος</string>
     <string name="user_info_settings_title">Πληροφορίες χρήστη</string>
-    <string name="show_profile_info_on_lockscreen_label">Δείτε το προφίλ του πληροφορίες στην οθόνη κλειδώματος</string>
-    <string name="profile_info_settings_title">Προφίλ πληροφοριών</string>
-    <string name="location_settings_title">Υπηρεσίες τοποθεσίας</string>
+    <string name="show_profile_info_on_lockscreen_label">Εμφάνιση πληροφοριών προφίλ στην οθόνη κλειδώματος</string>
+    <string name="profile_info_settings_title">Πληροφορίες προφίλ</string>
+    <string name="location_settings_title">Πληροφορίες τοποθεσίας</string>
     <string name="security_settings_title">Ασφάλεια</string>
     <string name="security_settings_summary">Ορισμός της τοποθεσίας μου ξεκλειδώματος κλειδώματος κάρτας SIM και κλειδώματος αποθηκευτικού χώρου διαπιστευτηρίων</string>
     <string name="cdma_security_settings_summary">Ορισμός της Τοποθεσίας μου, ξεκλειδώματος οθόνης, κλειδώματος χώρου διαπιστευτηρίων</string>
@@ -367,7 +368,9 @@
     <string name="crypt_keeper_encrypt_title">Κρυπτογράφηση τηλεφώνου</string>
     <string name="crypt_keeper_encrypt_summary">Απαιτείται αριθμητικό PIN ή κωδικός για την αποκρυπτογράφηση του τηλεφώνου σας κάθε φορά που το ενεργοποιείτε</string>
     <string name="crypt_keeper_encrypted_summary">Κρυπτογραφημένο</string>
-    <string name="crypt_keeper_desc">Μπορείτε να κρυπτογραφήσετε τους λογαριασμούς σας, τις κατεβασμένες εφαρμογές και τα μέσα ενημέρωσης των δεδομένων τους και άλλα αρχεία. Μόλις κρυπτογραφήσετε το τηλέφωνό σας θα πρέπει να εισάγετε ένα αριθμητικό PIN</string>
+    <string name="crypt_keeper_desc">"Μπορείτε να κρυπτογραφήσετε τους λογαριασμούς σας, τις ρυθμίσεις,τις ληφθέντες εφαρμογές και τα δεδομένα τους, πολυμέσα και άλλα αρχεία. Αφού κρυπτογραφήσετε το τηλέφωνό σας, θα πρέπει να πληκτρολογείτε ένα αριθμητικό PIN ή κωδικό για αποκρυπτογράφηση κάθε φορά που το ενεργοποιείτε. Δεν μπορείτε να αποκρυπτογραφήσετε το τηλέφωνό σας, εκτός και αν κάνετε επαναφορά εργοστασιακών ρυθμίσεων διαγράφοντας όλα σας τα δεδομένα.
+
+Η κρυπτογράφηση διαρκεί μία ώρα ή και περισσότερο. Θα πρέπει να ξεκινήσετε με φορτισμένη μπαταρία και να κρατήσετε το τηλέφωνό σας στην πρίζα μέχρι να ολοκληρωθεί η κρυπτογράφηση. Αν διακόψετε τη διαδικασία κρυπτογράφησης, θα χάσετε ορισμένα ή όλα τα δεδομένα σας."</string>
     <string name="crypt_keeper_button_text">Κρυπτογράφηση τηλεφώνου</string>
     <string name="crypt_keeper_low_charge_text">Φορτίστε τη μπαταρία σας και δοκιμάστε ξανά</string>
     <string name="crypt_keeper_unplugged_text">Συνδέστε το φορτιστή και δοκιμάστε ξανά</string>
@@ -380,7 +383,9 @@
     <string name="crypt_keeper_cooldown">Δοκιμάστε ξανά σε ^1 δευτερόλεπτα</string>
     <string name="crypt_keeper_enter_password">Πληκτρολογήστε τον κωδικό σας</string>
     <string name="crypt_keeper_failed_title">Η κρυπτογράφηση απέτυχε</string>
-    <string name="crypt_keeper_failed_summary">Η κρυπτογράφηση έχει διακοπεί και δεν ολοκληρώθηκε Ως αποτέλεσμα τα δεδομένα του τηλεφώνου σας δεν είναι πλέον προσβάσιμα. Για να συνεχίσετε να χρησιμοποιείτε το τηλέφωνό σας πρέπει να επιλέξετε επαναφορά εργοστασιακών ρυθμίσεων</string>
+    <string name="crypt_keeper_failed_summary">"Η κρυπτογράφηση έχει διακοπεί και δεν ολοκληρώθηκε Ως αποτέλεσμα τα δεδομένα του τηλεφώνου σας δεν είναι πλέον προσβάσιμα.
+
+Για να συνεχίσετε να χρησιμοποιείτε το τηλέφωνό σας πρέπει να επιλέξετε επαναφορά εργοστασιακών ρυθμίσεων. Όταν ρυθμίσετε το τηλέφωνό σας μετά την επαναφορά, θα έχετε την ευκαιρία να επαναφέρετε οποιαδήποτε δεδομένα για τα οποία υπάρχει αντίγραφο ασφαλείας στο λογαριασμό σας στο Google"</string>
     <string name="crypt_keeper_switch_input_method">Αλλαγή μεθόδου εισαγωγής</string>
     <string name="lock_settings_picker_title">Επιλογή κλειδώματος οθόνης</string>
     <string name="backup_lock_settings_picker_title">Επιλογή κλειδώματος αντιγράφου ασφαλείας</string>
@@ -390,7 +395,6 @@
     <string name="unlock_set_unlock_launch_picker_enable_summary">Επιλέξτε μέθοδο κλειδώματος της οθόνης</string>
     <string name="unlock_backup_info_summary">"Όταν αποτύχει η αναγνώριση προσώπου πως θέλετε να ξεκλειδώσετε το τηλέφωνο σας "</string>
     <string name="unlock_set_unlock_off_title">Κανένα</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Κύλιση</string>
     <string name="unlock_set_unlock_none_summary">Χωρίς ασφάλεια</string>
     <string name="unlock_set_unlock_biometric_weak_title">Αναγνώριση προσώπου</string>
@@ -458,7 +462,6 @@
     <string name="bluetooth_display_passkey_pin_msg">Για σύζευξη με &lt; br>&lt; b>%1$s&lt; /b>&lt; br>&lt; br>Πληκτρολογήστε &lt; br>&lt; b>%2$s&lt; /b> μετά πατήστε Enter</string>
     <string name="bluetooth_pairing_accept">Σύζευξη</string>
     <string name="bluetooth_pairing_decline">Άκυρο</string>
-    <string name="bluetooth_error_title" />
     <string name="bluetooth_pairing_error_message">"Αδύνατη η σύζευξη με %1$s "</string>
     <string name="bluetooth_pairing_pin_error_message">"Αδύνατη η σύζευξη με το %1$s λόγω λανθασμένου PIN ή κωδικού "</string>
     <string name="bluetooth_pairing_device_down_error_message">"Αδύνατη η επικοινωνία με το %1$s "</string>
@@ -531,12 +534,12 @@
     <string name="wifi_display_options_name">Όνομα</string>
     <string name="wifi_display_certification_heading">Πιστοποίηση</string>
     <string name="wifi_display_session_info">Πληροφορίες συνόδου</string>
-    <string name="wifi_display_listen_mode">Enable listen mode</string>
+    <string name="wifi_display_listen_mode">Ενεργοποίηση λειτουργίας ακρόασης</string>
     <string name="wifi_display_autonomous_go">Ενεργοποίηση αυτόνομου GO</string>
     <string name="wifi_display_pause">Παύση</string>
     <string name="wifi_display_resume">Συνέχιση</string>
     <string name="wifi_display_wps_config">Διαμόρφωση WPS</string>
-    <string name="wifi_display_listen_channel">Listen channel</string>
+    <string name="wifi_display_listen_channel">Κανάλι ακρόασης</string>
     <string name="wifi_display_operating_channel">Ενεργά κανάλια</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Να επιτρέπεται η ανταλλαγή δεδομένων όταν το τηλέφωνο αγγίζει άλλη συσκευή</string>
@@ -576,7 +579,7 @@
     <string name="wifi_suspend_optimizations_summary">Εξοικονόμηση ενέργειας της μπαταρίας, όταν ενεργοποιείτε το Wi-Fi</string>
     <string name="wifi_add_network">Προσθήκη δικτύου</string>
     <string name="wifi_access_points">Δίκτυα Wi-Fi</string>
-    <string name="wifi_menu_wps_pbc">WPS Push Button</string>
+    <string name="wifi_menu_wps_pbc">Κουμπί WPS</string>
     <string name="wifi_menu_more_options">Περισσότερες επιλογές</string>
     <string name="wifi_menu_wps_pin">Εισαγωγή κωδικού WPS</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
@@ -644,10 +647,9 @@
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
-    <string name="wifi_scan_always_turnon_message">"Για να βελτιωθεί η ακρίβεια θέσης και για άλλους σκοπούς, %1$s θέλει να μετατρέψει σχετικά με τη σάρωση του δικτύου, ακόμα και όταν Wi-Fi είναι απενεργοποιημένο.
+    <string name="wifi_scan_always_turnon_message">"Για να βελτιωθεί η ακρίβεια θέσης και για άλλους σκοπούς, %1$s θέλει να ενεργοποιήσει την σάρωση δικτύου, ακόμα και όταν το Wi-Fi είναι απενεργοποιημένο.
 
-
-  Αφήστε αυτό για όλες τις εφαρμογές που θέλετε να σαρώσετε?"</string>
+Να επιτρέπεται αυτό για όλες τις εφαρμογές οι οποίες θέλουν να κάνουν σάρωση?"</string>
     <string name="wifi_scan_always_confirm_allow">Επιτρέψτε</string>
     <string name="wifi_scan_always_confirm_deny">Άρνηση</string>
     <string name="wifi_connect">Σύνδεση</string>
@@ -661,7 +663,7 @@
     <string name="wifi_dont_skip">Μην παραλείψετε</string>
     <string name="wifi_skipped_message">"ΠΡΟΣΟΧΗ: Ενδέχεται να υπάρξουν επιπλέον χρεώσεις δεδομένων φορέα.
 
-Διαμόρφωση τηλεφώνου μπορεί να απαιτήσει σημαντική δραστηριότητα του δικτύου."</string>
+Η ρύθμιση του τηλεφώνου μπορεί να απαιτήσει σημαντική δραστηριότητα του δικτύου."</string>
     <string name="wifi_and_mobile_skipped_message">Προειδοποίηση: Μέχρι να αποκτήσετε σύνδεση στο Internet, το τηλέφωνο δεν θα είναι σε θέση να επαληθεύσει εάν το λογισμικό σας είναι ενημερωμένο.</string>
     <string name="wifi_connect_failed_message">Το τηλέφωνο δεν μπόρεσε να συνδεθεί στο Wi-Fi δίκτυο….</string>
     <string name="wifi_advanced_titlebar">Προχωρημένες ρυθμίσεις Wi-Fi</string>
@@ -702,25 +704,29 @@
     <string name="wifi_p2p_cancel_connect_message">Θέλετε να ακυρώσετε την πρόσκληση για να συνδεθείτε με %1$s?</string>
     <string name="wifi_p2p_delete_group_message">Ξεχάστε αυτή την ομάδα?</string>
     <string name="wifi_tether_checkbox_text">Φορητό σημείο πρόσβασης Wi-Fi</string>
-    <string name="wifi_tether_starting">Ενεργοποίηση hotspot για …</string>
-    <string name="wifi_tether_stopping">Απενεργοποίηση hotspot …</string>
+    <string name="wifi_tether_starting">Ενεργοποίηση hotspot για…</string>
+    <string name="wifi_tether_stopping">Απενεργοποίηση hotspot…</string>
     <string name="wifi_tether_enabled_subtext">Το φορητό σημείο πρόσβασης %1$s είναι ενεργό</string>
     <string name="wifi_tether_failed_subtext">Σφάλμα φορητού σημείου πρόσβασης Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Ρύθμιση σημείου πρόσβασης Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s φορητό σημείο πρόσβασης Wi-Fi</string>
     <string name="wifi_tether_configure_ssid_default">AndroidGR</string>
     <string name="testing_wifi_info">Πληροφορίες Wi-Fi</string>
+    <string name="disableNetwork">Απενεργοποίηση δικτύου</string>
+    <string name="enableNetwork">Ενεργοποίηση δικτύου</string>
     <string name="disconnect">Αποσύνδεση</string>
+    <string name="getConfiguredNetworks">Ρυθμισμένα δίκτυα</string>
+    <string name="getConnectionInfo">Στοιχεία Σύνδεσης</string>
     <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_status_test">Κατάσταση Wi-Fi:</string>
-    <string name="wifi_update">Refresh stats</string>
+    <string name="wifi_update">Ανανέωση στατιστικών</string>
     <string name="wifi_state_label">Κατάσταση Wi-Fi:</string>
     <string name="network_state_label">Κατάσταση δικτύου:</string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="rssi_label">RSSI:</string>
     <string name="bssid_label">BSSID:</string>
     <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">Hidden SSID:</string>
+    <string name="hidden_ssid_label">Κρυφό SSID:</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="macaddr_label">MAC διεύθ.:</string>
     <string name="networkid_label">ID δικτύου:</string>
@@ -737,7 +743,6 @@
     <string name="display_settings_title">Οθόνη</string>
     <string name="sound_settings">Ήχος</string>
     <string name="ringtone_title">Ήχος κλήσης</string>
-    <string name="ringtone_summary" />
     <string name="all_volume_title">Ήχοι</string>
     <string name="musicfx_title">Μουσικά εφέ</string>
     <string name="ring_volume_title">Ένταση κουδουνίσματος</string>
@@ -791,15 +796,15 @@
     <string name="screen_timeout_summary">Μετά από %1$s αδράνειας</string>
     <string name="wallpaper_settings_title">Ταπετσαρία</string>
     <string name="wallpaper_settings_fragment_title">Επιλογή ταπετσαρίας από</string>
-    <string name="screensaver_settings_title">Daydream</string>
-    <string name="screensaver_settings_summary_either_long">Όταν είναι docked ή κοιμάται και φορτίζει</string>
+    <string name="screensaver_settings_title">Διαδραστική Προφύλαξη Οθόνης</string>
+    <string name="screensaver_settings_summary_either_long">Όταν είναι σε βάση ή κοιμάται και φορτίζει</string>
     <string name="screensaver_settings_summary_either_short">Είτε</string>
     <string name="screensaver_settings_summary_sleep">Κατά τη φόρτιση</string>
-    <string name="screensaver_settings_summary_dock">Ενώ είναι docked</string>
+    <string name="screensaver_settings_summary_dock">Ενώ είναι στη βάση</string>
     <string name="screensaver_settings_summary_off">Απενεργοποιημένο</string>
-    <string name="screensaver_settings_disabled_prompt">Για να ελέγξετε τι συμβαίνει όταν το τηλέφωνο είναι συνδεδεμένο ή / και ο ύπνος, με τη σειρά Daydream.</string>
-    <string name="screensaver_settings_when_to_dream">Πότε να daydream</string>
-    <string name="screensaver_settings_dream_start">Ξεκινήστε τώρα</string>
+    <string name="screensaver_settings_disabled_prompt">Για τον έλεγχο της συμπεριφοράς του τηλεφώνου όταν εισαχθεί στη βάση ή/και όταν κοιμάται, ενεργοποιήστε την Διαδραστική Προφύλαξη Οθόνης.</string>
+    <string name="screensaver_settings_when_to_dream">Πότε να ξεκινήσει</string>
+    <string name="screensaver_settings_dream_start">Έναρξη τώρα</string>
     <string name="screensaver_settings_button">Ρυθμίσεις</string>
     <string name="automatic_brightness">Αυτόματη φωτεινότητα</string>
     <string name="title_font_size">Μέγεθος γραμματοσειράς</string>
@@ -821,16 +826,17 @@
     <string name="sim_change_pin">Κωδικός PIN</string>
     <string name="sim_bad_pin">Λάθος PIN</string>
     <string name="sim_pins_dont_match">Οι κωδικοί δε ταιριάζουν</string>
-    <string name="sim_change_failed">"Αδύνατη η αλλαγή του PIN. Πιθανότατα λανθασμένος PIN "</string>
+    <string name="sim_change_failed">"Αδύνατη η αλλαγή του PIN.
+Πιθανότατα λανθασμένο PIN "</string>
     <string name="sim_change_succeeded">Ο κωδικός PIN άλλαξε επιτυχώς</string>
-    <string name="sim_lock_failed">"Αδύνατη η αλλαγή της κατάστασης κλειδώματος της SIM Πιθανότατα λανθασμένος PIN "</string>
+    <string name="sim_lock_failed">"Αδύνατη η αλλαγή της κατάστασης κλειδώματος της SIM.
+Πιθανότατα λανθασμένο PIN "</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Άκυρο</string>
     <string name="wrong_pin_code_pukked">Εσφαλμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με τον πάροδο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>
     <string name="pin_failed">Αποτυχία λειτουργίας κωδικού PIN κάρτας SIM!</string>
     <string name="device_info_settings">Κατάσταση τηλεφώνου</string>
     <string name="system_update_settings_list_item_title">Ενημερώσεις συστήματος</string>
-    <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Έκδοση Android</string>
     <string name="model_number">Μοντέλο</string>
     <string name="fcc_equipment_id">ID Εξοπλισμού</string>
@@ -883,7 +889,6 @@
     <string name="sd_eject_summary">Αποσυνδέσετε την συσκευή αποθήκευσης USB ώστε να την αφαιρέσετε με ασφάλεια</string>
     <string name="sd_insert_summary">Εισάγετε μια συσκευή αποθήκευσης USB για σύνδεση</string>
     <string name="sd_mount">Σύνδεση συσκευής αποθήκευσης USB</string>
-    <string name="sd_mount_summary" />
     <string name="sd_format">Διαγραφή συσκευής αποθήκευσης USB</string>
     <string name="sd_format_summary">Διαγράφει όλα τα δεδομένα της συσκευής αποθήκευσης USB όπως μουσική και φωτογραφίες</string>
     <string name="memory_clear_cache_title">Εκκαθάριση δεδομένων προσωρινής μνήμης?</string>
@@ -891,7 +896,6 @@
     <string name="mtp_ptp_mode_summary">MTP ή PTP λειτουργία είναι ενεργή</string>
     <string name="dlg_confirm_unmount_title">Αποσύνδεση συσκευής USB</string>
     <string name="dlg_confirm_unmount_text">Εάν αποσυνδέσετε την συσκευή USB, μερικές εφαρμογές που χρησιμοποιείτε θα σταματήσουν και δε θα είναι διαθέσιμες μέχρι να συνδέσετε ξανά την συσκευή USB</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">"Αδύνατη η αποσύνδεση της συσκευής USB. Δοκιμάστε αργότερα "</string>
     <string name="unmount_inform_text">Η συσκευή USB θα αποσυνδεθεί</string>
     <string name="sd_ejecting_title">Αποσύνδεση</string>
@@ -942,7 +946,6 @@
     <string name="menu_new">Νέο APN</string>
     <string name="menu_save">Αποθήκευση</string>
     <string name="menu_cancel">Απόρριψη</string>
-    <string name="error_title" />
     <string name="error_name_empty">"Το πεδίο Όνομα δε μπορεί να είναι κενό "</string>
     <string name="error_apn_empty">"Το σημείο πρόσβασης δε μπορεί να είναι κενό "</string>
     <string name="error_mcc_not3">Το πεδίο MCC πρέπει να αποτελείται από 3 ψηφία</string>
@@ -952,18 +955,21 @@
     <string name="restore_default_apn_completed">Η επαναφορά των προεπιλεγμένων ρυθμίσεων APN ολοκληρώθηκε</string>
     <string name="master_clear_title">Επαναφορά εργοστασιακών ρυθμίσεων</string>
     <string name="master_clear_summary">Διαγράφει όλα τα δεδομένα του τηλεφώνου</string>
-    <string name="master_clear_desc">Θα διαγραφούν όλα τα δεδομένα της συσκευής <b>εσωτερικός χώρος</b>", περιλαμβάνονται:
+    <string name="master_clear_desc">Θα διαγραφούν όλα τα δεδομένα της συσκευής από τον <b>εσωτερικό χώρο</b>", καθώς και:
 
 "<li>Ο λογαριασμός σας στην Google</li>"
 "<li>Ρυθμίσεις και δεδομένα εφαρμογών</li>"
 "<li>Κατεβασμένες εφαρμογές</li></string>
-    <string name="master_clear_accounts">Αυτή τη στιγμή έχετε συνδεθεί με τους παρακάτω λογαριασμούς</string>
+    <string name="master_clear_accounts">"
+
+Αυτή τη στιγμή έχετε συνδεθεί με τους παρακάτω λογαριασμούς:
+"</string>
     <string name="master_clear_desc_also_erases_external"><li>Μουσική</li>"
 "<li>Φωτογραφίες</li>"
 "<li>Άλλα δεδομένα σας</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>Αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
+Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
     <string name="erase_external_storage">Διαγραφή κάρτας SD</string>
     <string name="erase_external_storage_description">Διαγραφή όλων των δεδομένων της κάρτας SD όπως μουσική και εικόνες</string>
     <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
@@ -983,26 +989,26 @@
     <string name="media_format_gesture_explanation">Πρέπει να σχεδιάσετε το μοτίβο ξεκλειδώματος για να επιβεβαιώσετε τη διαγραφή της συσκευής αποθήκευσης USB</string>
     <string name="call_settings_title">Ρυθμίσεις κλήσεων</string>
     <string name="call_settings_summary">Ρύθμιση τηλεφωνητή προώθησης κλήσεων αναμονής ταυτότητας καλούντος</string>
-    <string name="tether_settings_title_usb">USB πρόσδεση</string>
+    <string name="tether_settings_title_usb">Πρόσδεση USB</string>
     <string name="tether_settings_title_wifi">Φορητό σημείο πρόσβασης</string>
-    <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
-    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
+    <string name="tether_settings_title_bluetooth">Πρόσδεση Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Πρόσδεση</string>
     <string name="tether_settings_title_all">Tethering &amp; φορητό hotspot</string>
     <string name="usb_title">USB</string>
-    <string name="usb_tethering_button_text">USB tethering</string>
+    <string name="usb_tethering_button_text">Πρόσδεση USB</string>
     <string name="usb_tethering_available_subtext">Το USB συνδέθηκε επιλέξτε για πρόσδεση</string>
-    <string name="usb_tethering_active_subtext">Tethered</string>
-    <string name="usb_tethering_storage_active_subtext">Δεν μπορώ να κάνω tether όταν η συσκευή αποθήκευσης USB είναι σε χρήση</string>
+    <string name="usb_tethering_active_subtext">Προσδεδεμένο</string>
+    <string name="usb_tethering_storage_active_subtext">Δεν μπορώ να κάνω πρόσδεση όταν η συσκευή αποθήκευσης USB είναι σε χρήση</string>
     <string name="usb_tethering_unavailable_subtext">Το USB δεν έχει συνδεθεί</string>
     <string name="usb_tethering_errored_subtext">Σφάλμα πρόσδεσης USB</string>
-    <string name="bluetooth_tether_checkbox_text">Bluetooth πρόσδεση</string>
+    <string name="bluetooth_tether_checkbox_text">Πρόσδεση Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Κοινή χρήση της σύνδεσης Internet αυτού του τηλεφώνου</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Κοινή χρήση της πρόσβασης στο Διαδίκτυο με 1 συσκευή</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Κοινή χρήση της πρόσβασης στο Διαδίκτυο με %1$d συσκευές</string>
-    <string name="bluetooth_tethering_off_subtext">Δε γίνεται κοινή χρήση της πρόσβασης στο Διαδίκτυο</string>
-    <string name="bluetooth_tethering_errored_subtext">Δεν έγινε ζεύξη</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Κοινή χρήση της σύνδεσης Internet με 1 συσκευή</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Κοινή χρήση της σύνδεσης Internet με %1$d συσκευές</string>
+    <string name="bluetooth_tethering_off_subtext">Δεν γίνεται κοινή χρήση της σύνδεσης Internet</string>
+    <string name="bluetooth_tethering_errored_subtext">Δεν έγινε πρόσδεση</string>
     <string name="bluetooth_tethering_overflow_error">"Αδύνατη η σύνδεση με περισσότερες από %1$d συσκευές "</string>
-    <string name="bluetooth_untether_blank">%1$s θα είναι χωρίς σύζευξη</string>
+    <string name="bluetooth_untether_blank">%1$s θα είναι χωρίς πρόσδεση</string>
     <string name="tethering_help_button_text">Βοήθεια</string>
     <string name="network_settings_title">Δίκτυα κινητής</string>
     <string name="manage_mobile_plan_title">Διαχειριστείτε το κινητό πρόγραμμα</string>
@@ -1074,9 +1080,7 @@
     <string name="lockpattern_change_lock_pattern_label">Αλλαγή μοτίβου ξεκλειδώματος</string>
     <string name="lockpattern_change_lock_pin_label">Αλλαγή PIN</string>
     <string name="lockpattern_need_to_unlock">Επιβεβαίωση αποθηκευμένου μοτίβου</string>
-    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_need_to_unlock_wrong">Δοκιμάστε ξανά</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος</string>
     <string name="lockpattern_recording_intro_footer">Πατήστε Μενού για βοήθεια</string>
     <string name="lockpattern_recording_inprogress">Αφήστε το δάχτυλό σας όταν τελειώσετε</string>
@@ -1151,12 +1155,13 @@
     <string name="reset_app_preferences_title">Επαναφορά στις προτιμήσεις εφαρμογών?</string>
     <string name="reset_app_preferences_desc">"Αυτό θα επαναφέρει όλες τις προτιμήσεις για:
 
-"<li>Απενεργοποιημένες εφαρμογές</li>"
-"<li>Ειδοποιήσεις απενεργοποιημένων εφαρμογών</li>"
-"<li>Προεπιλογή ενεργειών για εφαρμογές</li>"
-"<li>Περιορισμοί στοιχείων για εφαρμογές που τρέχουν στο παρασκήνιο</li>"
+ "<li>Απενεργοποιημένες εφαρμογές</li>"
+ "<li>Ειδοποιήσεις απενεργοποιημένων εφαρμογών</li>"
+ "<li>Προεπιλογή ενεργειών για εφαρμογές</li>"
+ "<li>Περιορισμοί δεδομένων παρασκηνίου εφαρμογών</li>"
+ "<li>Τυχόν περιορισμούς αδειών</li>"
 
-Δεν θα χάσετε τυχόν δεδομένα εφαρμογών."</string>
+Δεν θα χάσετε τα δεδομένα εφαρμογών."</string>
     <string name="reset_app_preferences_button">Επαναφορά εφαρμογών</string>
     <string name="manage_space_text">διαχείριση του χώρου</string>
     <string name="filter">Φίλτρο</string>
@@ -1173,10 +1178,9 @@
     <string name="sd_card_storage">Συσκευή αποθήκευσης USB</string>
     <string name="recompute_size">Επανυπολογισμός μεγέθους…</string>
     <string name="clear_data_dlg_title">Διαγραφή δεδομένων</string>
-    <string name="clear_data_dlg_text">Όλα τα στοιχεία αυτού του app θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία ρυθμίσεων λογαριασμών, βάσεις δεδομένων κλπ</string>
+    <string name="clear_data_dlg_text">Όλα τα στοιχεία αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις λογαριασμών, βάσεις δεδομένων κλπ</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Άκυρο</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Η εφαρμογή δε βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών.</string>
     <string name="clear_data_failed">Δεν ήταν δυνατή η διαγραφή δεδομένων</string>
     <string name="app_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
@@ -1184,7 +1188,7 @@
     <string name="clear_failed_dlg_title">Εκκαθάριση δεδομένων</string>
     <string name="clear_failed_dlg_text">Δεν ήταν δυνατή η διαγραφή δεδομένων για την εφαρμογή</string>
     <string name="security_settings_desc">Αυτή η εφαρμογή έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας:</string>
-    <string name="security_settings_desc_multi">Αυτή η εφαρμογή έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας. Προκειμένου να βελτιωθεί η απόδοση και να μειώσουμε τη χρήση μνήμης, μερικά από αυτά τα δικαιώματα είναι διαθέσιμα σε %1$s επειδή τρέχει στην ίδια διαδικασία όπως %2$s:</string>
+    <string name="security_settings_desc_multi">Αυτή η εφαρμογή έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας. Προκειμένου να βελτιωθεί η απόδοση και να μειώσουμε τη χρήση μνήμης, μερικά από αυτά τα δικαιώματα είναι διαθέσιμα και στο %1$s επειδή τρέχει την ίδια διαδικασία όπως το %2$s:</string>
     <string name="join_two_items">%1$s και %2$s</string>
     <string name="join_many_items_last">%1$s και %2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
@@ -1206,7 +1210,6 @@
     <string name="system_package">Οι ενημερώσεις του συστήματος δεν μπορούν να εγκατασταθούν σε εξωτερικά μέσα.</string>
     <string name="force_stop_dlg_title">Τερματισμός</string>
     <string name="force_stop_dlg_text">Εάν τερματίσετε μια εφαρμογή ενδέχεται να μη λειτουργεί σωστά</string>
-    <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Αδύνατη η μετακίνηση της εφαρμογής %1$s</string>
     <string name="app_install_location_title">Προτιμώμενη τοποθεσία εγκατάστασης</string>
     <string name="app_install_location_summary">Αλλαγή της προτιμώμενης θέσης εγκατάστασης για νέες εφαρμογές</string>
@@ -1258,7 +1261,6 @@
     <string name="language_settings_category">Ρυθμίσεις γλώσσας</string>
     <string name="keyboard_settings_category">Πληκτρολόγιο &amp; μέθοδοι εισαγωγής</string>
     <string name="phone_language">Γλώσσα</string>
-    <string name="phone_language_summary" />
     <string name="auto_replace">Αυτόματη αντικατάσταση</string>
     <string name="auto_replace_summary">Διόρθωση λέξεων</string>
     <string name="auto_caps">Αυτόματη εισαγωγή κεφαλαίων</string>
@@ -1283,7 +1285,6 @@
     <string name="keyboard_layout_default_label">Προεπιλογή</string>
     <string name="keyboard_layout_picker_title">Εμφανίσεις πληκτρολογίου</string>
     <string name="user_dict_settings_title">Προσωπικό λεξικό</string>
-    <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Προσθήκη</string>
     <string name="user_dict_settings_add_dialog_title">Προσθήκη στο λεξικό</string>
     <string name="user_dict_settings_add_screen_title">Φράση</string>
@@ -1298,7 +1299,8 @@
     <string name="user_dict_settings_edit_dialog_title">Επεξεργασία λέξης</string>
     <string name="user_dict_settings_context_menu_edit_title">Επεξεργασία</string>
     <string name="user_dict_settings_context_menu_delete_title">Διαγραφή</string>
-    <string name="user_dict_settings_empty_text">"Δεν υπάρχουν λέξεις στο λεξικό χρήστη. Προσθέστε μια λέξη αγγίζοντας το πλήκτρο προσθήκης + "</string>
+    <string name="user_dict_settings_empty_text">"Δεν υπάρχουν λέξεις στο λεξικό χρήστη.
+Προσθέστε μια λέξη αγγίζοντας το πλήκτρο προσθήκης + "</string>
     <string name="user_dict_settings_all_languages">Όλες οι γλώσσες</string>
     <string name="user_dict_settings_more_languages">Περισσότερες γλώσσες…</string>
     <string name="testing">Δοκιμές</string>
@@ -1362,7 +1364,9 @@
     <string name="enforce_read_external_title">Προστασία αποθηκευτικού χώρου USB</string>
     <string name="enforce_read_external_summary">Οι εφαρμογές πρέπει να ζητούν άδεια για να διαβάσουν τον χώρο αποθήκευσης USB</string>
     <string name="enforce_read_external_confirm_title">Προστασία αποθηκευτικού χώρου USB</string>
-    <string name="enforce_read_external_confirm_message">«Όταν ο χώρος αποθήκευσης USB προστατεύεται, οι εφαρμογές πρέπει να ζητούν άδεια για να διαβάσουν δεδομένα από εξωτερικά μέσα αποθήκευσης</string>
+    <string name="enforce_read_external_confirm_message">"Όταν ο χώρος αποθήκευσης USB προστατεύεται, οι εφαρμογές πρέπει να ζητούν άδεια για να διαβάσουν δεδομένα από εξωτερικά μέσα αποθήκευσης
+
+Ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν μέχρι να ενημερωθούν από τους προγραμματιστές."</string>
     <string name="enable_terminal_title">Τοπική τερματική εφαρμογή</string>
     <string name="enable_terminal_summary">Ενεργοπ.τερμ.εφαρμογής που προσφέρει πρόσβαση στο τοπικό κέλυφος</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
@@ -1551,7 +1555,7 @@
     <string name="menu_stats_last_unplugged">Από την τελευταία αποσύνδεση %1$s</string>
     <string name="menu_stats_total">Σύνολα χρήσης</string>
     <string name="menu_stats_refresh">Ανανέωση</string>
-    <string name="process_kernel_label">Android OS</string>
+    <string name="process_kernel_label">Λειτουργικό Android</string>
     <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="process_stats_summary_title">Στατιστικά στοιχεία διαδικασίας</string>
     <string name="process_stats_summary">Χρήσιμα στατιστικά στοιχεία σχετικά με τις εκτελούμενες διαδικασίες</string>
@@ -1661,7 +1665,6 @@
     <string name="credential_storage_type_software">Λογισμικό μόνο</string>
     <string name="credentials_install_gesture_prompt">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="credentials_install_gesture_explanation">Θα πρέπει να σχεδιάσετε το μοτίβο ξεκλειδώματος για επιβεβαίωση διαπιστευτηρίων εγκατάστασης</string>
-    <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Εισαγάγετε τον κωδικό για το χώρο διαπιστευτηρίων</string>
     <string name="credentials_old_password">Τρέχων κωδικός</string>
     <string name="credentials_reset_hint">Αφαίρεση όλου του περιεχομένου</string>
@@ -1691,7 +1694,6 @@
     <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός ασφαλείας backup</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Νέος κωδικός πρόσβασης και η επιβεβαίωση δεν ταιριάζουν</string>
     <string name="local_backup_password_toast_validation_failure">Ρύθμιση Αποτυχίας δημιουργίας αντιγράφων ασφαλείας κωδικού πρόσβασης</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Σταματήστε τη δημιουργία αντιγράφων ασφαλείας για τους Wi-Fi κωδικούς πρόσβασης , τους σελιδοδείκτες, άλλες ρυθμίσεις και των δεδομένων εφαρμογών καθώς και να διαγράψετε όλα τα αντίγραφα από τους διακομιστές της Google</string>
     <string name="device_admin_settings_title">Ρυθμίσεις διαχειριστή συσκευής</string>
     <string name="active_device_admin_msg">Διαχειριστής συσκευής</string>
@@ -1733,12 +1735,12 @@
     <string name="wifi_setup_status_connecting">Σύνδεση…</string>
     <string name="wifi_setup_status_proceed_to_next">Μετάβαση στο επόμενο βήμα</string>
     <string name="wifi_setup_status_eap_not_supported">EAP δεν υποστηρίζεται</string>
-    <string name="wifi_setup_eap_not_supported">"Δεν μπορείτε να ρυθμίσετε τις παραμέτρους μιας σύνδεσης EAP Wi-Fi κατά τη διάρκεια της ρύθμισης Μετά την εγκατάσταση μπορείτε να το κάνετε στις Ρυθμίσεις> Ασύρματα &amp; δίκτυα "</string>
+    <string name="wifi_setup_eap_not_supported">"Δεν μπορείτε να ρυθμίσετε τις παραμέτρους μιας σύνδεσης EAP Wi-Fi κατά τη διάρκεια της ρύθμισης Μετά την εγκατάσταση μπορείτε να το κάνετε στις Ρυθμίσεις> Wi-Fi "</string>
     <string name="wifi_setup_description_connecting">Σύνδεση μπορεί να διαρκέσει μερικά λεπτά …</string>
-    <string name="wifi_setup_description_connected">Αγγίξτε <b>Next</b>" να συνεχίσει με την εγκατάσταση.
+    <string name="wifi_setup_description_connected">Αγγίξτε <b>Επόμενο</b>" να συνεχίσετε με την εγκατάσταση.
 
 Αγγίξτε "<b>Back</b> να συνδεθείτε σε ένα άλλο δίκτυο Wi-Fi.</string>
-    <string name="time_zone_auto_stub">Select Time Zone</string>
+    <string name="time_zone_auto_stub">Επιλέξτε τη ζώνη ώρας</string>
     <string name="accessibility_sync_enabled">Ο συγχρονισμός ενεργοποιήθηκε</string>
     <string name="accessibility_sync_disabled">Ο συγχρονισμός απενεργοποιήθηκε</string>
     <string name="accessibility_sync_error">Σφάλμα συγχρονισμού</string>
@@ -1761,7 +1763,8 @@
     <string name="settings_backup_summary">Αποθήκευση των ρυθμίσεών μου</string>
     <string name="sync_menu_sync_now">Συγχρονισμός τώρα</string>
     <string name="sync_menu_sync_cancel">Ακύρωση συγχρονισμού</string>
-    <string name="sync_one_time_sync">Πατήστε για συγχρονισμό τώρα %1$s</string>
+    <string name="sync_one_time_sync">"Πατήστε για συγχρονισμό τώρα
+%1$s"</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Ημερολόγιο</string>
     <string name="sync_contacts">Επαφές</string>
@@ -1780,9 +1783,9 @@
     <string name="provider_label">Push συνδρομές</string>
     <string name="sync_item_title">Συγχρονισμός %s</string>
     <string name="cant_sync_dialog_title">Δεν είναι δυνατός ο μη αυτόματος συγχρονισμός</string>
-    <string name="cant_sync_dialog_message">"Ο συγχρονισμός γι' αυτό το αρχείο είναι απενεργοποιημένος. Για να αλλάξετε αυτή τη ρύθμιση προσωρινά ενεργοποιήστε δεδομένα στο παρασκήνιο και αυτόματο συγχρονισμό"</string>
+    <string name="cant_sync_dialog_message">"Ο συγχρονισμός γι' αυτό το στοιχείο είναι απενεργοποιημένος. Για να αλλάξετε αυτή τη ρύθμιση προσωρινά ενεργοποιήστε δεδομένα στο παρασκήνιο και αυτόματο συγχρονισμό"</string>
     <string name="wimax_settings">Ρυθμίσεις 4G</string>
-    <string name="status_wimax_mac_address">4G MAC address</string>
+    <string name="status_wimax_mac_address">Διεύθυνση 4G MAC</string>
     <string name="enter_password">Πληκτρολογήστε τον κωδικό πρόσβασης για την αποκρυπτογράφηση αποθήκευσης</string>
     <string name="try_again">Δοκιμάστε ξανά</string>
     <string name="delete">Διαγραφή</string>
@@ -1830,7 +1833,7 @@
     <string name="force_hw_ui_summary">Χρησιμοποιήστε 2D επιτάχυνση υλικού σε εφαρμογές</string>
     <string name="force_msaa">Εξαναγκασμός 4x MSAA</string>
     <string name="force_msaa_summary">Ενεργοποίηση 4x MSAA σε OpenGL ES 2.0 εφαρμογές</string>
-    <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
+    <string name="show_non_rect_clip">Εντοπισμός σφαλμάτων σε μη-ορθογώνια λειτουργία αποκοπής</string>
     <string name="track_frame_time">Προφίλ απόδοσης GPU</string>
     <string name="window_animation_scale_title">Διαβάθμιση παραθύρου</string>
     <string name="transition_animation_scale_title">Κλίμακα μετάβασης animation</string>
@@ -1900,7 +1903,9 @@
 Μιας και η χρήση των δεδομένων μετριέται με το τηλέφωνό σας, και ο φορέας σας μπορεί να ευθύνεται για τη χρήση διαφορετικά, σκεφτείτε να χρησιμοποιήσετε ένα συντηρητικό όριο."</string>
     <string name="data_usage_restrict_background_title">Περιορισμός δεδομένων παρασκηνίου?</string>
     <string name="data_usage_restrict_background">Αν περιορίσετε στο παρασκήνιο δεδομένων κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">Αν περιορίσετε στο παρασκήνιο δεδομένων κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi. Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο.</string>
+    <string name="data_usage_restrict_background_multiuser">"Αν περιορίσετε την χρήση δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi.
+
+Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">προειδοποίηση</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1922,14 +1927,14 @@
     <string name="vpn_server">Διεύθυνση εξυπηρετητή</string>
     <string name="vpn_mppe">PPP encryption MPPE</string>
     <string name="vpn_l2tp_secret">L2TP secret</string>
-    <string name="vpn_ipsec_identifier">IPSec identifier</string>
+    <string name="vpn_ipsec_identifier">Αναγνωριστικό IPSec</string>
     <string name="vpn_ipsec_secret">IPSec pre-shared key</string>
-    <string name="vpn_ipsec_user_cert">IPSec user certificate</string>
-    <string name="vpn_ipsec_ca_cert">IPSec CA certificate</string>
-    <string name="vpn_ipsec_server_cert">IPSec server certificate</string>
+    <string name="vpn_ipsec_user_cert">Πιστοποιητικό χρήστη IPSec</string>
+    <string name="vpn_ipsec_ca_cert">Πιστοποιητικό IPSec CA</string>
+    <string name="vpn_ipsec_server_cert">Πιστοποιητικό διακομιστή IPSec</string>
     <string name="vpn_show_options">Εμφάνιση προχωρημένων ρυθμίσεων</string>
-    <string name="vpn_search_domains">DNS αναζήτηση domains</string>
-    <string name="vpn_dns_servers">DNS servers</string>
+    <string name="vpn_search_domains">Αναζήτηση διακομιστών DNS</string>
+    <string name="vpn_dns_servers">Διακομιστές DNS</string>
     <string name="vpn_routes">Προώθηση διαδρομών</string>
     <string name="vpn_username">Όνομα χρήση</string>
     <string name="vpn_password">Κωδικός</string>
@@ -1947,7 +1952,7 @@
     <string name="vpn_menu_edit">Επεξεργασία δικτύου</string>
     <string name="vpn_menu_delete">Διαγραφή δικτύου</string>
     <string name="vpn_menu_lockdown">Always-on VPN</string>
-    <string name="vpn_lockdown_summary">Επιλέξτε ένα προφίλ VPN θα παραμένουν πάντα συνδεδεμένοι. Θα επιτρέπεται κίνηση στο δίκτυο μόνο όταν συνδέεται με αυτό το VPN.</string>
+    <string name="vpn_lockdown_summary">Επιλέξτε ένα προφίλ VPN στο οποίο θα παραμένετε πάντα συνδεδεμένοι. Θα επιτρέπεται κίνηση στο δίκτυο μόνο όταν συνδέεστε με αυτό το VPN.</string>
     <string name="vpn_lockdown_none">Κανένα</string>
     <string name="vpn_lockdown_config_error">Το Always-on VPN απαιτεί μια διεύθυνση IP για δύο server και DNS.</string>
     <string name="vpn_no_network">Δεν υπάρχει σύνδεση με το δίκτυο Παρακαλώ δοκιμάστε αργότερα</string>
@@ -2048,23 +2053,6 @@
     <string name="restriction_menu_change_pin">Αλλαγή κωδικού PIN</string>
     <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>
     <string name="help_label">Βοήθεια</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
-    <string name="help_url_nfc_payment" />
-    <string name="help_url_remote_display" />
     <string name="user_account_title">Ο λογαριασμός για το περιεχόμενο</string>
     <string name="user_picture_title">ID φωτογραφίας</string>
     <string name="cell_broadcast_settings">Εκπομπές κυψέλης</string>
@@ -2087,11 +2075,7 @@
     <string name="wizard_finish">Τέλος</string>
     <string name="user_image_take_photo">Λήψη φωτογραφίας</string>
     <string name="user_image_choose_photo">Επιλέξτε φωτογραφία από το Gallery</string>
-    <string name="regulatory_info_text" />
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Ασύρματη οθόνη είναι απενεργοποιημένη επειδή το Wi-Fi είναι απενεργοποιημένο</string>
-    <string name="cmcc_dm_settings_title">Δικαιώματα διαχείρισης συσκευής</string>
-    <string name="cmcc_dm_settings_enable_summary">Ενεργ.αυτόμ. boot</string>
-    <string name="cmcc_dm_settings_disable_summary">Απενεργ.αυτόμ. boot</string>
     <string name="do_not_disturb_mode">Νυχτερινή σίγαση</string>
     <string name="dndm_notification">Η σίγαση είναι ενεργοποιημένη</string>
     <string name="dndm_open">Νυχτερινή σίγαση</string>
@@ -2120,7 +2104,7 @@
     <string name="dndm_vip_list_custom_group">Εξαιρέσεις</string>
     <string name="dndm_repeated_call_setting_title">Επανειλημμένες κλήσεις</string>
     <string name="dndm_repeated_call_summary_none">Σίγαση επανειλημμένων κλήσεων από τον ίδιο αριθμό</string>
-    <string name="dndm_repeated_call_summary_3min">Χτύπα όταν λαμβάνετε μια δεύτερη κλήση από τον ίδιο αριθμό μέσα σε 3 λεπτά</string>
+    <string name="dndm_repeated_call_summary_3min">Χτύπα όταν λαμβάνεται μια δεύτερη κλήση από τον ίδιο αριθμό μέσα σε 3 λεπτά</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="search_airplane">αεροπλάνο</string>
@@ -2129,7 +2113,7 @@
     <string name="search_bluetooth">Bluetooth</string>
     <string name="search_android_beam">δέσμη</string>
     <string name="search_vpn">VPN</string>
-    <string name="search_tether">Tether</string>
+    <string name="search_tether">Πρόσδεση</string>
     <string name="search_brightness">Φωτεινότητα</string>
     <string name="search_wallpaper">Ταπετσαρία</string>
     <string name="search_accelerometer">Επιταχυνσιόμετρο</string>
@@ -2149,7 +2133,7 @@
     <string name="search_date_time">ημερομηνίας και ώρας</string>
     <string name="search_language">γλώσσα</string>
     <string name="search_about">Σχετικά</string>
-    <string name="search_power_mode">λειτουργία εξοικονόμησης ενέργειας</string>
+    <string name="search_power_mode">Λειτουργία εξοικονόμησης ενέργειας</string>
     <string name="debug_log">Πρόγραμμα εμπειρίας χρήστη</string>
     <string name="upload_debug_log_title">Ανεβάστε debug log</string>
     <string name="upload_debug_log_summary">Ανεβάστε το debug log, μόνο όταν η σύνδεση Wi-Fi είναι διαθέσιμη, για να βοηθήσετε την ομάδα της MIUI να αναπτύξει μια πιο σταθερή ROM</string>
@@ -2159,7 +2143,7 @@
     <string name="device_internal_memory">Εσωτερικός χώρος</string>
     <string name="device_sd_memory">Κάρτα SD</string>
     <string name="device_cpu2_info">Dual Core</string>
-    <string name="device_cpu4_info">Quad-Core</string>
+    <string name="device_cpu4_info">Quad Core</string>
     <string name="available_size">%s Διαθέσιμα</string>
     <string name="total_size">%s Σύνολο</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Συνολικά: %2$s</string>
@@ -2183,8 +2167,9 @@
     <string name="ac_privacy_mode_sum">Απαίτηση κωδικού πρόσβασης για να απενεργοποιήσετε τη λειτουργία επισκεπτών</string>
     <string name="access_control_password_title">Ενεργοποίηση κωδικού</string>
     <string name="access_control_need_to_unlock">Απαιτείται κωδικός</string>
-    <string name="access_control_reset_by_account">Συνδεθείτε στον Mi Account λογαριασμό σας για να επαναφέρετε τον κωδικό πρόσβασης</string>
-    <string name="access_control_need_password">%s έχει προστατευθεί</string>
+    <string name="access_control_reset_by_account">Συνδεθείτε στον λογαριασμό Mi για να επαναφέρετε τον κωδικό πρόσβασης</string>
+    <string name="access_control_need_password">"%s έχει προστατευθεί
+"</string>
     <string name="access_control_no_back_footer">Πατήστε το εικονίδιο για έξοδο</string>
     <string name="access_control_recording_intro_header">Σχεδιάστε μοτίβο ξεκλειδώματος</string>
     <string name="access_control_app_entry_single">Άνοιγμα εφαρμογής</string>
@@ -2298,6 +2283,8 @@
     <string name="apn_new">Προσθήκη νέου APN</string>
     <string name="apn_save">Αποθήκευση APN</string>
     <string name="apn_save_msg">Οι ρυθμίσεις APN έχουν αλλάξει θέλετε να αποθηκευτούν</string>
+    <string name="apn_chinaunicom_3gnet_general">Wal-3G σύνδεση στο Internet</string>
+    <string name="apn_chinaunicom_3gwap_general">Wal 3G κινητό Internet</string>
     <string name="activating">Ενεργοποίηση</string>
     <string name="wifi_enable_watchdog_service_summary">Να μη γίνεται χρήση ενός δικτύου Wi-Fi εκτός κι αν έχει καλή σύνδεση με το Internet</string>
     <string name="wifi_disabled_help">Το δίκτυο έχει αποφευχθεί λόγω κακής σύνδεσης Turn off this behavior from the Settings > Wi-Fi screen Advanced menu item</string>
@@ -2354,7 +2341,7 @@
     <string name="erase_optional">Προαιρετική διαγραφή</string>
     <string name="erase_application">Διαγραφή εφαρμογών</string>
     <string name="erase_application_description">Διαγραφή εγκατεστημένων εφαρμογών</string>
-    <string name="erase_data">Erase</string>
+    <string name="erase_data">Διαγραφή</string>
     <string name="confirm_erase">Επιβεβαίωση</string>
     <string name="master_clear_personal_data">Είστε σίγουροι ότι θέλετε να διαγράψετε τα προσωπικά σας δεδομένα. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
     <string name="master_clear_personal_data_application">Είστε σίγουροι ότι θέλετε να διαγράψετε τα προσωπικά σας δεδομένα. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
@@ -2369,7 +2356,7 @@
     <string name="bluetooth_device_searchable">Ανιχνεύσιμη</string>
     <string name="usb_msd_title">Μαζική αποθήκευση</string>
     <string name="usb_msd_summary">Μετακίνηση αρχείων σε Windows και Mac</string>
-    <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
+    <string name="usb_msd_driver_installer_title">Δίσκος εγκατάστασης Driver (MSD)</string>
     <string name="usb_msd_driver_installer_summary">Λήψη προγραμμάτων οδήγησης για Windows και OSX</string>
     <string name="input_settings">Ρυθμίσεις εισόδου</string>
     <string name="show_magnifier_when_input">Μεγέθυνση</string>
@@ -2437,7 +2424,7 @@
     <string name="dolby_eq_enter_alert_title">Άνοιγμα Dolby EQ</string>
     <string name="dolby_eq_enter_alert_msg">Θέλετε να ανοίξετε τις ρυθμίσεις Dolby EQ</string>
     <string name="dirac_control">Βελτίωση της ποιότητας ήχου</string>
-    <string name="dirac_mode_off">Dirac off</string>
+    <string name="dirac_mode_off">Απενεργοποίηση Dirac</string>
     <string name="dirac_mode_in_ear">Mi in-ear ακουστικά lite</string>
     <string name="dirac_mode_earbuds">Mi ακουστικά</string>
     <string name="dirac_mode_piston_100">Mi in-ear ακουστικά</string>
@@ -2447,7 +2434,7 @@
     <string name="dirac_mode_piston_1">Mi Piston-1</string>
     <string name="dirac_mode_piston_2">Mi Piston-2</string>
     <string name="dirac_mode_piston_youth">Mi Piston-youth</string>
-    <string name="equalizer">EQ</string>
+    <string name="equalizer">Ισοσταθμιστής</string>
     <string name="wifi_menu_wfd">Οθόνη Wi-Fi</string>
     <string name="wfd_settings_title">Προβολή Wi-Fi</string>
     <string name="wfd_settings_description">Σύνδεση με οθόνη μέσω Wi-Fi</string>
@@ -2477,8 +2464,7 @@
     <string name="msd_pc_system_install_summary_xp">1. Τρέξτε το setup.exe για να εγκατασταθεί.</string>
     <string name="msd_pc_system_install_finish_summary_xp">"Μετά την εγκατάσταση αυτού του προγράμματος οδήγησης
 %1$s θα εμφανίζεται ως συσκευή μαζικής αποθήκευσης USB όταν συνδέεται με έναν υπολογιστή. "</string>
-    <string name="msd_pc_system_install_finish_summary_vista">"Για τα Windows Vista και νεότερες εκδόσεις των Windows, ,
-ο %1$s αναπαραγωγός μουσικής θα εμφανιστεί στον υπολογιστή σας αυτόματα"</string>
+    <string name="msd_pc_system_install_finish_summary_vista">Για τα Windows Vista και νεότερες εκδόσεις των Windows, το %1$s θα εμφανιστεί ως μια συσκευή αποθήκευσης USB όταν είναι συνδεδεμένο με έναν υπολογιστή</string>
     <string name="msd_install_retry">Εαν το PC σας δεν βρίσκει την συσκευή, δοκιμάστε τα ακόλουθα:</string>
     <string name="msd_install_retry_connect">Επανασυνδέστε το καλώδιο USB.</string>
     <string name="msd_install_retry_reinstall">Επανεγκαταστήστε τον οδηγό(Driver).</string>
@@ -2550,10 +2536,8 @@
     <string name="application_forbid_auto_startup">Απαγόρευση %s από την έναρξη στο παρασκήνιο</string>
     <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
     <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
-    <string name="app_floating_window_dlg_enable">"Ενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση. Μπορείτε επίσης να διακόψετε τη λειτουργία της εφαρμογής με το χέρι.
-Ενεργοποίηση κινητών παραθύρων?"</string>
-    <string name="app_floating_window_dlg_disable">"Η απενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων θα σταματήσει την εφαρμογή.
-Απενεργοποιήστε τα κινητά παράθυρα?"</string>
+    <string name="app_floating_window_dlg_enable">"Ενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
+    <string name="app_floating_window_dlg_disable">"Η απενεργοποίηση %1$s's κυμαινόμενο παράθυρο των ρυθμίσεων απαιτεί από την εφαρμογή να κάνει επανεκκίνηση."</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">Σύνδεση WPS</string>
     <string name="wps_connect_summary">Σιγουρευτείτε πως το router υποστηρίζει και έχει ενεργό το WPS</string>
@@ -2561,7 +2545,7 @@
     <string name="brightness_auto_adjust_off">Η φωτεινότητα της οθόνης θα παραμείνει σταθερή σε όλα τα περιβάλλοντα</string>
     <string name="brightness_auto_adjust_on">Η φωτεινότητα της οθόνης θα διαφέρει σε σχέση με το φως στο περιβάλλον σας</string>
     <string name="private_sms_need_to_unlock">Κωδικό πρόσβασης που απαιτείται:</string>
-    <string name="private_sms_reset_by_account">Για να επαναφέρετε τον κωδικό πρόσβασης σας, συνδεθείτε στο λογαριασμό σας Mi</string>
+    <string name="private_sms_reset_by_account">Για να επαναφέρετε τον κωδικό πρόσβασης σας, συνδεθείτε στο λογαριασμό Mi</string>
     <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
     <string name="private_gallery_need_to_unlock">Απαιτείται κωδικός:</string>
     <string name="private_gallery_reset_by_account">Για να επαναφέρετε τον κωδικό σας, συνδεθείτε στο λογαριασμό σας</string>
@@ -2570,6 +2554,7 @@
     <string name="cancel_alert">Απορρίψετε τις αλλαγές σας?</string>
     <string name="android_beam_witch_label">Ενεργοποίηση Android Beam</string>
     <string name="sim_management_title">Διαχείριση SIM</string>
+    <string name="sim_radio_off">Δεν είναι ενεργοποιημένη</string>
     <string name="sim_status_title">Κατάσταση SIM</string>
     <string name="slot_status_title">IMEI πληροφορίες</string>
     <string name="next_button_label">Επόμενο</string>
@@ -2633,7 +2618,7 @@
     <string name="wifi_share_connected_title">MIUI κοινόχρηστο Wi-Fi</string>
     <string name="wifi_share_connected_summary">Είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi-Fi που έχει κοινή με άλλο χρήστη</string>
     <string name="wifi_share_action_turn_on">Διαμοιρασμός Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Για να μοιραστείτε, συνδεθείτε στο λογαριασμό σας Mi</string>
+    <string name="wifi_share_action_turn_on_summary">Για να μοιραστείτε, συνδεθείτε στο λογαριασμό Mi</string>
     <string name="wifi_share_action_turn_off">Διακοπή κοινής χρήσης δικτύων</string>
     <string name="wifi_share_list_empty">Δεν βρέθηκαν κοινά δίκτυα.</string>
     <string name="wifi_share_connect">Συνδέστε</string>
@@ -2722,21 +2707,21 @@
     <string name="miui_screensaver_usage">Η εικόνα στο άλμπουμ οθόνης θα εμφανιστεί πέντε δευτερόλεπτα μετά την απενεργοποίηση της οθόνης.</string>
     <string name="alert_show_screensaver_when_not_charging_title">Χρήση μπαταρίας</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Η Εμφάνιση οθόνης προφύλαξης θα καταναλώσει επιπλέον ισχύ μπαταρίας.</string>
-    <string name="toast_need_login">Σύνδεση στο Mi λογαριασμό σας</string>
+    <string name="toast_need_login">Σύνδεση στο λογαριασμό Mi</string>
     <string name="preferred_app_settings">Προεπιλεγμένες ρυθμίσεις εφαρμογών</string>
     <string name="preferred_app_settings_default">Προεπιλεγμένα</string>
     <string name="preferred_app_settings_reset">Επαναφορά προεπιλεγμένων εφαρμογών?</string>
     <string name="preferred_app_settings_reset_message">Όλες οι προεπιλεγμένες εφαρμογές θα πρέπει να αποκατασταθεί σε MIUI προεπιλογές.</string>
     <string name="system_app_settings">Εφαρμογές συστήματος</string>
     <string name="connect_to_internet">Σύνδεση στο δίκτυο</string>
-    <string name="wifi_setting_category">Available networks</string>
+    <string name="wifi_setting_category">Διαθέσιμα δίκτυα</string>
     <string name="account_autostar_label">Διαχείριση αυτ.εκκίνησης</string>
     <string name="downloading_description">Λήψη…</string>
     <string name="cancel_download_buton_text">Ακύρωση</string>
     <string name="apply_now_button_text">Ενημέρωση</string>
     <string name="check_update">Έλεγχος για ενημερώσεις</string>
-    <string name="dialog_no">No</string>
-    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">Όχι</string>
+    <string name="dialog_yes">Ναι</string>
     <string name="confirm_download_cancelation_dialog_message">Ακύρωση λήψης ;</string>
     <string name="found_new_version">Διαθέσιμη ενημέρωση</string>
     <string name="no_update_found">Έχετε την τελευταία έκδοση της MIUI</string>
@@ -2746,31 +2731,32 @@
     <string name="network_error">Σφάλμα δικτύου</string>
     <string name="checking_for_updates">Έλεγχος για ενημερώσεις…</string>
     <string name="rebootiing_for_updates">Επανεκκίνηση…</string>
-    <string name="update_progress_for_updates">Updating (%s)</string>
+    <string name="update_progress_for_updates">Ενημέρωση (%s)</string>
     <string name="button_text_reboot_now">Επανεκκίνηση</string>
     <string name="button_text_login">Σύνδεση</string>
-    <string name="dialog_content_login">Σύνδεση στο Mi Account για την αναβάθμιση?</string>
-    <string name="dialog_title_login">Login Xiaomi account</string>
+    <string name="dialog_content_login">Σύνδεση στο λογαριασμό Mi για την αναβάθμιση?</string>
+    <string name="dialog_title_login">Είσοδος στον λογαριασμό Mi</string>
     <string name="make_sure_cancel_update">Ακύρωση ενημέρωσης ;</string>
     <string name="download_current_rom">Λήψη τελευταίας έκδοσης της MIUI</string>
-    <string name="install_whole_rom">Download ROM (standard)</string>
+    <string name="install_whole_rom">Λήψη ROM (standard)</string>
     <string name="apply_update_fail">Αποτυχία ενημέρωσης συστήματος.</string>
-    <string name="now">Reboot now</string>
+    <string name="now">Επανεκκίνηση τώρα</string>
+    <string name="need_reboot_now">Χρειάζεται επανεκκίνηση για να ολοκληρωθεί η ενημέρωση. Παρακαλώ επανεκκινήσετε τώρα !</string>
     <string name="welcome">Καλωσορίσατε</string>
     <string name="launching_pho">Έναρξη πληροφ.τηλεφώνου, παρακαλώ περιμένετε.</string>
     <string name="launching_cit">Έναρξη cit, παρακαλώ περιμένετε.</string>
     <string name="launching_rep">Αναφορά…</string>
     <string name="status_serialno">σειριακός αρ.</string>
     <string name="provision_next">Επόμενο</string>
-    <string name="privacy_mode_dialog_title">Guest mode</string>
-    <string name="privacy_mode_dialog_message">Calls, notes, pictures, messages, and launcher settings will be hidden from user</string>
-    <string name="lockscreen_glogin_submit_button">Sign in</string>
-    <string name="lockscreen_glogin_password_hint">Password</string>
+    <string name="privacy_mode_dialog_title">Λειτουργία επισκέπτη</string>
+    <string name="privacy_mode_dialog_message">Με την λειτουργία επισκέπτη, κλήσεις, μηνύματα κειμένου, σημειώσεις και άλμπουμ, θα είναι κρυμμένα. Αυτή η λειτουργία δεν θα είναι ασφαλής και θα μπορεί να αναιρεθεί από τον επισκέπτη, εκτός και αν έχετε κάνει τις απαραίτητες ρυθμίσεις περιορισμού πρόσβασης στις Ρυθμίσεις > Ασφάλεια &amp; απόρρητο > Ασφάλεια απορρήτου</string>
+    <string name="lockscreen_glogin_submit_button">Είσοδος</string>
+    <string name="lockscreen_glogin_password_hint">Κωδικός πρόσβασης</string>
     <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
-    <string name="lockscreen_glogin_checking_password">Checking…</string>
+    <string name="lockscreen_glogin_checking_password">Έλεγχος…</string>
     <string name="passwordIncorrect">Λανθασμένη εισαγωγή κωδικού</string>
     <string name="app_backup">Αντίγραφα</string>
-    <string name="google_backup_section_title">Google αντίγραφα &amp; επαναφορά</string>
+    <string name="google_backup_section_title">Αντίγραφα Google &amp; επαναφορά</string>
     <string name="system_backup_section_title">Αντίγραφα</string>
     <string name="local_backup_section_title">Τοπικά αντίγραφα</string>
     <string name="local_backup_section_summary">Αντίγραφα ρυθμίσεων συστήματος, λογαριασμών και εφαρμογών</string>
@@ -2778,7 +2764,7 @@
     <string name="other_advanced_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="recent_location_requests_title">Πρόσβαση τοποθεσίας</string>
     <string name="recent_location_requests_summary">Οι παρακάτω εφαρμογές ζητούν πληροφορίες για την τοποθεσία σας</string>
-    <string name="permission_manager">Permissions</string>
+    <string name="permission_manager">Δικαιώματα</string>
     <string name="security_keyguard_category_name">Κλείδωμα οθόνης</string>
     <string name="security_password_category_name">Κωδικός</string>
     <string name="bluetooth_unlock_title">Ξεκλείδωμα από Bluetooth συσκευή</string>
@@ -2803,7 +2789,7 @@
     <string name="permission_mgr">Δικαιώματα</string>
     <string name="cleaner">Καθαρισμός</string>
     <string name="power_mgr">Ενέργεια</string>
-    <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
+    <string name="symbols_not_allowed_for_password">Ο κωδικός δεν μπορεί να περιέχει σύμβολα</string>
     <string name="reset_legacy_password_settings_preface_text">Πρέπει να επαναφέρετε τον κωδικό ξεκλειδώματος οθόνης.</string>
     <string name="priority_storage_title">Ρυθμίσεις αποθήκευσης</string>
     <string name="priority_storage_summary">Επιλέξτε τον προεπιλεγμένο τόπο για σώσιμο δεδομένων χρήστη</string>
@@ -2819,7 +2805,14 @@
     <string name="status_sim">Κατάσταση SIM</string>
     <string name="status_summary">Χτυπήστε για προβολή λεπτομερειών</string>
     <string name="wifi_subnet_mask">Μάσκα Subnet</string>
-    <string name="experimental_build">(Δοκιμαστική έκδοση)</string>
+    <string name="wireless_on">On</string>
+    <string name="wireless_off">Off</string>
+    <string name="whetstone_level_title">Βελτιστοποίηση μνήμης συστήματος</string>
+    <string name="whetstone_level_reboot">Αυτή η ρύθμιση θα ισχύσει όταν κάνετε επανεκκίνηση της συσκευής σας</string>
+    <string name="whetstone_level_reboot_OK">Επανεκκίνηση</string>
+    <string name="alpha_build">" | Alpha"</string>
+    <string name="developer_build">" | Developer"</string>
+    <string name="stable_build">" | Stable"</string>
     <string name="miracast_settings_category">Wi-Fi ρυθμίσεις της οθόνης</string>
     <string name="miracast_display_category">Οθόνες</string>
     <string name="miracast_menu_search">Αναζήτηση</string>
@@ -2849,9 +2842,6 @@
     <string name="miracast_PC2THOR_streaming_on">Το Miracast δεν είναι διαθέσιμη επειδή ένα PC κάνει streaming σε αυτή τη συσκευή</string>
     <string name="miracast_disable_dhcp">Απενεργοποίηση HDCP</string>
     <string name="miracast_enable_dhcp">Ενεργοποίηση HDCP</string>
-    <string name="status_bar_toggle_arrangement">Οργάνωση διακοπτών</string>
-    <string name="later">Reboot later</string>
-    <string name="sound_category_calls_and_notification_title">Ήχος κλήσης &amp; ειδοποιήσεις</string>
     <string name="music_dirac_mode_piston">Mi Pistons</string>
     <string name="sim_pin_disabled">Ακυρώθηκε το PIN1, κλειδωμένο!</string>
     <string name="sim_pin_enabled">PIN1 κλειδωμένο!</string>
