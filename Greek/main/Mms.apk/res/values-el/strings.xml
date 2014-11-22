@@ -79,8 +79,8 @@
   <string name="confirm_restore_positive">Επαναφορά</string>
   <string name="confirm_restore_title">Επαναφορά όλων των επιλεγμένων μηνυμάτων?</string>
   <string name="confirm_send_mms">Μία από τις απαντήσεις σας περιέχει διεύθυνση email. Αυτό το μήνυμα θα σταλεί ως ΜΜS, και ίσως επιφέρει επιπλέον χρεώσεις από τον πάροχό σας.</string>
-  <string name="context_menu_add_contact">Προσθήκη στις Επαφές</string>
-    <string name="context_menu_add_calendar">Προβολή στο Ημερολόγιο</string>
+  <string name="context_menu_add_calendar">Προβολή στο Ημερολόγιο</string>
+    <string name="context_menu_add_contact">Προσθήκη στις Επαφές</string>
   <string name="context_menu_add_to_browser_favorite">Προσθήκη στα αγαπημένα</string>
   <string name="context_menu_browse_web">Αναζήτηση</string>
   <string name="context_menu_call">Κλήση</string>
@@ -175,6 +175,7 @@
   <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης(ες): %1$s</string>
   <string name="hidden_sender_address">Κρυφή διεύθυνση αποστολέα</string>
   <string name="hint_search_sms">%d SMS</string>
+    <string name="hms_add_image_progress_message">Εργάζεται…</string>
   <string name="hms_first_use_tips">Για την λήψη μηνυμάτων, θα πρέπει να συνδεθείτε σε δίκτυο WLAN</string>
   <string name="importing_progress_private_message">Εισαγωγή μηνυμάτων στο ιδιωτικό MessageBox</string>
   <string name="in_sms">Μήνυμα</string>
@@ -190,6 +191,8 @@
   <string name="loading_mms">Φόρτωση MMS…</string>
   <string name="manage_permission_app_label">Δικαιώματα διαχείρισης συσκευής</string>
   <string name="me">Εγώ</string>
+    <string name="menu_add_black">Φραγή στο νούμερο</string>
+    <string name="menu_add_contact">Προσθήκη σε υπάρχουσα επαφή</string>
   <string name="menu_call">Κλήση</string>
   <string name="menu_compose_new">Σύνθεση</string>
   <string name="menu_contact">Επαφή</string>
@@ -257,13 +260,13 @@
   <string name="mx_current_status">Τρέχουσα κατάσταση: Συνδεδεμένος</string>
   <string name="mx_dspt">Αποστολή μηνυμάτων μέσω του Διαδικτύου μεταξύ MIUI, ενεργοποιήστε για να στείλετε μέσω του φορέα κινητής όταν αυτή αποτύχει</string>
   <string name="mx_enable">Ενεργοποίηση μην. cloud</string>
-    <string name="mx_on_sim_2">Mi Messaging με θέση SIM %s</string>
-  <string name="mx_enable_int_popup_msg">Το Cloud Messaging σας επιτρέπει να στείλετε μηνύματα μεταξύ των χρηστών MIUI. Για να το ενεργοποιήσετε ένα διεθνές SMS θα σταλεί. Ενδέχεται να ισχύουν χρεώσεις μηνυμάτων φορέα.</string>
+    <string name="mx_enable_int_popup_msg">Το Cloud Messaging σας επιτρέπει να στείλετε μηνύματα μεταξύ των χρηστών MIUI. Για να το ενεργοποιήσετε ένα διεθνές SMS θα σταλεί. Ενδέχεται να ισχύουν χρεώσεις μηνυμάτων φορέα.</string>
   <string name="mx_enable_popup_msg">Το Cloud Messaging σας επιτρέπει να στέλνετε μηνύματα μέσω MIUI. Ένα κανονικό SMS απαιτείται για την ενεργοποίηση και μπορεί να ισχύουν χρεώσεις φορέα. Θέλετε να το ενεργοποιήσετε τώρα?</string>
   <string name="mx_int_warning_notice">Ένα διεθνές SMS θα αποσταλεί για την ενεργοποίηση Cloud Messaging, μπορεί να ισχύουν οι κανονικές χρεώσεις της εταιρείας</string>
   <string name="mx_msg">Cloud μηνυμα</string>
-    <string name="mx_on_sim_1">Mi Messaging με θέση SIM %s</string>
   <string name="mx_offline">Αποσυνδεδεμένος</string>
+    <string name="mx_on_sim_1">Mi Messaging με θέση SIM %s</string>
+  <string name="mx_on_sim_2">Mi Messaging με θέση SIM %s</string>
   <string name="mx_online">Συνδεδεμένος</string>
   <string name="mx_reactivate">Επανενεργοποίηση cloud μηνυμάτων</string>
   <string name="mx_recommend_msg">Ενεργοποίηση Cloud Μηνυμάτων για να στείλετε δωρεάν μηνύματα</string>
@@ -515,6 +518,7 @@
   <string name="user_agreement5">Αγγίζοντας το OK, συμφωνείτε με τους όρους που περιγράφονται σε αυτά τα έγγραφα.</string>
   <string name="view">Προβολή</string>
   <string name="view_bookmark">Προβολή αρχικού μηνύματος</string>
+    <string name="view_hms_attachment_fail">"Αδυναμία λήψης εικόνας"</string>
   <string name="view_hms_details">Λεπτομέρειες</string>
   <string name="view_message_details">Προβολή λεπτομερειών</string>
   <string name="wap_push_title">"[WAP Push] "</string>
