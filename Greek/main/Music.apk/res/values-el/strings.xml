@@ -157,7 +157,7 @@
     <string name="lyric">Στίχοι</string>
     <string name="lyric_is_empty">Χωρίς στίχους, μη διαθέσιμοι!</string>
   <string name="lyric_open_other_connect">Κατεβάστε τους στίχους χρησιμοποιώντας δεδομένα κινητής</string>
-    <string name="lyric_setting">Ρυθμίσεις στίχων/string>
+    <string name="lyric_setting">Ρυθμίσεις στίχων</string>
   <string name="max_sleep_time">90</string>
   <string name="mediaplaybacklabel">Μουσική</string>
   <string name="metered_alert">Προειδοποίηση χρήσης δεδομένων</string>

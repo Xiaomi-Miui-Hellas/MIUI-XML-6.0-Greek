@@ -30,7 +30,6 @@
     <string name="account_options_common_title">Κοινές ρυθμίσεις</string>
     <string name="account_options_only_title">Λήψη επικεφαλίδας μόνο κατά την χρήση δεδομένων κινητής</string>
     <string name="account_options_sync_title">Ρυθμίσεις συγχρονισμού</string>
-    <string name="account_password_spaces_error">"Αυτός ο κωδικός αρχίζει ή τελειώνει με ένα ή παραπάνω κενά. Πολλοί διακομιστές δεν υποστηρίζουν κωδικούς με κενά."</string>
   <string name="account_security_dialog_content_fmt">%s απαιτεί να αναβαθμίσετε τις ρυθμίσεις ασφαλείας σας.</string>
   <string name="account_security_dialog_title">Αναβάθμιση ασφαλείας</string>
   <string name="account_security_policy_explanation_fmt">Ο διακομιστής %s απαιτεί να του επιτρέψετε να ελέγξει απομακρυσμένα μερικές δυνατότητες ασφαλείας για την συσκευή σας.</string>
@@ -292,7 +291,6 @@
     <string name="click_download_all_content">[ Πατήστε για λήψη περιεχομένου ]</string>
   <string name="colon">:</string>
   <string name="compose">Σύνθεση</string>
-    <string name="compose_help_context">δημιουργία</string>
   <string name="compose_send">Αποστολή</string>
   <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
   <string name="confirm">Επιβεβαίωση</string>
@@ -500,15 +498,6 @@
   <string name="mailbox_name_display_trash">Σκουπίδια</string>
   <string name="mailbox_name_display_unread">Αδιάβαστα</string>
   <string name="mailbox_settings_activity_title">Επιλογές συγχρονισμού</string>
-    <string name="mailbox_name_server_all_unread">Αδιάβαστα</string>
-    <string name="mailbox_name_server_drafts">Πρόχειρα</string>
-    <string name="mailbox_name_server_inbox">Εισερχόμενα</string>
-    <string name="mailbox_name_server_junk">Ανεπιθύμητα</string>
-    <string name="mailbox_name_server_outbox">Εξερχόμενα</string>
-    <string name="mailbox_name_server_sent">Απεσταλμένα</string>
-    <string name="mailbox_name_server_starred">Με αστέρι</string>
-    <string name="mailbox_name_server_trash">Σκουπίδια</string>
-    <string name="mailbox_settings_activity_title">Επιλ.συγχρονισμού.</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Επιλογές συγχρονισμού (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Μέρες για συγχρονισμού email</string>
   <string name="mailbox_settings_sync_enabled_label">Συγχρονισμός του φακέλου</string>
@@ -636,7 +625,6 @@
   <string name="outbox_alert_mailbox_not_found">Δεν βρέθηκε η διεύθυνση email</string>
   <string name="outbox_alert_title_sent_failed">Αποτυχία αποστολής e-mail</string>
     <string name="outbox_alert_select_operation">Επιλέξτε μία ενέργεια</string>
-    <string name="outbox_alert_title_sent_failed">"Αδυναμία αποστολής mail"</string>
   <string name="outbox_no_mails">Άδειο</string>
   <string name="parase_setup_data">Λήψη δεδομένων ρύθμισης…</string>
   <string name="password_changed_prompt">"Αδύνατη σύνδεση."</string>
@@ -695,10 +683,8 @@
   <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
   <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
   <string name="pop3_name">POP3</string>
-    <string name="prefDefault_autoAdvance">Λίστα</string>
   <string name="prefDialogTitle_conversationListIcon">Εικόνα αποστολέα</string>
   <string name="prefDialogTitle_removal_action">Αρχείο &amp; διαγραφή δράσεων</string>
-  <string name="preference_removal_action_title">Αρχείο &amp; διαγραφή δράσεων</string>
     <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή E-mail, please κάντε ενεργοποίηση.</string>
     <string name="preference_head_load_description">Λήψη μόνο μηνυμάτων κατά την χρήση δεδομένων κινητής.</string>
     <string name="preference_head_load_title">Μείωση χρήσης δεδομένων</string>
@@ -758,14 +744,9 @@
   <string name="reply_all">Απάντηση όλων</string>
   <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
   <string name="replyto_heading">"Απάντηση-σε:"</string>
-    <string name="reply_subject_label">Απ:</string>
-    <string name="replyto_heading">"Απάντ.σε: "</string>
   <string name="report">Αναφορά</string>
   <string name="report_phishing">Αναφορά ψευδούς</string>
-    <string name="report_rendering_improvement">Φαίνεται εντάξει</string>
   <string name="report_spam">Αναφορά spam</string>
-    <string name="report_rendering_problem">Φαίνεται άσχημο</string>
-    <string name="report_rendering_problem_desc">Αυτό το μήνυμα φαίνεται άσχημο.</string>
   <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
   <string name="require_manual_sync_message">Είναι απενεργοποιημένος ο συγχρονισμός στο παρασκήνιο όταν βρίσκεστε σε roaming.</string>
   <string name="respond_inline">Απάντηση σε μια γραμμή</string>
@@ -887,7 +868,6 @@
   <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
   <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
   <string name="widget_all_mail">όλα τα μηνύματα</string>
-    <string name="wait_help_context">αναμονή</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Άλλο</string>
   <string name="wrong_password">Λάθος κωδικός!</string>
