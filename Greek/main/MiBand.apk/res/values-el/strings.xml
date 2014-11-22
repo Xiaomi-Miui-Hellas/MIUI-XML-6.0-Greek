@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about">Σχετικά</string>
-  <string name="about_copyright" />
+  <string name="about_copyright"/>
   <string name="accept">Αποδοχή</string>
   <string name="action_exit">Έξοδος</string>
   <string name="action_local_ota">Ενημέρωση SD card</string>
   <string name="action_pop_about">Σχετικά</string>
+    <string name="action_pop_lab">Κέντρο αδυνατίσματος</string>
   <string name="action_pop_my_bracelet">Το MiBand μου</string>
   <string name="action_pop_person_info">Προσωπικές πληροφορίες</string>
   <string name="action_pop_smart_alarms">Έξυπνο ξυπνητήρι</string>
@@ -13,6 +14,7 @@
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Ηλικία</string>
   <string name="ages">χρονών</string>
+    <string name="agree">Συμφωνώ</string>
   <string name="alarm">Ξυπνητήρι</string>
   <string name="alarm_cycle">Κύκλος αφύπνισης</string>
   <string name="alarm_device_not_connect">Παρακαλώ συνδέστε το MiBand, και μετά επεξεργαστείτε τις ρυθμίσεις ξυπνητηριού</string>
@@ -25,9 +27,14 @@
   <string name="apk_download_ok">Ολοκλήρωση λήψης της εφαρμογής MiBand</string>
   <string name="apk_uptodate">Έχετε εγκατεστημένη την τελευταία έκδοση</string>
   <string name="app_exit_press_again">Πατήστε πάλι για έξοδο</string>
-  <string name="app_info_version">"Έκδοση: %1$s προτόκολο: %2$s"</string>
+  <string name="app_info_version">"Έκδοση: %1$s
+Όροι χρήσης: %2$s"</string>
   <string name="app_name">MiBand</string>
   <string name="back">Πίσω</string>
+    <string name="awake_format">, ξυπνήσατε %1$s φορές.</string>
+    <string name="awake_format_1">, ξυπνήσατε 1 φορά.</string>
+    <string name="back">Πίσω</string>
+    <string name="battery">μπαταρία</string>
   <string name="battery_charge_full">Πλήρως φορτισμένο</string>
   <string name="battery_charging">Φορτίζει...</string>
   <string name="battery_low_info">Χαμηλή μπαταρία</string>
@@ -38,12 +45,23 @@
   <string name="bind_new_mili">Σύνδεση νέου MiBand</string>
   <string name="bind_weixin_failed">Αποτυχία σύνδεσης, δοκιμάστε πάλι</string>
   <string name="bind_weixin_now">Δημιουργία QR κωδικού, παρακαλώ περιμένετε...</string>
-  <string name="bind_weixin_qrcode_name">MiBand QR κωδικός</string>
-  <string name="bind_weixin_save">Σώσε στο άλμπουμ：</string>
-  <string name="bind_weixin_succ">Επιτυχής σύνδεση, κάντε χρήση του wechat σας!</string>
+    <string name="bind_qq">Προσθήκη QQ</string>
+    <string name="bind_qq_health">Συγχρ.με το QQ Health</string>
+    <string name="bind_qq_health_tip">"Ο συγχρ.βημάτων και πληροφ. ύπνου στην qq health πλατφόρμα,
+χρειάζεται διαθέσιμο δύκτιο."</string>
+    <string name="bind_qq_health_title">Προσθήκη QQ λογαριασμού</string>
+    <string name="bind_weixin_failed">"Αδυναμία δημιουργίας QR κωδικού"</string>
+    <string name="bind_weixin_new_disable_tips">"Για το μοίρασμα δεδομένων με φίλους,
+προσθέστε το λογαρισμό WeChat Account και μετά ακολουθήστε τον λογαρισμό στην υπηρεσία Mi Band."</string>
+    <string name="bind_weixin_new_now">Συγχρονισμός…</string>
+    <string name="bind_weixin_new_tips">"Προσθέστε το λογαριασμό WeChat,
+και μετά πατήστε την Ακολουθία."</string>
+  <string name="bind_weixin_qrcode_name">QR κωδικός</string>
+  <string name="bind_weixin_save">Σώθηκε στο άλμπουμ,</string>
+  <string name="bind_weixin_succ">Επιτυχής προσθήκη λογαρισμού Wechat</string>
   <string name="bind_weixin_tips_1">Πατήστε Δημιουργία QR κωδικού, για να παραγάγει και να σώσει έναν κωδικό QR στο άλμπουμ.</string>
   <string name="bind_weixin_tips_2">Πατήστε Open Wechat, εισάγετε την σάρωση QR κώδικα και επιλέξτε το Άλμπουμ για να σώσετε τον κωδικό QR</string>
-  <string name="bind_weixin_title">" πατώντας "Σύνδεση με Wechat" θα δημιουργήσει ένα QR κωδικό στο άλμπουμ σας, χρησιμοποιήστε τη σάρωση κωδικού QR στην WeChat για να μπορείτε να συνδεθείτε  "</string>
+  <string name="bind_weixin_title">Προσθήκη λογαριασμού WeChat</string>
   <string name="blue">Μπλέ</string>
   <string name="bluetooth">Bluetooth </string>
   <string name="bmenu_device">Συσκευή</string>
@@ -97,6 +115,8 @@
   <string name="device_not_found_not_knocked">Η συσκευή δεν βρέθηκε, το μπλε led δεν αναβοσβήνει, δοκιμάστε την αναζήτηση και πάλι</string>
   <string name="device_not_response">Το MiBand δεν ανταποκρίνεται, ελέγξτε τα leds</string>
   <string name="disable_debug_log">Ανενεργό ιστορικό Debug</string>
+    <string name="discard">Απόριψη</string>
+    <string name="discard_alarm_change">Απόριψη αλλαγών;</string>
   <string name="distance">Απόσταση</string>
   <string name="donot_bind">Χωρίς σύνδεση</string>
   <string name="download_failed">Αποτυχία λήψης της αναβάθμισης</string>
@@ -166,6 +186,9 @@
   <string name="fw_failed_help_title0">Τι είναι Firmware?</string>
   <string name="fw_failed_help_title1">Γιατί θα πρέπει να αναβαθμίσω το Firmware?</string>
   <string name="fw_failed_help_title2">Αποτυχία αναβάθμισης Firmware?</string>
+    <string name="fw_low_battery_tips">"Η μπαταρία στο Band πρέπει να είναι πάνω από 10% πριν αρχίσει η αναβάθμιση."</string>
+    <string name="fw_low_battery_title">Φορτίστε το band σας τώρα</string>
+    <string name="fw_low_battery_view_help">Βοήθεια</string>
   <string name="fw_upgrade">Αναβάθμιση Firmware</string>
   <string name="fw_upgrade_failed">Αποτυχία αναβάθμισης Firmware</string>
   <string name="fw_upgrade_failed_tips">Λυπούμαστε, η αποτυχία ενημέρωσης του firmware μπορεί να προκαλέσει ορισμένες λειτουργίες να μην δουλεύουν σωστά.</string>
@@ -211,6 +234,87 @@
   <string name="kilogram">χιλιόγραμμα</string>
   <string name="km">χμ</string>
   <string name="left_hand">Αριστερό χέρι</string>
+    <string name="lab_factory_cheat_toast">Μην κλέβετε!</string>
+    <string name="lab_factory_disconnected_reminder">Ειδοποίηση σύνδεσης Bluetooth</string>
+    <string name="lab_factory_disconnected_reminder_disconnect">Συνδέστε το band σας και δοκιμάστε πάλι</string>
+    <string name="lab_factory_disconnected_reminder_tips">Δόνηση του band εάν χαθεί η σύνδεση Bluetooth</string>
+    <string name="lab_factory_exercise_state_paused">Παύση</string>
+    <string name="lab_factory_exercise_state_ready">Έναρξη</string>
+    <string name="lab_factory_exercise_state_stopped">Στοπ</string>
+    <string name="lab_factory_exit_press_again">Αγγίξτε πάλι για έξοδο</string>
+    <string name="lab_factory_internal_test">Ανάλυση και δοκιμές στο Sport mode</string>
+    <string name="lab_factory_item_group_others">Άλλα</string>
+    <string name="lab_factory_item_group_social">Κοινωνικά</string>
+    <string name="lab_factory_item_group_sport">Δραστηριότητες</string>
+    <string name="lab_factory_share_photo">Φωτογραφία</string>
+    <string name="lab_factory_share_photo_menu_camera">Κάμερα</string>
+    <string name="lab_factory_share_photo_menu_gallery">Άλμπουμ</string>
+    <string name="lab_factory_share_photo_menu_title">Επιλογή φωτογραφίας από</string>
+    <string name="lab_factory_sport_accumulate">%d φορές σύνολο</string>
+    <string name="lab_factory_sport_analyser_activity_not_found">"Αδυναμία φόρτωσης του UI"</string>
+    <string name="lab_factory_sport_average_rate_per_minute">Ταχύτητα &lt;b>%d&lt;/b> φορά(εs)/λεπτό</string>
+    <string name="lab_factory_sport_best_record">"Προσωπικά καλύτερο: "</string>
+    <string name="lab_factory_sport_button_restart">Επανεκκίνηση</string>
+    <string name="lab_factory_sport_button_stop">Στοπ</string>
+    <string name="lab_factory_sport_come_on">Συνεχίστε!</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Σχοινάκι</string>
+    <string name="lab_factory_sport_continuous_situp">Επίκυψη</string>
+    <string name="lab_factory_sport_device_preparing">Έτοιμος</string>
+    <string name="lab_factory_sport_finish_desc">Ολοκλήρωση</string>
+    <string name="lab_factory_sport_gb_count">Προσωπικό καλύτερο %d φορές</string>
+    <string name="lab_factory_sport_group_finish_desc">%s ολοκληρώθηκαν.</string>
+    <string name="lab_factory_sport_group_record">"Ρεκόρ γκρουπ: "</string>
+    <string name="lab_factory_sport_group_time_cost" formatted="false">%s ολκληρώθηκε, με διάρκεια %s.</string>
+    <string name="lab_factory_sport_hour">%d ώ</string>
+    <string name="lab_factory_sport_hour_min" formatted="false">%d ώ%d λ</string>
+    <string name="lab_factory_sport_hour_min_sec" formatted="false">%d ώ%d λ%d δ</string>
+    <string name="lab_factory_sport_hour_sec" formatted="false">%d ώ%d δ</string>
+    <string name="lab_factory_sport_min">%d λ</string>
+    <string name="lab_factory_sport_min_sec" formatted="false">%d λ%d δ</string>
+    <string name="lab_factory_sport_monitor_bracelet_offline">"Το Band δεν συνδέθηκε"</string>
+    <string name="lab_factory_sport_monitor_bracelet_offline_notice">Συνδέστε το band before πριν αρχίσετε %s.</string>
+    <string name="lab_factory_sport_monitor_cancelled_notice">Ο αισθητήρας θα παρακολουθεί %s αυτόματα.</string>
+    <string name="lab_factory_sport_monitor_timeout_notice">Δεν ανιχνεύτηκε δραστηριότητα.</string>
+    <string name="lab_factory_sport_more_sport_favorite_notice">"Δεν μπορείτε να επιλέξετε πάνω από ένα"</string>
+    <string name="lab_factory_sport_more_sport_favorite_vote">Ψηφίστε για περισότερα σπορ</string>
+    <string name="lab_factory_sport_pb_count">Προσωπικά καλύτερο &lt;b>%d&lt;/b></string>
+    <string name="lab_factory_sport_pb_desc">Προσωπικά καλύτερο: %s</string>
+    <string name="lab_factory_sport_pb_ropeskipping">Σχοινάκι</string>
+    <string name="lab_factory_sport_pb_situp">Επικύψεις</string>
+    <string name="lab_factory_sport_result_cost_cal">Κόστος %d Kcal</string>
+    <string name="lab_factory_sport_result_dot">", "</string>
+    <string name="lab_factory_sport_sec">%d δ</string>
+    <string name="lab_factory_sport_share_info_accumulated_time">Σύνολο</string>
+    <string name="lab_factory_sport_share_info_accumulated_time_once">Σύνολο</string>
+    <string name="lab_factory_sport_share_info_current_accumulation">Συσσώρευση</string>
+    <string name="lab_factory_sport_share_info_group_record">Ρεκόρ του Γκρουπ</string>
+    <string name="lab_factory_sport_share_info_history_best_record">"Καλύτερο ρεκόρ: "</string>
+    <string name="lab_factory_sport_share_info_new_record">Νέο ρεκόρ</string>
+    <string name="lab_factory_sport_steps_converted">για %d βήματα</string>
+    <string name="lab_factory_sport_timeout">Δεν ανιχνεύτηκε δραστηριότητα.</string>
+    <string name="lab_factory_sport_type_badminton">Badminton</string>
+    <string name="lab_factory_sport_type_basketball">Μπάσκετ</string>
+    <string name="lab_factory_sport_type_climbing">Αναρίχηση</string>
+    <string name="lab_factory_sport_type_football">Ποδόσφαιρο</string>
+    <string name="lab_factory_sport_type_others">Άλλα</string>
+    <string name="lab_factory_sport_type_pingpong">Πινγκ Πονγκ</string>
+    <string name="lab_factory_sport_type_riding">Ιππασία</string>
+    <string name="lab_factory_sport_type_ropeskipping">Σχοινάκι</string>
+    <string name="lab_factory_sport_type_running">Τρέξιμο</string>
+    <string name="lab_factory_sport_type_situp">Sit-up</string>
+    <string name="lab_factory_sport_type_skidding">Πατίνια</string>
+    <string name="lab_factory_sport_type_sliding">Σκέιτμπορντ</string>
+    <string name="lab_factory_sport_type_swimming">Κολύμπι</string>
+    <string name="lab_factory_sport_type_tennis">Τέννις</string>
+    <string name="lab_factory_sport_type_volleyball">Βόλλευ</string>
+    <string name="lab_factory_sport_unit">φορές</string>
+    <string name="lab_factory_sport_vote_desc">Ψηφίστε το αγαπημένο σας σπορ</string>
+    <string name="lab_factory_sport_vote_others_hint">Εισάγετε το αγαπημένο σας σπορ</string>
+    <string name="lab_factory_sport_vote_result_desc">Ευχαριστούμε για την ψήφο</string>
+    <string name="lab_factory_sport_vote_result_sub_desc">Ψηφίσατε για</string>
+    <string name="lab_factory_sport_vote_sub_desc">Έρχονται σύντομα</string>
+    <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130>%1$s&lt;/font></string>
+    <string name="lab_factory_title">Κέντρο αδυνατίσματος</string>
   <string name="light_color">Χρώμα LED</string>
   <string name="light_color_title">Χρώμα φωτισμού LED</string>
   <string name="local_app_failed">Αποτυχία εύρεσης αναβάθμισης στους χώρους αποθήκευσης</string>
@@ -219,6 +323,10 @@
   <string name="login_failed_check_sys_time">Η σύνδεση απέτυχε, παρακαλούμε ελέγξτε τις ρυθμίσεις της ζώνης ώρας του δικτύου σας</string>
   <string name="logining">Είσοδος...</string>
   <string name="look_device_list">Προβολή γειτονικών MiBands</string>
+    <string name="main_ui_share_tips">"Εργαστήκατε για %1$s%2$s σήμερα.
+%3$s"</string>
+    <string name="main_ui_sleep_share_tips">"Ελαφρύς ύπνος: %1$s%2$s
+Κοιμηθήκατε στις %3$s | Ξυπνήσατε στις %4$s"</string>
   <string name="male">Άνδρας</string>
   <string name="marathon_format_0">%1$s είναι όμοιο με ένα πλήρη μαραθώνιο</string>
   <string name="marathon_format_1">Περισσότερο από %1$s number ολοκληρωμένων μαραθωνίων</string>
@@ -235,7 +343,7 @@
   <string name="mili_unbind_question">Μετά την αποσύνδεση το τηλέφωνο δεν θα μπορεί να αντλήσει πληροφορίες από το MiBand</string>
   <string name="mili_unbind_question_content">Μετά την αποσύνδεση μπορείτε να χρησιμοποιήσετε ένα άλλο τηλέφωνο για να συνδεθείτε στο MiBand ή να το αντικαταστήσετε με άλλο.</string>
   <string name="mili_unbind_question_content_1">Εάν έχετε ήδη ρυθμίσει το MiBand να ξεκλειδώσετε το τηλέφωνο, η αποσύνδεση θα αποτρέψει αυτή τη λειτουργία</string>
-  <string name="minute" />
+  <string name="minute"/>
   <string name="modify_gender">Φύλλο</string>
   <string name="modify_height">Ύψος</string>
   <string name="modify_nickname">Ενημέρωση ψευδώνιμου</string>
@@ -262,6 +370,17 @@
   <string name="noti_bracelet_low_battery_content_none">Το MiBand πρέπει να συνδεθεί σε φορτιστή</string>
   <string name="noti_bracelet_low_battery_title">Χαμηλή μπαταρία του MiBand</string>
   <string name="noti_bracelet_low_battery_title_none">Χαμηλή μπαταρία του MiBand</string>
+    <string name="notify_status_motor">"Δόνηση: "</string>
+    <string name="notify_status_motor_alarm">Ξυπνητήρι.</string>
+    <string name="notify_status_motor_auth">Βρέθηκε Band.</string>
+    <string name="notify_status_motor_auth_success">Σύζευξη με Band.</string>
+    <string name="notify_status_motor_call">Εισερχόμενη κλήση.</string>
+    <string name="notify_status_motor_disconnect">Αποσύνδεση Bluetooth.</string>
+    <string name="notify_status_motor_goal">Ολοκλήρωση στόχου!</string>
+    <string name="notify_status_motor_notify">Αναζήτηση για band.</string>
+    <string name="notify_status_motor_shut_down">Σβήσιμο του band.</string>
+    <string name="notify_status_motor_smart_alarm">Πρωϊνό ξύπνημα.</string>
+    <string name="notify_status_motor_test">Δοκιμή.</string>
   <string name="odo">Συνολικά μίλια</string>
   <string name="one_min">Πριν ένα λεπτό</string>
   <string name="one_week">Μία εβδομάδα</string>
@@ -288,6 +407,7 @@
   <string name="remain_days_today_format">Λιγότερο από μία ημέρα από την τελευτάια φόρτιση</string>
   <string name="rename_mili">Μετονομασία MiBand</string>
   <string name="reset_mili">Επαναφορά MiBand</string>
+    <string name="restart_bluetooth_tips">Επανεκκίνηση του Bluetooth τώρα.</string>
   <string name="retry">Επανάληψη</string>
   <string name="right_hand">Δεξί χέρι</string>
   <string name="runed">Ran</string>
@@ -326,7 +446,7 @@
   <string name="share_continue_goal_format">"Σύνολο περίπατου %1$s βήματα, μέσος όρος περίπατου %2$s βήματα ανά ημέρα %3$s%4$s"</string>
   <string name="share_goal_tips_fail">Η κοινή χρήση δεν είναι επιτυχής, παρακαλούμε συμπληρώστε τα πρώτα βήματα</string>
   <string name="share_goal_tips_succ">"Δεν έχει σημασία πόσο μεγάλος είναι ο στόχος, μπορείτε να τον ολοκληρώσετε βήμα με βήμα"</string>
-  <string name="share_miliao_too_old">MiTalk version is too old.</string>
+  <string name="share_miliao_too_old">Η έκδσοη του MiTalk είναι παλιά.</string>
   <string name="share_play_ground_format">Είναι σας να τρέχετε σε ένα γήπεδο %1$s γύρους</string>
   <string name="share_sleep_description">"Βαθύς ύπνος %1$s ώρες %2$s λεπτά, ελαφρύς ύπνος %3$s ώρες %4$s λεπτά, κοιμηθήκατε στις %5$s, ξυπνησταε στις %6$s"</string>
   <string name="share_sleep_description_average">"Μέσος όρος βαθύ ύπνου %1$s ώρες %2$s λεπτά, μέσος όρος ελαφρύ ύπνου %3$s ώρες %4$s λεπτά, μέσος όρος ύπνου %5$s, μέσος όρος αφύπνισης %6$s"</string>
@@ -353,6 +473,7 @@
   <string name="share_to_title">Xiaomi MiBand</string>
   <string name="share_to_topic">\#Mi Band#</string>
   <string name="share_uninstall_client">Δεν εγκαταστάθηκε η εφαρμογή, αδυναμία μοιράσματος</string>
+    <string name="signal_strength">Ένταση σήματος: </string>
   <string name="smart_alarm_clock">Έξυπνο ξυπνητήρι</string>
   <string name="smart_alarm_notify">Έξυπνη αφύπνιση</string>
   <string name="smart_wake_up">Έξυπνη αφύπνιση</string>
@@ -364,6 +485,28 @@
   <string name="start_weixin_not_installed">Έναρξη Wechat (δεν εγκαταστάθηκε)</string>
   <string name="stat_sleep">Στατιστικά ύπνου</string>
   <string name="stat_sleep_achievement">Εξέλιξη ύπνου</string>
+    <string name="sport_ranking_desc_poor">Every %s user can beat you, come on!</string>
+    <string name="sport_running_distance_detail">%s Kilometers</string>
+    <string name="sport_running_gps_cancel">Cancel</string>
+    <string name="sport_running_gps_turnon">Turn on</string>
+    <string name="sport_running_helper">Running helper</string>
+    <string name="sport_running_helper_test">Running helper test</string>
+    <string name="sport_running_history">History</string>
+    <string name="sport_running_no_gps">GPS should be turned on to record your trace. Turn on?</string>
+    <string name="sport_running_pace">Pace</string>
+    <string name="sport_running_pace_detail">%s/KM</string>
+    <string name="sport_running_set_dist">Distance reminder</string>
+    <string name="sport_running_set_goal">Goal reminder</string>
+    <string name="sport_running_set_speed">Speed reminder</string>
+    <string name="sport_running_settings">Settings</string>
+    <string name="sport_running_slider_prompt">>>>Slide right to unlock</string>
+    <string name="sport_running_speed">Speed</string>
+    <string name="sport_running_speed_detail">%dKM/H</string>
+    <string name="sport_running_start">Start</string>
+    <string name="sport_running_time_desc">Time cost</string>
+    <string name="sport_share">Share now</string>
+    <string name="start_weixin">Open WeChat</string>
+    <string name="start_weixin_not_installed">WeChat (not installed)</string>
   <string name="stat_sleep_average">Μέσος όρος ημερήσιου ύπνου</string>
   <string name="stat_sleep_deep">Στατιτικά βαθύ ύπνου</string>
   <string name="stat_sleep_deep_average">Ημερήσιος βαθύς ύπνος</string>
@@ -380,11 +523,13 @@
   <string name="stat_step_average">Μέσος όρος βημάτων</string>
   <string name="stat_step_calorie_average">Μέσος όρος θερμίδων</string>
   <string name="stat_step_calorie_daily">Ηεμρήσιες θερμίδες</string>
+    <string name="stat_step_daily">Ημερήσια βήματα</string>
   <string name="stat_step_calorie_total">Συνολικές θερμίδες</string>
   <string name="stat_step_daily">Αριθμός ημερησίων βημάτων</string>
   <string name="stat_step_distance_average">Μέσος όρος απόστασης</string>
   <string name="stat_step_distance_daily">Ημερήσια απόσταση</string>
   <string name="stat_step_distance_total">Συνολικά μίλια</string>
+    <string name="stat_step_piece">Βήματα</string>
   <string name="stat_step_run">Όταν τρέχω</string>
   <string name="stat_step_run_average">Μέσος όρος τρεξίματος</string>
   <string name="stat_step_run_total">Συνολικό τρέξιμο</string>
@@ -448,16 +593,32 @@
   <string name="until">Εώς </string>
   <string name="upgrade">Αναβάθμιση</string>
   <string name="upgrade_tip">Ανανέωση οδηγιών</string>
-  <string name="user_agreement">Συμφωνία χρήστη και Πολιτική Απορρήτου</string>
+  <string name="user_agreement">Συμφωνία χρήσης και Πολιτική Απορρήτου</string>
   <string name="visit_micom">Επίσκεψη επίσημης σελίδας</string>
+    <string name="user_agreement_prefix">"Για την χρήση αυτού του προϊόντος, πρέπει να συμφωνήσετε με 
+"</string>
+    <string name="vibrate_notify">Κατάσταση δόνησης</string>
+    <string name="vibrate_notify_tips">Προβολή πληροφοριών δόνησης στη μπάρα</string>
+    <string name="visit_micom">Επίσκεψη σελίδας</string>
   <string name="wait">Παρακαλώ περιμένετε...</string>
   <string name="walked">Περπατίσατε</string>
   <string name="wear_hand">Σε ποιό χέρι</string>
-  <string name="weared_days">Ειδοποίηση για μερικές ημέρες</string>
   <string name="week">Εβδομάδα</string>
-  <string name="welcom_back">Καλοσωρίσατε πάλι</string>
+    <string name="weared_days">Σύνολο ημερών</string>
+    <string name="weather_aqi">" | Ποιότητα αέρα: %s"</string>
+    <string name="weather_description_cloudy">Συννεφιά</string>
+    <string name="weather_description_fine">Λιακάδα</string>
+    <string name="weather_description_fog">Ομίχλη</string>
+    <string name="weather_description_haze">Ομιχλώδης</string>
+    <string name="weather_description_overcast">Νεφελώδης</string>
+    <string name="weather_description_rain">Βροχή</string>
+    <string name="weather_description_rain_snow">Χιονόνερο</string>
+    <string name="weather_description_sand">Αμμοθύελα</string>
+    <string name="weather_description_snow">Χιόνι</string>
+	<string name="welcom_back">Καλοσωρίσατε πάλι</string>
   <string name="welcome">Καλοσωρίσατε</string>
   <string name="year">Χρονιά</string>
+    <string name="wrong_system_time">"Η ώρα του συστήματος είναι λάθος."</string>
   <string name="your_gender">Το φύλο σας</string>
   <string name="your_height">Ύψος</string>
   <string name="your_weight">Βάρος</string>

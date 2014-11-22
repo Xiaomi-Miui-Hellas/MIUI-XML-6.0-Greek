@@ -38,6 +38,7 @@
   <string name="confirm_change_to_expert_mode_message">Αλλαγή σε επαγγελματική χρήση;</string>
   <string name="confirm_change_to_simple_mode_message">Αλλαγή σε απλή λειτουργία;</string>
   <string name="confirm_location_message">Αποθήκευση θέσης GPS στις φωτογραφίες;</string>
+  <string name="confirm_location_title">Πληροφορίες Θέσης</string>
   <string name="confirm_restore_message">Οι ρυθμίσεις της κάμερας επαναφέρονται στις προεπιλεγμένες.</string>
   <string name="confirm_restore_title">Επαναφορά προεπιλογών</string>
   <string name="connect_wifi">Συνδεθείτε με Wi-Fi δίκτυο</string>
