@@ -33,7 +33,6 @@
   <string name="back">Πίσω</string>
     <string name="awake_format">, ξυπνήσατε %1$s φορές.</string>
     <string name="awake_format_1">, ξυπνήσατε 1 φορά.</string>
-    <string name="back">Πίσω</string>
     <string name="battery">μπαταρία</string>
   <string name="battery_charge_full">Πλήρως φορτισμένο</string>
   <string name="battery_charging">Φορτίζει...</string>
@@ -50,7 +49,6 @@
     <string name="bind_qq_health_tip">"Ο συγχρ.βημάτων και πληροφ. ύπνου στην qq health πλατφόρμα,
 χρειάζεται διαθέσιμο δύκτιο."</string>
     <string name="bind_qq_health_title">Προσθήκη QQ λογαριασμού</string>
-    <string name="bind_weixin_failed">"Αδυναμία δημιουργίας QR κωδικού"</string>
     <string name="bind_weixin_new_disable_tips">"Για το μοίρασμα δεδομένων με φίλους,
 προσθέστε το λογαρισμό WeChat Account και μετά ακολουθήστε τον λογαρισμό στην υπηρεσία Mi Band."</string>
     <string name="bind_weixin_new_now">Συγχρονισμός…</string>
@@ -505,8 +503,6 @@
     <string name="sport_running_start">Start</string>
     <string name="sport_running_time_desc">Time cost</string>
     <string name="sport_share">Share now</string>
-    <string name="start_weixin">Open WeChat</string>
-    <string name="start_weixin_not_installed">WeChat (not installed)</string>
   <string name="stat_sleep_average">Μέσος όρος ημερήσιου ύπνου</string>
   <string name="stat_sleep_deep">Στατιτικά βαθύ ύπνου</string>
   <string name="stat_sleep_deep_average">Ημερήσιος βαθύς ύπνος</string>
@@ -525,7 +521,6 @@
   <string name="stat_step_calorie_daily">Ηεμρήσιες θερμίδες</string>
     <string name="stat_step_daily">Ημερήσια βήματα</string>
   <string name="stat_step_calorie_total">Συνολικές θερμίδες</string>
-  <string name="stat_step_daily">Αριθμός ημερησίων βημάτων</string>
   <string name="stat_step_distance_average">Μέσος όρος απόστασης</string>
   <string name="stat_step_distance_daily">Ημερήσια απόσταση</string>
   <string name="stat_step_distance_total">Συνολικά μίλια</string>
@@ -594,7 +589,6 @@
   <string name="upgrade">Αναβάθμιση</string>
   <string name="upgrade_tip">Ανανέωση οδηγιών</string>
   <string name="user_agreement">Συμφωνία χρήσης και Πολιτική Απορρήτου</string>
-  <string name="visit_micom">Επίσκεψη επίσημης σελίδας</string>
     <string name="user_agreement_prefix">"Για την χρήση αυτού του προϊόντος, πρέπει να συμφωνήσετε με 
 "</string>
     <string name="vibrate_notify">Κατάσταση δόνησης</string>
