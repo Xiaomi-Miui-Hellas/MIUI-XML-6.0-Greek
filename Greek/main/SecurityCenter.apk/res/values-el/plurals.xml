@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="power_center_battery_day">
-      <item quantity="other">%d ημέρες </item>
-      <item quantity="one">%d ημέρα </item>
-  </plurals>
-  <plurals name="power_center_battery_hour">
-      <item quantity="other">%d ω </item>
-      <item quantity="one">%d ω </item>
-  </plurals>
-  <plurals name="power_center_battery_minute">
-      <item quantity="other">%d λεπ </item>
-      <item quantity="one">%d λεπ </item>
-  </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ημέρες "</item>
+        <item quantity="one">"%d ημέρα "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ω "</item>
+        <item quantity="one">"%d ω "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d λεπ "</item>
+        <item quantity="one">"%d λεπ "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d εφαρμογές μπορούν να εκκινούν αυτόματα</item>
+        <item quantity="one">%d εφαρμογή μπορεί να εκκινεί αυτόματα</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d εφαρμογές δεν επιτρέπεται να εκκινούν αυτόματα</item>
+        <item quantity="one">%d εφαρμογή δεν επιτρέπεται να εκκινεί αυτόματα</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d δικαιώματα</item>
+        <item quantity="one">%d δικαίωμα</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d εφαρμογές έχουν πρόσβαση root</item>
+        <item quantity="one">%d εφαρμογή έχει πρόσβαση root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d εφαρμογές δεν έχουν πρόσβαση root</item>
+        <item quantity="one">%d εφαρμογή δεν έχει πρόσβαση root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Διαθέσιμες ενημερώσεις για %d εφαρμογές.</item>
+        <item quantity="one">Διαθέσιμη ενημέρωση για %d εφαρμογή.</item>
+    </plurals>
 </resources>
