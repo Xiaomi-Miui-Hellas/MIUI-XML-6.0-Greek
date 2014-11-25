@@ -80,7 +80,6 @@
     <string name="pref_camera_flashmode_entry_off">Ανενεργό</string>
     <string name="pref_camera_flashmode_entry_torch">Φακός</string>
     <string name="pref_camera_whitebalance_title">Ισορ.λευκού</string>
-    <string name="pref_camera_whitebalance_k_value_title">Ισορροπία λευκού τιμή K</string>
     <string name="pref_camera_whitebalance_entry_auto">Αυτόματο</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Πυρακτώσεως</string>
     <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
@@ -231,7 +230,6 @@
     <string name="error_app_unsupported">Μη υποστηριζόμενη ανάλυση βίντεο από αυτόν τον τύπο κωδικοποιητή.</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_hand_night_title">HHT</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Ανενεργό</string>
     <string name="hdr_exit_button_text">Έξοδος από λειτουργία HDR</string>
     <string name="raw_data_exit_button_text">Έξοδος από το RAW</string>
     <string name="hand_night_exit_button_text">Έξοδος από νυχτερινή λειτουργία</string>
