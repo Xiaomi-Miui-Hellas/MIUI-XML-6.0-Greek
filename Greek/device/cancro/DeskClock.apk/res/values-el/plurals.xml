@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">Ένα δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+</resources>
