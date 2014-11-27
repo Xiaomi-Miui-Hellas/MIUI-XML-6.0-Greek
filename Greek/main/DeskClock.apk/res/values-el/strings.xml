@@ -8,7 +8,7 @@
     <string name="worldclock_title">Ρολόι</string>
     <string name="stopwatch_title">Χρονόμετρο</string>
     <string name="timer_title">Αντ.μέτρηση</string>
-    <string name="menu_add_worldclock">Προσθήκη ρολογιού</string>
+    <string name="menu_add_worldclock">Προσθήκη</string>
     <string name="menu_edit_timer_item">Αλλαγή χρονόμετρου</string>
     <string name="delete_timer_item_title">Διαγραφή χρονόμετρου</string>
     <string name="delete_selected_timer_item">Διαγραφή επιλεγμένου χρονόμετρου?</string>
@@ -52,7 +52,7 @@
     <string name="system_time_setting">Ρυθμίσεις</string>
     <string name="lap_num">Γύρος</string>
     <string name="hour_unit">ω</string>
-    <string name="alarm_label_hint">Όνομα ξυπνητηριού</string>
+    <string name="alarm_label_hint">Ξυπνητήρι</string>
     <string name="legal_workday">Εργάσιμες ημέρες</string>
     <string name="legal_workday_invalidate">Έληξε (Ξυπνητήρι από Δευτέρα έως Παρασκευή)</string>
     <string name="legal_workday_invalidate_message">(Έληξε. Τροποποιήστε τις ρυθμίσεις)</string>
@@ -67,11 +67,11 @@
     <string name="elapsed_time_format">(+ %s )</string>
     <string name="app_label">Ρολόι</string>
     <string name="alarm_list_title">Ξυπνητήρι</string>
-    <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
+    <string name="add_alarm">Προσθήκη</string>
     <string name="menu_desk_clock">Επιτραπέζιο ρολόι</string>
     <string name="delete_alarm">Διαγραφή αφύπνισης</string>
     <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης?</string>
-    <string name="label">Ετικέτα</string>
+    <string name="label">Όνομα</string>
     <string name="default_label">Αφύπνιση</string>
     <string name="set_alarm">Ρυθμίστε το ξυπνητήρι</string>
     <string name="alarm_vibrate">Δόνηση</string>
