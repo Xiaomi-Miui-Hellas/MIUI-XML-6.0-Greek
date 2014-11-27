@@ -2,7 +2,7 @@
 <resources>
     <style name="TabViewStyle" parent="@miui:style/Widget.ActionBar.TabText">
         <item name="android:textSize">12.0sp</item>
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">#ffffffff</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_gravity">top</item>
         <item name="android:paddingLeft">6.0dip</item>
