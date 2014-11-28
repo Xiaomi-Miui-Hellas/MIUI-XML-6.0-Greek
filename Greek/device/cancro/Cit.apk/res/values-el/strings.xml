@@ -236,6 +236,8 @@
     <string name="cit_gps_satellite_count">Δορυφόροι GPS: %d</string>
     <string name="cit_gps_satellite_prn">PRN: %s</string>
     <string name="cit_gps_satellite_snr">SNR: %s</string>
+    <string name="cit_gps_first_fix_time">Κλείδωσε σε: %s</string>
+    <string name="cit_gps_location">Τοποθεσία: %s</string>
     <string name="cit_lcdlight_brightness">Οπίσθιος Φωτισμός</string>
     <string name="cit_lcdlight_brightness_max">Μεγ.</string>
     <string name="cit_lcdlight_brightness_min">Ελάχ.</string>
