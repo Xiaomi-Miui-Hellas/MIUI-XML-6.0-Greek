@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Υπηρεσία Locator (AutoNavi)</string>
-    <string name="location_warning_title">Συγκατάθεση τοποθεσίας</string>
-    <string name="location_warning_message">Αφήστε τις υπηρεσίες τοποθεσίας AutoNavi να συλλέγει ανώνυμα ενοικίασης δεδομένων. Θα αποθηκεύονται δεδομένα στη συσκευή σας, και η συλλογή μπορεί να προκύψει ακόμα και όταν δεν υπάρχουν εφαρμογές που εκτελούνται. Ισχύουν τέλη χρήσης των δεδομένων κατά τη διάρκεια αυτής της διαδικασίας.</string>
-    <string name="agree">Συμφωνώ</string>
-    <string name="disagree">Διαφωνώ</string>
-</resources>
