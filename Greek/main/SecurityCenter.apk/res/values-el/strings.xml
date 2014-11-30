@@ -542,8 +542,8 @@
     <string name="dialog_msg_auto_start_declare">Ορισμένες εφαρμογές ασφαλείας μπορεί λανθασμένα να αναφέρουν ότι το MIUI εμποδίζει τη έναρξή τους. Για να ελέγξετε τα δικαιώματα που χορηγούνται σε εφαρμογές, μεταβείτε στις Ρυθμίσεις> Εφαρμογές.</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Καμία αίτηση</string>
-    <string name="permission_group_title_charges_related">Πληρωμένες</string>
-    <string name="permission_group_title_privacy_related">Ιδιωτικές</string>
+    <string name="permission_group_title_charges_related">Χρεώσεις</string>
+    <string name="permission_group_title_privacy_related">Προσωπικά δεδομένα</string>
     <string name="permission_group_title_media_related">Πολυμέσα</string>
     <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
     <string name="permission_group_title_others">Άλλο</string>
@@ -554,11 +554,11 @@
     <string name="empty_title_root_apps">Δεν έχουν root</string>
     <string name="hints_remember_choice">Να μην ερωτηθώ ξανά</string>
     <string name="root_apply_title">Προειδοποίηση</string>
-    <string name="root_apply_step_1">Χορήγηση Root στο %s ?</string>
-    <string name="root_apply_step_2">Μια εφαρμογή με δικαίωμα root μπορεί να κάνει το σύστημα ασταθές</string>
-    <string name="root_apply_step_3">Τα δεδομένα σας είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές με πρόσβαση root</string>
-    <string name="root_apply_step_4">Η χορήγηση του δικαιώματος root για την εφαρμογή είναι με δική σας ευθύνη</string>
-    <string name="root_apply_step_5">Χορήγησε το δικαίωμα root στο %s ?</string>
+    <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ?</string>
+    <string name="root_apply_step_2">Μια εφαρμογή με πρόσβαση root μπορεί να κάνει το σύστημα ασταθές</string>
+    <string name="root_apply_step_3">Τα δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές με πρόσβαση root</string>
+    <string name="root_apply_step_4">Η χορήγηση του δικαιώματος root για την εφαρμογή γίνεται με δική σας ευθύνη</string>
+    <string name="root_apply_step_5">Χορήγηση πρόσβασης root στο %s ?</string>
     <string name="button_text_accept">Εξουσιοδότηση</string>
     <string name="button_text_accept_timer">Επιτρέψτε ( %d )</string>
     <string name="button_text_reject">Απόρριψη</string>
@@ -655,4 +655,9 @@
     <string name="toast_virus_cloudscan">Η σάρωση Ιών θα χρησιμοποιήσει την online βάση ορισμών</string>
     <string name="toast_cleaner_cloudscan">Το Cleaner θα χρησιμοποιήσει την online βάση ορισμών</string>
     <string name="toast_garbage_lib">Ενεργοποίηση αυτόματων ενημερώσεων για Cleaner</string>
+    <string name="info_and_call">Κλήσεις και μηνύματα</string>
+    <string name="SMS_and_MMS">SMS και MMS</string>
+    <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>
+    <string name="call_and_contact">Κλήσεις και Επαφές</string>
+    <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
 </resources>
