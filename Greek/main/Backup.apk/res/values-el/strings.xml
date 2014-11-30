@@ -26,7 +26,7 @@
   <string name="backup_empty">Δεν βρέθηκαν αντίγραφα ασφαλείας</string>
   <string name="backup_empty_info">Δημιουργήστε αντίγραφα των δεδομένων, ρυθμίσεων και εφαρμογών σας</string>
   <string name="backup_error">Σφάλμα αντιγράφου</string>
-  <string name="backup_failed">Αποτυχία δημιουργίας</string>
+  <string name="backup_failed">"Αποτυχία δημιουργίας"</string>
   <string name="backup_file_error">Υπήρξε ένα πρόβλημα με το αρχείο η διεργασία δεν είναι σωστή.</string>
   <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
   <string name="backup_hint">Μην απενεργοποιήσετε το τηλέφωνο ίσως χάσετε δεδομένα</string>
@@ -52,7 +52,7 @@
   <string name="cloud_app_name">Αντίγραφα Cloud</string>
   <string name="cloud_backup_hint">Είσοδος για ασφαλή αποθήκευση των αντιγράφων σας</string>
   <string name="cloud_backup_login">Είσοδος χρησιμοποιώντας τον λογαριασμό Mi</string>
-  <string name="cloud_backup_window_title">MiCloud Αντίγραφα</string>
+  <string name="cloud_backup_window_title">Αντίγραφα MiCloud</string>
   <string name="cloud_home_title">MiCloud</string>
   <string name="cloud_item_info_summary">" (Τοπικά : %1$s | Στο Cloud : %2$s)"</string>
   <string name="cloud_last_backup">Τελευταίο αντίγραφο </string>
@@ -72,7 +72,7 @@
   <string name="delete">Διαγραφή</string>
   <string name="delete_backup_process">Διαγραφή αντιγράφου ασφαλείας παρακαλώ περιμένετε </string>
   <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">Αποεπιλογή όλων</string>
   <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
   <string name="disable_encrypt_title">Η κρυπτογράφηση έχει απενεργοποιηθεί</string>
   <string name="enable_encrypt">Ενεργοποίηση τώρα</string>
@@ -83,6 +83,7 @@
   <string name="enable_encrypt_summery2">Το νέο αντίγραφο ασφαλείας θα είναι αυτομάτως κρυπτογραφημένο Θα πρέπει να συνδεθείτε στο λογαριασμό σας Mi κατά την αφαίρεση των δεδομένων ή με τη χρήση άλλων συσκευών για να επαναφέρετε το αντίγραφο ασφαλείας </string>
   <string name="enable_encrypt_title">Η κρυπτογράφηση ενεργοποιήθηκε</string>
   <string name="enable_encrypt_xiaomi_account">Αυτό το αντίγραφο ασφαλείας δημιουργήθηκε από %1$s παρακαλώ διαγράψτε τον τρέχοντα λογαριασμό και να συνδεθείτε στο %2$s, ώστε να επαναφέρετε τα δεδομένα </string>
+  <string name="every_day">Κάθε μέρα</string>
   <string name="exchange_account">Λογαριασμός Exchange</string>
   <string name="fail">Ανεπιτυχής δημιουργία αντιγράφων</string>
   <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
@@ -101,10 +102,11 @@
   <string name="local_select_sysdata">Σύστημα</string>
   <string name="local_select_userapp">Εφαρμογές</string>
   <string name="menu_patch_delete">Διαγραφή όλων</string>
-  <string name="miliao_account_guide">"Ο MiTalk λογαριασμός αναβαθμίστηκε σε λογαριασμό Mi Απολαύστε όλες τις online υπηρεσίες Mi"</string>
+  <string name="miliao_account_guide">"Ο  λογαριασμός MiTalk αναβαθμίστηκε σε λογαριασμό Mi. Απολαύστε όλες τις online υπηρεσίες Mi"</string>
   <string name="miliao_account_login">Είσοδος στο MiTalk</string>
   <string name="mms_title">Μηνύματα πολυμέσων</string>
   <string name="multi_select_title">Επιλέχθηκαν %1$s αντικείμενα</string>
+  <string name="never">Ποτέ</string>
   <string name="no_encrypt_password">Χωρίς κωδικό κρυπτογράφησης</string>
   <string name="no_network">"Σφάλμα δικτύου Παρακαλώ δοκιμάστε τις ρυθμίσεις δικτύου και προσπαθήστε πάλι"</string>
   <string name="note_title">Σημειώσεις</string>
@@ -139,7 +141,7 @@
   <string name="sc_service_unavailable">Η υπηρεσία cloud δεν είναι διαθέσιμη</string>
   <string name="sc_unaccess_password_file">Χωρίς αποθήκευση λεπτομερειών κωδικών Wi-Fi</string>
   <string name="sc_unauthorized">Το πιστοποιητικό δεν είναι έγκυρο</string>
-  <string name="sd_not_available">No SD card detected</string>
+  <string name="sd_not_available">Δεν εντοπίστηκε κάρτα SD</string>
   <string name="sdcard_no_enough_space">Δεν υπάρχει αρκετός χώρος στην κάρτα SD</string>
   <string name="sdcard_no_enough_space_message">Λίγος χώρος στην κάρτα SD το αντίγραφο ίσως να μη δημιουργηθεί θέλετε να συνεχίσετε</string>
   <string name="sdcard_unmounted">Δεν βρέθηκε κάρτα SD!</string>
