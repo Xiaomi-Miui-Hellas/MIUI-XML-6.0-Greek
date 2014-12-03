@@ -1,11 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Αποθήκευση Τηλεφώνου/Μηνυμάτων</string>
-  <string name="default_cateogry_courier">Courier</string>
-  <string name="default_cateogry_fraudulent">Ψεύτικο</string>
-  <string name="default_cateogry_intermediary">Μεσίτης</string>
-  <string name="default_cateogry_meal_delivery">Παράδοση φαγητού</string>
-  <string name="default_cateogry_sales">Πωλήσεις</string>
   <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">Μηνύματα</string>
   <string name="sms_provider_label">SMS</string>

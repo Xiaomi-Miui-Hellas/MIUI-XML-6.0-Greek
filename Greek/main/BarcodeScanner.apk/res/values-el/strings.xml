@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accept">OK</string>
   <string name="add_to_contacts">Προσθήκη στις επαφές</string>
   <string name="address">Διεύθυνση:</string>
   <string name="allow_check_website_security">Βεβαιωθείτε πως οι σελίδες είναι ασφαλείς, πριν από την σύνδεση</string>
   <string name="app_details">Πληροφορίες εφαρμογής:</string>
-  <string name="app_name">Σαρρωτής</string>
+  <string name="app_name">Σαρωτής</string>
   <string name="back">Πίσω</string>
-  <string name="barcode_into_rectangle">Για σάρωση, ευθυγραμίστε τον κωδικό στο παρακάτω παράθυρο</string>
+  <string name="barcode_into_rectangle">Για σάρωση, ευθυγραμμίστε τον κωδικό στο παρακάτω παράθυρο</string>
   <string name="birthday">Γενέθλια:</string>
   <string name="camera_error">"Υπάρχει κάποιο σφάλμα με την κάμερα"</string>
   <string name="cancel">Ακύρωση</string>
   <string name="close_flash_error">"Αδυναμία κλεισίματος του φακού"</string>
-  <string name="cloud_album_details">Λεπτομέριες Cloud άλμπουμ:</string>
+  <string name="cloud_album_details">Λεπτομέρειες Cloud άλμπουμ:</string>
   <string name="company">Εταιρεία:</string>
   <string name="connect_wifi">Σύνδεση σε αυτό το δίκτυο</string>
   <string name="contact_details">Λεπτομέρειες επαφής:</string>
@@ -34,13 +34,14 @@
   <string name="launch_wechat">Εκκίνηση WeChat</string>
   <string name="name">Όνομα:</string>
   <string name="nickname">Ψευδώνυμο:</string>
+  <string name="not_insert_contact">Αδυναμία εισαγωγής επαφής</string>
   <string name="not_recommend_access_web_url">Ασφαλής σύνδεση (δεν προτείνεται)</string>
   <string name="not_tips">"Όχι προβολή πάλι"</string>
   <string name="note">Σημείωση:</string>
   <string name="open_flash_error">"Αποτυχία εκκίνησης φακού"</string>
   <string name="phone">Τηλέφωνο:</string>
   <string name="picker_lable">Φωτογραφία</string>
-  <string name="place_barcode_into_rectangle">Για σάρωση, ευθυγραμίστε τον κωδικό στο παρακάτω παράθυρο</string>
+  <string name="place_barcode_into_rectangle">Για σάρωση, ευθυγραμμίστε τον κωδικό στο παρακάτω παράθυρο</string>
   <string name="qq_details">QQ λεπτομέρειες:</string>
   <string name="qr_code_details">Λεπτομέρειες QR κωδικού:</string>
   <string name="recognize">Ανάγνωση</string>
@@ -53,9 +54,9 @@
   <string name="settings">Ρυθμίσεις</string>
   <string name="success_message_import_from_account">Εισαγόμενα</string>
   <string name="tips_message">"Θα πρέπει να συνδεθείτε στο Internet για να ελέγξετε αν η ιστοσελίδα που είστε έτοιμος να επισκεφτείτε είναι ασφαλής."</string>
-  <string name="tips_title">Internet σύνδεση</string>
+  <string name="tips_title">Σύνδεση Internet</string>
   <string name="title">Τίτλος:</string>
-  <string name="url_is_phish">Γιά αυτή την ιστοσελίδα, υπάρχουν υποψίες του ψαρέματος δεδομένων (yikes!).</string>
+  <string name="url_is_phish">Για αυτή την ιστοσελίδα, υπάρχουν υποψίες του ψαρέματος δεδομένων (yikes!).</string>
   <string name="url_is_safety">Αυτή η σελίδα είναι ασφαλής.</string>
   <string name="url_is_unknown">"Δεν μπορούμε να βεβαιώσουμε πως αυτή η σελίδα είναι ασφαλής. Συνδεθείτε με ευθύνη σας."</string>
   <string name="url_is_unsafety">"Αυτή η ιστοσελίδα αποτελεί κίνδυνο για την ασφάλεια των δεδομένων σας."</string>
@@ -69,8 +70,8 @@
   <string name="wifi_connect_current_connetion">Σύνδεση στο WLAN</string>
   <string name="wifi_connect_fail">"Αδυναμία σύνδεσης στο δίκτυο"</string>
   <string name="wifi_connect_not_found">Δεν ανιχνεύτηκαν δίκτυα WLAN</string>
-  <string name="wifi_connect_success">Συνδεμένο</string>
-  <string name="wifi_connecting">Σύνδεση</string>
+  <string name="wifi_connect_success">Συνδεδεμένο</string>
+  <string name="wifi_connecting">Σύνδεση</string>
   <string name="wifi_details">Λεπτομέρειες WLAN:</string>
   <string name="wifi_open_fail">"Αδυναμία ανοίγματος WLAN"</string>
   <string name="wifi_pwd">Κωδικός:</string>
