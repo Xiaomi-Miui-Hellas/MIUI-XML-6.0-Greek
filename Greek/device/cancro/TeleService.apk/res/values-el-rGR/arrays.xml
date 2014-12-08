@@ -46,9 +46,4 @@
         <item>Κινέζικα</item>
         <item>Εβραϊκά</item>
     </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>πάντα</item>
-        <item>μόνο σε σίγαση</item>
-        <item>ποτέ</item>
-    </string-array>
 </resources>
