@@ -294,5 +294,4 @@
     <string name="call_transfer_block">Αποκλεισμός προωθημένων κλήσεων</string>
     <string name="call_transfer_block_type">Αποκλεισμός προωθημένων κλήσεων</string>
     <string name="call_transfer_info">Αποκλεισμός κλήσεων που προωθούνται από άγνωστους αριθμούς</string>
-    <string name="report">Αναφορά</string>
 </resources>

@@ -143,6 +143,7 @@
     <string name="network_settings_next">Επόμενο</string>
     <string name="network_settings_confirm_message">Δίκτυο ίσως μη διαθέσιμο.</string>
     <string name="network_settings_query_failed_message">Αποτυχία αναζήτησης δικτύου. Πατήστε Ακύρωση για χρήση της προεπιλογής ή ΟΚ για επανάληψη.</string>
+    <string name="retry_btn">Δοκιμάστε ξανά</string>
     <string name="network_settings_information">Πληροφορίες</string>
     <string name="network_settings_duringcall">Η λειτουργία δεν επιτρέπεται κατά την διάρκεια κλήσης</string>
     <string name="network_settings_data_connected_change">Αδύνατη η αλλαγή δικτύου κατά την χρήση δεδομένων. Σταμάτημα χρήσης δεδομένων και αλλαγή παρόχου;</string>
@@ -281,6 +282,7 @@
     <string name="fdn_invalid_number">Ο FDN δεν ενημερώθηκε επειδή ο αριθμός δεν μπορεί να υπερβαίνει τα 20 ψηφία.</string>
     <string name="fdn_contacts_empty">Χωρίς επαφές στη λίστα FDN.</string>
     <string name="simContacts_emptyLoading">Ανάγνωση από την κάρτα SIM…</string>
+    <string name="exportContacts">Εξαγωγή…</string>
     <string name="simContacts_title">Διαχείριση επαφών κάρτας SIM</string>
     <string name="simContacts_airplaneMode">Για να εισαγάγετε επαφές από την κάρτα SIM, απενεργοποιήστε πρώτα τη λειτουργία πτήσης.</string>
     <string name="tty_mode_option_title">Λειτουργία TTY</string>
@@ -643,6 +645,7 @@
     <string name="telocation_confim_delete_title">Διαγραφή μηνύματος?</string>
     <string name="telocation_error_message_number">%s υποστηρίζει μόνο αριθμούς</string>
     <string name="telocation_jituan_error_message_number">%s υποστηρίζει μόνο αριθμούς και χαρακτήρες μπαλαντέρ</string>
+    <string name="call_description_recording">Εγγραφή…</string>
     <string name="call_record_auto_whitelist_no_item">Προσθέστε έναν αριθμό πατώντας το κουμπί Add (+)</string>
     <string name="call_record_auto_whitelist">Λίστα χρηστών</string>
     <string name="call_record_auto_unknown_number">Άγνωστοι αριθμοί</string>
@@ -656,6 +659,7 @@
     <string name="call_recording_notification_title">Η κλήση καταγράφηκε</string>
     <string name="call_recording_notification_title_error">Η ηχογράφηση κλήσης απέτυχε</string>
     <string name="call_recording_setting">Καταγραφή κλήσεων</string>
+    <string name="call_recording_notification_toggle_title">Ειδοποίηση καταγραφής κλήσεων</string>
     <string name="call_recording_notification_summary">Δείτε την κοινοποίηση στη γραμμή κατάστασης όταν η κλήση έχει καταγραφεί</string>
     <string name="call_recording_notification_message_low_storage">Η εγγραφή έχει διακοπεί: Δεν υπάρχει αρκετός χώρος.</string>
     <string name="call_recording_notification_message">Αγγίξτε για να δείτε %s.</string>
@@ -824,6 +828,7 @@
     <string name="uplmn_list_setting_add_plmn">Νέο PLMN</string>
     <string name="gsm_umts_network_preferences_title">Λειτουργία δικτύου</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Λειτουργία δικτύου</string>
+    <string name="uplmn_numeric_is_empty">Εισάγετε ένα αναγνωριστικό δικτύου</string>
     <string name="msim_setting_screen_title">SIM cards και δίκτυα κινητής</string>
     <string name="msim_setting_categery_title">Πληροφορίες SIM</string>
     <string name="msim_general_setting">Ρυθμίσεις</string>
@@ -848,6 +853,7 @@
     <string name="msim_not_set_summary">Δεν ορίστηκε</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο Internet, επιλέξατε ως προτιμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
     <string name="select_voice_call_sim">Επιλογή κάρτας SIM</string>
     <string name="general_setting">Ρυθμίσεις</string>
     <string name="call_record_setting">Ρυθμίσεις εγγραφής κλήσης</string>
