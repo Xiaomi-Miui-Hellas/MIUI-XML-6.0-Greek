@@ -248,7 +248,10 @@
     <string name="barcode_add_account_prompt">Για να προσθέσετε λογαριασμό, σαρώστε τον κωδικό QR και πάλι μετά την σύνδεσή σας.</string>
     <string name="scan_barcode_title">Για να εισέλθετε στον λογαριασμό Mi με ασφάλεια, σαρώστε τον κωδικό QR</string>
     <string name="micloud_sync_info">%d στοιχεία δεν συγχρονίστηκαν</string>
-    <string name="micloud_sync_info_synced">Πλήρης συγχρονισμός</string>
+    <string name="micloud_sync_state_synced">Συγχρονισμένο</string>
+    <string name="micloud_sync_state_syncing">Συγχρονισμός…</string>
+    <string name="micloud_sync_state_stop">Σταματημένο</string>
+    <string name="micloud_sync_state_need_wifi">Χρησιμοποιήστε το WiFi για συγχρονισμό</string>
     <string name="micloud_space_info">%s διαθέσιμα</string>
     <string name="loading_micloud_sync_data">Φόρτωση…</string>
     <string name="sim_index_info">Κάρτα SIM %1$d - %2$s</string>
