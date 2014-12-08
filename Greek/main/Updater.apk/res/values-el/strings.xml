@@ -96,8 +96,19 @@
     <string name="user_intertup_download_title">Παύση λήψης</string>
     <string name="user_intertup_download_msg">Οι λήψεις έχουν διακοπεί. Μπορείτε να αναιρέσετε την παύση κάθε στιγμή στην εφαρμογή Αναβάθμισης.</string>
     <string name="check_update_when_wifi_available_sum">Έλεγχος για ενημερώσεις μόνο όταν είστε συνδεδεμένοι στο WLAN</string>
+    <string name="important_suggestion">Η Πολιτική Προστασίας Προσωπικών Δεδομένων έχει αλλάξει</string>
+    <string name="auto_dialog_msg">"Έχουμε ενημερώσει την Πολιτική Απορρήτου μας. Παρακαλούμε διαβάστε προσεκτικά πριν την ενημέρωση του συστήματός σας. "</string>
+    <string name="auto_button_examine">Προβολή</string>
+    <string name="auto_check_clause_msg">"Θα πρέπει να συμφωνήσετε με την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων για να μπορέσετε να ενημερώσετε το σύστημά σας. "</string>
+    <string name="auto_check_clause_button">Προβολή</string>
+    <string name="auto_agree_clause">"Η ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων μας έχει ήδη τεθεί σε ισχύ. "</string>
+    <string name="auto_dialog_title_check_again">Ακύρωση ενημέρωσης?</string>
+    <string name="auto_dialog_msg_check_again">"Θα πρέπει να συμφωνήσετε με την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων για να μπορέσετε να ενημερώσετε το σύστημά σας. "</string>
+    <string name="auto_button_examine_immediately">Προβολή</string>
+    <string name="auto_button_sure_cancel">ακύρωση</string>
     <string name="auto_update_sum">Αναζητά αυτόματα την καλύτερη στιγμή για να κάνετε λήψη ενημερώσεων</string>
     <string name="updater_nonetwork">Σύνδεση με το δίκτυο για να πάρετε αρχείο καταγραφής</string>
+    <string name="updater_nonetwork_clause">Συνδεθείτε στο Διαδίκτυο για να δείτε την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
     <string name="updater_nolog">Δεν υπάρχει αρχείο καταγραφής</string>
     <string name="notification_load_title_alpha">Σύνδεση στον λογαριασμό Mi</string>
     <string name="notification_load_title_dev">Σύνδεση στον λογαριασμό Mi</string>
@@ -187,5 +198,4 @@
     <string name="submit_success">Δημοσιεύτηκε σωστά</string>
     <string name="submit_fail">Η αποστολή απέτυχε</string>
     <string name="submit">Υποβολή</string>
-    <string name="notification_load_now">Συνδεθείτε τώρα</string>
 </resources>
