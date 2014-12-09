@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="Only_the_wifi">Δυνατό μόνο με WiFi</string>
   <string name="add_flow_fail_haveget_msg">Η δοκιμαστική περίοδος έληξε.</string>
   <string name="add_flow_fail_vip_msg">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
   <string name="add_flow_success_msg">%s προστέθηκαν αυτό το μήνα</string>
-  <string name="Only_the_wifi">Δυνατό μόνο με WiFi</string>
   <string name="all_downloads">Όλες οι λήψεις</string>
   <string name="all_fileter">Όλα</string>
   <string name="all_the_internet">Όλα τα δίκτυα</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s λήψεις</string>
   <string name="app_label">Λήψεις</string>
-  <string name="auth_activity_title">Xunlei Λογαριασμός</string>
+  <string name="auth_activity_title">Λογαριασμός Xunlei</string>
   <string name="bind_xunlei_account">δέσμευση λογαριασμού xunlei &gt;</string>
   <string name="button_sort_by_date">Ταξινόμηση κατά ημερομηνία</string>
   <string name="button_sort_by_size">Ταξινόμηση κατά μέγεθος</string>
@@ -25,6 +25,9 @@
   <string name="deselect_all">Αποεπιλογή Όλων</string>
   <string name="determine">Επιβεβαίωση</string>
   <string name="dialog_cannot_resume">Λήψη σταμάτησε. Αδύνατη η συνέχιση λήψης.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
+  <string name="dialog_confirm_delete_downloads_message">Διαγραφή  %d εργασιών?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών?</string>
   <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων?</string>
   <string name="dialog_file_already_exists">Αδύνατη λήψη. Το αρχείο προορισμού υπάρχει ήδη.</string>
   <string name="dialog_file_missing_body">Αδύνατη η εύρεση του ληφθέντος αρχείου.</string>
@@ -36,10 +39,12 @@
   <string name="dialog_title_not_available">Λήψη Απέτυχε</string>
   <string name="dialog_title_queued_body">Το αρχείο δεν είναι ακόμα διαθέσιμο</string>
   <string name="disable">Απενεργοποίηση</string>
+  <string name="display_expire_netiv1">Αυτό το μήνα</string>
   <string name="doc_filter">DOCUMENT</string>
   <string name="download_complete">Λήφθηκε</string>
   <string name="download_error">Απέτυχε</string>
   <string name="download_error_insufficient_space">Ανεπαρκείς χώρος</string>
+  <string name="download_filesize_unknown">unknown</string>
   <string name="download_in_process">Λαμβάνει</string>
   <string name="download_info_count_deleted_tasks">%s λήψεις αφαιρέθηκαν</string>
   <string name="download_info_start_deleted_tasks">Διαγραφή λήψεων</string>
@@ -48,7 +53,7 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Ολοκλήρωση πληρωμής.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Δημιουργήθηκε δοκιμαστική περίοδος Xunlei</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Απολαύστε καλύτερες ταχύτητες λήψης με την Xunlei</string>
-  <string name="download_list_intoAuth">Μπαίνουω σε σελίδα εξουσιοδότησης MIUI</string>
+  <string name="download_list_intoAuth">Επαλήθευση του λογαριασμού σας</string>
   <string name="download_list_intoAuthAlert">Παρακαλώ περιμένετε</string>
   <string name="download_list_open_xl_cancel">Ακύρωση</string>
   <string name="download_list_open_xl_message">Άνοιγμα της μηχανής λήψης της xunlei, με υψηλές ταχύτητες λήψης άμμεσα。</string>
@@ -125,10 +130,10 @@
   <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λήψεων</string>
   <string name="turn_off_xunlei_tips">Η επιτάχυνση της Xunlei είναι ανενεργή</string>
   <string name="turn_off_xunlei_title">Απενεργοποίηση της μηχανής λήψεων Xunlei</string>
-      <string name="unbind_xunlei_2_success">Προστέθηκε λογαριασμός Xunlei</string>
-    <string name="unbind_xunlei_success">Έξοδος από το λογαριασμό Xunlei</string>
+  <string name="unbind_xunlei_2_success">Προστέθηκε λογαριασμός Xunlei</string>
+  <string name="unbind_xunlei_success">Έξοδος από το λογαριασμό Xunlei</string>
   <string name="valid_in_this_month">Ισχύει μόνο αυτό το μήνα</string>
-  <string name="vip_auto_speedup">Μέλος της Xunlei για άμμεση επιτάχυνση</string>
+  <string name="vip_auto_speedup">Μέλος της Xunlei για άμεση επιτάχυνση</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_gaosu">Xunlei υπηρεσία επιτάχυνσης</string>
