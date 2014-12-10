@@ -222,8 +222,8 @@
     <string name="cit_OTG_waiting_out">Αποσυνδέστε τη συσκευή USB OTG τώρα.</string>
     <string name="cit_usb_OTG_out">Η συσκευή USB OTG αφαιρέθηκε.</string>
     <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει την δοκιμή OTG.</string>
-    <string name="cit_sd_mp3_not_existed">"Δεν υπάρχει αρχείο στην κάρτα SD που να ονομάζεται \"music.mp3\",
-προσθέστε τΑφού τοποθετήσετε το \"music.mp3\" στον κατάλογο της κάρτας SD, πατήστε την οθόνη για να παίξει."</string>
+    <string name="cit_sd_mp3_not_existed">"Δεν υπάρχει αρχείο στην κάρτα SD που να ονομάζεται \"music.mp3\"
+Αφού τοποθετήσετε το \"music.mp3\" στον κατάλογο της κάρτας SD, πατήστε την οθόνη για να παίξει."</string>
     <string name="cit_playing_sd_mp3">Αναπαραγωγή music.mp3…</string>
     <string name="cit_display_continue">Αγγίξτε την οθόνη για να ξεκινήσει η δοκιμή</string>
     <string name="cit_vga_camera_capture">Κάμερα</string>
