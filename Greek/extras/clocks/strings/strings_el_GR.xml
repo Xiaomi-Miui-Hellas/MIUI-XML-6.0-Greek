@@ -2,4 +2,5 @@
 <strings> 
     <string name="date_time" value="EEEE d MMMM"/>
     <string name="language" value="el"/>
+    <string name="desc_time" value="'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό tap για το άνοιγμα της εφαρμογής'"/>
 </strings>
