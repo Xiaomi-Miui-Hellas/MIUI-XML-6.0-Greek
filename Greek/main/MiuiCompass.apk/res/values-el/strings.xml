@@ -44,4 +44,5 @@
     <string name="using_camera_confirm_message">Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση του δικτύου της συσκευής σας και την φωτογραφική μηχανή για να λειτουργήσει κανονικά.</string>
     <string name="using_camera_confirm_ok">Συμφωνώ</string>
     <string name="using_camera_confirm_cancel">Έξοδος</string>
+    <string name="shake_enter_tip">Ανακινήστε για βαθμονόμηση</string>
 </resources>
