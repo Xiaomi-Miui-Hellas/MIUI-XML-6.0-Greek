@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="device_picker">Επιλογέας συσκευής Bluetooth</string>
+    <string name="bluetooth_preference_scan_title">Σάρωση για συσκευές</string>
+    <string name="bluetooth_preference_connected_devices">Συνδεδεμένες συσκευές</string>
+    <string name="bluetooth_preference_found_devices">Διαθέσιμες συσκευές</string>
+    <string name="progress_scanning">Αναζήτηση</string>
+    <string name="bluetooth_search_for_devices">Αναζήτηση για συσκευές</string>
     <string name="miui_transfer_history_title">Μεταφορές Bluetooth</string>
     <string name="miui_transfer_inbound_title">Εισερχόμενα</string>
     <string name="miui_transfer_outbound_title">Εξερχόμενα</string>
@@ -105,8 +111,6 @@
     <string name="transfer_menu_open">Άνοιγμα</string>
     <string name="transfer_menu_clear">Εκκαθάριση από τη λίστα</string>
     <string name="transfer_clear_dlg_title">Εκκαθάριση</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="pbap_session_key_dialog_title">Πληκτρολογήστε το κλειδί της περιόδου σύνδεσης για το %1$s</string>
     <string name="pbap_session_key_dialog_header">Απαιτείται κλειδί περιόδου σύνδεσης Bluetooth</string>
     <string name="pbap_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
@@ -117,7 +121,6 @@
     <string name="defaultname">Κιτ αυτοκινήτου</string>
     <string name="unknownName">Άγνωστο όνομα</string>
     <string name="localPhoneName">Το όνομα μου</string>
-    <string name="defaultnumber">000000</string>
     <string name="hello">Hello World Έλεγχος δραστηριότητας</string>
     <string name="app_name">Κοινή χρήση μέσω Bluetooth</string>
     <string name="insert_record">Εισαγωγή εγγραφής</string>
