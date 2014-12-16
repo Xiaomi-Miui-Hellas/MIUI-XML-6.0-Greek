@@ -67,6 +67,8 @@
     <string name="notification_new_version">Αναβάθμιση σε %s</string>
     <string name="notification_update_now">Ενημέρωση τώρα</string>
     <string name="notification_reboot_title">Η ενημέρωση ολοκληρώθηκε</string>
+    <string name="notification_reboot_title_hm">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
+    <string name="notification_reboot_summary_hm">Πατήστε για να κάνετε επανεκκίνηση της συσκευής σας.</string>
     <string name="notification_reboot_des">Επανεκκινήστε τη συσκευή σας για ενημέρωση σε %s .</string>
     <string name="notification_reboot_btn">Επανεκκίνηση</string>
     <string name="notification_reboot_seccess_title">Η συσκευή ενημερώθηκε!</string>
