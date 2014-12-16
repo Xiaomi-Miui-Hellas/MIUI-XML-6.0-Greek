@@ -1403,8 +1403,8 @@
 
 Σημείωση: Το τριπλό χτύπημα για μεγέθυνση λειτουργεί παντού εκτός από το πληκτρολόγιο και την γραμμή πλοήγησης."</string>
     <string name="accessibility_global_gesture_preference_title">Συντόμευση Προσβασιμότητας</string>
-    <string name="accessibility_global_gesture_preference_summary_on">On</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Ενεργό</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Ανενεργό</string>
     <string name="accessibility_global_gesture_preference_description">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, μπορείτε να ενεργοποιήσετε γρήγορα τα χαρακτηριστικά προσβασιμότητας σε δύο στάδια:
 
 Βήμα 1: Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας μέχρι να ακούσετε έναν ήχο ή να αισθανθείτε μια δόνηση.
@@ -1420,8 +1420,8 @@
     <string name="accessibility_toggle_speak_password_preference_title">Εκφώνησε τους κωδικούς πρόσβασης</string>
     <string name="accessibility_long_press_timeout_preference_title">Καθυστέρηση παρατετ. αγγίγματος</string>
     <string name="accessibility_menu_item_settings">Ρυθμίσεις</string>
-    <string name="accessibility_feature_state_on">On</string>
-    <string name="accessibility_feature_state_off">Off</string>
+    <string name="accessibility_feature_state_on">Ενεργό</string>
+    <string name="accessibility_feature_state_off">Ανενεργό</string>
     <string name="captioning_preview_title">Προεπισκόπηση</string>
     <string name="captioning_standard_options_title">Βασικές επιλογές</string>
     <string name="captioning_locale">Γλώσσα</string>
@@ -1639,8 +1639,8 @@
     <string name="gadget_toggle_wifi">Ενημέρωση Wi-Fi ρύθμισης</string>
     <string name="gadget_toggle_bluetooth">Ενημέρωση ρύθμισης Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_on">on</string>
-    <string name="gadget_state_off">off</string>
+    <string name="gadget_state_on">ενεργό</string>
+    <string name="gadget_state_off">ανενεργό</string>
     <string name="gadget_state_turning_on">Ενεργοποίηση</string>
     <string name="gadget_state_turning_off">Απενεργοποίηση</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -2608,8 +2608,8 @@
     <string name="bt_trace_log">Ενεργοποίηση καταγραφής ιχνών Bluetooth</string>
     <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
     <string name="wifi_share">Διαμοιρασμός Wi-Fi</string>
-    <string name="wifi_share_turn_on">On</string>
-    <string name="wifi_share_turn_off">Off</string>
+    <string name="wifi_share_turn_on">Ενεργό</string>
+    <string name="wifi_share_turn_off">Ανενεργό</string>
     <string name="wifi_share_upload">Διαμοιρασμός</string>
     <string name="wifi_share_uploading">Κοινή χρήση …</string>
     <string name="wifi_share_upload_finish">Κοινό</string>
@@ -2700,8 +2700,8 @@
     <string name="restrict_background_data_dialog_summary">Εφαρμογές που εκτελούνται στο παρασκήνιο, δεν μπορείτε να λαμβάνετε μηνύματα</string>
     <string name="restrict_background_data_notification_summary">Η εφαρμογή δεν μπορεί να συνδεθεί στο δίκτυο, εάν τα δεδομένα παρασκηνίου περιορίζεται</string>
     <string name="accessibility_screen_magnification_enable">Χειρονομίες μεγέθυνσης</string>
-    <string name="miui_screensaver_state_on">On</string>
-    <string name="miui_screensaver_state_off">Off</string>
+    <string name="miui_screensaver_state_on">Ενεργό</string>
+    <string name="miui_screensaver_state_off">Ανενεργό</string>
     <string name="miui_screensaver_title">Προφύλαξη οθόνης</string>
     <string name="activate_miui_screensaver">Προφύλαξη Οθόνης στον ύπνο</string>
     <string name="picture_source">Πηγή της εικόνας</string>
@@ -2809,8 +2809,8 @@
     <string name="status_sim">Κατάσταση SIM</string>
     <string name="status_summary">Χτυπήστε για προβολή λεπτομερειών</string>
     <string name="wifi_subnet_mask">Μάσκα Subnet</string>
-    <string name="wireless_on">On</string>
-    <string name="wireless_off">Off</string>
+    <string name="wireless_on">Ενεργό</string>
+    <string name="wireless_off">Ανενεργό</string>
     <string name="whetstone_level_title">Βελτιστοποίηση μνήμης συστήματος</string>
     <string name="whetstone_level_reboot">Αυτή η ρύθμιση θα ισχύσει όταν κάνετε επανεκκίνηση της συσκευής σας</string>
     <string name="whetstone_level_reboot_OK">Επανεκκίνηση</string>
