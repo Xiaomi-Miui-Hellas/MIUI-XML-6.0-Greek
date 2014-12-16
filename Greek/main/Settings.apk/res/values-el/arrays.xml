@@ -135,6 +135,18 @@
         <item>Καταμέτρηση έναρξης</item>
         <item>Όνομα εφαρμογής</item>
     </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Κανένα</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Κανένα</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Στατική</item>
@@ -158,6 +170,12 @@
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Δεν έχει καθοριστεί</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Κανένα</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Εσωτερική συσκευή αποθήκευσης</item>
