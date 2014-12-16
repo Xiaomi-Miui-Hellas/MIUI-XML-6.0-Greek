@@ -2107,6 +2107,14 @@
     <string name="dndm_repeated_call_summary_3min">Χτύπα όταν λαμβάνεται μια δεύτερη κλήση από τον ίδιο αριθμό μέσα σε 3 λεπτά</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+    <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
+    <string name="oldman_mode_entry_name">Απλή λειτουργία</string>
+    <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργία</string>
+    <string name="oldman_mode_enabled_name">Απλή λειτουργία</string>
+    <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
+    <string name="oldman_mode_confirm_title">Επανεκκίνηση του τηλεφώνου?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Lite λειτουργία.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από τη λειτουργία Lite?</string>
     <string name="search_airplane">αεροπλάνο</string>
     <string name="search_network">Δίκτυο</string>
     <string name="search_wifi">Wi-Fi</string>
@@ -2199,6 +2207,8 @@
     <string name="wallpaper_desktop">Αρχική οθόνη</string>
     <string name="wallpaper_lockscreen">Οθόνη κλειδώματος</string>
     <string name="wallpaper_live">Ζωντανό wallpaper</string>
+    <string name="title_font">Γραμματοσειρά</string>
+    <string name="title_font_current">Σε χρήση</string>
     <string name="key_settings_title">Πλήκτρα</string>
     <string name="key_settings">Πλήκτρα</string>
     <string name="screen_key_press">Πιέστε τα πλήκτρα πλοήγησης</string>
@@ -2213,7 +2223,7 @@
     <string name="under_keyguard">Κλείδωμα της οθόνης</string>
     <string name="enable_snapshot_screenlock">Κάμερα με το πλήκτρο πίσω</string>
     <string name="disable_power_key_long_press_under_keyguard">Μενού πλήκτρου Power Off</string>
-    <string name="trackball_wake_title">Ξύπνημα Ιχνόσφαιρας</string>
+    <string name="trackball_wake_title">Αφύπνιση trackball</string>
     <string name="pref_volume_wake_title">Αφύπνιση με τα πλήκτρα ήχου</string>
     <string name="pref_volume_wake_summary">Η χρήση των πλήκτρων έντασης ξυπνά τη συσκευή. Συνίσταται για συσκευές με ελαττωματικό πλήκτρο ενεργοποίησης</string>
     <string name="media_button">Πλήκτρο πολυμέσων</string>
@@ -2367,6 +2377,8 @@
     <string name="volume_restore_alert">Όλες οι ρυθμίσεις έντασης θα επανέλθουν στις προεπιλεγμένες ρυθμίσεις είστε σίγουροι</string>
     <string name="font_size_preview">Δοκιμή</string>
     <string name="font_size_summary">Ρύθμιση μεγέθους γραμματοσειράς στις εφαρμογές όπως πχ Τηλέφωνο, Μηνύματα, Επαφές κτλ για την βελτίωση της ανάγνωσης</string>
+    <string name="font_size_summary1">"
+Δυσαρεστημένοι? Δοκιμάστε"</string>
     <string name="font_size_small">Μικρή</string>
     <string name="font_size_normal">Κανονική</string>
     <string name="font_size_medium">Μεσαία</string>
@@ -2625,14 +2637,6 @@
     <string name="wifi_share_qrcode_title">Μοιραστείτε το Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Χρησιμοποιήστε την Κάμερα για τη σάρωση QR Code</string>
     <string name="wifi_share_qrcode_finish">Τέλος</string>
-    <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
-    <string name="oldman_mode_entry_name">Απλή λειτουργία</string>
-    <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργία</string>
-    <string name="oldman_mode_enabled_name">Απλή λειτουργία</string>
-    <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
-    <string name="oldman_mode_confirm_title">Επανεκκίνηση του τηλεφώνου?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Lite λειτουργία.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από τη λειτουργία Lite?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Ενεργοποίηση 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D Στερεοσκοπική εξόδου στην εξωτερική οθόνη 3D έχει ενεργοποιηθεί</string>
@@ -2842,7 +2846,4 @@
     <string name="miracast_PC2THOR_streaming_on">Το Miracast δεν είναι διαθέσιμη επειδή ένα PC κάνει streaming σε αυτή τη συσκευή</string>
     <string name="miracast_disable_dhcp">Απενεργοποίηση HDCP</string>
     <string name="miracast_enable_dhcp">Ενεργοποίηση HDCP</string>
-    <string name="music_dirac_mode_piston">Mi Pistons</string>
-    <string name="sim_pin_disabled">Ακυρώθηκε το PIN1, κλειδωμένο!</string>
-    <string name="sim_pin_enabled">PIN1 κλειδωμένο!</string>
 </resources>
