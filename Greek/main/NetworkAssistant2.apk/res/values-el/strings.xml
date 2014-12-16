@@ -193,7 +193,7 @@
     <string name="traffic_protection_label">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="traffic_protection_summary">Ορίστε ειδοποιήσεις για όταν η χρήση των δεδομένων σας φθάνει σε ένα ορισμένο επίπεδο</string>
     <string name="traffic_protection_unknown">Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα.</string>
-    <string name="traffic_protection_text_hint">Θέστε ένα όριο χρήσης δεδομένων</string>
+    <string name="traffic_protection_text_hint">Ορισμός ορίου χρήσης δεδομένων για %s</string>
     <string name="traffic_protection_next">Επόμενο</string>
     <string name="traffic_protection_data_usage_summary">Χρήση που υπερβαίνουν τα όρια των στοιχείων του σχεδίου του φορέα σας μπορεί να οδηγήσει σε απότομες τέλη περίσσεια.</string>
     <string name="traffic_protection_use_data">Δεδομένα ενεργά</string>
@@ -335,7 +335,7 @@
     <string name="tc_sms_report_get_sms_successs">Φόρμα SMS χρήσης δεδομένων ενημερώθηκε</string>
     <string name="tc_sms_report_get_default">Δεν θα επιβαρυνθείτε με χρεώσεις για μηνύματα SMS που χρησιμοποιούνται για τη λήψη υπολοίπου χρήσης δεδομένων από το φορέα σας.</string>
     <string name="privacy_declare_dialog_title">Όροι και Προϋποθέσεις</string>
-    <string name="privacy_declare_dialog_message">"Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με Opera's &lt;a href=http://max.oupeng.com/eula.html> Όρους και προϋποθέσεις&lt;/a>."</string>
+    <string name="privacy_declare_dialog_message">Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με Opera &lt;a href=%s> Όρους και προϋποθέσεις&lt;/a>.</string>
     <string name="sc_allow_network_dialog_tiltle">Αδυναμία χρήσης Εξοικονόμησης Δεδομένων</string>
     <string name="sc_allow_network_dialog_message">Πρέπει να επιτρέψετε σε αυτή την εφαρμογή να συνδεθεί στο Internet για να λειτουργήσει σωστά.</string>
     <string name="privacy_prompt_upload">Ειδοποίηση Απορρήτου</string>

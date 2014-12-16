@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Μία φορά</item>
-        <item>Δύο φορές</item>
-        <item>Τρείς φορές</item>
-        <item>Πέντε φορές</item>
-        <item>Δέκα φορές</item>
+        <item>1 φορά</item>
+        <item>2 φορές</item>
+        <item>3 φορές</item>
+        <item>5 φορές</item>
+        <item>10 φορές</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Όνομα</item>
-        <item>Παρατσούκλι</item>
+        <item>Ψευδώνυμο</item>
         <item>Τηλέφωνο</item>
         <item>E-mail</item>
-        <item>Οργάνωση</item>
+        <item>Οργανισμός</item>
         <item>IM</item>
-        <item>SIP τηλέφωνο</item>
+        <item>Τηλέφωνο SIP</item>
         <item>Γενέθλια</item>
-        <item>Ιστοσελίδα </item>
+        <item>Ιστοσελίδα</item>
         <item>Διεύθυνση</item>
         <item>Σημείωση</item>
     </string-array>
@@ -25,12 +25,12 @@
         <item>Ώρα αποστολής</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Μέσω μηνύματος</item>
-        <item>Μέσω Cloud μηνύματος</item>
+        <item>Με SMS</item>
+        <item>Με Mi message</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Μέσω μηνύματος</item>
-        <item>Μέσω Cloud μηνύματος</item>
+        <item>Με MMS</item>
+        <item>Με Mi message</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 δευτερόλεπτο</item>

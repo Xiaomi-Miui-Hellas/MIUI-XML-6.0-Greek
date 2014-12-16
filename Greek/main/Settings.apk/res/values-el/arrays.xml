@@ -97,7 +97,7 @@
         <item>PIN από αυτή την συσκευή</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Συνδεδεμένος</item>
+        <item>Συνδεδεμένο</item>
         <item>Προσκεκλημένο</item>
         <item>Ανεπιτυχής</item>
         <item>Διαθέσιμο</item>
@@ -110,10 +110,10 @@
         <item>Χωρίς χρονικό όριο</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Φτωχή</item>
-        <item>Ικανοποιητική</item>
-        <item>Καλή</item>
-        <item>Θαυμάσια</item>
+        <item>Φτωχό</item>
+        <item>Ικανοποιητικό</item>
+        <item>Καλό</item>
+        <item>Θαυμάσιο</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Πάντα</item>
@@ -122,11 +122,11 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Πάντα</item>
-        <item>Μόνο όταν είναι συνδεδεμένο</item>
+        <item>Μόνο όταν είναι στην φόρτιση</item>
         <item>Ποτέ</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Αυτόμ.</item>
+        <item>Αυτόματο</item>
         <item>5 GHz μόνο</item>
         <item>2.4 GHz μόνο</item>
     </string-array>
@@ -134,18 +134,6 @@
         <item>Χρόνος χρήσης</item>
         <item>Καταμέτρηση έναρξης</item>
         <item>Όνομα εφαρμογής</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Κανένα</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -156,7 +144,7 @@
         <item>Χειροκίνητα</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Off</item>
+        <item>Ανενεργό</item>
         <item>Ειδοποίηση</item>
         <item>Δόνηση</item>
     </string-array>
@@ -166,21 +154,10 @@
         <item>CHAP</item>
         <item>PAP ή CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Δεν έχει καθοριστεί</item>
-    </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Κανένα</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Εσωτερική συσκευή αποθήκευσης</item>
@@ -190,8 +167,8 @@
     <string-array name="app_ops_categories">
         <item>Τοποθεσία</item>
         <item>Προσωπικό</item>
-        <item>Ανταλλαγή μηνυμάτων</item>
-        <item>Μέσα</item>
+        <item>Μηνύματα</item>
+        <item>Πολυμέσα</item>
         <item>Συσκευή</item>
     </string-array>
     <string-array name="app_ops_summaries">
@@ -201,7 +178,7 @@
         <item>δόνηση</item>
         <item>ανάγνωση επαφών</item>
         <item>τροποποίηση επαφών</item>
-        <item>ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>ανάγνωση αρχείου κλήσεων</item>
         <item>τροποποίηση αρχείου κλήσεων</item>
         <item>ανάγνωση ημερολογίου</item>
         <item>τροποποίηση ημερολογίου</item>
@@ -226,15 +203,15 @@
         <item>αναπαραγωγή ήχου</item>
         <item>ανάγνωση περιεχόμενων προχείρου</item>
         <item>τροποποίηση περιεχομένων προχείρου</item>
-        <item>κουμπιά μέσων</item>
+        <item>κουμπιά πολυμέσων</item>
         <item>εστίαση ήχου</item>
         <item>κύρια ένταση ήχου</item>
-        <item>έντασης ήχου φωνής</item>
-        <item>ένταση ήχου κλήσης</item>
-        <item>ένταση ήχου μέσων</item>
-        <item>ένταση ήχου ξυπνητηριού</item>
-        <item>ένταση ήχου ειδοποιήσεων</item>
-        <item>ένταση ήχου Bluetooth</item>
+        <item>ένταση φωνής</item>
+        <item>ένταση κλήσης</item>
+        <item>ένταση πολυμέσων</item>
+        <item>ένταση ξυπνητηριού</item>
+        <item>ένταση ειδοποιήσεων</item>
+        <item>ένταση Bluetooth</item>
         <item>διατήρηση λειτουργίας</item>
         <item>παρακολούθηση τοποθεσίας</item>
         <item>παρακολούθηση θέσης υψηλής ισχύος</item>
@@ -246,7 +223,7 @@
         <item>Δόνηση</item>
         <item>Ανάγνωση επαφών</item>
         <item>Τροποποίηση επαφών</item>
-        <item>Ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>Ανάγνωση αρχείου κλήσεων</item>
         <item>Τροποποίηση αρχείου κλήσεων</item>
         <item>Ανάγνωση ημερολογίου</item>
         <item>Τροποποίηση ημερολογίου</item>
@@ -273,13 +250,13 @@
         <item>Τροποποίηση περιεχομένων προχείρου</item>
         <item>Κουμπιά μέσων</item>
         <item>Εστίαση ήχου</item>
-        <item>Ένταση ήχου</item>
-        <item>Ήχος φωνής</item>
-        <item>Ήχος κλήσης</item>
-        <item>Ήχος πολυμέσων</item>
-        <item>Ήχος ξυπνητηριού</item>
-        <item>Ήχος ειδοποιήσεων</item>
-        <item>Ήχος Bluetooth</item>
+        <item>Κύρια ένταση ήχου</item>
+        <item>Ένταση φωνής</item>
+        <item>Ένταση κλήσης</item>
+        <item>Ένταση πολυμέσων</item>
+        <item>Ένταση ξυπνητηριού</item>
+        <item>Ένταση ειδοποιήσεων</item>
+        <item>Ένταση Bluetooth</item>
         <item>Διατήρηση λειτουργίας</item>
         <item>Τοποθεσία</item>
         <item>Τοποθεσία</item>
@@ -336,7 +313,7 @@
         <item>Πάντα να χρησιμοποιείτε HDCP έλεγχο</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Κίνηση off</item>
+        <item>Κίνηση ανενεργή</item>
         <item>Κλίμακα κίνησης .5x</item>
         <item>Κλίμακα κίνησης 1x</item>
         <item>Κλίμακα κίνησης 1.5x</item>
@@ -345,7 +322,7 @@
         <item>Κλίμακα κίνησης 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Κίνηση off</item>
+        <item>Κίνηση ανενεργή</item>
         <item>Κλίμακα κίνησης .5x</item>
         <item>Κλίμακα κίνησης 1x</item>
         <item>Κλίμακα κίνησης 1.5x</item>
@@ -354,13 +331,23 @@
         <item>Κλίμακα κίνησης 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Κίνηση off</item>
+        <item>Κίνηση ανενεργή</item>
         <item>Κλίμακα κίνησης .5x</item>
         <item>Κλίμακα κίνησης 1x</item>
         <item>Κλίμακα κίνησης 1.5x</item>
         <item>Κλίμακα κίνησης 2x</item>
         <item>Κλίμακα κίνησης 5x</item>
         <item>Κλίμακα κίνησης 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Κανένα</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (secure)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (secure)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi και 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Τίποτα</item>
@@ -375,19 +362,19 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Απενεργοποιημένο</item>
-        <item>Στην οθόνη ως ράβδοι</item>
+        <item>Στην οθόνη ως μπάρες</item>
         <item>Στην οθόνη ως γραμμές</item>
         <item>Σε adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Ανενεργές</item>
+        <item>Ανενεργό</item>
         <item>Εμφάνιση περιοχών υπέρβασης</item>
         <item>Εμφάνιση περιοχών για Deuteranomaly</item>
         <item>Εμφάνιση μετρητή υπέρβασης</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Τυπικό όριο</item>
-        <item>Χωρίς διαδικασίες Παρασκηνίου</item>
+        <item>Χωρίς διαδικασίες παρασκηνίου</item>
         <item>Το πολύ 1 διαδικασία</item>
         <item>Το πολύ 2 διαδικασίες</item>
         <item>Το πολύ 3 διαδικασίες</item>
@@ -468,9 +455,13 @@
         <item>Λευκό</item>
         <item>Βιολετί</item>
     </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Εμφάνιση πίνακα πρόσφατων εφαρμογών</item>
+        <item>Εμφάνιση μενού</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Καμία</item>
-        <item>Εκκίνηση πρόσφατου πίνακα</item>
+        <item>Εμφάνιση πίνακα πρόσφατων εφαρμογών</item>
         <item>Εκκίνηση φωνητικής βοήθειας</item>
         <item>Εκκίνηση του Google now</item>
         <item>Κλείσιμο τρέχουσας εφαρμογής</item>
@@ -514,12 +505,6 @@
         <item></item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Ο χώρος αποθήκευσης USB θα ανοίξει αυτόματα όταν συνδεθείτε σε PC.</item>
-        <item></item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>Επανεγκατάσταση MiPhoneManager.</item>
@@ -548,8 +533,8 @@
         <item>Απόρριψη</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>Επιτρέπεται</item>
-        <item>Απαγορεύεται</item>
+        <item>Επέτρεψε</item>
+        <item>Απόρριψη</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Καταστολή θορύβου με 1 μικρόφωνο</item>
@@ -564,7 +549,7 @@
     <string-array name="wifi_connect_type_entries">
         <item>Αυτόματη σύνδεση</item>
         <item>Χειροκίνητη σύνδεση</item>
-        <item>Πάντα ρώτα</item>
+        <item>Ερώτηση πάντα</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 λεπτά</item>
@@ -576,7 +561,7 @@
     <string-array name="preferred_app_entries">
         <item>Επιφάνεια εργασίας</item>
         <item>Τηλέφωνο</item>
-        <item>SMS</item>
+        <item>Μηνύματα</item>
         <item>Πλοηγός</item>
         <item>Κάμερα</item>
         <item>Άλμπουμ</item>
@@ -591,6 +576,19 @@
     <string-array name="priority_storage_entries">
         <item>Εσωτερικός χώρος</item>
         <item>Εξωτερικός χώρος</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Πολύ αργό</item>
+        <item>Αργό</item>
+        <item>Κανονικό</item>
+        <item>Γρήγορο</item>
+        <item>Γρηγορότερο</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>Ανενεργό</item>
+        <item>Χαμηλό</item>
+        <item>Μεσαίο</item>
+        <item>Υψηλό</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Μικρότερη καθυστέρηση</item>
