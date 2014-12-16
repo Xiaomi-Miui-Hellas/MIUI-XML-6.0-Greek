@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hfb_app_name">UMPay</string>
-    <string name="hfb_succ_label">ολοκλήρωση αγοράς</string>
-    <string name="hfb_fail_label">Η πληρωμή απέτυχε!</string>
-    <string name="hfb_succ_result">"Σας ευχαριστούμε για τη χρήση των υπηρεσιών πληρωμών μας.
-Έχετε αγοράσει [%1$s] για την αξία της [%2$s yuan]. Τηλέφωνο εξυπηρέτησης πελατών: %3$s"</string>
     <string name="hfb_instruct">"Παρακαλώ ακολουθήστε 10658008
 SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολοκληρώθηκε', σας ευχαριστώ!"</string>
-    <string name="hfb_complete">Αγοράστηκαν με επιτυχία!</string>
-    <string name="hfb_other_case">Εάν δεν λάβετε το μήνυμα SMS από 10658008 παρακαλούμε δείτε τις συμβουλές.</string>
-    <string name="hfb_retry_receive">Δοκιμή ξανά</string>
+    <string name="hfb_step_2">Ακολουθήστε τις οδηγίες για να απαντήσετε</string>
+    <string name="hfb_step_3">Κάντε κλικ στο πλήρης Αγορά</string>
     <string name="hfb_fail_hint">Αποτυχία λήψης SMS ενεργοποίησης, παρακαλούμε επικοινωνήστε με το Κέντρο υπηρεσιών κινητών πληρωμών της Κίνα: 400 612 5880 (απευθείας τηλεφωνική γραμμή, δωρεάν υπεραστικές κλήσεις) 0.3 γιουάν ανά λεπτό.</string>
+    <string name="hfb_complete">Αγοράστηκαν με επιτυχία!</string>
+    <string name="hfb_retry_receive">Δοκιμή ξανά</string>
+    <string name="hfb_succ_label">Ολοκλήρωση αγοράς</string>
+    <string name="hfb_succ_result">Σας ευχαριστούμε για τη χρήση των υπηρεσιών πληρωμών μας.</string>
+    <string name="hfb_succ_service_phone_tip">Πληρωμή Υπηρεσία Εξυπηρέτησης Πελατών:4006125880</string>
+    <string name="hfb_retry_query">Ελέγξτε και πάλι</string>
     <string name="hfb_return">Πίσω</string>
     <string name="hfb_main_title">Πλήρης πληρωμή</string>
     <string name="hfb_goods_name">Όνομα:</string>
-    <string name="hfb_goods_name_content">米币</string>
+    <string name="hfb_goods_name_content">Μi νομίσματα</string>
     <string name="hfb_order_price">Συνολική Παραγγελία:</string>
     <string name="hfb_customer_service_phone">Εξυπηρέτηση Πελατών:</string>
     <string name="hfb_customer_service_phone_number">4006125880</string>
@@ -163,11 +164,11 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="btn_recharge_confirm">Επιβεβαιώστε την αγορά</string>
     <string name="btn_wait_confirm">Αναμονή</string>
     <string name="btn_wait_confirm_count">Αναμονή(%1$s)</string>
-    <string name="msg_telecom_picker_hint_1_1">Αφού αγγίξετε Επιβεβαιώστε την αγορά, το τηλέφωνό σας θα</string>
+    <string name="msg_telecom_picker_hint_1_1">Αφού πατήσετε Επιβεβαιώστε την αγορά, το τηλέφωνό σας θα</string>
     <string name="msg_telecom_picker_hint_1_2">στείλει ένα SMS μέσω του παρόχου σας για την ολοκλήρωση της διαδικασίας.</string>
     <string name="msg_telecom_picker_hint_2_1">Το μήνυμα SMS εστάλη επιτυχώς! Αργότερα θα</string>
     <string name="msg_telecom_picker_hint_2_2">λάβετε μια επιβεβαίωση μέσω SMS. Παρακαλώ περιμένετε.</string>
-    <string name="msg_order_hint_1_1">Αφού αγγίξετε Επιβεβαιώστε την αγορά, το τηλέφωνό σας θα</string>
+    <string name="msg_order_hint_1_1">Αφού πατήσετε Επιβεβαιώστε την αγορά, το τηλέφωνό σας θα</string>
     <string name="msg_order_hint_1_2">στείλει ένα SMS μέσω του παρόχου σας για την ολοκλήρωση της διαδικασίας.</string>
     <string name="msg_progress_hint_2_1">Το μήνυμα SMS εστάλη επιτυχώς! Αργότερα θα</string>
     <string name="msg_progress_hint_2_2">λάβετε μια επιβεβαίωση μέσω SMS. Παρακαλώ περιμένετε.</string>
@@ -259,7 +260,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="btn_net_connection_retry">Δοκιμή ξανά</string>
     <string name="pay_record_typeall">Όλα</string>
     <string name="mibi_license_title">Συμφωνία χρήστη</string>
-    <string name="mibi_license_message">Αγγίξτε το OK αν συμφωνείτε με τους όρους και τις προϋποθέσεις που περιγράφονται στο %1$s.</string>
+    <string name="mibi_license_message">"Είστε έτοιμοι να χρησιμοποιήσετε το Mi Credit, το οποίο είναι μια υπηρεσία που παρέχεται από την Xiaomi. Πριν χρησιμοποιήσετε αυτή την υπηρεσία πρέπει να συμφωνήσετε στους Όρους Παροχής Υπηρεσιών που αναφέρονται στο %1$s. Πατήστε OK εάν συμφωνείτε με τους όρους και τις προϋποθέσεις που περιγράφονται στο %1$s. Χρειάζεστε μια σύνδεση  Internet για να χρησιμοποιήσετε το Mi Credit."</string>
     <string name="mibi_license_message_span">MiCredit Συμφωνία χρήστη</string>
     <string name="btn_agree">OK</string>
     <string name="security_setting">Ρυθμίσεις ασφαλείας</string>
