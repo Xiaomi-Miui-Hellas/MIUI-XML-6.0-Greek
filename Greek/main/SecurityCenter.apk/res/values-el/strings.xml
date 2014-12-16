@@ -8,13 +8,17 @@
     <string name="cta_settings">Να επιτρέπεται η πρόσβαση στο διαδίκτυο</string>
     <string name="title_optimizer">Cleaner</string>
     <string name="header_optimizer">"Χρησιμοποιώντας αυτή την  εφαρμογή, συμφωνείτε με τους όρους χρήσης "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">του Clean Master</a>.</string>
+    <string name="name_optimizer">"Πολιτική Απορρήτου Cheetah Mobile"</string>
     <string name="text_optimizer">Χρήση της online βάσης του Cleaner</string>
     <string name="summary_optimizer">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="button_optimizer">OK</string>
     <string name="title_antivirus">Σάρωση ιών</string>
     <string name="header_antivirus">"Χρησιμοποιώντας αυτή την  εφαρμογή, συμφωνείτε με τους όρους χρήσης "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">του Tencent</a>.</string>
+    <string name="name_antivirus">δείτε την Πολιτική Απορρήτου</string>
     <string name="text_antivirus">Χρήση της online βάσης ιών</string>
+    <string name="text_antivirus_oversea">Ενημέρωση βάσης ιών</string>
     <string name="summary_antivirus">Ανέβασε και σάρωσε τις εφαρμογές με την online βάση ιών</string>
+    <string name="summary_antivirus_oversea">Αυτόματη ενημέρωση βάσης ιών</string>
     <string name="button_antivirus">OK</string>
     <string name="power_center_title">Μπαταρία</string>
     <string name="power_center_consume_rank">Κατανάλωση</string>
@@ -449,10 +453,6 @@
     <string name="msg_cleanup_db_update_time_unknown">Τελευταία Ενημέρωση: Άγνωστη</string>
     <string name="notification_title_of_garbage_cleanup">Συναγερμός σκουπιδιών</string>
     <string name="notification_summary_of_garbage_cleanup">Υπέρβαση καλαθιού %s .</string>
-    <string name="item_garbage_time_daily">Καθημερινά</string>
-    <string name="item_garbage_time_3d">Ανά 3 μέρες</string>
-    <string name="item_garbage_time_7d">Μία φορά την εβδομάδα</string>
-    <string name="item_garbage_time_never">Ποτέ</string>
     <string name="item_title_garbage_time">Συχνότητα</string>
     <string name="item_title_garbage_size">Μέγεθος</string>
     <string name="white_list_cache_header">Αποθηκευμένα αρχεία: %d</string>
@@ -660,4 +660,26 @@
     <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>
     <string name="call_and_contact">Κλήσεις και Επαφές</string>
     <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
+    <string name="pref_category_title_auto_clean_settings">Αυτόματος καθαρισμός</string>
+    <string name="pref_title_auto_clean_and_alert">Αυτόματος καθαρισμός</string>
+    <string name="pref_summary_auto_clean_and_alert">Ρυθμίστε το cleaner να τρέχει αυτόματα</string>
+    <string name="pref_category_title_other_clean_settings">Πρόσθετες ρυθμίσεις</string>
+    <string name="pref_title_garbage_process_mode">Ειδοποιήσεις</string>
+    <string name="pref_summary_garbage_process_mode">Ρυθμίστε τις ειδοποιήσεις για όταν τρέχει το cleaner</string>
+    <string name="pref_title_garbage_auto_clean_content">Επιλέξτε στοιχεία για καθαρισμό</string>
+    <string name="pref_summary_garbage_auto_clean_content">Επιλέξτε ποια στοιχεία θα καθαριστούν αυτόματα</string>
+    <string name="pref_content_cleanup_white_list_none">Τίποτα</string>
+    <string name="auto_clean_switch_on">Ενεργό</string>
+    <string name="auto_clean_switch_off">Ανενεργό</string>
+    <string name="item_title_process_mode">Επιλέξτε μια ενέργεια</string>
+    <string name="pref_title_auto_clean_content_choose">Επιλέξτε στοιχεία για καθαρισμό</string>
+    <string name="clean_content_zero">"Μην καθαρίσεις τίποτα"</string>
+    <string name="clean_content_one">%s</string>
+    <string name="clean_content_two">%1$s and %2$s</string>
+    <string name="clean_content_three">Εκτός από %s</string>
+    <string name="clean_content_all">Τα πάντα</string>
+    <string name="notification_summary_after_auto_cleanup">Καθαρισμένα %s.</string>
+    <string name="pref_category_title_lock_screen_memory_clean">Καθαρισμός όταν κλειδώσει η οθόνη</string>
+    <string name="pref_title_lock_screen_memory_clean">Καθαρισμός όταν κλειδώσει η οθόνη</string>
+    <string name="pref_summary_lock_screen_memory_clean">Αυτόματος καθαρισμός όταν η συσκευή είναι κλειδωμένη</string>
 </resources>
