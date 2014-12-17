@@ -260,4 +260,10 @@
     <string name="simple_mode_button_asd_flash">Έξοδος από φωτογράφηση με φλας</string>
     <string name="simple_mode_button_asd_hdr">Έξοδος από φωτογράφηση HDR</string>
     <string name="pref_audio_focus_title">Προτεραιότητα ήχου</string>
+    <string name="pref_audio_focus_entry_general">Κανονικό</string>
+    <string name="pref_audio_focus_entry_front">Μπροστά</string>
+    <string name="pref_audio_focus_entry_rear">Πίσω</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Πατήστε παρατεταμένα το κουμπί κλείστρου</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Εστίαση</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Λειτουργία ριπής</string>
 </resources>
