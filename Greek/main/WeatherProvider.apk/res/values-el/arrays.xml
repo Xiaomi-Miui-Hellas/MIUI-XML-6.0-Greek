@@ -46,15 +46,4 @@
         <item>Άνεμος Δ</item>
         <item>Άνεμος ΒΔ</item>
     </string-array>
-    <string-array name="moon_desc">
-        <item>Νέα σελήνη</item>
-        <item>Αύξων Μηνίσκος</item>
-        <item>Πρώτο Τέταρτο</item>
-        <item>Αύξων Αμφίκυρτος</item>
-        <item>Πανσέληνος</item>
-        <item>Φθίνων Αμφίκυρτος</item>
-        <item>Τελευταίο Τέταρτο</item>
-        <item>Φθίνων Μηνίσκος</item>
-        <item>Σκοτεινή σελήνη</item>
-    </string-array>
 </resources>
