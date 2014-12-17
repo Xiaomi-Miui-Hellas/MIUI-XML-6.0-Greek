@@ -17,10 +17,6 @@
         <item>Φωνή</item>
         <item>CSVoice</item>
     </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Κανονικός</item>
-        <item>Μακρύς</item>
-    </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
