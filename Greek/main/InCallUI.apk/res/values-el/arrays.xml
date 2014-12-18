@@ -4,24 +4,49 @@
         <item>Φωνή</item>
         <item>Βίντεο</item>
     </string-array>
+    <string-array name="clir_display_values">
+        <item>Προεπιλογή δικτύου</item>
+        <item>Απόκρυψη αριθμού</item>
+        <item>Εμφάνιση αριθμού</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>ΠΡΟΕΠΙΛΟΓΗ</item>
+        <item>ΑΠΟΚΡΥΨΗ</item>
+        <item>ΕΜΦΑΝΙΣΗ</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/WCDMA</item>
+        <item>LTE / WCDMA</item>
         <item>LTE</item>
         <item>Παγκόσμια</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>CDMA+LTE/EvDo</item>
+        <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo μόνο</item>
+        <item>Μόνο EvDo</item>
         <item>CDMA χωρίς EvDo</item>
-        <item>CDMA/EvDo αυτομ.</item>
-        <item>GSM/WCDMA αυτομ.</item>
-        <item>WCDMA μόνο</item>
-        <item>GSM μόνο</item>
-        <item>GSM/WCDMA προτιμάται</item>
+        <item>CDMA/EvDo αυτόματο</item>
+        <item>GSM/WCDMA αυτόματο</item>
+        <item>Μόνο WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>Προτιμώμενο GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Αγγλικά</item>
+        <item>Γαλλικά</item>
+        <item>Ισπανικά</item>
+        <item>Ιαπωνικά</item>
+        <item>Κορεάτικα</item>
+        <item>Κινέζικα</item>
+        <item>Εβραϊκά</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Αρχική μόνο</item>
+        <item>Μόνο το τοπικό σύστημα</item>
         <item>Αυτόματα</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Κανονικός</item>
