@@ -71,7 +71,7 @@
   <string name="fire_rule_title_bar">fire_rule_title_bar</string>
   <string name="fire_wall_is_closed">"χρησιμοποιείτε ένα τείχος προστασίας που ενδέχεται να εμποδίζει το τηλέφωνό σας να μιλήσει με το φορέα σας"</string>
   <string name="force_stop_dlg_text">Εάν πιέσετε να κλείσει μια εφαρμογή, μπορεί να παρουσιάσει ανώμαλη συμπεριφορά.</string>
-  <string name="force_stop_dlg_title">Άμμεσο κλείσιμο?</string>
+  <string name="force_stop_dlg_title">Άμμεσο κλείσιμο;</string>
   <string name="i_known_button">OK</string>
   <string name="input_hint">Θέστε όριο</string>
   <string name="loading_app">Φόρτωση…</string>
@@ -94,9 +94,9 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Ρυθμίσιες μηνιαίου ορίου</string>
-  <string name="notify_carrier_settings_format">"%s δεν έχει συνδεθεί με το μηνιαίο πρόγραμμα δεδομένων σας. Διαμορφώστε τώρα?"</string>
+  <string name="notify_carrier_settings_format">"%s δεν έχει συνδεθεί με το μηνιαίο πρόγραμμα δεδομένων σας. Διαμορφώστε τώρα;"</string>
   <string name="notify_traffic_settings_cancel_hint">Η παρακολούθηση χρήσης δεδομένων θα απενεργοποιηθεί.</string>
-  <string name="notify_traffic_settings_format">"%s hasn't been linked to your monthly data plan. Configure now?"</string>
+  <string name="notify_traffic_settings_format">"%s hasn't been linked to your monthly data plan. Configure now;"</string>
   <string name="overseas_menu_traffic_adjust">Ρύθμιση ιστορικού χρήσης</string>
   <string name="overseas_menu_traffic_settings">Ρύθμιση τώρα</string>
   <string name="overseas_unknown_traffic_hint">"Το Μηνιαίο όριο χρήσης δεδομένων δεν έχει ρυθμιστεί"</string>
@@ -158,7 +158,7 @@
 Σε χρήση"</string>
   <string name="unknown">Άγνωστο</string>
   <string name="unknown_free_traffic_hint">Επικοινωωήστε με τον πάροχό σας για να μάθετε το μηνιάιο όριό σας.</string>
-  <string name="unknown_free_traffic_text">"Δεν γνωρίζετε το μηνιαίο όριο?"</string>
+  <string name="unknown_free_traffic_text">"Δεν γνωρίζετε το μηνιαίο όριο;"</string>
   <string name="unknown_free_traffic_title">Μιλήστε στον πάροχό σας </string>
   <string name="unknown_location">Δεν ορίστηκε</string>
   <string name="unknown_traffic_hint">"Το μηνιαίο όριό σας έχει ρυθμιστεί"</string>
@@ -170,7 +170,7 @@
   <string name="used_flux">Χρήση δεδομένων</string>
   <string name="version_label">Έκδοση:</string>
   <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
-  <string name="warning_title">"Απαγόρευση χρήσης στο παρασκήνιο?"</string>
+  <string name="warning_title">"Απαγόρευση χρήσης στο παρασκήνιο;"</string>
   <string name="widget_color_exceed_warn">\#F9882C</string>
   <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
   <string name="widget_color_used_all">\#C00203</string>

@@ -3,7 +3,7 @@
   <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
   <string name="application_name">MiHome</string>
   <string name="apply_as_lock_wallpaper">Εφαρμογή</string>
-  <string name="apply_as_lock_wallpaper_message">Εφαρμογή αυτής της ταπετσαρίας και στην οθόνη κλειδώματος?</string>
+  <string name="apply_as_lock_wallpaper_message">Εφαρμογή αυτής της ταπετσαρίας και στην οθόνη κλειδώματος;</string>
   <string name="aqi_quality_index_dangerous">Επικίνδυνο</string>
   <string name="aqi_quality_index_good">Καλό</string>
   <string name="aqi_quality_index_hazardous">Πολύ επικίνδυνο</string>
@@ -88,7 +88,7 @@
   <string name="group_folder">Νέος φάκελος</string>
   <string name="group_live_folders">Φάκελοι</string>
   <string name="group_shortcuts">Συντομεύσεις</string>
-  <string name="guide_install_app_msg">Η εφαρμογή δεν εγκαταστάθηκε. Εύρεση εφαρμογής στο Market τώρα?</string>
+  <string name="guide_install_app_msg">Η εφαρμογή δεν εγκαταστάθηκε. Εύρεση εφαρμογής στο Market τώρα;</string>
   <string name="guide_install_app_title">Εγκατάσταση εφαρμογής</string>
   <string name="guide_tips_editing_mode">Κρατήστε πατημένο το παρακάτω widget για να το σύρετε στην οθόνη</string>
   <string name="install">Εγκατάσταση</string>

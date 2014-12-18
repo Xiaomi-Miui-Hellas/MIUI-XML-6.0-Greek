@@ -554,11 +554,11 @@
     <string name="empty_title_root_apps">Δεν έχουν root</string>
     <string name="hints_remember_choice">Να μην ερωτηθώ ξανά</string>
     <string name="root_apply_title">Προειδοποίηση</string>
-    <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ?</string>
+    <string name="root_apply_step_1">Χορήγηση πρόσβασης root στο %s ;</string>
     <string name="root_apply_step_2">Μια εφαρμογή με πρόσβαση root μπορεί να κάνει το σύστημα ασταθές</string>
     <string name="root_apply_step_3">Τα δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές με πρόσβαση root</string>
     <string name="root_apply_step_4">Η χορήγηση του δικαιώματος root για την εφαρμογή γίνεται με δική σας ευθύνη</string>
-    <string name="root_apply_step_5">Χορήγηση πρόσβασης root στο %s ?</string>
+    <string name="root_apply_step_5">Χορήγηση πρόσβασης root στο %s ;</string>
     <string name="button_text_accept">Εξουσιοδότηση</string>
     <string name="button_text_accept_timer">Επιτρέψτε ( %d )</string>
     <string name="button_text_reject">Απόρριψη</string>
@@ -594,7 +594,7 @@
     <string name="cache_sort_type_item_name">Ταξινόμηση με βάση το όνομα</string>
     <string name="menu_item_app_permissions_control">Διαχείριση δικαιωμάτων</string>
     <string name="menu_item_control_app_permissions">Να ζητείται η άδειά σας, πριν επιτραπεί σε εφαρμογές να διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής</string>
-    <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων?</string>
+    <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων;</string>
     <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Διαχείριση δικαιωμάτων ανενεργή</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής. Μπορείτε να ενεργοποιήσετε αυτή την επιλογή από τις ρυθμίσεις δικαιωμάτων.</string>
@@ -613,7 +613,7 @@
     <string name="delete_from_manual_item_white_list">Αφαίρεση από τις εξαιρέσεις</string>
     <string name="manual_white_list_header">%d εξαιρέσεις</string>
     <string name="button_text_ignore">Αγνοήστε</string>
-    <string name="button_text_ignore_alert_title">Παράβλεψη αυτής της ειδοποίησης?</string>
+    <string name="button_text_ignore_alert_title">Παράβλεψη αυτής της ειδοποίησης;</string>
     <string name="back">Επιστροφή</string>
     <string name="empty_title_manual_item_white_list">Χωρίς εξαιρέσεις.</string>
     <string name="title_cloud_account">Λογαριασμός Mi</string>

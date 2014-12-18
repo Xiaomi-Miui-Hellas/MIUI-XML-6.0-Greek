@@ -131,7 +131,7 @@
     <string name="pref_specified_traffic_settings">Ρυθμίσεις ορίου δεδομένων</string>
     <string name="input_traffic_pkg">Δώστε το όριο</string>
     <string name="begin_date">Ημερομηνία μηδενισμού δεδομένων</string>
-    <string name="tips_dialog_title">Δεν ξέρετε το όριο σας?</string>
+    <string name="tips_dialog_title">Δεν ξέρετε το όριο σας;</string>
     <string name="tips_message">Αν δεν είστε σίγουρος σχετικά με τις λεπτομέρειες του προγράμματος σας, μπορείτε να τα δείτε με την κλήση %2$s ( %1$s ).</string>
     <string name="daily_pkg_traffic">Ορισμός ορίου δεδομένων για ώρα αιχμής</string>
     <string name="input_aviable_traffic">Ορισμός ορίου δεδομένων</string>
@@ -207,7 +207,7 @@
     <string name="traffic_config_alert_cancel">Ακύρωση</string>
     <string name="traffic_config_alert_nomore">Να μην εμφανιστεί ξανά</string>
     <string name="traffic_config_alert_body">"Ο φορέας σας δείχνει ότι το μηνιαίο σας όριο δεδομένων είναι %s.
-Χρήση αυτού του αριθμού για ορισμό του μηνιαίου σας ορίου δεδομένων?"</string>
+Χρήση αυτού του αριθμού για ορισμό του μηνιαίου σας ορίου δεδομένων;"</string>
     <string name="traffic_config_alert_body_normal">Ο φορέας σας δείχνει πως έχετε χρησιμοποιήσει %1$s δεδομένα σε ώρα αιχμής αυτό το μήνα, αυτό είναι διαφορετικό από το όριο %2$s που έχετε ορίσει.</string>
     <string name="traffic_config_alert_body_leisure">Ο φορέας σας δείχνει πως έχετε χρησιμοποιήσει %1$s δεδομένα εκτός αιχμής σας αυτό το μήνα, αυτό είναι διαφορετικό από το όριο %2$s που έχετε ορίσει χειροκίνητα.</string>
     <string name="traffic_config_alert_body_leisure_notset">"

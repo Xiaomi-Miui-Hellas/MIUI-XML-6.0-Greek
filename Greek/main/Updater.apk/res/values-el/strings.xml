@@ -104,7 +104,7 @@
     <string name="auto_check_clause_msg">"Θα πρέπει να συμφωνήσετε με την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων για να μπορέσετε να ενημερώσετε το σύστημά σας. "</string>
     <string name="auto_check_clause_button">Προβολή</string>
     <string name="auto_agree_clause">"Η ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων μας έχει ήδη τεθεί σε ισχύ. "</string>
-    <string name="auto_dialog_title_check_again">Ακύρωση ενημέρωσης?</string>
+    <string name="auto_dialog_title_check_again">Ακύρωση ενημέρωσης;</string>
     <string name="auto_dialog_msg_check_again">"Θα πρέπει να συμφωνήσετε με την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων για να μπορέσετε να ενημερώσετε το σύστημά σας. "</string>
     <string name="auto_button_examine_immediately">Προβολή</string>
     <string name="auto_button_sure_cancel">ακύρωση</string>

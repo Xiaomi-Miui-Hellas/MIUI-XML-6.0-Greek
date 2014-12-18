@@ -89,7 +89,7 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="group_name_friends">Φίλοι</string>
     <string name="group_name_family">Οικογένεια</string>
     <string name="group_name_coworkers">Συνάδελφοι</string>
-    <string name="auto_start_warning_title">Να επιτρέπεται %s να ξεκινά αυτόματα στο μέλλον?</string>
+    <string name="auto_start_warning_title">Να επιτρέπεται %s να ξεκινά αυτόματα στο μέλλον;</string>
     <string name="auto_start_warning_allow">Να Επιτρέπεται</string>
     <string name="auto_start_warning_deny">Άρνηση</string>
     <string name="key_btn_space">Space</string>

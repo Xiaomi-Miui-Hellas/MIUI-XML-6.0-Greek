@@ -43,7 +43,7 @@
     <string name="HIPS_Perm_Network_UnknownAddr">Άγνωστη διεύθυνση</string>
     <string name="HIPS_Perm_Network_MobileEvent">Χρήση δεδομένων κινητής</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
-    <string name="HIPS_Perm_Network_Accept">Αποδοχή συνδέσμου από %1$s?</string>
+    <string name="HIPS_Perm_Network_Accept">Αποδοχή συνδέσμου από %1$s;</string>
     <string name="HIPS_Perm_Network_Connect">Τοποθεσία συνδέσμου: %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Ακρόαση στη θύρα %1$s</string>
     <string name="HIPS_Perm_Network_Recv">Λήψη δεδομένων</string>
@@ -193,12 +193,12 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Επέτρεψε</string>
     <string name="HIPS_SecurityPrompt_Next">Επόμενο</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Πρόσβαση root</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Χορήγηση πρόσβασης root στο %1$s ?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Χορήγηση πρόσβασης root στο %1$s ;</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Μια εφαρμογή με πρόσβαση root μπορεί να κάνει το σύστημα ασταθές.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Τα δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές με πρόσβαση root.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Εφαρμογές με πρόσβαση root μπορεί να βλάψει το υλικό της συσκευής σας.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Η χορήγηση του δικαιώματος root για την εφαρμογή γίνεται με δική σας ευθύνη.</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step6">Χορήγηση πρόσβασης root στο %1$s ?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step6">Χορήγηση πρόσβασης root στο %1$s ;</string>
     <string name="Dashboard_Perm">Δικαιώματα</string>
     <string name="Dashboard_App">Εφαρμογές</string>
     <string name="Dashboard_Log">Μητρώα</string>

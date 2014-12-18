@@ -33,7 +33,7 @@
     <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
     <string name="calibrate_altitude">Βαθμονόμηση υψομέτρου…</string>
     <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
-    <string name="mobiledata_alert_dialog_message">Συνδεθείτε στο διαδίκτυο για τη βαθμονόμηση υψομέτρου?</string>
+    <string name="mobiledata_alert_dialog_message">Συνδεθείτε στο διαδίκτυο για τη βαθμονόμηση υψομέτρου;</string>
     <string name="do_not_show_next_time">Μη το δείχνεις ξανά</string>
     <string name="location_not_enabled_title">Υπηρεσίες τοποθεσίας</string>
     <string name="location_not_enabled_summary">Το ευρετήριο χρειάζεται πληροφορίες για την τοποθεσίας σας για να λειτουργεί κανονικά.</string>

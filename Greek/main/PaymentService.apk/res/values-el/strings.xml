@@ -47,7 +47,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="order_price">%1$s MiCredits</string>
     <string name="password_hint">Εισάγετε τον κωδικό πρόσβασης του λογαριασμού</string>
     <string name="password_error">Κωδικός πρόσβασης είναι λανθασμένος.</string>
-    <string name="password_forget">Ξεχάσατε τον κωδικό σας?</string>
+    <string name="password_forget">Ξεχάσατε τον κωδικό σας;</string>
     <string name="progress_creating">Ανάκτηση πληροφοριών, προκειμένου …</string>
     <string name="progress_loading">Επεξεργασία…</string>
     <string name="button_cancel">Άκυρο</string>
@@ -118,12 +118,12 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="recharge_grid_error_denomination">Παρακαλώ εισάγετε το σωστό ποσό μεταξύ ￥%1$s~%2$s</string>
     <string name="paytool_error_install">Απέτυχε η εγκατάσταση %1$s plugin ασφαλείας στο κινητό</string>
     <string name="paytool_error_msp">%1$s απέτυχε</string>
-    <string name="paytool_msp_not_installed">Δεν έχετε εγκαταστήσει %1$s plugin ασφαλείας, να το εγκαταστήσετε τώρα?</string>
+    <string name="paytool_msp_not_installed">Δεν έχετε εγκαταστήσει %1$s plugin ασφαλείας, να το εγκαταστήσετε τώρα;</string>
     <string name="progress_paytool_creating">Δημιουργία %1$s παραγγελίας…</string>
     <string name="progress_paytool_installing">Εγκατάσταση %1$s plugin ασφαλείας…</string>
     <string name="prepaid_carriers_picker_hint">Select carrier</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
-    <string name="prepaid_picker_hint_1_2">Υποστηρίζει μόνο εφάπαξ χρέωση?</string>
+    <string name="prepaid_picker_hint_1_2">Υποστηρίζει μόνο εφάπαξ χρέωση;</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">Επιλεγμένα ονομαστικής αξίας πρέπει να είναι συνεπής με εκείνη της προπληρωμένης κάρτας. Επιλέγοντας άλλη τιμή θα ακυρώσει την κάρτα. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
     <string name="prepaid_picker_hint_2_2_b">Εάν η ονομαστική αξία της προπληρωμένης κάρτας δεν είναι &lt;font color=red>￥%1$s&lt;/font>, η κάρτα θα είναι άκυρη. Η Mi δεν είναι υπεύθυνη για οποιαδήποτε νομισματική απώλεια που συμβαίνει ως αποτέλεσμα σφαλμάτων του χρήστη.</string>
