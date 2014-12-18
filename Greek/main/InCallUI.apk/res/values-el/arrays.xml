@@ -9,11 +9,6 @@
         <item>Απόκρυψη αριθμού</item>
         <item>Εμφάνιση αριθμού</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>ΠΡΟΕΠΙΛΟΓΗ</item>
-        <item>ΑΠΟΚΡΥΨΗ</item>
-        <item>ΕΜΦΑΝΙΣΗ</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
