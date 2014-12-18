@@ -11,9 +11,9 @@
     <string name="preparing_sd">Προετοιμασία εσωτερικού χώρου αποθήκευσης…</string>
     <string name="access_sd_fail">Δεν είναι δυνατή η πρόσβαση στο χώρο αποθήκευσης USB.</string>
     <string name="confirm_restore_title">Επαναφορά προεπιλογών</string>
-    <string name="confirm_restore_message">Επαναφορά προεπιλεγμένων ρυθμίσεων της κάμερας?</string>
+    <string name="confirm_restore_message">Επαναφορά προεπιλεγμένων ρυθμίσεων της κάμερας;</string>
     <string name="confirm_location_title">Προσθήκη γεωγραφικών ετικετών</string>
-    <string name="confirm_location_message">Προσθήκη ετικέτας στις φωτογραφίες και τα βίντεο με την τοποθεσία όπου λαμβάνονται?</string>
+    <string name="confirm_location_message">Προσθήκη ετικέτας στις φωτογραφίες και τα βίντεο με την τοποθεσία όπου λαμβάνονται;</string>
     <string name="save">Ναι</string>
     <string name="no_save">Όχι, ευχαριστώ</string>
     <string name="pref_camera_recordlocation_title">Αποθήκευση Τοποθεσίας</string>

@@ -110,7 +110,7 @@
     <string name="input_vcode_hint">Εισάγετε κωδικό επαλήθευσης</string>
     <string name="confirm">OK</string>
     <string name="alert_title_remove_account">Διαγραφή λογαριασμού</string>
-    <string name="remove_account_notice">Τι θέλετε να κάνετε με τα μηνύματα, τι επαφές και τα άλλα δεδομένα της συσκευής σας που είναι συγχρονισμένα με τον λογαριασμό σας?</string>
+    <string name="remove_account_notice">Τι θέλετε να κάνετε με τα μηνύματα, τι επαφές και τα άλλα δεδομένα της συσκευής σας που είναι συγχρονισμένα με τον λογαριασμό σας;</string>
     <string name="data_keep_in_device">Διατήρηση στην συσκευή</string>
     <string name="data_wipe_from_device">Διαγραφή από την συσκευή</string>
     <string name="login_notice">Σύνδεση…</string>
@@ -178,7 +178,7 @@
     <string name="button_unbind">Αποσύνδεση</string>
     <string name="unbind_weibo_description">Μετά την αποσύνδεση του λογαριασμού, δεν θα μπορείτε να συγχρονίσετε τις επαφές σας από το Weibo ή να χρησιμοποιήσετε τον Sina Weibo λογαριασμό σας για να συνδεθείτε.</string>
     <string name="unbind_sns_description">Μετά την αποσύνδεση του λογαριασμού, δεν θα μπορείτε να χρησιμοποιήσετε τον %s λογαριασμό σας για να συνδεθείτε στον λογαριασμό Mi.</string>
-    <string name="confirm_unbind">Αποσύνδεση λογαριασμού?</string>
+    <string name="confirm_unbind">Αποσύνδεση λογαριασμού;</string>
     <string name="binded_description" formatted="false">%s προστέθηκε στον λογαριασμό Mi. Το προφίλ σας έχει ενημερωθεί με πληροφορίες από τον %s λογαριασμό.</string>
     <string name="update_contacts">Ενημέρωση βιβλίου διευθύνσεων</string>
     <string name="update_contacts_description">Επιτρέψτε στο Sina Weibo να χρησιμοποιήσει τον λογαριασμό Mi για συγχρονισμό των επαφών μεταξύ τους</string>

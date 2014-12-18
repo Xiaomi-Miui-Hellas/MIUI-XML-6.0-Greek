@@ -10,8 +10,8 @@
     <string name="menu_view_details">Λεπτομέρειες</string>
     <string name="menu_delete">Διαγραφή μετάδοσης</string>
     <string name="view_details_title">Λεπτομέρειες ειδοποίησης</string>
-    <string name="confirm_delete_broadcast">Διαγραφή της μετάδοσης?</string>
-    <string name="confirm_delete_all_broadcasts">Διαγραφή όλων των ληφθέντων μεταδόσεων?</string>
+    <string name="confirm_delete_broadcast">Διαγραφή της μετάδοσης;</string>
+    <string name="confirm_delete_all_broadcasts">Διαγραφή όλων των ληφθέντων μεταδόσεων;</string>
     <string name="button_delete">Διαγραφή</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="etws_earthquake_warning">Προειδοποίηση σεισμού</string>
@@ -93,7 +93,7 @@
     <string name="notification_multiple_title">Νέες προειδοποιήσεις</string>
     <string name="show_cmas_opt_out_summary">Εμφάνιση διαλόγου επιλογής (opt-out), μετά την εμφάνιση της πρώτης ειδοποίησης CMAS (εκτός από Κυβερνητική ειδοποίηση).</string>
     <string name="show_cmas_opt_out_title">Εμφάνιση διαλόγου επιλογής (opt-out)</string>
-    <string name="cmas_opt_out_dialog_text">Ήδη λαμβάνετε ειδοποιήσεις έκτακτης ανάγκης. Θέλετε να συνεχίσετε να λαμβάνετε ειδοποιήσεις έκτακτης ανάγκης?</string>
+    <string name="cmas_opt_out_dialog_text">Ήδη λαμβάνετε ειδοποιήσεις έκτακτης ανάγκης. Θέλετε να συνεχίσετε να λαμβάνετε ειδοποιήσεις έκτακτης ανάγκης;</string>
     <string name="cmas_opt_out_button_yes">Ναι</string>
     <string name="cmas_opt_out_button_no">Όχι</string>
 </resources>

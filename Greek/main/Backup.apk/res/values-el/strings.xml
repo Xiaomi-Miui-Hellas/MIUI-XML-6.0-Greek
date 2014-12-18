@@ -37,7 +37,7 @@
   <string name="backup_recently">"  (Τελευταίο) "</string>
   <string name="backup_report">Προβολή λεπτομερειών</string>
   <string name="backup_update">Ενημέρωση</string>
-  <string name="batch_delete_backup_confirm">Διαγραφή %d αντιγράφου(ων)?</string>
+  <string name="batch_delete_backup_confirm">Διαγραφή %d αντιγράφου(ων);</string>
   <string name="button_backup">Δημιουργία αντιγράφου</string>
   <string name="button_cancel">Άκυρο</string>
   <string name="button_continue">Συνέχεια</string>

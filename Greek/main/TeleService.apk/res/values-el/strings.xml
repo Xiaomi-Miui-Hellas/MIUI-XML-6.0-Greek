@@ -108,7 +108,7 @@
     <string name="fw_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.
 Επικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει."</string>
     <string name="fw_get_in_vm_failed">"Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.
-Αλλαγή σε νέο πάροχο ούτως ή άλλως?"</string>
+Αλλαγή σε νέο πάροχο ούτως ή άλλως;"</string>
     <string name="no_change">Δεν έγιναν αλλαγές.</string>
     <string name="sum_voicemail_choose_provider">Επιλέξτε την υπηρεσία τηλεφωνητή</string>
     <string name="voicemail_default">Προεπιλογή</string>
@@ -400,7 +400,7 @@
     <string name="managed_roaming_title_sub1">Διαχείριση περιαγωγής (SUB1)</string>
     <string name="managed_roaming_title_sub2">Διαχείριση περιαγωγής (SUB2)</string>
     <string name="managed_roaming_title_sub3">Διαχείριση περιαγωγής (SUB3)</string>
-    <string name="managed_roaming_dialog_content">Βρέθηκε δίκτυο με περιορισμένη πρόσβαση. Θέλετε να ξεκινήσει η αναζήτηση δικτύου?</string>
+    <string name="managed_roaming_dialog_content">Βρέθηκε δίκτυο με περιορισμένη πρόσβαση. Θέλετε να ξεκινήσει η αναζήτηση δικτύου;</string>
     <string name="managed_roaming_dialog_ok_button">Ναι</string>
     <string name="managed_roaming_dialog_cancel_button">Όχι</string>
     <string name="ota_title_activate">Ενεργοποιήστε το τηλέφωνό σας</string>
@@ -411,7 +411,7 @@
     <string name="ota_hfa_activation_dialog_message">"Το τηλέφωνο ενεργοποιεί την υπηρεσία δεδομένων.
 
 Αυτό μπορεί να πάρει 5 λεπτά."</string>
-    <string name="ota_skip_activation_dialog_title">Παράλειψη ενεργοποίησης?</string>
+    <string name="ota_skip_activation_dialog_title">Παράλειψη ενεργοποίησης;</string>
     <string name="ota_skip_activation_dialog_message">Εάν παραλείψετε την ενεργοποίηση, δεν θα μπορείτε να πραγματοποιείτε κλήσεις ή να συνδεθείτε με τα δίκτυα κινητής τηλεφωνίας (αν και θα μπορείτε να συνδεθείτε σε δίκτυα WLAN). Μέχρι να ενεργοποιήσετε το τηλέφωνό σας, θα σας ζητηθεί να το ενεργοποιήσετε κάθε φορά που θα το ενεργοποιείτε.</string>
     <string name="ota_skip_activation_dialog_skip_label">Παράλειψη</string>
     <string name="ota_activate">Ενεργοποίηση</string>
@@ -459,7 +459,7 @@
     <string name="pstn_phone">Κλήση κινητού τηλεφώνου</string>
     <string name="internet_phone">Κλήση μέσω Internet</string>
     <string name="no_sip_account_found_title">Κανένας λογαριασμός για κλήσεις μέσω Internet</string>
-    <string name="no_sip_account_found">Δεν υπάρχουν λογαριασμοί για κλήσεις μέσω Internet σε αυτό το τηλέφωνο. Θέλετε να προσθέσετε ένα τώρα?</string>
+    <string name="no_sip_account_found">Δεν υπάρχουν λογαριασμοί για κλήσεις μέσω Internet σε αυτό το τηλέφωνο. Θέλετε να προσθέσετε ένα τώρα;</string>
     <string name="sip_menu_add">Προσθήκη</string>
     <string name="add_sip_account">Προσθήκη λογαριασμού</string>
     <string name="remove_sip_account">Κατάργηση λογαριασμού</string>
@@ -540,10 +540,10 @@
     <string name="ims_menu_discard">Απόρριψη</string>
     <string name="remove_ims_account">Κατάργηση λογαριασμού</string>
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
-    <string name="respond_via_sms_canned_response_1">Δεν μπορώ να μιλήσω τώρα. Θα με καλέσετε αργότερα?</string>
+    <string name="respond_via_sms_canned_response_1">Δεν μπορώ να μιλήσω τώρα. Θα με καλέσετε αργότερα;</string>
     <string name="respond_via_sms_canned_response_2">Θα σας καλέσω σε λίγο.</string>
     <string name="respond_via_sms_canned_response_3">Θα σας τηλεφωνήσω αργότερα.</string>
-    <string name="respond_via_sms_canned_response_4">Δεν μπορώ να μιλήσω τώρα. Τι συμβαίνει?</string>
+    <string name="respond_via_sms_canned_response_4">Δεν μπορώ να μιλήσω τώρα. Τι συμβαίνει;</string>
     <string name="respond_via_sms_cannot_empty">Τα μηνύματα απόρριψης δεν μπορεί να είναι άδεια</string>
     <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
     <string name="respond_via_sms_setting_summary">Επεξεργασία προεπιλεγμένων απαντήσεων κειμένου</string>
@@ -642,7 +642,7 @@
     <string name="telocation_number_type_mob">Κινητό</string>
     <string name="telocation_number_type_tel">Σταθερό</string>
     <string name="telocation_countrycode_alert_message">Εισάγετε αριθμό τηλεφώνου χωρίς τον κωδικό χώρας</string>
-    <string name="telocation_confim_delete_title">Διαγραφή μηνύματος?</string>
+    <string name="telocation_confim_delete_title">Διαγραφή μηνύματος;</string>
     <string name="telocation_error_message_number">%s υποστηρίζει μόνο αριθμούς</string>
     <string name="telocation_jituan_error_message_number">%s υποστηρίζει μόνο αριθμούς και χαρακτήρες μπαλαντέρ</string>
     <string name="call_description_recording">Εγγραφή…</string>

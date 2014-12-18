@@ -76,9 +76,9 @@
   <string name="default_reminder_mode">Προκαθορισμενη λειτουργια υπενθυμισης</string>
   <string name="delete_calendar">Διαγραφή</string>
   <string name="delete_label">Διαγραφή</string>
-  <string name="delete_recurring_event_title">Διαγραφή %s?</string>
-  <string name="delete_this_event_title">Διαγραφή γεγονότος?</string>
-  <string name="delete_topic_dialog_title">Είστε σίγουροι ότι θέλετε να διαγράψετε το \"%s\" ?</string>
+  <string name="delete_recurring_event_title">Διαγραφή %s;</string>
+  <string name="delete_this_event_title">Διαγραφή γεγονότος;</string>
+  <string name="delete_topic_dialog_title">Είστε σίγουροι ότι θέλετε να διαγράψετε το \"%s\" ;</string>
   <string name="delete_topic_success">Επιτυχής διαγραφή του \"%s\"</string>
   <string name="description_label">Περιγραφή</string>
   <string name="directory_searching_fmt">Ψάχνει %s…</string>
@@ -89,7 +89,7 @@
   <string name="done">Επόμενο</string>
   <string name="edit_event_all_day_label">ΟΛΗ ΜΕΡΑ</string>
   <string name="edit_event_calendar_label">Ημερολόγιο</string>
-  <string name="edit_event_confirm_message">Discard changes to event?</string>
+  <string name="edit_event_confirm_message">Discard changes to event;</string>
   <string name="edit_event_from_label">ΑΠΟ</string>
   <string name="edit_event_label">Λεπτομέρειες</string>
   <string name="edit_event_show_all">Εμφάνιση όλων</string>
@@ -262,7 +262,7 @@
   <string name="topic_event_list_header_label">Επερχόμενα γεγονότα</string>
   <string name="view_event_calendar_label">Ημερολόγιο:</string>
   <string name="view_event_organizer_label">Organizer:</string>
-  <string name="view_event_response_label">Συμμετέχετε?</string>
+  <string name="view_event_response_label">Συμμετέχετε;</string>
   <string name="week_view">Βδομάδα</string>
   <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string>
   <string name="weekly">Εβδομαδιαία (κάθε %s)</string>
