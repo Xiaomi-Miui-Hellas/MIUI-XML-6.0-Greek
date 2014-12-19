@@ -20,7 +20,7 @@
     <string-array name="auto_process_mode">
         <item>Προτροπή με ειδοποίηση</item>
         <item>Καθαρισμός στο παρασκήνιο</item>
-        <item>Προβολή ειδοποίησης μετά τον καθαρισμό</item>
+        <item>Προβολή ειδοποίησης μετά</item>
     </string-array>
     <string-array name="auto_memory_clean">
         <item>Σε 1 λεπτό</item>
