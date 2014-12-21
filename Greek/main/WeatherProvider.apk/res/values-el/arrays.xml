@@ -2,27 +2,27 @@
 <resources>
     <string-array name="weather_type">
         <item>Λιακάδα</item>
-        <item>Συννεφιά</item>
         <item>Νεφελώδης</item>
-        <item>Ομίχλη</item>
+        <item>Νεφελώδης</item>
+        <item>Ομιχλώδης</item>
+        <item>Ισχυρή καταιγίδα</item>
+        <item>Δυνατή νεροποντή</item>
+        <item>Νεροποντή</item>
         <item>Καταιγίδα</item>
-        <item>Καταιγίδες</item>
-        <item>Καταιγίδα</item>
-        <item>Θυελλώδης</item>
-        <item>Βροχή</item>
-        <item>Έντονες βροχοπτώσεις</item>
-        <item>Μέτρια βροχή</item>
+        <item>Ψιλόβροχο</item>
+        <item>Ισχυρή βροχόπτωση</item>
+        <item>Μέτρια βροχόπτωση</item>
         <item>Ασθενής βροχή</item>
-        <item>Βροχή και χιόνι</item>
+        <item>Χιονόνερο</item>
         <item>Χιονοθύελλα</item>
         <item>Χιόνι</item>
         <item>Ισχυρή χιονόπτωση</item>
-        <item>Μέτρια χιόνι</item>
+        <item>Μέτρια χιονόπτωση</item>
         <item>Ασθενής χιονόπτωση</item>
         <item>Ισχυρή αμμοθύελλα</item>
         <item>Αμμοθύελλα</item>
         <item>Άμμος</item>
-        <item>Με ανέμους</item>
+        <item>Θυελλώδης</item>
         <item>Χαλάζι</item>
         <item>Σκόνη</item>
         <item>Ομίχλη</item>
