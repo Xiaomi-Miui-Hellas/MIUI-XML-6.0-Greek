@@ -280,9 +280,9 @@
         <item>Τοποθεσία</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Βραχύς</item>
-        <item>Μέτριος</item>
-        <item>Μακρύς</item>
+        <item>Σύντομη</item>
+        <item>Μέτρια</item>
+        <item>Μεγάλη</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Προεπιλογή</item>
@@ -532,12 +532,12 @@
         <item>Κρύο</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Λαμπρή</item>
-        <item>Τυπική</item>
+        <item>Λαμπρό</item>
+        <item>Τυπικό</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Επέτρεψε</item>
-        <item>Ρώτα</item>
+        <item>Ερώτηση</item>
         <item>Απόρριψη</item>
     </string-array>
     <string-array name="startup_hips_action">
