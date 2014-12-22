@@ -11,7 +11,8 @@
   <string name="birthday">Γενέθλια:</string>
   <string name="camera_error">"Υπάρχει κάποιο σφάλμα με την κάμερα"</string>
   <string name="cancel">Ακύρωση</string>
-  <string name="close_flash_error">"Αδυναμία κλεισίματος του φακού"</string>
+  <string name="choose_picture">Επιλέξτε εικόνα κωδικού QR</string>
+  <string name="close_flash_error">"Αδυναμία απενεργοποίησης φακού"</string>
   <string name="cloud_album_details">Λεπτομέρειες Cloud άλμπουμ:</string>
   <string name="company">Εταιρεία:</string>
   <string name="connect_wifi">Σύνδεση σε αυτό το δίκτυο</string>
@@ -38,7 +39,7 @@
   <string name="not_recommend_access_web_url">Ασφαλής σύνδεση (δεν προτείνεται)</string>
   <string name="not_tips">"Όχι προβολή πάλι"</string>
   <string name="note">Σημείωση:</string>
-  <string name="open_flash_error">"Αποτυχία εκκίνησης φακού"</string>
+  <string name="open_flash_error">"Αδυναμία ενεργοποίησης φακού"</string>
   <string name="phone">Τηλέφωνο:</string>
   <string name="picker_lable">Φωτογραφία</string>
   <string name="place_barcode_into_rectangle">Για σάρωση, ευθυγραμμίστε τον κωδικό στο παρακάτω παράθυρο</string>
