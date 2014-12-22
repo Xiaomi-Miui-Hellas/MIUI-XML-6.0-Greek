@@ -32,7 +32,7 @@
     <string name="hot_problem">Προβολή γνωστών bugs</string>
     <string name="title_common_problem">Κοινά bugs</string>
     <string name="title_hot_problem">Γνωστά bugs</string>
-    <string name="non_system_app_select">Ληφθέντες εφαρμογές</string>
+    <string name="non_system_app_select">Ληφθείσες εφαρμογές</string>
     <string name="system_app_select">Ενσωματωμένες εφαρμογές</string>
     <string name="section_description">Περιγραφή</string>
     <string name="section_screenshot">Στιγμιότυπο</string>
@@ -97,4 +97,6 @@
     <string name="submit_dialog_content">Τα σχόλιά σας, μαζί με τα αρχεία καταγραφής των σφαλμάτων και συνημμένες εικόνες, θα αποσταλούν στους διακομιστές της Xiaomi.</string>
     <string name="submit_dialog_cancel">Ακύρωση</string>
     <string name="submit_dialog_confirm">Υποβολή</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς σφάλματος (διαρκεί περίπου ένα λεπτό)</string>
+    <string name="bugreport_tool_log_toast">Το αρχείο καταγραφής αποθηκεύτηκε στο %s</string>
 </resources>
