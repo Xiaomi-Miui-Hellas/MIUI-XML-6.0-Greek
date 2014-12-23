@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">βρέθηκαν %1$d σταθμοί</item>
+        <item quantity="zero">βρέθηκαν %1$d σταθμοί</item>
+        <item quantity="one">βρέθηκε 1 σταθμός</item>
+        <item quantity="two">βρέθηκαν %1$d σταθμοί</item>
+        <item quantity="few">βρέθηκαν %1$d σταθμοί</item>
+        <item quantity="many">βρέθηκαν %1$d σταθμοί</item>
+    </plurals>
+</resources>
