@@ -38,7 +38,7 @@
     </string-array>
     <string-array name="timezone_labels">
         <item>Νησιά Μάρσαλ</item>
-        <item>Midway Island</item>
+        <item>Νήσος Midway</item>
         <item>Χαβάη</item>
         <item>Αλάσκα</item>
         <item>Ώρα Ειρηνικού</item>
@@ -61,21 +61,21 @@
         <item>Βραζιλία</item>
         <item>Μπουένος Άιρες</item>
         <item>Γροιλανδία</item>
-        <item>Μοντεβιδέο</item>
+        <item>Μοντεβίδεο</item>
         <item>Mid-Atlantic</item>
         <item>Αζόρες</item>
         <item>Νησιά του Πράσινου Ακρωτηρίου</item>
-        <item>Casablanca</item>
-        <item>Λονδίνο, ουβλίνο</item>
+        <item>Καζαμπλάνκα</item>
+        <item>Λονδίνο, Δουβλίνο</item>
         <item>Άμστερνταμ, Βερολίνο</item>
         <item>Βελιγράδι</item>
         <item>Βρυξέλλες</item>
-        <item>Σαράγεβο</item>
+        <item>Σεράγεβο</item>
         <item>Βίντχουκ</item>
         <item>Δυτικής Αφρικής</item>
         <item>Αμάν, Ιορδανία</item>
         <item>Αθήνα, Κωνσταντινούπολη</item>
-        <item>Βηρυττός, Λίβανος</item>
+        <item>Βηρυτός, Λίβανος</item>
         <item>Κάιρο</item>
         <item>Ελσίνκι</item>
         <item>Ιερουσαλήμ</item>
@@ -111,8 +111,8 @@
         <item>Τόκιο, Οζάκα</item>
         <item>Γιακούτσκ</item>
         <item>Αδελαΐδα</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
+        <item>Ντάργουιν</item>
+        <item>Μπρίσμπεϊν</item>
         <item>Χόμπαρτ</item>
         <item>Σίδνεϊ, Καμπέρα</item>
         <item>Βλαδιβοστόκ</item>
@@ -172,11 +172,11 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Πάντα</item>
-        <item>Μόνο όταν ο ήχος κλήσης είναι στο σιωπηλό</item>
+        <item>Μόνο όταν είναι σε σίγαση</item>
         <item>Ποτέ</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Διαφανές μαύρο</item>
+        <item>Διαφανές</item>
         <item>Άσπρο φόντο</item>
     </string-array>
 </resources>
