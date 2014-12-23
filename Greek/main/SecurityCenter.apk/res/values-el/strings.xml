@@ -120,7 +120,7 @@
     <string name="power_dialog_cancel">Ακύρωση</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_delete_dialog_title">Διαγραφή προφίλ.</string>
-    <string name="power_dialog_delete_dialog_delete">Διαγραφή προφίλ και σχετικές ρυθμίσεις? Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!</string>
+    <string name="power_dialog_delete_dialog_delete">Διαγραφή προφίλ και σχετικές ρυθμίσεις; Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Δεν είναι δυνατή η διαγραφή: είστε ήδη σε χρήση αυτού του προφίλ.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Σε χρήση από την Εξοικονόμηση Ενέργειας (στάθμη μπαταρίας κάτω από το όριο). Θα πρέπει να αλλάξετε αυτή τη ρύθμιση για να μπορέσετε να το διαγράψετε.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Σε χρήση από το Προφίλ Μπαταρίας. Θα πρέπει να αλλάξετε αυτή τη ρύθμιση για να μπορέσετε να το διαγράψετε.</string>

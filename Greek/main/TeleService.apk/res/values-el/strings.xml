@@ -133,10 +133,13 @@
     <string name="roaming_enable">Σύνδεση σε υπηρεσίες δεδομένων κατά την περιαγωγή</string>
     <string name="roaming_disable">Σύνδεση σε υπηρεσίες δεδομένων κατά την περιαγωγή</string>
     <string name="roaming_reenable_message">Έχετε χάσει τη σύνδεση δεδομένων επειδή φύγατε από το οικιακό σας δίκτυο με την περιαγωγή δεδομένων απενεργοποιημένη.</string>
-    <string name="roaming_warning">Να επιτραπεί η περιαγωγή δεδομένων? Ενδέχεται να υπάρξουν σημαντικές χρεώσεις περιαγωγής!</string>
+    <string name="roaming_warning">Να επιτραπεί η περιαγωγή δεδομένων; Ενδέχεται να υπάρξουν σημαντικές χρεώσεις περιαγωγής!</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="always_enable_mms">Πάντα να λαμβάνονται τα MMS</string>
     <string name="always_enable_mms_summary">Λήψη MMS, ακόμη και όταν τα δεδομένα είναι απενεργοποιημένα</string>
+    <string name="network_unlock">Ξεκλειδώστε</string>
+    <string name="sim_cards_network_mode_changed_title">Ανιχνεύτηκε νέα κάρτα SIM</string>
+    <string name="sim_cards_network_mode_changed_summary">Πατήστε για να δείτε τις ρυθμίσεις κλήσεων και SMS.</string>
     <string name="networks_title">Φορείς δικτύου</string>
     <string name="network_settings_warn_message">Χρήση μόνο των δικτύων που επιλέγετε.</string>
     <string name="network_settings_auto_select_title">Χωρίς αυτόματη επιλογή δικτύου</string>
@@ -163,6 +166,7 @@
     <string name="preferred_network_type_pref_entries_only_3g">Μόνο δίκτυα 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_3g_only_warning">Δεν θα είστε σε θέση να συνδεθείτε σε ένα δίκτυο, αν η κάρτα SIM δεν έχει λειτουργικότητα 3G.</string>
+    <string name="preferred_network_restrict_network_changed_incall">"Δεν είναι δυνατή η αλλαγή του δικτύου κινητής τηλεφωνίας κατά τη διάρκεια μιας κλήσης"</string>
     <string name="callwait_open_hint">\"Αναμονή Κλήσεων\" είναι μια υπηρεσία που παρέχεται από την εταιρεία κινητής τηλεφωνίας. Εάν λάβετε μια ειδοποίηση σφάλματος, επικοινωνήστε με τον πάροχό σας και βεβαιωθείτε ότι αυτή η λειτουργία είναι ενεργοποιημένη για τον αριθμό σας.</string>
     <string name="open_miui">Άνοιξε</string>
     <string name="cdma_system_select_title">Επιλέξτε σύστημα</string>
@@ -614,7 +618,6 @@
     <string name="sim_contact_number">Αριθμός</string>
     <string name="pin2_invalid_or_name_is_too_long">Έχετε εισάγει άκυρο PIN ή το όνομα που εισαγάγατε είναι πολύ μεγάλο</string>
     <string name="voice_privacy">Κρυπτογράφηση φωνής</string>
-    <string name="voice_privacy_summary" />
     <string name="back">Πίσω</string>
     <string name="add">Προσθήκη</string>
     <string name="undefined">Απροσδιόριστο</string>
@@ -795,7 +798,6 @@
     <string name="call_waiting_title">Αναμονή κλήσης</string>
     <string name="call_waiting_summary">Κατά τη διάρκεια μιας κλήσης, ειδοποιήστε με για άλλες εισερχόμενες κλήσεις</string>
     <string name="call_waiting_tone_title">Ειδοποίηση αναμονής κλήσεων</string>
-    <string name="call_waiting_tone_stop_summary" />
     <string name="call_waiting_tone_continuously">Αναπαραγωγή ήχου ειδοποίησης συνεχώς</string>
     <string name="call_waiting_tone_twice_only">Αναπαραγωγή ήχου ειδοποίησης δύο φορές</string>
     <string name="call_waiting_tone_twice_and_vibrate">Ήχος ειδοποίησης και δόνηση δύο φορές</string>

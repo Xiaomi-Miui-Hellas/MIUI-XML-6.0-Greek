@@ -119,6 +119,7 @@
   <string name="choosertitle_sharevia">Διαμοιρασμός μέσω</string>
   <string name="clear">Καθαρισμός</string>
   <string name="clear_history">Καθαρισμός ιστορικού</string>
+ <string name="clear_history_by_group_alert">Καθαρισμός ιστορικού από %s?</string>
   <string name="clear_history_group">Καθαρισμός ιστορικού (%s σελίδες)</string>
   <string name="clear_search_history">Καθαρισμός ιστορικού</string>
   <string name="clip_dialog_title">Άνοιγμα url από αντιγραφή;</string>
