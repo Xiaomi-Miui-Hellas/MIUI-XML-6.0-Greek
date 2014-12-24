@@ -473,7 +473,7 @@
         <item>Εκκίνηση φωνητικής βοήθειας</item>
         <item>Εκκίνηση του Google now</item>
         <item>Κλείσιμο τρέχουσας εφαρμογής</item>
-        <item>Show menu</item>
+        <item>Εμφάνιση μενού</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 δευτερόλεπτα</item>
