@@ -34,6 +34,7 @@
     <string name="phone_locked_timeout_minutes_string">Παρακαλώ δοκιμάστε ξανά σε %s λεπτά</string>
     <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
     <string name="unlock_sim_string">Ξεκλειδώστε</string>
+    <string name="unlock_string">Ξεκλειδώστε</string>
     <string name="lockscreen_glogin_submit_button">Είσοδος</string>
     <string name="lockscreen_access_pattern_start">Εκκίνηση μοτίβου</string>
     <string name="lockscreen_access_pattern_cleared">Το μοτίβο διαγράφηκε</string>
