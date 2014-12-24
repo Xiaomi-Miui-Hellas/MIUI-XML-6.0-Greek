@@ -386,9 +386,9 @@
     <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
     <string name="card_title_threeway_call">Τριμερής κλήση</string>
     <string name="card_title_incoming_call">Εισερχόμενη κλήση</string>
-    <string name="card_title_call_ended">Η κλήση τερματίστηκε</string>
+    <string name="card_title_call_ended">"Η κλήση τερματίστηκε "</string>
     <string name="card_title_on_hold">Σε αναμονή</string>
-    <string name="card_title_hanging_up">Τερματισμός</string>
+    <string name="card_title_hanging_up">"Τερματισμός "</string>
     <string name="card_title_in_call">Σε κλήση</string>
     <string name="card_title_in_call_short">Σε κλήση</string>
     <string name="card_title_my_phone_number">Ο αριθμός μου είναι %s</string>

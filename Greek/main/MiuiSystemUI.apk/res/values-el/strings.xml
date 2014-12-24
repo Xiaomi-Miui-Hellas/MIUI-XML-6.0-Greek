@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
+    <string name="audio_effect_settings">Ορισμός τύπου ακουστικών</string>
+    <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
+    <string name="audio_effect_custom">Ρύθμιση</string>
     <string name="app_label">Γραμμή κατάστασης</string>
     <string name="status_bar_recent_inspect_item_title">Πληροφορίες εφαρμογών</string>
     <string name="status_bar_no_recent_apps">Δεν υπάρχουν πρόσφατες εφαρμογές</string>
@@ -69,7 +72,7 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_edge">Edge</string>
-    <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
+    <string name="accessibility_bluetooth_tether">Πρόσδεση Bluetooth.</string>
     <string name="accessibility_airplane_mode">Λειτ.πτήσης.</string>
     <string name="accessibility_battery_level">Επίπεδο μπαταρίας: %d</string>
     <string name="accessibility_remove_notification">Εκκαθάριση.</string>
@@ -100,7 +103,7 @@
     <string name="description_direction_left">Σύρετε προς τα αριστερά για %s.</string>
     <string name="description_target_search">Αναζήτηση</string>
     <string name="status_bar_recent_memory_info1">"%s "</string>
-    <string name="status_bar_recent_memory_info2">" %s available"</string>
+    <string name="status_bar_recent_memory_info2">" %s διαθέσιμα"</string>
     <string name="usb_mode_notification">Εξ.χώρος USB</string>
     <string name="usb_mode_dont_ask">Να θυμάσαι την επιλογή μου</string>
     <string name="usb_mode_mount_storage_title">Σύνδεση εξ.χώρου USB;</string>
@@ -172,6 +175,9 @@
     <string name="ext_media_mountable_notification_title">Συνδεδεμένη μονάδα αποθήκευσης USB</string>
     <string name="ext_media_mountable_notification_message">Άνοιγμα εξωτερικών μέσων με τον File Explorer</string>
     <string name="ext_media_safe_remove">Ασφαλής αφαίρεση</string>
+    <string name="status_bar_network_flow_today">Σήμερα: %1$s</string>
+    <string name="status_bar_network_flow">"Σήμερα: %1$s    Υπόλοιπο: %2$s    Μηνιαίο όριο: %3$s"</string>
+    <string name="status_bar_network_flow_exceed">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Μηνιαίο όριο: %4$s</string>
     <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
     <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
     <string name="notification_otg_mouse_in">Το ποντίκι συνδέθηκε</string>
@@ -204,4 +210,5 @@
     <string name="headset_custom">Προσαρμογή</string>
     <string name="usb_share_net_info">Διαμοιρασμός δικτύου μέσω USB</string>
     <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
+    <string name="battery_profiles">Χρησιμοποιήστε τα προφίλ μπαταρίας</string>
 </resources>

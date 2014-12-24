@@ -1422,7 +1422,7 @@
     <string name="accessibility_toggle_screen_magnification_preference_title">Μεγέθυνση οθόνης</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Αυτόματη ενημέρωση μεγέθυνσης οθόνης</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ενημέρωση της μεγέθυνσης οθόνης στις μεταβάσεις των εφαρμογών</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Το κουμπί λειτουργίας τερματίζει την κλήση</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Το κουμπί λειτ. τερμ. την κλήση</string>
     <string name="accessibility_toggle_speak_password_preference_title">Εκφώνησε τους κωδικούς πρόσβασης</string>
     <string name="accessibility_long_press_timeout_preference_title">Καθυστέρηση παρατεταμένου πατήματος</string>
     <string name="accessibility_menu_item_settings">Ρυθμίσεις</string>
