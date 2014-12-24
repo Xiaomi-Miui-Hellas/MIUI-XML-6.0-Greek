@@ -365,7 +365,7 @@
     <string name="owner_album_subtitle">Κοινή χρήση με %1$s μέλη</string>
     <string name="path">Διαδρομή</string>
     <string name="people">Άτομα</string>
-    <string name="photo_page_always_rotate">Αυτ. περιστροφή φωτογραφιών.</string>
+    <string name="photo_page_always_rotate">Αυτ. περιστροφή φωτογραφιών</string>
     <string name="photo_page_detail_show_in_the_map">Δείτε την τοποθεσία στον χάρτη</string>
     <string name="photo_page_save_image">Αποθήκευση</string>
     <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>

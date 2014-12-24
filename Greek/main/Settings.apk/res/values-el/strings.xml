@@ -2266,7 +2266,7 @@
     <string name="lock_screen_unlock_show_summary">Μην χρησιμοποιείτε άλλες οθόνες κλειδώματος, μετά την εισαγωγή κωδικού ξεκλειδώστε την οθόνη</string>
     <string name="date_time_settings">Ημερομηνία &amp; Ώρα</string>
     <string name="timezone_settings">Ζώνη ώρας</string>
-    <string name="security_privacy_settings_title">Ασφάλεια &amp; απόρρητο</string>
+    <string name="security_privacy_settings_title">Ασφάλεια &amp; Απόρρητο</string>
     <string name="nearby_wifi">Επιλογή κοντινού Wi-Fi</string>
     <string name="unlock_set_enter_system">Άμεση πρόσβαση στο σύστημα</string>
     <string name="unlock_set_enter_system_summary">Το Θέμα της οθόνης κλειδώματος του συστήματος δεν θα πρέπει να χρησιμοποιείται μετά την ενεργοποίηση. Ενεργοποίηση της οθόνης για άμεση πρόσβαση στο σύστημα</string>
