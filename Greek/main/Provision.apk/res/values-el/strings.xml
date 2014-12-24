@@ -7,6 +7,8 @@
     <string name="provision_inputmethod_policy_description1">Πολιτική απορρήτου</string>
     <string name="multisim_settings_title">Βρέθηκαν 2 κάρτες SIM</string>
     <string name="multisim_settings_category">Ρυθμίσεις κάρτας SIM</string>
+    <string name="page_layout_title">Διάταξη συστήματος</string>
+    <string name="page_layout_label">Ρυθμίστε το μέγεθος του κειμένου και τη διάταξη της Αρχικής Οθόνης, την μπάρα ειδοποιήσεων, το πληκτρολόγιο, και πολλά άλλα.</string>
     <string name="sim_card_detection">Τοποθετήστε κάρτα SIM</string>
     <string name="sim_card_detection_info">Για να τοποθετήσετε την κάρτα SIM, διαβάστε τις οδηγίες που παραλάβατε με την συσκευή σας.</string>
     <string name="sim_card_detecting">Έλεγχος για κάρτα SIM…</string>
@@ -20,9 +22,8 @@
     <string name="sim_dectection_next">Συνέχεια</string>
     <string name="shut_down">Κλείσιμο συσκευής</string>
     <string name="sim_redetection">Έλεγχος για κάρτα SIM ξανά</string>
-    <string name="logo_congratulation">Όλα είναι έτοιμα!</string>
+    <string name="title_congratulation">"Επιτυχής ρύθμιση!"</string>
     <string name="congratulation_label">Χαρείτε το νέο σας τηλέφωνο :)</string>
-    <string name="congratulation_next">Έναρξη χρήσης του MIUI</string>
     <string name="pref_title_voice_slot">Προεπιλεγμένη SIM φωνής</string>
     <string name="pref_title_data_slot">Προεπιλεγμένη SIM δεδομένων</string>
     <string name="summary_not_set">Δεν ορίστηκε</string>
@@ -45,4 +46,6 @@
     <string name="locale_picker_desc">Αν θέλετε αργότερα να αλλάξετε την τοποθεσία σας, θα χρειαστεί να επαναφέρετε τη συσκευή σας στις εργοστασιακές ρυθμίσεις.</string>
     <string name="locale_picker_confirm_dialog_title">Επιλέξτε την τοποθεσία σας</string>
     <string name="locale_picker_confirm_dialog_desc">"Ορισμός %s ως τοποθεσία σας? "</string>
+    <string name="provision_finish">OK</string>
+    <string name="provision_finish_restart">Επανεκκίνηση</string>
 </resources>

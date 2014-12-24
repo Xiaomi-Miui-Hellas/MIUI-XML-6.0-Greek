@@ -5,14 +5,11 @@
     <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
     <string name="audio_effect_custom">Ρύθμιση</string>
     <string name="app_label">Γραμμή κατάστασης</string>
-    <string name="status_bar_recent_inspect_item_title">Πληροφορίες εφαρμογών</string>
     <string name="status_bar_no_recent_apps">Δεν υπάρχουν πρόσφατες εφαρμογές</string>
     <string name="battery_low_title">Συνδέστε το φορτιστή σας!</string>
-    <string name="battery_low_subtitle">Η μπαταρία είναι σε χαμηλά επίπεδα:</string>
     <string name="battery_low_percent_format">Έχει μείνει λιγότερο από %d%%</string>
     <string name="invalid_charger">"Η φόρτιση μέσω USB δεν υποστηρίζεται.
 Κάντε χρήση του φορτιστή σας."</string>
-    <string name="battery_low_why">Κατανάλωση</string>
     <string name="status_bar_settings_airplane">Λειτουργία πτήσης</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>

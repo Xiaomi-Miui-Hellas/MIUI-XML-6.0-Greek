@@ -1934,7 +1934,7 @@
     <string name="vpn_mppe">PPP encryption MPPE</string>
     <string name="vpn_l2tp_secret">L2TP secret</string>
     <string name="vpn_ipsec_identifier">Αναγνωριστικό IPSec</string>
-    <string name="vpn_ipsec_secret">IPSec pre-shared key</string>
+    <string name="vpn_ipsec_secret">Προ-μοιρασμένο κλειδί IPSec</string>
     <string name="vpn_ipsec_user_cert">Πιστοποιητικό χρήστη IPSec</string>
     <string name="vpn_ipsec_ca_cert">Πιστοποιητικό IPSec CA</string>
     <string name="vpn_ipsec_server_cert">Πιστοποιητικό διακομιστή IPSec</string>
@@ -1957,7 +1957,7 @@
     <string name="vpn_create">Προσθήκη δικτύου VPN</string>
     <string name="vpn_menu_edit">Επεξεργασία δικτύου</string>
     <string name="vpn_menu_delete">Διαγραφή δικτύου</string>
-    <string name="vpn_menu_lockdown">Always-on VPN</string>
+    <string name="vpn_menu_lockdown">Πάντα ενεργό VPN</string>
     <string name="vpn_lockdown_summary">Επιλέξτε ένα προφίλ VPN στο οποίο θα παραμένετε πάντα συνδεδεμένοι. Θα επιτρέπεται κίνηση στο δίκτυο μόνο όταν συνδέεστε με αυτό το VPN.</string>
     <string name="vpn_lockdown_none">Κανένα</string>
     <string name="vpn_lockdown_config_error">Το Always-on VPN απαιτεί μια διεύθυνση IP για δύο server και DNS.</string>
@@ -2377,6 +2377,7 @@
     <string name="usb_msd_driver_installer_summary">Λήψη προγραμμάτων οδήγησης για Windows και OSX</string>
     <string name="input_settings">Ρυθμίσεις εισόδου</string>
     <string name="show_magnifier_when_input">Μεγέθυνση</string>
+    <string name="volume_hifi_description">Ρυθμίσεις Hi-Fi</string>
     <string name="volume_voice_description">Ένταση φωνής</string>
     <string name="volume_system_description">Ένταση συστήματος, κλείστρο κάμερας, κλείδωμα οθόνης και άλλες ειδοποιήσεις συστήματος</string>
     <string name="volume_bluetooth_description">Ένταση Bluetooth</string>
@@ -2835,7 +2836,8 @@
     <string name="layout_size_medium">Μεγάλο</string>
     <string name="layout_size_large">Τεράστιο</string>
     <string name="page_layout_confirm_title">Αλλαγή ρυθμίσεων οθόνης</string>
-    <string name="page_layout_confirm_message">"Αλλαγή των ρυθμίσεων της οθόνης συστήματος; Η εφαρμογή αυτών των αλλαγών διαρκεί περίπου 1 λεπτό."</string>
+    <string name="page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>
+    <string name="provision_page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>	
     <string name="page_layout_1">Κυρ 28/12</string>
     <string name="page_layout_2">Κάμερα</string>
     <string name="page_layout_3">Άλμπουμ</string>

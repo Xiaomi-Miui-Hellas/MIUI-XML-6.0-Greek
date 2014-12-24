@@ -18,25 +18,25 @@
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Προκαθορισμένο</item>
-        <item>Κλασικός</item>
+        <item>Κλασικό</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Καθαρός</item>
-        <item>Συννεφιά</item>
-        <item>Λίγη ομίχλη</item>
+        <item>Νεφελώδης</item>
         <item>Ομιχλώδης</item>
-        <item>Σοβαρή καταιγίδα</item>
+        <item>Ομιχλώδης</item>
+        <item>Ισχυρή καταιγίδα</item>
         <item>Καταιγίδα</item>
-        <item>Πολύ βαριά Βροχή</item>
-        <item>Κεραυνοί</item>
-        <item>Αρκετή βροχή</item>
-        <item>Βαριά βροχή</item>
-        <item>Βροχή</item>
+        <item>Πολύ ισχυρή βροχόπτωση</item>
+        <item>Καταιγίδα</item>
         <item>Ψιλόβροχο</item>
+        <item>Ισχυρή βροχόπτωση</item>
+        <item>Βροχή</item>
+        <item>Ασθενής βροχή</item>
         <item>Χιονόνερο</item>
-        <item>Χιονοθύελλα </item>
+        <item>Χιονοθύελλα</item>
         <item>Νιφάδες χιονιού</item>
-        <item>Ισχυρή χιονόπτωση</item>
+        <item>Βαριά χιονόπτωση</item>
         <item>Χιονόπτωση</item>
         <item>Ελαφρά χιονόπτωση</item>
         <item>Ισχυρή αμμοθύελλα</item>
@@ -51,6 +51,6 @@
         <item>Move apps</item>
         <item>Widgets</item>
         <item>Wallpaper</item>
-        <item>Effects</item>
+        <item>Εφέ/item>
     </string-array>
 </resources>
