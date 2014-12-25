@@ -12,7 +12,7 @@
   <string name="auto_backup_choose_title">Ορισμός ονόματος</string>
   <string name="auto_backup_date">Συχνότητα (σε μέρες)</string>
   <string name="auto_backup_only_wifi">Αυτόματα αντίγραφα μόνο όταν υπάρχει σύνδεση Wi-Fi</string>
-  <string name="auto_backup_open">Ενεργοποίηση αυτόματου αντιγράφου</string>
+  <string name="auto_backup_open">Ενεργ. αυτόματου αντιγράφου</string>
   <string name="auto_backup_progress">Εκτέλεση αυτόματου αντιγράφου παρακαλώ περιμένετε …</string>
   <string name="auto_backup_select_user_apps">Επιλογή εφαρμογών</string>
   <string name="auto_backup_selected_user_apps">Επιλεγμένες εφαρμογές</string>

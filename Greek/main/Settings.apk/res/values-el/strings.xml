@@ -2773,7 +2773,7 @@
     <string name="system_backup_section_title">Αντίγραφα</string>
     <string name="local_backup_section_title">Τοπικά αντίγραφα</string>
     <string name="local_backup_section_summary">Αντίγραφα ρυθμίσεων συστήματος, λογαριασμών και εφαρμογών</string>
-    <string name="local_auto_backup_section_title">Αυτόματη δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="local_auto_backup_section_title">Αυτόματη δημ. αντιγράφων</string>
     <string name="local_auto_backup_on">Ενεργό</string>
     <string name="local_auto_backup_off">Ανενεργό</string>
     <string name="other_personal_settings">Πρόσθετες ρυθμίσεις</string>
