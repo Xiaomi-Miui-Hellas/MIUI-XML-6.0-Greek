@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="record_scenes_entries">
-        <item>Για μουσική</item>
-        <item>Για ανθρώπινη φωνή</item>
-    </string-array>
+     <string-array name="record_scenes_entries">
+        <item>Μουσική</item>
+        <item>Φωνή</item>
+     </string-array>
+     <string-array name="record_type_values">
+        <item>ήχος/mpeg</item>
+        <item>ήχος/amr</item>
+     </string-array>
+     <string-array name="x5_record_scenes_entries">
+        <item>Μουσική</item>
+        <item>Φωνή</item>
+        <item>Συνέντευξη</item>
+     </string-array>
 </resources>
