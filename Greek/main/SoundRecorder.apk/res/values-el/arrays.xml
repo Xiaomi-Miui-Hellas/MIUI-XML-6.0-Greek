@@ -4,10 +4,6 @@
         <item>Μουσική</item>
         <item>Φωνή</item>
      </string-array>
-     <string-array name="record_type_values">
-        <item>ήχος/mpeg</item>
-        <item>ήχος/amr</item>
-     </string-array>
      <string-array name="x5_record_scenes_entries">
         <item>Μουσική</item>
         <item>Φωνή</item>
