@@ -50,7 +50,7 @@
     <string-array name="editing_mode_entries">
         <item>Move apps</item>
         <item>Widgets</item>
-        <item>Wallpaper</item>
+        <item>Ταπετσαρία</item>
         <item>Εφέ</item>
     </string-array>
 </resources>
