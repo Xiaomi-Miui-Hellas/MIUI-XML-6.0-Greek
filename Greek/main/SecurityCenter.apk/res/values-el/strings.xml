@@ -23,7 +23,7 @@
     <string name="power_center_title">Μπαταρία</string>
     <string name="power_center_consume_rank">Κατανάλωση</string>
     <string name="power_center_custom_title">Προφίλ μπαταρίας</string>
-    <string name="power_center_auto_shutdown">Χρονοδιάγραμμα τροφοδοσίας on/off</string>
+    <string name="power_center_auto_shutdown">Χρονοδιάγραμμα τροφοδοσίας</string>
     <string name="power_center_auto_shutdown_summary_default">Ενεργοποιείστε ή απενεργοποιείστε την συσκευή σας σε μια προκαθορισμένη ώρα</string>
     <string name="power_center_ontime_boot">Ώρα ενεργοποίησης</string>
     <string name="power_center_time_to_boot">Ώρα ενεργοποίησης</string>

@@ -5,20 +5,20 @@
     <string name="menu_copy">Αντιγραφή</string>
     <string name="description">Εάν δεν βλέπετε το πρόβλημα στα κοινά σφάλματα, περιγράψτε το εδώ (στα Αγγλικά)</string>
     <string name="suggestion_description">"Γράψτε εδώ τις προτάσεις σας (στα Αγγλικά) πχ I hope you'll add X feature, because…"</string>
-    <string name="nonsystemapp_description">Περιγραφή του προβλήματος</string>
+    <string name="nonsystemapp_description">Περιγραφή του προβλήματος (στα Αγγλικά)</string>
     <string name="btn_send">Αποστολή</string>
     <string name="err_type">Τύπος σφάλματος</string>
     <string name="err_type_reboot">Επανεκκίνηση Συστήματος</string>
     <string name="err_type_power_consuming">Κατανάλωση ενέργειας</string>
     <string name="err_type_signal">Προβλήματα δικτύου</string>
-    <string name="err_type_wifi">WLAN</string>
+    <string name="err_type_wifi">WiFi</string>
     <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Κάμερα</string>
     <string name="err_type_systemapp">MIUI εφαρμογές</string>
     <string name="err_type_nonsystemapp">Άλλες εφαρμογές</string>
+    <string name="err_type_app">Εφαρμογές</string>
     <string name="err_type_suggestion">Προτάσεις</string>
-    <string name="err_type_mysuggestion">Προτάσεις</string>
-    <string name="err_type_mysuggestion_summary">Μοιραστείτε ιδέες και επικοινωνήστε μαζί μας</string>
+    <string name="err_type_more">Περισσότερα</string>
     <string name="err_type_hardware">Υλικό</string>
     <string name="err_type_hardware_summary">Κουμπιά, φόρτιση, αισθητήρες, κλπ.</string>
     <string name="err_type_system">Σύστημα</string>
@@ -32,6 +32,8 @@
     <string name="hot_problem">Προβολή γνωστών bugs</string>
     <string name="title_common_problem">Κοινά bugs</string>
     <string name="title_hot_problem">Γνωστά bugs</string>
+    <string name="title_system_app">MIUI εφαρμογές</string>
+    <string name="title_nonsystem_app">Άλλες εφαρμογές</string>
     <string name="non_system_app_select">Ληφθείσες εφαρμογές</string>
     <string name="system_app_select">Ενσωματωμένες εφαρμογές</string>
     <string name="section_description">Περιγραφή</string>
@@ -45,6 +47,7 @@
     <string name="toast_feedback_submitted">Το σχόλιό σας έχει καταχωρηθεί</string>
     <string name="toast_feedback_pending_wlan">Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο</string>
     <string name="toast_feedback_network_unavailable">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
+    <string name="toast_network_unavailable">"Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο."</string>
     <string name="discard_draft_dialog_title">Απόρριψη πρόχειρου</string>
     <string name="discard_draft_dialog_content">Τυχόν αλλαγές που έχετε κάνει σε αυτή την αναφορά θα χαθούν.</string>
     <string name="discard_draft_dialog_button_discard">Απόρριψη</string>
@@ -57,6 +60,7 @@
     <string name="loading_hot_problem">Φόρτωση…</string>
     <string name="network_err">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και ανανεώστε.</string>
     <string name="refresh">Ανανέωση</string>
+    <string name="announcement">Προσοχή</string>
     <string name="app_empty">Δεν έχετε λάβει καμία εφαρμογή</string>
     <string name="reboot_problem1">Αδυναμία επανεκκίνησης</string>
     <string name="reboot_problem2">Τυχαίες επανεκκινήσεις με την χρήση συγκεκριμένης εφαρμογής</string>
@@ -99,4 +103,5 @@
     <string name="submit_dialog_confirm">Υποβολή</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς σφάλματος (διαρκεί περίπου ένα λεπτό)</string>
     <string name="bugreport_tool_log_toast">Το αρχείο καταγραφής αποθηκεύτηκε στο %s</string>
+    <string name="screen_orientation_type">-1</string>
 </resources>
