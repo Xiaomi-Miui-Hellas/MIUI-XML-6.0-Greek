@@ -57,4 +57,17 @@
         <item>Όταν είναι αθόρυβο</item>
         <item>Πάντα</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Μια φορά</item>
+        <item>Κάθε μέρα</item>
+        <item>Εργάσιμες ημέρες</item>
+        <item>Δευτέρα έως Παρασκευή</item>
+        <item>Προσαρμοσμένη</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Μια φορά</item>
+        <item>Κάθε μέρα</item>
+        <item>Δευτέρα έως Παρασκευή</item>
+        <item>Προσαρμοσμένη</item>
+    </string-array>
 </resources>

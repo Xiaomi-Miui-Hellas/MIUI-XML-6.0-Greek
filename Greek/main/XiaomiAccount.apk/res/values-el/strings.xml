@@ -158,6 +158,7 @@
     <string name="login_failed">Αδυναμία σύνδεσης</string>
     <string name="logout_failed">Αδυναμία αποσύνδεσης</string>
     <string name="timeout_retry">Λήξη χρονικού ορίου αίτησης, παρακαλώ προσπαθήστε ξανά.</string>
+    <string name="no_response_retry">Καμία απάντηση. Δοκιμάστε ξανά.</string>
     <string name="verification_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
     <string name="error_network">Σφάλμα δικτύου</string>
     <string name="error_ssl_hand_shake">Σφάλμα σύνδεσης με το διακομιστή. Προσπαθήστε να ρυθμίσετε την τρέχουσα ώρα και ημερομηνία στο σύστημά σας.</string>
@@ -263,7 +264,7 @@
     <string name="loading_micloud_sync_data">Φόρτωση…</string>
     <string name="account_learn_more_title">Δημιουργία λογαριασμού Mi</string>
     <string name="cloud_service_dspt">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, εφαρμογές και πολλά άλλα μεταξύ των συσκευών σας.</string>
-    <string name="theme_store">MIUI Themes Store</string>
+    <string name="theme_store">Κατάστημα θεμάτων MIUI</string>
     <string name="theme_store_dspt">Επιλέξτε το δικό σας περιβάλλον. Εκατοντάδες δωρεάν προσαρμόσιμα θέματα για να κάνετε το τηλέφωνό σας μοναδικό.</string>
     <string name="mi_account_dspt_provision">Συνδεθείτε στο Mi Cloud, MIUI Themes Store, και στις άλλες υπηρεσίες Mi services με ένα λογαριασμό.</string>
     <string name="authorize_title">Εξουσιοδότηση</string>
@@ -291,4 +292,5 @@
     <string name="no_network_title">Αδυναμία σύνδεσης στο δίκτυο.</string>
     <string name="no_network_btn">Ανανέωση</string>
     <string name="get_device_list_failed">Αδυναμία λήψης συσκευών</string>
+    <string name="delete_device_failed">"Αδυναμία αφαίρεσης συσκευής"</string>
 </resources>
