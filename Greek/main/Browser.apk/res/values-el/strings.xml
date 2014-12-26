@@ -119,13 +119,13 @@
   <string name="choosertitle_sharevia">Διαμοιρασμός μέσω</string>
   <string name="clear">Καθαρισμός</string>
   <string name="clear_history">Καθαρισμός ιστορικού</string>
-  <string name="clear_history_by_group_alert">Καθαρισμός ιστορικού από %s?</string>
+  <string name="clear_history_by_group_alert">Καθαρισμός ιστορικού από %s;</string>
   <string name="clear_history_group">Καθαρισμός ιστορικού (%s σελίδες)</string>
   <string name="clear_search_history">Καθαρισμός ιστορικού</string>
   <string name="clip_dialog_title">Άνοιγμα url από αντιγραφή;</string>
   <string name="close_ads_choice_no">Επέτρεψε</string>
   <string name="close_ads_choice_yes">Απέκλεισε</string>
-  <string name="close_ads_message">"Αποκλεισμός περιεχομένου από αυτή την Ιστοσελίδα? Μπορείτε να δείτε τις αποκλεισμένες Ιστοσελίδες στις Ρυθμίσεις > Προηγμένα > Αποκλεισμένες Ιστοσελίδες."</string>
+  <string name="close_ads_message">"Αποκλεισμός περιεχομένου από αυτή την Ιστοσελίδα; Μπορείτε να δείτε τις αποκλεισμένες Ιστοσελίδες στις Ρυθμίσεις > Προηγμένα > Αποκλεισμένες Ιστοσελίδες."</string>
   <string name="close_ads_title">Αποκλεισμός περιεχομένου;</string>
   <string name="close_all_tab_alert_message">Κλείσιμο όλων των καρτελών;</string>
   <string name="close_all_tab_alert_title">Κλείσιμο όλων των καρτελών</string>
@@ -194,7 +194,7 @@
   <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Διαγραφή σελιδοδείκτη</string>
-  <string name="delete_bookmark_group_warning">Διαγραφή \"%s\"? Όλα τα αγαπημένα αυτής της ομάδας θα διαγραφούν.</string>
+  <string name="delete_bookmark_group_warning">Διαγραφή \"%s\"; Όλα τα αγαπημένα αυτής της ομάδας θα διαγραφούν.</string>
   <string name="delete_bookmark_warning">Διαγραφή σελιδοδείκτη \"%s\";</string>
   <string name="delete_folder">Διαγραφή φακέλου</string>
   <string name="delete_multi_bookmarks_alert_title">Διαγραφή %1$s αντικειμένων;</string>
@@ -699,7 +699,7 @@
   <string name="video_project_title">Εξωτερική οθόνη</string>
   <string name="video_title">Βίντεο</string>
   <string name="view_certificate">Προβολή πιστοποιητικού</string>
-  <string name="voice_sub_title">"Δεν ξέρετε τι να πείτε? Δοκιμάστε το mi.com!"</string>
+  <string name="voice_sub_title">"Δεν ξέρετε τι να πείτε; Δοκιμάστε το mi.com!"</string>
   <string name="voice_title">Εκφωνήστε εντολή…</string>
   <string name="voice_title_distinguish">Επεξεργασία…</string>
   <string name="voice_title_listening">Ακρόαση…</string>

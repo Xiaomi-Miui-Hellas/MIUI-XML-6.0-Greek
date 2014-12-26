@@ -26,9 +26,9 @@
      <string name="determine">Επιβεβαίωση</string>
      <string name="dialog_cannot_resume">Λήψη σταμάτησε. Αδύνατη η συνέχιση λήψης.</string>
      <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
-     <string name="dialog_confirm_delete_downloads_message">Διαγραφή  %d εργασιών?</string>
-     <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών?</string>
-     <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων?</string>
+     <string name="dialog_confirm_delete_downloads_message">Διαγραφή  %d εργασιών;</string>
+     <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών;</string>
+     <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων;</string>
      <string name="dialog_file_already_exists">Αδύνατη λήψη. Το αρχείο προορισμού υπάρχει ήδη.</string>
      <string name="dialog_file_missing_body">Αδύνατη η εύρεση του ληφθέντος αρχείου.</string>
      <string name="dialog_file_missing_title">Αποτυχία ανοίγματος αρχείου</string>
@@ -120,9 +120,9 @@
      <string name="pref_title_enable_max_bytes_popup">Μήνυμα λήψης δεδομένων</string>
      <string name="preferences_title">Ρυθμίσεις</string>
      <string name="privacy_tip_cancel">Ακύρωση</string>
-     <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων? Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
+     <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
      <string name="privacy_tip_ok">OK</string>
-     <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei?</string>
+     <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
      <string name="remove_download">Αφαίρεση</string>
      <string name="restart_download">Επανεκκίνηση</string>
      <string name="resume_download">Συνέχιση</string>

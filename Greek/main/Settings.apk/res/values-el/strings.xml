@@ -2406,7 +2406,7 @@
     <string name="virus_scanner_provider">Εξασφαλίζει την ασφάλεια %s</string>
     <string name="virus_scanner_auto_update">Αυτόματη ενημέρωση</string>
     <string name="virus_scanner_date_formater">dd MMM yyyy</string>
-    <string name="virus_scanner_manual_update">Χειροκίνητη ενημέρωση</string>
+    <string name="virus_scanner_manual_update">Ενημερώθηκε %s</string>
     <string name="virus_scanner_lib_updating">Ενημέρωση βάσης δεδομένων</string>
     <string name="virus_scanner_lib_already_latest">Η βάση δεδομένων έχει ενημερωθεί</string>
     <string name="virus_scanner_lib_update_failed">Αποτυχία ενημέρωσης</string>

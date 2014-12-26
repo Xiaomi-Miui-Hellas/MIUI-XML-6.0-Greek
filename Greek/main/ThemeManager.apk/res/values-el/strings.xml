@@ -5,13 +5,13 @@
   <string name="all_resources">Όλα</string>
   <string name="all_ringtone_resource">Όλα</string>
   <string name="app_name">Θέματα</string>
-  <string name="apply_default_font_tip">"Συνέχιση χρήσης της τρέχουσας γραμματοσειράς συστήματος?"</string>
+  <string name="apply_default_font_tip">"Συνέχιση χρήσης της τρέχουσας γραμματοσειράς συστήματος;"</string>
   <string name="apply_font_btn_exclude">Εφαρμογή χωρίς γραμματοσειρά</string>
   <string name="apply_font_btn_reboot">Εφαρμογή και επανεκκίνηση</string>
   <string name="apply_font_tip">Το Θέμα περιέχει γραμματοσειρά. Απαιτείται επανεκκίνηση.</string>
   <string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
   <string name="backup_preference_title">Δημιουργία αντιγράφων ασφαλείας θέματος</string>
-  <string name="backup_theme_dialog_message">"Δημιουργία αντιγράφων ασφαλείας για το τρέχον θέμα?"</string>
+  <string name="backup_theme_dialog_message">"Δημιουργία αντιγράφων ασφαλείας για το τρέχον θέμα;"</string>
   <string name="backup_theme_dialog_ok">Αντίγραφο ασφαλείας</string>
   <string name="backup_theme_name">Το Αντίγραφο ασφαλείας μου</string>
   <string name="backup_theme_progress_message">Δημιουργία αντιγράφων ασφαλείας των αρχείων θεμάτων, παρακαλώ περιμένετε…</string>
@@ -61,7 +61,7 @@
   <string name="resource_can_not_selected">%1$s δεν μπορεί να επιλεγεί!</string>
   <string name="resource_category">Κατηγορία</string>
   <string name="resource_clear_search_history">Διαγραφή ιστορικού αναζήτησης</string>
-  <string name="resource_clear_search_history_dialog">Διαγραφή όλου του ιστορικού αναζήτησης?</string>
+  <string name="resource_clear_search_history_dialog">Διαγραφή όλου του ιστορικού αναζήτησης;</string>
   <string name="resource_comment_1_star">1 Αστέρι</string>
   <string name="resource_comment_2_star">2 Αστέρια</string>
   <string name="resource_comment_3_star">3 Αστέρια</string>
@@ -100,8 +100,8 @@
   <string name="resource_default">Προεπιλεγμένος ήχος κλήσης</string>
   <string name="resource_default_name">Πόροι</string>
   <string name="resource_delete">Διαγραφή</string>
-  <string name="resource_delete_all">Είστε σίγουροι ότι θέλετε να διαγράψετε %1$d τους επιλεγμένους πόρους?</string>
-  <string name="resource_delete_confirm">Είστε σίγουροι ότι θέλετε να διαγράψετε αυτούς τους πόρους?</string>
+  <string name="resource_delete_all">Είστε σίγουροι ότι θέλετε να διαγράψετε %1$d τους επιλεγμένους πόρους;</string>
+  <string name="resource_delete_confirm">Είστε σίγουροι ότι θέλετε να διαγράψετε αυτούς τους πόρους;</string>
   <string name="resource_delta_update_failed">Ενημερωμένη έκδοσης κώδικα απέτυχε! Ο πλήρης πόρος θα πρέπει τώρα να κατέβει</string>
   <string name="resource_delta_update_successful">Επιτυχής ενημέρωση</string>
   <string name="resource_delta_update_total">%1$d patch ενημερώσεις. Αποθηκεύτηκαν συνολικά %2$s</string>
@@ -155,7 +155,7 @@
   <string name="resource_notification_default">Ειδοποιήσεις</string>
   <string name="resource_on_trial">Σε δοκιμή: %1$s</string>
   <string name="resource_online">Συνδεδεμένο %1$s</string>
-  <string name="resource_pack_confirm">Έχετε ήδη αγοράσει %1$d στοιχεία, αλλά η τρέχουσα τιμή είναι ακόμα καλύτερη από την αγορά μεμονωμένων στοιχείων, θα θέλατε να συνεχίσετε?</string>
+  <string name="resource_pack_confirm">Έχετε ήδη αγοράσει %1$d στοιχεία, αλλά η τρέχουσα τιμή είναι ακόμα καλύτερη από την αγορά μεμονωμένων στοιχείων, θα θέλατε να συνεχίσετε;</string>
   <string name="resource_pack_discount_info">Γλιτώνετε %1$s!</string>
   <string name="resource_pack_price_info">Αρχική τιμή %1$s</string>
   <string name="resource_pack_warning">Προσοχή! Έχετε ήδη αγοράσει %1$d στοιχεία, η τρέχουσα τιμή δεν ισχύει πλέον για τα υπόλοιπα στοιχεία, παρακαλώ να τα αγοράσετε ξεχωριστά.</string>
@@ -207,8 +207,8 @@
   <string name="short_ringtone_resource">Βραχύς</string>
   <string name="theme_batch_has_update_text">%1$d θέματα έχουν διαθέσιμη νέα έκδοση</string>
   <string name="theme_batch_update_all">Ενημέρωση όλων</string>
-  <string name="theme_batch_update_dlg_content">Ενημέρωση %1$s και %2$d άλλων θεμάτων τώρα?</string>
-  <string name="theme_batch_update_dlg_content_single">Ενημέρωση %1$s τώρα?</string>
+  <string name="theme_batch_update_dlg_content">Ενημέρωση %1$s και %2$d άλλων θεμάτων τώρα;</string>
+  <string name="theme_batch_update_dlg_content_single">Ενημέρωση %1$s τώρα;</string>
   <string name="theme_batch_update_dlg_title">Ενημέρωση</string>
   <string name="theme_batch_updating_text">%1$d θέματα ανανεώνονται</string>
   <string name="theme_changed_failed_message">"Αποτυχία εφαρμογής θέματος"</string>
@@ -240,7 +240,7 @@
   <string name="theme_description_title_customized">Προσαρμοσμένα</string>
   <string name="theme_description_title_default">Προκαθορισμένο</string>
   <string name="theme_fresh_man_notifaction">Νέα θέματα διαθέσιμα</string>
-  <string name="theme_immediately_apply_tip">Το θέμα είναι ενημερωμένο, να εφαρμοστεί άμεσα?</string>
+  <string name="theme_immediately_apply_tip">Το θέμα είναι ενημερωμένο, να εφαρμοστεί άμεσα;</string>
   <string name="theme_import_from_sdcard">Εισαγωγή από κάρτα SD</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Όχι</string>
