@@ -7,13 +7,13 @@
     <string name="cta_button_text_agree">Αποδοχή</string>
     <string name="cta_settings">Να επιτρέπεται η πρόσβαση στο διαδίκτυο</string>
     <string name="title_optimizer">Cleaner</string>
-    <string name="header_optimizer">"Χρησιμοποιώντας αυτή την  εφαρμογή, συμφωνείτε με τους όρους χρήσης "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">του Clean Master</a>.</string>
+    <string name="header_optimizer">Με τη χρήση αυτής της εφαρμογής, συμφωνείτε me %s.</string>
     <string name="name_optimizer">Πολιτική Απορρήτου Cheetah Mobile</string>
     <string name="text_optimizer">Χρήση της online βάσης του Cleaner</string>
     <string name="summary_optimizer">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="button_optimizer">OK</string>
     <string name="title_antivirus">Σάρωση ιών</string>
-    <string name="header_antivirus">"Χρησιμοποιώντας αυτή την  εφαρμογή, συμφωνείτε με τους όρους χρήσης "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">του Tencent</a>.</string>
+    <string name="header_antivirus">"Αυτή η εφαρμογή κρυπτογραφεί και ανεβάζει ID της συσκευής σας στους διακομιστές της Tencent (%s)."</string>
     <string name="name_antivirus">δείτε την Πολιτική Απορρήτου</string>
     <string name="text_antivirus">Χρήση της online βάσης ιών</string>
     <string name="text_antivirus_oversea">Ενημέρωση βάσης ιών</string>

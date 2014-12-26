@@ -11,9 +11,9 @@
     <string name="menu_add_worldclock">Προσθήκη</string>
     <string name="menu_edit_timer_item">Αλλαγή χρονόμετρου</string>
     <string name="delete_timer_item_title">Διαγραφή χρονόμετρου</string>
-    <string name="delete_selected_timer_item">Διαγραφή επιλεγμένου χρονόμετρου?</string>
+    <string name="delete_selected_timer_item">Διαγραφή επιλεγμένου χρονόμετρου;</string>
     <string name="delete_timezone_title">Διαγραφή ζώνης ώρας</string>
-    <string name="delelte_selected_timezone">Διαγραφή επιλεγμένης ζώνης ώρας?</string>
+    <string name="delelte_selected_timezone">Διαγραφή επιλεγμένης ζώνης ώρας;</string>
     <string name="timezone_exist_error_message">Η ζώνη ώρας υπάρχει ήδη.</string>
     <string name="alarm_disabled">Ανενεργό</string>
     <string name="alarm_ascending_mode_title">Αυξανόμενη ένταση</string>
@@ -30,7 +30,7 @@
     <string name="stopwatch_lap_empty_text">Χωρίς περίοδο</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Τέλος χρόνου!</string>
-    <string name="dialog_confirm_abort">Απόρριψη αλλαγών?</string>
+    <string name="dialog_confirm_abort">Απόρριψη αλλαγών;</string>
     <string name="confirm_abort">Απόρριψη</string>
     <string name="remind_ringtone">Ήχος</string>
     <string name="keep_screen_on">Ενεργή οθόνη</string>
@@ -71,7 +71,7 @@
     <string name="add_alarm">Προσθήκη</string>
     <string name="menu_desk_clock">Επιτραπέζιο ρολόι</string>
     <string name="delete_alarm">Διαγραφή αφύπνισης</string>
-    <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης?</string>
+    <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης;</string>
     <string name="label">Όνομα</string>
     <string name="default_label">Αφύπνιση</string>
     <string name="set_alarm">Ρυθμίστε το ξυπνητήρι</string>

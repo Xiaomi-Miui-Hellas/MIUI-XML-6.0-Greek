@@ -116,7 +116,7 @@
     <string name="additional_gsm_call_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="sum_gsm_call_settings">Πρόσθετες ρυθμίσεις μόνο GSM κλήσεων</string>
     <string name="additional_cdma_call_settings">Πρόσθετες ρυθμίσεις CDMA κλήσεων</string>
-    <string name="sum_cdma_call_settings">Πρόσθετες ρυθμισεις μόνο CDMA κλήσεων</string>
+    <string name="sum_cdma_call_settings">Πρόσθετες ρυθμίσεις μόνο CDMA κλήσεων</string>
     <string name="labelNwService">Ρυθμίσεις υπηρεσίας δικτύου</string>
     <string name="labelCallerId">Αναγνώριση κλήσης</string>
     <string name="sum_loading_settings">Φόρτωση ρυθμίσεων…</string>
@@ -225,7 +225,7 @@
 Ο ρυθμός των δεδομένων μειώνεται σε %2$d Kb/s"</string>
     <string name="throttle_time_frame_subtext">"%1$d του κύκλου έχει παρέλθει
 Η επόμενη περίοδος αρχίζει σε %2$d ημέρες (%3$s)"</string>
-    <string name="throttle_rate_subtext">Η ταχύτητα δεδομένων θα μειωθεί σε %1$d Kb/s αν υπερβείτε το όριο</string>
+    <string name="throttle_rate_subtext">Η ταχύτητα δεδομένων θα μειωθεί σε %1$d Kb/s αν ξεπεράσετε το όριο</string>
     <string name="throttle_help_subtext">Περισσότερες πληροφορίες σχετικά με την πολιτική χρήσης δεδομένων κινητής του φορέα σας</string>
     <string name="cell_broadcast_sms">Εκπομπή κυψέλης SMS</string>
     <string name="enable_disable_cell_bc_sms">Εκπομπή κυψέλης SMS</string>
@@ -309,8 +309,8 @@
     <string name="fdn">Σταθεροί αριθμοί κλήσης</string>
     <string name="manage_fdn_list">Λίστα FDN</string>
     <string name="fdn_activation">Ενεργοποίηση FDN</string>
-    <string name="fdn_enabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι ενεργοποιημένοι</string>
-    <string name="fdn_disabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι απενεργοποιημένοι</string>
+    <string name="fdn_enabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι ενεργοί</string>
+    <string name="fdn_disabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι ανενεργοί</string>
     <string name="enable_fdn">Ενεργοποίηση FDN</string>
     <string name="disable_fdn">Απενεργοποίηση του FDN</string>
     <string name="change_pin2">Αλλαγή του PIN2</string>
@@ -610,9 +610,9 @@
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
     <string name="call_recording_error_privacy">Δεν είναι δυνατή η εγγραφή, ενώ είστε σε λειτουργία επισκεπτών</string>
     <string name="call_recording_error_sd_access">Δεν είναι δυνατή η πρόσβαση στην κάρτα SD</string>
-    <string name="call_recording_error_sd_unmounted">Η εγγραφή έχει διακοπεί: Η κάρτα SD δεν είναι συνδεμένη</string>
+    <string name="call_recording_error_sd_unmounted">Η εγγραφή έχει διακοπεί: Η κάρτα SD δεν είναι συνδεδεμένη</string>
     <string name="call_recording_error_low_storage">Δεν υπάρχει αρκετός χώρος: Η κάρτα SD είναι πλήρης</string>
-    <string name="call_recording_error_start_failed">Το Recorder χρησιμοποιείται από άλλη εφαρμογή</string>
+    <string name="call_recording_error_start_failed">Η Ηχογράφηση χρησιμοποιείται από άλλη εφαρμογή</string>
     <string name="call_recording_error_unknown">Προέκυψε ένα άγνωστο σφάλμα</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="phone_info_divider">|</string>

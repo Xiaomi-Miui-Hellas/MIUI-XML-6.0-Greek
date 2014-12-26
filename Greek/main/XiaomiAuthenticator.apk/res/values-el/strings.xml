@@ -65,7 +65,7 @@
   <string name="howitworks_page_verify_device_title">"Τότε είστε συνδεδεμένοι."</string>
   <string name="install_button">Εγκατάσταση</string>
   <string name="install_dialog_message">Για σάρωση barcodes που περιέχουν τα κλειδιά , θα πρέπει να εγκαταστήσετε το σαρωτή barcode ZXing.</string>
-  <string name="install_dialog_title"> Εγκαταστήστε του barcode scanner?</string>
+  <string name="install_dialog_title"> Εγκαταστήστε του barcode scanner;</string>
   <string name="jump_createpattern_tip">Μετάβαση στον ορισμό κωδικού πρόσβασης, ώστε ο λογαριασμός να έχει προστασία από ορισμένους κίνδυνους ασφάλειας, σας συνιστούμε να μην το παραλείψετε</string>
   <string name="jump_lockpattern_title">Σημείωση</string>
   <string name="jump_updatepattern_tip">Με την ακύρωση κωδικού μοτίβου, ο λογαριασμός δεν θα έχει ασφάλεια, σας συνιστούμε να μην επιλέξετε ακύρωση</string>
@@ -106,7 +106,7 @@
   <string name="opensource_preference_title">Open-source project</string>
   <string name="original_pattern_tip">Εισάγετε&lt;font color=#fb3500> πρωτότυπο&lt;/font> Μοτίβο ως κωδικό</string>
   <string name="password_error">Παρακαλώ ελέγξτε τον κωδικό πρόσβασής σας</string>
-  <string name="password_forget">Τον ξεχάσατε ?</string>
+  <string name="password_forget">Τον ξεχάσατε ;</string>
   <string name="password_hint">Παρακαλούμε, εισάγετε τον κωδικό σύνδεσης του λογαριασμού σας</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Πολιτική Προσωπικών Δεδομένων</string>
@@ -114,7 +114,7 @@
   <string name="remove_Xiaomi_account_dialog_message">Η αφαίρεση αυτού του λογαριασμού θα &lt;b>αφαιρέσει την ικανότητά σας&lt;/b> tγια να δημιουργήσετε κωδικούς , ωστόσο &lt;b>δεν&lt;/b> θα απενεργοποιήσετε τον έλεγχο ταυτότητας. Αυτό μπορεί να σας αποτρέψει από την είσοδο στο λογαριασμό σας. &lt;p> Πριν από την αφαίρεση: &lt;ul> &lt;li>Απενεργοποιήστε την επαλήθευση για αυτόν τον λογαριασμό , ή&lt;/li> &lt;li> Βεβαιωθείτε ότι έχετε ένα εναλλακτικό μηχανισμό για την παραγωγή κωδικών.&lt;/li> &lt;/ul></string>
   <string name="remove_account_dialog_button_remove">Κατάργηση λογαριασμού</string>
   <string name="remove_account_dialog_message">Η αφαίρεση αυτού του λογαριασμού θα &lt;b>αφαιρέσει την ικανότητά σας&lt;/b> tγια να δημιουργήσετε κωδικούς , ωστόσο &lt;b>δεν&lt;/b> θα απενεργοποιήσετε τον έλεγχο ταυτότητας. Αυτό μπορεί να σας αποτρέψει από την είσοδο στο λογαριασμό σας. &lt;p> Πριν από την αφαίρεση: &lt;ul> &lt;li>Απενεργοποιήστε τον έλεγχο ταυτότητας για αυτόν τον λογαριασμό , ή&lt;/li> &lt;li> Βεβαιωθείτε ότι έχετε ένα εναλλακτικό μηχανισμό για την παραγωγή κωδικών.&lt;/li> &lt;/ul></string>
-  <string name="remove_account_dialog_title">Διαγραφή %1$s?</string>
+  <string name="remove_account_dialog_title">Διαγραφή %1$s;</string>
   <string name="rename">Μετονομασία</string>
   <string name="rename_message">Μετονομασία %1$s</string>
   <string name="resetbtn_patternforgotten">Επαναφορά τώρα</string>

@@ -665,7 +665,7 @@
     <string name="call_recording_notification_toggle_title">Ειδοποίηση καταγραφής κλήσεων</string>
     <string name="call_recording_notification_summary">Δείτε την κοινοποίηση στη γραμμή κατάστασης όταν η κλήση έχει καταγραφεί</string>
     <string name="call_recording_notification_message_low_storage">Η εγγραφή έχει διακοπεί: Δεν υπάρχει αρκετός χώρος.</string>
-    <string name="call_recording_notification_message">Αγγίξτε για να δείτε %s.</string>
+    <string name="call_recording_notification_message">Αγγίξτε για να δείτε.</string>
     <string name="call_recording_notification_message_sd_unmounted">Η εγγραφή έχει διακοπεί: η κάρτα SD δεν είναι προσαρτημένη.</string>
     <string name="call_record_add_numbers">Προσθήκη αριθμών</string>
     <string name="call_remove_exception_numbers_confirm">%d αριθμοί θα διαγραφούν.</string>

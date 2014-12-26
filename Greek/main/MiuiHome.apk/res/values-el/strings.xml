@@ -64,7 +64,7 @@
     <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
     <string name="uninstall_dialog_message">Η απεγκατάσταση θα διαγράψει όλα τα δεδομένα</string>
     <string name="uninstall_dialog_title_format">Διαγραφή \"%s\"</string>
-    <string name="uninstall_dialog_title_multi_format" formatted="false">Απεγκατάσταση %s και %d άλλων εφαρμογών?</string>
+    <string name="uninstall_dialog_title_multi_format" formatted="false">Απεγκατάσταση %s και %d άλλων εφαρμογών;</string>
     <string name="uninstall">Απεγκατάσταση</string>
     <string name="uninstall_result_multi_succeeded">Απεγκαταστάθηκαν %1$d εφαρμογές</string>
     <string name="uninstall_result_succeeded">Η εφαρμογή απεγκαταστάθηκε</string>
@@ -204,7 +204,7 @@
     <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
     <string name="editing_mode_enter_tip_text">Αγγίξτε για επεξεργασία Αρχικής Οθόνης</string>
     <string name="delete">Διαγραφή</string>
-    <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας?</string>
-    <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών?</string>
+    <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
+    <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
     <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
 </resources>
