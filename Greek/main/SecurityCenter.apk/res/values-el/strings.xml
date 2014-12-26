@@ -40,7 +40,7 @@
     <string name="power_center_state_on">Ενεργό</string>
     <string name="power_center_state_off">Ανενεργό</string>
     <string name="power_center_consume_time">%1$s υπόλοιπο</string>
-    <string name="power_center_charge_time">Υπολειπόμενος χρόνος φόρτισης: %1$s</string>
+    <string name="power_center_charge_time">%1$s για πλήρη φόρτιση</string>
     <string name="power_center_battery_full">Η μπαταρία είναι φορτισμένη</string>
     <string name="power_chooser_title">Προφίλ μπαταρίας</string>
     <string name="power_chooser_check_box_title">Εφαρμογή ρυθμίσεων</string>
