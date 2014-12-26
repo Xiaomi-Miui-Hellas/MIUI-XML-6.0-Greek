@@ -102,6 +102,6 @@
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
      <string name="widget_content_loading">Φόρτωση…</string>
-     <string name="widget_havenot_content">Δεν βρέθηκε σχετική σημείωση. Πατήστε για να δημιουργήσετε μια σχετική σημείωση. Για να αλλάξετε το μέγεθος, πατήστε &amp; σύρετε μία άκρη.</string>
+     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Πατήστε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, πατήστε &amp; σύρετε μία άκρη.</string>
      <string name="widget_under_privacy_mode">Δεν μπορείτε να δείτε τις σημειώσεις σε λειτουργία επισκέπτη</string>
 </resources>
