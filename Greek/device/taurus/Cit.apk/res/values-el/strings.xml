@@ -150,8 +150,10 @@
     <string name="cit_audio_cali_valueR">Σύνθετη αντίσταση:</string>
     <string name="cit_audio_cali_valueT">tCoef:</string>
     <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Μετρητής:</string>
     <string name="cit_audio_cali_failed">Η βαθμονόμηση απέτυχε. Παρακαλώ δοκιμάστε ξανά!</string>
     <string name="cit_aud_spkcal">Βαθμονόμηση</string>
+    <string name="cit_audio_calibrating">Η βαθμονόμηση είναι σε εξέλιξη…</string>
     <string name="cit_OTG_plugin_check_summary">Όταν μια συσκευή OTG είναι συνδεδεμένη, το κείμενο \"Ανιχνεύτηκε συσκευή USB OTG\" θα πρέπει να εμφανίζεται παρακάτω.</string>
     <string name="cit_OTG_plugout_check_summary">Όταν αφαιρέσετε μια συσκευή OTG, το κείμενο \"Η συσκευή USB OTG αφαιρέθηκε\" θα πρέπει να εμφανίζεται παρακάτω.</string>
     <string name="cit_vibrator_short">Σύντομη δόνηση</string>
