@@ -69,9 +69,9 @@
     <string name="power_consuming_problem3">Μεγάλη κατανάλωση ενέργειας στο standby</string>
     <string name="signal_problem1">Χωρίς σήμα</string>
     <string name="signal_problem2">Αδύναμο σήμα</string>
-    <string name="wifi_problem1">Αδυναμία αυτόματης σύνδεσης σε ασφαλές WiFi</string>
-    <string name="wifi_problem2">Αδύναμο σήμα WiFi</string>
-    <string name="wifi_problem3">Το WiFi αποσυνδέεται χωρίς λόγο</string>
+    <string name="wifi_problem1">Αδυναμία αυτόματης σύνδεσης σε ασφαλές Wi-Fi</string>
+    <string name="wifi_problem2">Αδύναμο σήμα Wi-Fi</string>
+    <string name="wifi_problem3">Το Wi-Fi αποσυνδέεται χωρίς λόγο</string>
     <string name="wifi_problem4">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="bluetooth_problem1">Αδυναμία ζεύξης με τρίτες συσκευές</string>
     <string name="bluetooth_problem2">Αδυναμία εύρεσης τρίτων συσκευών</string>

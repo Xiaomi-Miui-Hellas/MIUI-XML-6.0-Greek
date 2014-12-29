@@ -181,7 +181,7 @@
   <string name="resource_server_out_of_service">Ο Διακομιστής δεν είναι διαθέσιμος, δοκιμάστε ξανά αργότερα.</string>
   <string name="resource_share_subject">Μοιραστείτε το θέμα: %1$s</string>
   <string name="resource_share_text">Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα θέλατε: %1$s! Σύνδεσμος: %2$s</string>
-  <string name="resource_share_title">Διαμοιρασμός</string>
+  <string name="resource_share_title">Κοινή χρήση</string>
   <string name="resource_system_title">Πόροι του συστήματος</string>
   <string name="resource_tip_select_ringtone">Κανένας ήχος κλήσης δεν έχει επιλεγεί</string>
   <string name="resource_title">Λεπτομέρειες Πόρων</string>

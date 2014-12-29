@@ -205,7 +205,7 @@
     <string name="headset_settings">Συνδεδεμένα ακουστικά</string>
     <string name="headset_info">Προσαρμογή λειτουργίας των πλήκτρων</string>
     <string name="headset_custom">Προσαρμογή</string>
-    <string name="usb_share_net_info">Διαμοιρασμός δικτύου μέσω USB</string>
+    <string name="usb_share_net_info">Κοινή χρήση δικτύου μέσω USB</string>
     <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
     <string name="battery_profiles">Χρησιμοποιήστε τα προφίλ μπαταρίας</string>
 </resources>

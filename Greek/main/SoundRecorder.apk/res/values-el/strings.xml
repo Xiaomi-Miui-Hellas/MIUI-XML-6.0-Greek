@@ -79,7 +79,7 @@
   <string name="status_bar_back">Κλικ για επιστροφή στην εγγραφή</string>
   <string name="status_bar_recording">Ηχογράφηση…</string>
   <string name="status_bar_recording_pause">"Έγινε παύση εγγραφής. "</string>
-  <string name="sync_only_in_wifi">Χρήση μόνο WiFi για συγχρονισμό</string>
+  <string name="sync_only_in_wifi">Χρήση μόνο Wi-Fi για συγχρονισμό</string>
   <string name="sync_only_in_wifi_summary">Η Ηχογράφηση δεν θα χρησιμοποιεί δεδομένα κινητής τηλεφωνίας για να κατεβάσει και να ανεβάσει εγγραφές αν αυτή η επιλογή είναι ενεργοποιημένη</string>
   <string name="sync_records">Συγχρονισμός με Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -88,7 +88,7 @@
   <string name="toast_uninstall_fileexplorer">"Η εφαρμογή εξερεύνησης αρχείων δεν υπάρχει"</string>
   <string name="wifi_recommended_body" formatted="false">"Ξεκινώντας αυτή %s τη λήψη τώρα μπορεί να ελαττώσει τη διάρκεια της μπαταρίας σας ή/και να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας, ανάλογα με το πρόγραμμα δεδομένων σας.
 
-Πατήστε %s για να αρχίσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο WiFi."</string>
+Πατήστε %s για να αρχίσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi."</string>
   <string name="wifi_recommended_title">Υπενθύμιση ροής</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

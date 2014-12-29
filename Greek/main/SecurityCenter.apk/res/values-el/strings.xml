@@ -9,7 +9,7 @@
     <string name="title_optimizer">Cleaner</string>
     <string name="header_optimizer">Με τη χρήση αυτής της εφαρμογής, συμφωνείτε me %s.</string>
     <string name="name_optimizer">Πολιτική Απορρήτου Cheetah Mobile</string>
-    <string name="text_optimizer">Χρήση της online βάσης του Cleaner</string>
+    <string name="text_optimizer">Μεταφόρτωση ονομάτων φακέλων</string>
     <string name="summary_optimizer">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="button_optimizer">OK</string>
     <string name="title_antivirus">Σάρωση ιών</string>
@@ -220,7 +220,7 @@
     <string name="st_title_mode_choose_group">Επιλέξτε προφίλ</string>
     <string name="power_mode_choose_summary_change">Η διάταξη έχει αλλάξει</string>
     <string name="every_day">Κάθε μέρα</string>
-    <string name="legal_workday">Διακοπές</string>
+    <string name="legal_workday">Αργίες</string>
     <string name="never">Μόνο μια φορά</string>
     <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε 20 δευτερόλεπτα</string>
     <string name="boot_reminder_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη %2$dω %3$dλ</string>
@@ -231,7 +231,7 @@
     <string name="shutdown_cancel_reminder_detail">"Η συσκευή δεν απενεργοποιήθηκε  γιατί ήσασταν στη μέση μιας κλήσης"</string>
     <string name="legal_workday_invalidate">Τα δεδομένα έληξαν(Προς το παρόν χτυπάει από Δευτέρα έως Παρασκευή)</string>
     <string name="legal_workday_invalidate_message">(Τα δεδομένα έληξαν, κάντε κλικ για ανανέωση διασύνδεσης)</string>
-    <string name="legal_workday_message">(Παρέκαμψε έξυπνα τις διακοπές)</string>
+    <string name="legal_workday_message">(Εκτός αργιών)</string>
     <string name="boot_time_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη στις %2$s</string>
     <string name="boot_time">Η συσκευή θα ενεργοποιηθεί στις %1$s</string>
     <string name="shutdown_time_day">Η συσκευή θα απενεργοποιηθεί σε %1$dη στις %2$s</string>
@@ -661,11 +661,11 @@
     <string name="title_app_update">Διαθέσιμες ενημερώσεις</string>
     <string name="title_miui_update">Διαθέσιμη ενημέρωση</string>
     <string name="summary_miui_update">Διαθέσιμη ενημέρωση για %s.</string>
-    <string name="pref_title_open_optimizer_cloud_scan">Χρήση της online βάσης του Cleaner</string>
+    <string name="pref_title_open_optimizer_cloud_scan">Μεταφόρτωση</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="title_virus_cloudscan">Χρήση της online βάσης ιών</string>
     <string name="summary_virus_cloudscan">Ανέβασε και σάρωσε τις εφαρμογές με την online βάση ιών</string>
-    <string name="title_cleaner_cloudscan">Χρήση της online βάσης του Cleaner</string>
+    <string name="title_cleaner_cloudscan">Μεταφόρτωση ονομάτων φακέλων</string>
     <string name="summary_cleaner_cloudscan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="toast_flow_notification">Ενεργοποίηση ειδοποιήσεων για χρήση δεδομένων</string>
     <string name="toast_show_notification">Καρφιτσώθηκε στην μπάρα ειδοποιήσεων</string>
