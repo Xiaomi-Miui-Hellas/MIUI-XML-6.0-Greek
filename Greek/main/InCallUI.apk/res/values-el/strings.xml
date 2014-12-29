@@ -456,7 +456,7 @@
 
 Μετά το πάτημα του \"Ενεργοποίηση\", ακούστε τις οδηγίες που παρέχονται για να ενεργοποιήσετε το τηλέφωνό σας."</string>
     <string name="ota_skip_activation_dialog_title">Παράκαμψη ενεργοποίησης;</string>
-    <string name="ota_skip_activation_dialog_message">Εάν παραλείψετε την ενεργοποίηση, δεν θα μπορείτε να πραγματοποιείτε κλήσεις ή να συνδεθείτε σε δίκτυα κινητής τηλεφωνίας (μπορείτε όμως να συνδεθείτε σε δίκτυα WiFi). Μέχρι να ενεργοποιήσετε το τηλέφωνό σας, θα σας ζητηθεί να το ενεργοποιήσετε κάθε φορά που το ανοίγετε.</string>
+    <string name="ota_skip_activation_dialog_message">Εάν παραλείψετε την ενεργοποίηση, δεν θα μπορείτε να πραγματοποιείτε κλήσεις ή να συνδεθείτε σε δίκτυα κινητής τηλεφωνίας (μπορείτε όμως να συνδεθείτε σε δίκτυα Wi-Fi). Μέχρι να ενεργοποιήσετε το τηλέφωνό σας, θα σας ζητηθεί να το ενεργοποιήσετε κάθε φορά που το ανοίγετε.</string>
     <string name="ota_skip_activation_dialog_skip_label">Παράβλεψη</string>
     <string name="ota_activate">Ενεργοποίηση</string>
     <string name="ota_title_activate_success">Το τηλέφωνο είναι ενεργοποιημένο.</string>
@@ -497,7 +497,7 @@
     <string name="sip_receive_calls">Λήψη εισερχόμενων κλήσεων</string>
     <string name="sip_receive_calls_summary">Μειώνει τη διάρκεια ζωής της μπαταρίας</string>
     <string name="sip_call_options_title">Χρήση κλήσεων μέσω Διαδικτύου</string>
-    <string name="sip_call_options_wifi_only_title">Χρήση κλήσεων μέσω Διαδικτύου (μόνο WiFi)</string>
+    <string name="sip_call_options_wifi_only_title">Χρήση κλήσεων μέσω Διαδικτύου (μόνο Wi-Fi)</string>
     <string name="sip_call_options_entry_1">Για όλες τις κλήσεις όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
     <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω Διαδικτύου</string>
     <string name="sip_call_options_entry_3">Ρωτήστε για κάθε κλήση</string>
@@ -519,7 +519,7 @@
     <string name="registration_status_still_trying">Συνεχίζοντας την προσπάθεια…</string>
     <string name="registration_status_not_receiving">Δεν λαμβάνετε κλήσεις.</string>
     <string name="registration_status_no_data">Η εγγραφή λογαριασμού διεκόπη επειδή δεν υπάρχει σύνδεση στο Internet.</string>
-    <string name="registration_status_no_wifi_data">Η εγγραφή λογαριασμού διεκόπη επειδή δεν υπάρχει σύνδεση WiFi.</string>
+    <string name="registration_status_no_wifi_data">Η εγγραφή λογαριασμού διεκόπη επειδή δεν υπάρχει σύνδεση Wi-Fi.</string>
     <string name="registration_status_not_running">Ανεπιτυχής εγγραφή λογαριασμού.</string>
     <string name="registration_status_done">Λήψη κλήσεων.</string>
     <string name="registration_status_failed_try_later">Αποτυχία εγγραφής λογαριασμού: (%s); Θα προσπαθήσω αργότερα</string>
@@ -551,9 +551,9 @@
     <string name="empty_alert">>%s απαιτείται και δεν μπορεί να μείνει κενό.</string>
     <string name="not_a_valid_port">Ο αριθμός θύρας πρέπει να είναι μεταξύ 1000 και 65534.</string>
     <string name="no_internet_available_title">Δεν υπάρχει σύνδεση στο Internet</string>
-    <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WiFi</string>
+    <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση Wi-Fi</string>
     <string name="no_internet_available">Για να πραγματοποιήσετε μια κλήση Internet, ελέγξτε πρώτα τη σύνδεσή σας στο Internet.</string>
-    <string name="no_wifi_available">Θα πρέπει να είστε συνδεδεμένοι σε ένα δίκτυο WiFi για κλήσεις μέσω του Διαδικτύου (χρησιμοποιήστε τις ρυθμίσεις Δίκτυο &amp; Συνδεσιμότητα).</string>
+    <string name="no_wifi_available">Θα πρέπει να είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi για κλήσεις μέσω του Διαδικτύου (χρησιμοποιήστε τις ρυθμίσεις Δίκτυο &amp; Συνδεσιμότητα).</string>
     <string name="no_voip">Δεν υποστηρίζονται κλήσεις μέσω διαδικτύου</string>
     <string name="domain_address">SipDomain</string>
     <string name="username">Όνομα χρήστη</string>

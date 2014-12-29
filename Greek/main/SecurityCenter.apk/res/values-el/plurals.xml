@@ -5,12 +5,12 @@
         <item quantity="one">"%d ημέρα "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ω "</item>
-        <item quantity="one">"%d ω "</item>
+        <item quantity="other">"%d ώρες "</item>
+        <item quantity="one">"%d ώρα "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d λεπ "</item>
-        <item quantity="one">"%d λεπ "</item>
+        <item quantity="other">"%d λεπτά "</item>
+        <item quantity="one">"%d λεπτό "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d εφαρμογές μπορούν να εκκινούν αυτόματα</item>

@@ -14,7 +14,7 @@
     <string name="sim_card_detecting">Έλεγχος για κάρτα SIM…</string>
     <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="other_settings_location">Τοποθεσία</string>
-    <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία</string>
+    <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
     <string name="other_settings_user_experience">Πρόγραμμα εμπειρίας χρηστών</string>
     <string name="other_settings_user_experience_summary">Βοηθήστε στην βελτίωση του MIUI με την αποστολή ανώνυμης χρήσης δεδομένων (%s)</string>
     <string name="other_settings_user_experience_summary1">Προβολή πολιτικής απορρήτου</string>

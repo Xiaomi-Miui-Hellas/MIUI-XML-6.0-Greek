@@ -296,10 +296,10 @@
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Αναμονή για το δίκτυο…</string>
   <string name="wait_sdcard">Αναμονή για κάρτα SD…</string>
-  <string name="wait_wifi">Αναμονή για WiFi…</string>
+  <string name="wait_wifi">Αναμονή για Wi-Fi…</string>
   <string name="waiting">Αναμονή…</string>
   <string name="wangpan_root_path">Kuaipan</string>
-  <string name="wifi_state">Κατάσταση WiFi</string>
+  <string name="wifi_state">Κατάσταση Wi-Fi</string>
   <string name="xiaomi_account">Λογαριασμός Mi</string>
   <string name="yes">Ναι</string>
 </resources>

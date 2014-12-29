@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="Only_the_wifi">Δυνατό μόνο με WiFi</string>
+     <string name="Only_the_wifi">Δυνατό μόνο με Wi-Fi</string>
      <string name="add_flow_fail_haveget_msg">Η δοκιμαστική περίοδος έληξε.</string>
      <string name="add_flow_fail_vip_msg">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
      <string name="add_flow_success_msg">%s προστέθηκαν αυτό το μήνα</string>
@@ -64,7 +64,7 @@
      <string name="download_pending">Λήψη σε αναμονή</string>
      <string name="download_queued">Σε σειρά</string>
      <string name="download_running">Σε πρόοδο</string>
-     <string name="download_share_dialog">Διαμοιρασμός μέσω</string>
+     <string name="download_share_dialog">Κοινή χρήση μέσω</string>
      <string name="download_speed_null" />
      <string name="download_success">Ολοκληρώθηκε</string>
      <string name="download_title">Λήψεις</string>
@@ -75,7 +75,7 @@
      <string name="downloads_operating">Σε λειτουργία…</string>
      <string name="dredge_xunlei_account">Έναρξη ως μέλος της Xunlei</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
-     <string name="editmode_menu_share">Διαμοιρασμός</string>
+     <string name="editmode_menu_share">Κοινή χρήση</string>
      <string name="experience_xunlei_account_speed">Τα μέλη της Xunlei απολαμβάνουν γρήγορες υπηρεσίες</string>
      <string name="free_high_speed_channel">Δωρεάν Highspeed κανάλι</string>
      <string name="free_speedup_exp">Δωρεάν υπηρεσία Xunlei Highspeed</string>

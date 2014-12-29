@@ -26,7 +26,7 @@
   <string name="policy_dont_allow_html">"Δεν επιτρέπονται HTML email"</string>
   <string name="policy_dont_allow_browser">"Δεν επιτρέπονται οι πλοηγοί"</string>
   <string name="policy_dont_allow_consumer_email">"Δεν επιτρέπονται μηνύματα καταναλωτών"</string>
-  <string name="policy_dont_allow_internet_sharing">"Δεν επιτρέπεται ο μοιρασμός του Internet"</string>
+  <string name="policy_dont_allow_internet_sharing">"Δεν επιτρέπεται η κοινή χρήση του Internet"</string>
   <string name="policy_require_smime">Απαιτούνται μηνύματα SMIME</string>
   <string name="policy_bluetooth_restricted">Περιορισμός χρήσης Bluetooth</string>
   <string name="policy_app_blacklist">Απαγόρευση συγκεκριμένων εφαρμογών </string>

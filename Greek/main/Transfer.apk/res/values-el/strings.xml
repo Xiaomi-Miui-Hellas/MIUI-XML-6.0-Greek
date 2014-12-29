@@ -37,7 +37,7 @@
   <string name="download_failed_msg">Σφάλμα κατά την λήψη αρχείου!</string>
   <string name="download_succeed">Επιτυχής λήψη</string>
   <string name="editmode_menu_delete">Διαγραφή</string>
-  <string name="editmode_menu_share">Διαμοιρασμός</string>
+  <string name="editmode_menu_share">Κοινή χρήση</string>
   <string name="empty_share_history">Χωρίς ιστορικό διαμοιρασμού</string>
   <string name="error_bad_file">Κατεστραμμένο αρχείο</string>
   <string name="error_connect_service">Αδύνατη η σύνδεση στην υπηρεσία μεταφοράς.</string>
@@ -99,7 +99,7 @@
   <string name="notify_after_restore">Ειδοποίηση μετά την ανάκτηση</string>
   <string name="ok">ΟΚ</string>
   <string name="online_file">MiDrive</string>
-  <string name="only_support_single_share">Ο διαμοιρασμός ενός μόνο αρχείου υποστηρίζεται!</string>
+  <string name="only_support_single_share">Η κοινή χρήση ενός μόνο αρχείου υποστηρίζεται!</string>
   <string name="open">Άνοιγμα</string>
   <string name="operation_delete">Διαγραφή</string>
   <string name="operation_goto_folder">Στον φάκελο</string>
@@ -158,7 +158,7 @@
   <string name="send_finish_tip">Αποστολή %1$d αρχείο(α) προς:</string>
   <string name="send_history_deleted">Το ιστορικό αποστολών διαγράφηκε</string>
   <string name="send_nfc">Αποστολή με NFC</string>
-  <string name="send_share_link">Διαμοιρασμός συνδέσμου αρχείου</string>
+  <string name="send_share_link">Κοινή χρήση συνδέσμου αρχείου</string>
   <string name="send_sound">Αποστολή με ήχο</string>
   <string name="send_tip">Ομαδική αποστολή εικόνων, μουσικής, επαφών και διάφορα άλλα αρχεία.</string>
   <string name="send_to">Αποστολή προς:</string>
@@ -174,7 +174,7 @@
   <string name="settings_photo_remove">Διαγραφή avatar</string>
   <string name="settings_receive_confirm_summary">Επιβεβαίωση αιτήματος μεταφοράς αρχείου(ων)</string>
   <string name="settings_receive_confirm_title">Λήψη επιβεβαίωσης</string>
-  <string name="share">Διαμοιρασμός</string>
+  <string name="share">Κοινή χρήση</string>
   <string name="share_history">Ιστορικό διαμοιρασμού</string>
   <string name="share_item_not_found">Το αρχείο δεν υπάρχει για διαμοιρασμό</string>
   <string name="share_message">%1$s Κοινόχρηστα</string>

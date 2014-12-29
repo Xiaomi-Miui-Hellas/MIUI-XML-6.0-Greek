@@ -195,7 +195,7 @@
     <string name="traffic_protection_unknown">Δεν τα γνωρίζω. Θα τα συμπληρώσω αργότερα.</string>
     <string name="traffic_protection_text_hint">Ορισμός ορίου χρήσης δεδομένων για %s</string>
     <string name="traffic_protection_next">Επόμενο</string>
-    <string name="traffic_protection_data_usage_summary">Χρήση που υπερβαίνουν τα όρια των στοιχείων του σχεδίου του φορέα σας μπορεί να οδηγήσει σε απότομες τέλη περίσσεια.</string>
+    <string name="traffic_protection_data_usage_summary">Ορίστε προειδοποιήσεις για τη χρήση δεδομένων, ώστε να μην ξεπερνάτε τα όρια του μηνιαίου πακέτου του φορέα σας.</string>
     <string name="traffic_protection_use_data">Δεδομένα ενεργά</string>
     <string name="setting_traffic_pkg">Ορισμός πακέτου δεδομένων</string>
     <string name="traffic_correction_start_correction">Επικοινωνία με τους διακομιστές του φορέα…</string>

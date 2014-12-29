@@ -543,7 +543,7 @@
   <string name="menu_sendTextMessage">Αποστολή μηνύματος κειμένου</string>
   <string name="menu_set_ring_tone">Ορισμός ήχου κλήσης</string>
   <string name="menu_settings">Ρυθμίσεις</string>
-  <string name="menu_share">Διαμοιρασμός</string>
+  <string name="menu_share">Κοινή χρήση</string>
   <string name="menu_show_all_calls">Δείτε όλες τις κλήσεις</string>
   <string name="menu_show_voicemails_only">Εμφάνιση μόνο φωνητικών μηνυμάτων</string>
   <string name="menu_splitAggregate">Διαχωρισμός</string>
@@ -933,7 +933,7 @@
   <string name="resource_server_out_of_service">Δυστυχώς, ο διακομιστής μας είναι down αυτή τη στιγμή. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
   <string name="resource_share_subject">Μοιραστείτε το θέμα: %1$s</string>
   <string name="resource_share_text">"Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα σας άρεσε: %1$s! Σύνδεσμος: %2$s"</string>
-  <string name="resource_share_title">Διαμοιρασμός</string>
+  <string name="resource_share_title">Κοινή χρήση</string>
   <string name="resource_system_title">Πόροι συστήματος</string>
   <string name="resource_tip_select_ringtone">Καμία επιλογή</string>
   <string name="resource_title">Πληροφορίες πηγής</string>
