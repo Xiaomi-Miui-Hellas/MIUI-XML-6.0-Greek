@@ -109,8 +109,7 @@
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Αδύνατη η ασφαλής σύνδεση στον διακομιστή.
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Επεξεργασία λεπτομερειών</string>
-  <string name="account_setup_failed_dlg_server_message">"Αδύνατη σύνδεση στον διακομιστή.
-(%s)"</string>
+  <string name="account_setup_failed_dlg_server_message">"Αδύνατη σύνδεση στον διακομιστή."</string>
   <string name="account_setup_failed_dlg_title">"Αδύνατη ολοκλήρωση"</string>
   <string name="account_setup_failed_ioerror">"Αδύνατη σύνδεση στον διακομιστή."</string>
   <string name="account_setup_failed_protocol_unsupported">"Εισάγατε μια λάθος διεύθυνση διακομιστή ή ο διακομιστής απαιτεί μια έκδοση πρωτοκόλλου που το Email δεν υποστηρίζει."</string>
@@ -414,7 +413,6 @@
   <string name="fetching_attachment">Λήψη συνημμένου</string>
   <string name="file_deleted_success">Το αρχείο διαγράφηκε με επιτυχία!</string>
   <string name="file_not_found">Το αρχείο δεν βρέθηκε στο διακομιστή αλληλογραφίας!</string>
-  <string name="file_not_found_reDownload">Το αρχείο δεν βρέθηκε, παρακαλώ προσπαθήστε ξανά!</string>
   <string name="file_rar_not_support">Δεν υποστηρίζει κρυπτογραφημένο αρχείο rar!</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_icon_desc">Εικονίδιο του φακέλου</string>
@@ -565,7 +563,6 @@
   <string name="message_invite_accept">Ναι</string>
   <string name="message_invite_calendar_view">Δείτε το Ημερολόγιο</string>
   <string name="message_invite_decline">Όχι</string>
-  <string name="message_invite_label_attending">Μετάβαση?</string>
   <string name="message_invite_tentative">Ίσως</string>
   <string name="message_invite_title">Πρόσκληση Ημερολογίου</string>
   <string name="message_saved">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
@@ -649,7 +646,7 @@
   <string name="phone">τηλέφωνο</string>
   <string name="photo_load_failed">"Δεν ήταν δυνατή η φόρτωση της εικόνας"</string>
   <string name="photo_view_count" formatted="false">%d από %d</string>
-  <string name="please_fill_in_your_mailbox_information">Παρακαλώ συμπληρώστε τις σχετικές πληροφορίες του γραμματοκιβωτίου σας:</string>
+  <string name="please_fill_in_your_mailbox_information">Παρακαλώ συμπληρώστε τις σχετικές πληροφορίες του %s γραμματοκιβωτίου σας</string>
   <string name="please_fill_in_your_mailbox_information2">Παρακαλώ συμπληρώστε τα στοιχεία του γραμματοκιβωτίου σας που σχετίζονται με:</string>
 
   <string name="please_wait">Παρακαλώ περιμένετε…</string>
@@ -871,15 +868,6 @@
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Άλλο</string>
   <string name="wrong_password">Λάθος κωδικός!</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Ναι</string>
   <string name="zip_viewer_no_file">Χωρίς αρχεία!</string>
 </resources>

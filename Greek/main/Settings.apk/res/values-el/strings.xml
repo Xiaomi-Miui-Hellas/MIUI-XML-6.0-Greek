@@ -1660,7 +1660,7 @@
     <string name="gadget_brightness_state_off">off</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Αποθηκευτικός χώρος πιστοποιητικών</string>
-    <string name="credentials_install">Εγκατάσταση από τον χώρο αποθήκευσης</string>
+    <string name="credentials_install">Εγκατάσταση από χώρο αποθήκευσης</string>
     <string name="credentials_install_summary">Εγκατάσταση πιστοποιητικών από τον χώρο αποθήκευσης</string>
     <string name="credentials_reset">Εκκαθάριση πιστοποιητικών</string>
     <string name="credentials_reset_summary">Αφαίρεση όλων των πιστοποιητικών</string>

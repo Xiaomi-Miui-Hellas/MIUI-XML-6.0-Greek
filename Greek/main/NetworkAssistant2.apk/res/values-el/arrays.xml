@@ -50,4 +50,8 @@
         <item>Πάρτε ένα πρότυπο μηνύματος αυτόματα</item>
         <item>Ρυθμίστε το πρότυπο μήνυμα με το χέρι</item>
     </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Εμφάνιση προειδοποίησης</item>
+        <item>Προειδοποίηση και απενεργοποίηση δεδομένων κινητής</item>
+    </string-array>
 </resources>
