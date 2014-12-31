@@ -343,4 +343,14 @@
     <string name="privacy_prompt_traffic_purchase_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για λήψη περισσότερων πληροφοριών σχετικά με τις επιλογές αγοράς δεδομένων.</string>
     <string name="privacy_prompt_tc_sms_report_message">"Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi προκειμένου  να ενημερωθούν οι πληροφορίες χρήσης δεδομένων κινητής."</string>
     <string name="privacy_prompt_purchase_history_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για λήψη του ιστορικού αγορών δεδομένων κινητής.</string>
+    <string name="title_limit_traffic_per_day">Ημερήσιο όριο χρήσης δεδομένων</string>
+    <string name="pref_title_traffic_limit_number">Μέγεθος</string>
+    <string name="pref_title_over_traffic_limit_warning">Απενεργοποίηση δεδομένων σε περίπτωση υπέρβασης ορίου</string>
+    <string name="reach_daily_limit_value_title">Ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
+    <string name="reach_daily_limit_value_body">Μειώστε τη χρήση δεδομένων κινητής.</string>
+    <string name="daily_limit_network_available_body">Πατήστε για να δείτε τα στατιστικά στοιχεία χρήσης δεδομένων.</string>
+    <string name="daily_limit_over_message">"Έχετε υπερβεί το ημερήσιο όριο των δεδομένων σας."</string>
+    <string name="three_percent_total_pkg">%s (3%% των μηνιαίων σας δεδομένων κινητής)</string>
+    <string name="five_percent_total_pkg">%s (5%% των μηνιαίων σας δεδομένων κινητής)</string>
+    <string name="ten_percent_total_pkg">%s (10%% των μηνιαίων σας δεδομένων κινητής)</string>
 </resources>
