@@ -2216,6 +2216,10 @@
     <string name="title_font">Γραμματοσειρά</string>
     <string name="title_font_current">Επιλέξτε γραμματοσειρά</string>
     <string name="title_layout_current">Επιλέξτε το μέγεθος της γραμματοσειράς</string>
+    <string name="handy_mode">Λειτουργία με ένα χέρι</string>
+    <string name="handy_mode_enable">Λειτουργία με ένα χέρι</string>
+    <string name="handy_mode_tips">Σύρετε αριστερά ή δεξιά από το πλήκτρο Home για να τραβήξετε την οθόνη πιο κοντά προς τη μία πλευρά.</string>
+    <string name="handy_mode_size">Μέγεθος οθόνης</string>
     <string name="key_settings_title">Πλήκτρα</string>
     <string name="key_settings">Πλήκτρα</string>
     <string name="screen_key_press">Πιέστε τα πλήκτρα πλοήγησης</string>
