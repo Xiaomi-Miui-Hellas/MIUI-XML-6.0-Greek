@@ -99,7 +99,7 @@
     <string name="description_direction_up">Σύρετε προς τα πάνω για %s.</string>
     <string name="description_direction_left">Σύρετε προς τα αριστερά για %s.</string>
     <string name="description_target_search">Αναζήτηση</string>
-    <string name="status_bar_recent_memory_info1">"%s "</string>
+    <string name="status_bar_recent_memory_info1">%1$sB από %2$sB διαθέσιμα</string>
     <string name="status_bar_recent_memory_info2">" %s διαθέσιμα"</string>
     <string name="usb_mode_notification">Εξ.χώρος USB</string>
     <string name="usb_mode_dont_ask">Να θυμάσαι την επιλογή μου</string>

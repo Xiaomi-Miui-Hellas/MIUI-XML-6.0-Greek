@@ -32,7 +32,7 @@
 πίσω μέρος του κινητού σας σε μια ετικέτα"</string>
   <string name="bump_write_alert">Για να εφαρμόσετε αυτές τις ρυθμίσεις, πιέστε το πίσω μέρος του κινητού σας στο πλακάκι</string>
   <string name="call_sb">Κλήση %s</string>
-  <string name="call_to">Κλήση…?</string>
+  <string name="call_to">Κλήση…;</string>
   <string name="car_mode">Λειτ. αυτοκ.</string>
   <string name="characters">%d/72</string>
   <string name="click_to_choose">Άγγιγμα για άνοιγμα</string>
@@ -67,6 +67,7 @@
   <string name="email_to">Προς</string>
   <string name="empty_tag">Αυτή η ετικέτα είναι κενή</string>
   <string name="enable_wifi">WLAN</string>
+  <string name="erase_pon_pon_tile">Διαγραφή tag</string>
   <string name="erase_success">Διαγράφονται</string>
   <string name="erasing">Διαγραφή…</string>
   <string name="err_fail_to_erase">Αποτυχία διαγραφής της ετικέτας</string>
@@ -80,10 +81,13 @@
   <string name="err_tag_protected">Αυτό το Tag προστατεύεται με κωδικό. Παρακαλώ εισάγετε τον σωστό κωδικό.</string>
   <string name="err_tag_read_only">"Δεν μπορείς να γράψεις σε αυτό το Tag"</string>
   <string name="error_password">Κωδικός λάθους</string>
+  <string name="fail_get_contact_info">"Αδυναμία λήψης πληροφοριών επαφής. Βεβαιωθείτε ότι έχετε δώσει άδεια στο PonPonTag να βλέπει τις πληροφορίες των επαφών σας."</string>
   <string name="failed_install">Αποτυχία να εγκαταστήσετε</string>
   <string name="failed_to_erase">Αποτυχία διαγραφής στο tag</string>
   <string name="failed_to_write">Αποτυχία εγγραφής στο tag</string>
-  <string name="gps">GPS δορυφόροι</string>
+  <string name="fif_seconds">15 δευτερόλεπτα</string>
+  <string name="five_minutes">5 λεπτά</string>
+  <string name="gps">Δορυφόροι GPS</string>
   <string name="help_title">Βοήθεια</string>
   <string name="hint_input_address">Διεύθυνση</string>
   <string name="hint_input_alarm_label">Εισάγετε την ετικέτα συναγερμού</string>
@@ -107,6 +111,7 @@
   <string name="mode">Λειτουργία</string>
   <string name="music">Αναπαραγωγή μουσικής</string>
   <string name="my_tags">Οι ετικέτες μου</string>
+  <string name="never">Ποτέ</string>
   <string name="new_config">νέα καθήκοντα</string>
   <string name="new_configures">Νέες διαμορφώσεις</string>
   <string name="no_available_networks">Δεν υπάρχουν διαθέσιμα δίκτυα</string>
@@ -117,6 +122,7 @@
   <string name="null_task">Δεν υπάρχουν καθήκοντα</string>
   <string name="off">Off</string>
   <string name="on">On</string>
+  <string name="one_minute">1 λεπτό</string>
   <string name="open_web">Άνοιγμα ιστοσελίδας</string>
   <string name="open_xiaomi_web">Πηγαίνετε στο Xiaomi.com</string>
   <string name="password_preference">Tag κωδικού</string>
@@ -136,13 +142,13 @@
   <string name="read_a_tag">Διαβάστε μια ετικέτα</string>
   <string name="reading">Διάβασμα…</string>
   <string name="remote_app">Αναμονή για να κατεβάσετε ...</string>
-  <string name="remove_alert">Διαγραφή επιλεγμένων εργασιών?</string>
+  <string name="remove_alert">Διαγραφή επιλεγμένων εργασιών;</string>
   <string name="ringer_mode">Λειτουργία Κουδουνιού</string>
   <string name="ringer_normal">Κουδούνι</string>
   <string name="ringer_silent">Σιωπηλό</string>
   <string name="ringer_value">Κουδούνι %s%%</string>
   <string name="running">τρέχει</string>
-  <string name="save_alert">Αποθηκεύστε αυτό το έργο?</string>
+  <string name="save_alert">Αποθήκευση αυτού του έργου;</string>
   <string name="save_btn">Αποθήκευση</string>
   <string name="saving">Αποθηκεύει…</string>
   <string name="screen_timeout">Ύπνος</string>
@@ -170,10 +176,12 @@
   <string name="sound_ringer">Κουδούνι</string>
   <string name="sound_voice">Ένταση κλήσης</string>
   <string name="start_configuration">Διαμόρφωση ετικέτας</string>
-  <string name="sure_to_delete_user_config">Διαγράψτε αυτό το έργο?</string>
+  <string name="sure_to_delete_user_config">Διαγράψτε αυτό το έργο;</string>
   <string name="tag_history">Ιστορικό</string>
   <string name="tag_history_date_format">d/M</string>
   <string name="task">Ορισμός ενέργειας</string>
+  <string name="ten_minutes">10 λεπτά</string>
+  <string name="thir_seconds">30 δευτερόλεπτα</string>
   <string name="toast_import_failed">Αποτυχία εισαγωγής επαφών</string>
   <string name="toggle">Εναλλαγή</string>
   <string name="torch">Φακός</string>
@@ -183,6 +191,7 @@
 αγγίζετε το πίσω μέρος του κινητού σας σε μια άλλη ετικέτα."</string>
   <string name="touch_and_write_more">"Για να γράψετε ένα άλλο αντίγραφο,
 αγγίζετε το πίσω μέρος του κινητού σας σε μια άλλη ετικέτα."</string>
+  <string name="two_minutes">2 λεπτά</string>
   <string name="unavailable_net">"Απέτυχε η εγκατάσταση: δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>
   <string name="unavailable_storage">"Αποτυχία εγκατάστασης: δεν μπορούσε να χρησιμοποιήσει την κάρτα SD"</string>
   <string name="unrecognized_tag">Μη αναγνωρίσιμη περιεχόμενο tag</string>

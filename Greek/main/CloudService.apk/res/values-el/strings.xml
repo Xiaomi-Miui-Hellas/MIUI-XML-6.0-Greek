@@ -69,6 +69,7 @@
     <string name="user_agreement_p6">"Η χρήση αυτής της δυνατότητας υπόκειται στους "</string>
     <string name="user_agreement_p7">όρους Παροχής Υπηρεσιών Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
+    <string name="user_agreement_title">"Όροι Παροχής Υπηρεσιών Mi Cloud"</string>
     <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
     <string name="loading">Φόρτωση…</string>
     <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>

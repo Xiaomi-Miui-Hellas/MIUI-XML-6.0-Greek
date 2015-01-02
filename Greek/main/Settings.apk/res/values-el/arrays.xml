@@ -357,6 +357,16 @@
         <item>Κλίμακα κίνησης 5x</item>
         <item>Κλίμακα κίνησης 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Καμία</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (ασφαλή)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (ασφαλή)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (ασφαλή)</item>
+        <item>1280x720 tvdpi και 1920x1080 xhdpi</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Τίποτα</item>
         <item>Logcat</item>
@@ -603,6 +613,11 @@
         <item>Χαμηλό</item>
         <item>Μεσαίο</item>
         <item>Υψηλό</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 ίντσες</item>
+        <item>4.0 ίντσες</item>
+        <item>3.5 ίντσες</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Μικρότερη καθυστέρηση</item>

@@ -155,7 +155,6 @@
   <string name="data_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="data_usage_wifi_limit_snoozed_title">Υπέρβ. ορίου Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi ανενεργό</string>
-  <string name="date_and_time" formatted="false">%-l:%M:%S %p %d %b %Y</string>
   <string name="date_picker_decrement_day_button">Μείωση ημέρας</string>
   <string name="date_picker_decrement_month_button">Μείωση μήνα</string>
   <string name="date_picker_decrement_year_button">Μείωση έτους</string>
@@ -617,7 +616,6 @@
   <string name="mmiComplete">Το MMI ολοκληρώθηκε.</string>
   <string name="mmiError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας MMI.</string>
   <string name="mmiFdnError">Η λειτουργία περιορίζεται μόνο σε καθορισμένους αριθμούς κλήσης.</string>
-  <string name="month_day_year" formatted="false">%d %B %Y</string>
   <string name="more_item_label">Περισσότερα</string>
   <string name="needPuk">Η κάρτα SIM έχει κλειδωθεί με κωδικό PUK. Πληκτρολογήστε τον κωδικό PUK για να την ξεκλειδώσετε.</string>
   <string name="needPuk2">Πληκτρολογήστε τον κωδικό PUK2 για την κατάργηση αποκλεισμού της κάρτας SIM.</string>
