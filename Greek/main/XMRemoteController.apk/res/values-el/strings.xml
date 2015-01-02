@@ -85,7 +85,6 @@
     <string name="splash_add_device_des">Προσθέστε το πρώτο τηλεχειριστήριο!</string>
     <string name="add_device_match_desc_top">    1. Ευθυγραμμίστε την συσκευή %1$s；</string>
     <string name="add_device_match_desc_center">    2. Κάντε κλικ στο κουμπί για να στείλει εντολές IR</string>
-    <string name="add_device_match_desc_bottom">    3. Επιλογή συσκευής %1$s για απόκριση</string>
     <string name="match_type_selection_des">Παρακαλώ επιλέξτε για ποια συσκευή θέλετε να προσθέσετε ένα τηλεχειριστήριο</string>
     <string name="match_type_selection_title">Τύπος συσκευής</string>
     <string name="match_stb_seletion_des">Επιλέξτε τον τύπο που ταιριάζει στηη συσκευή σας</string>
@@ -137,7 +136,6 @@
     <string name="title_nodata_feedback">Λείπουν σχόλια για την συσκευή</string>
     <string name="match_succuss">Ολοκλήρωση :)</string>
     <string name="succeed_title">Ολοκλήρωση</string>
-    <string name="succeed_content">Μετά από %1$s βήματα %2$s, έχετε προσθέσει με επιτυχία το %3$s%4$s τηλεχειριστήριο</string>
     <string name="succeed_finish">Ολοκλήρωση προσθήκης</string>
     <string name="fail_title">Συγνώμη</string>
     <string name="fail_content">    δεν βρέθηκε να ταιριάζει κάτι με το τηλεχειριστήριο της συσκευής σας, μπορείτε να στείλετε πληροφορίες στους μηχανικούς μας.</string>
