@@ -242,7 +242,7 @@
   <string name="unsupport_title">Αυτή η λειτουργία δεν υποστηρίζεται</string>
   <string name="update_message">Ενημέρωση!</string>
   <string name="vcard_prompt">Η επαφή δεν μπορεί να προστεθεί χωρίς όνομα</string>
-  <string name="wallpaper_action">Αλλαγή του wallpaper με πλήκτρο</string>
+  <string name="wallpaper_action">Αλλαγή της ταπετσαρίας με πλήκτρο</string>
   <string name="wallpaper_change_both">Επεξεργασία αρχικής οθόνης + οθόνης κλειδώματος</string>
   <string name="wallpaper_change_desktop">Επεξεργασία ταπετσαρίας</string>
   <string name="wallpaper_change_failed">Αποτυχία επεξεργασίας ταπετσαρίας</string>

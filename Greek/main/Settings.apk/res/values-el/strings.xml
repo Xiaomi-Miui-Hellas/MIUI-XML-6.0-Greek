@@ -60,7 +60,7 @@
     <string name="status_bar_filter_item_description">Για ρύθμιση των ειδοποιήσεων, πηγαίνετε στις Γενικές ρυθμίσεις > Γραμμή κατάστασης > Διαχείριση ειδοποιήσεων</string>
     <string name="status_bar_settings_notification_bar">Μπάρα ειδοποιήσεων</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Κλείσιμο μετά το άγγιγμα</string>
-    <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ.screenshot</string>
+    <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ. στιγμιότυπου</string>
     <string name="status_bar_settings_status_bar">Μπάρα κατάστασης</string>
     <string name="status_bar_settings_show_notification_icon">Προβολή εικονιδίων ειδοποίησης</string>
     <string name="status_bar_settings_show_network_speed">Προβολή ταχύτητας σύνδεσης</string>

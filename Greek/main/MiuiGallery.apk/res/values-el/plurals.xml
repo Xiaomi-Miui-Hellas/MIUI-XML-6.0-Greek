@@ -24,6 +24,22 @@
         <item quantity="other">Διαγραφή %s βίντεο?</item>
         <item quantity="one">Διαγραφή %s βίντεο?</item>
      </plurals>
+     <plurals name="how_many_pics">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+     </plurals>
+     <plurals name="how_many_sub_folders">
+        <item quantity="other">%d φάκελοι</item>
+        <item quantity="one">%d φάκελος</item>
+     </plurals>
+     <plurals name="how_many_videos">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
+     </plurals>
+     <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Δεν έχετε άδεια να διαγράψετε αυτά τα %d αρχεία."</item>
+        <item quantity="one">"Δεν έχετε άδεια να διαγράψετε αυτό το %d αρχείο."</item>
+     </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d φωτογραφίες</item>
         <item quantity="zero">%1$d φωτογραφίες</item>
@@ -39,9 +55,8 @@
         <item quantity="zero">%1$d επιλέχθηκαν</item>
         <item quantity="one">%1$d επιλέχθηκε</item>
      </plurals>
-     <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
+     <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Μπορείτε να επιλέξετε %d στοιχεία</item>
+        <item quantity="one">Μπορείτε να επιλέξετε %d στοιχείο</item>
      </plurals>
 </resources>
