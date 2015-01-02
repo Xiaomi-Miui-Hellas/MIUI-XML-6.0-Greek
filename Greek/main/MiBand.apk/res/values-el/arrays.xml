@@ -32,6 +32,14 @@
         <item>Δευτέρα ως Παρασκευή</item>
         <item>Προσαρμογή</item>
      </string-array>
+     <string-array name="weather_aqi_descriptions">
+        <item>Άριστος</item>
+        <item>Καλός</item>
+        <item>Μέτριος</item>
+        <item>Μέτρια ρύπανση</item>
+        <item>Ρύπανση</item>
+        <item>Σοβαρή ρύπανση</item>
+     </string-array>
      <string-array name="weeks">
         <item>Δευτέρα</item>
         <item>Τρίτη</item>
@@ -49,5 +57,17 @@
         <item>Παρ</item>
         <item>Σαβ</item>
         <item>Κυρ</item>
+     </string-array>
+     <string-array name="weight_body_figures">
+        <item>Ελαφρύς</item>
+        <item>Κανονικός</item>
+        <item>Υπέρβαρος</item>
+        <item>Παχύς</item>
+        <item>Πολύ παχύς</item>
+     </string-array>
+     <string-array name="weight_test_unit">
+        <item>Kg</item>
+        <item>jin</item>
+        <item>Pound</item>
      </string-array>
 </resources>
