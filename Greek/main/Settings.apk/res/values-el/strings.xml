@@ -976,7 +976,7 @@
 "<li>Άλλα δεδομένα σας</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
+Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
     <string name="erase_external_storage">Διαγραφή κάρτας SD</string>
     <string name="erase_external_storage_description">Διαγραφή όλων των δεδομένων της κάρτας SD όπως μουσική και εικόνες</string>
     <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
@@ -2540,10 +2540,12 @@
     <string name="screen_color_temperature">Θερμοκρασία χρώματος</string>
     <string name="screen_saturation">Κορεσμός χρωμάτων</string>
     <string name="screen_color_temperature_and_saturation">Θερμοκρασία χρώματος &amp; κορεσμός</string>
+    <string name="screen_effect">Αντίθεση &amp; χρώματα</string>
+    <string name="screen_optimize">Αντίθεση</string>
     <string name="finish_application">Τέλος</string>
     <string name="header_category_accounts">Λογαριασμοί</string>
     <string name="auto_startup_application_manage">Αυτόματη εκκίνηση</string>
-    <string name="add_auto_startup_application">Add auto-start apps</string>
+    <string name="add_auto_startup_application">Προσθήκη εφαρμογών αυτόματης εκκίνησης</string>
     <string name="power_autorun_apps_empty">Δεν υπάρχουν εφαρμογές αυτόματης εκκίνησης</string>
     <string name="power_autorun_empty">Καμία από τις εφαρμογές σας δεν μπορεί να προστεθεί</string>
     <string name="auto_startup_count">%d εφαρμογές επιτρέπεται να να ξεκινούν αυτόματα</string>
@@ -2901,6 +2903,8 @@
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
     <string name="location_agps_def_location_mode">MSB</string>
+    <string name="wifi_disconnected_notification_title">Το Wi-Fi αποσυνδέθηκε</string>
+    <string name="wifi_disconnected_notification_summary">Επανάληψη ή σύνδεση σε άλλο Wi-Fi.</string>
     <string name="miracast_settings_category">Wi-Fi ρυθμίσεις της οθόνης</string>
     <string name="miracast_display_category">Οθόνες</string>
     <string name="miracast_menu_search">Αναζήτηση</string>
