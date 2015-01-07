@@ -35,12 +35,8 @@
     <string name="progress_title_checking">Έλεγχος για ενημερώσεις…</string>
     <string name="menu_title_download_current_rom">Λήψη πακέτου ενημέρωσης</string>
     <string name="menu_title_pick_rom_file">Επιλέξτε το πακέτο αναβάθμισης</string>
-    <string name="menu_title_check_update">Χρησιμοποιείτε μόνο WLAN για έλεγχο ενημερώσεων</string>
     <string name="menu_title_recovery">Επανεκκίνηση σε λειτουργία Recovery</string>
     <string name="menu_title_current_version_log">Περίληψη ενημέρωσης</string>
-    <string name="no_proper_updates">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
-    <string name="install_file_explorer">Θα πρέπει να εγκαταστήσετε File Explorer</string>
-    <string name="file_not_found_error_message">Δεν είναι δυνατή η πρόσβαση σε αυτό το αρχείο. Δοκιμάστε να επαναλάβετε τη λήψη.</string>
     <string name="check_update_policy">Ρυθμίσεις</string>
     <string name="check_update_when_wifi_available">Ελέγχει για ενημερώσεις μόνο όταν συνδέεστε σε WLAN</string>
     <string name="update_monthly_build_only">Μόνο μηνιαία ενημέρωση</string>
@@ -48,12 +44,7 @@
     <string name="apply_update_dialog_cancel_button">Ακύρωση</string>
     <string name="cancel_download_buton_text">Ακύρωση</string>
     <string name="boot_recovery">Επανεκκίνηση σε λειτουργία Recovery</string>
-    <string name="dialog_yes">ΟΚ</string>
-    <string name="dialog_no">Ακύρωση</string>
-    <string name="dialog_ok">ΟΚ</string>
     <string name="cancel_download">Διακοπή της λήψης αυτής της ενημέρωσης;</string>
-    <string name="downloading_description">Λήψη...</string>
-    <string name="apply_upload_info_message">Η συσκευή σας θα κάνει επανεκκίνηση και θα εγκαταστήσει αμέσως την ενημέρωση.</string>
     <string name="apply_now_button_text">Ενημέρωση τώρα</string>
     <string name="apply_later_button_text">Αργότερα</string>
     <string name="reboot_to_new_system">Επανεκκίνηση στο νέο σύστημα</string>

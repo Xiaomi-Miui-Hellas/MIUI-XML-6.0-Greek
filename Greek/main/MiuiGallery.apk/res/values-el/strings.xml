@@ -58,6 +58,8 @@
     <string name="auto_create_recent_album_confirm">Μετά την απενεργοποίηση αυτής της λειτουργίας, η εφαρμογή θα διαγράψει τα δεδομένα των αγαπημένων άλμπουμ. Τα αγαπημένα άλμπουμ που έχουν οριστεί από το χρήστη δε θα επηρεαστούν. Εναλλακτικά, μπορείτε να το ορίσετε μόνοι σας κρατώντας πατημένο ένα άλμπουμ.</string>
     <string name="auto_create_recent_album_over_ten_times">Αυτόματη δημιουργία άλμπουμ όταν ανοίγει ένα άλμπουμ πάνω από 10 φορές</string>
     <string name="auto_upload_album_comfirm_to_share">Αυτό το άλμπουμ θα ανέβει αυτόματα.</string>
+    <string name="auto_upload_guide">Ανεβάστε αυτόματα τις φωτογραφίες σας από άλλες εφαρμογές στο MiCloud</string>
+    <string name="auto_upload_setting_toast">Δείτε περισσότερες επιλογές για αυτό το χαρακτηριστικό στις ρυθμίσεις MiCloud</string>
     <string name="auto_upload_title">Ανεβάστε αυτόματα</string>
     <string name="autofix">Αυτόματη βελτίωση</string>
     <string name="autohomemain">Autohomemain</string>
@@ -235,6 +237,7 @@
     <string name="gallery_setting">Άλμπουμ</string>
     <string name="get_album_info_in_process">Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε…</string>
     <string name="global_setting">Ρυθμίσεις</string>
+    <string name="go_setting">Προβολή ρυθμίσεων</string>
     <string name="grain">Φιλμ με κόκκους</string>
     <string name="grayscale">B&amp;W</string>
     <string name="group_by">Ομαδοποίηση κατά</string>
@@ -334,6 +337,7 @@
     <string name="negative">Αρνητικό</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="new_device_tips">Δεν βρέθηκα συσκευή. Κλικ για προβολή</string>
+    <string name="new_feature">Νέα λειτουργία</string>
     <string name="no">Όχι</string>
     <string name="no_albums_alert">Δεν υπάρχουν διαθέσιμα άλμπουμ.</string>
     <string name="no_connectivity">Μερικές τοποθεσίες δε μπόρεσαν να προσδιοριστούν λόγω προβλήματος στο δίκτυο.</string>
@@ -347,6 +351,7 @@
     <string name="no_thumbnail">Χωρίς μικρογραφία</string>
     <string name="none_picture">Δεν βρέθηκαν φωτογραφίες</string>
     <string name="not_auto_create_recent_album">Μη αυτόματη δημιουργία πρόσφατου άλμπουμ</string>
+    <string name="not_now">Όχι τώρα</string>
     <string name="not_show_hidden_albums">Να μην προβάλλονται τα κρυφά άλμπουμ</string>
     <string name="only_show_camera_in_first_page">Δείξε μόνο τις φωτογραφίες του άλμπουμ κάμερας στην πρώτη σελίδα</string>
     <string name="only_show_camera_in_first_page_summary">Όταν απενεργοποιηθεί, οι φωτογραφίες όλων των άλμπουμ στο cloud θα εμφανίζονται στην πρώτη σελίδα.</string>

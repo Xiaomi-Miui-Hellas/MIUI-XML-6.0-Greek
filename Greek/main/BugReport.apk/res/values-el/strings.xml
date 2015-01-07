@@ -47,7 +47,7 @@
     <string name="toast_feedback_submitted">Το σχόλιό σας έχει καταχωρηθεί</string>
     <string name="toast_feedback_pending_wlan">Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο</string>
     <string name="toast_feedback_network_unavailable">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
-    <string name="toast_network_unavailable">"Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο."</string>
+    <string name="toast_network_unavailable">Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο.</string>
     <string name="discard_draft_dialog_title">Απόρριψη πρόχειρου</string>
     <string name="discard_draft_dialog_content">Τυχόν αλλαγές που έχετε κάνει σε αυτή την αναφορά θα χαθούν.</string>
     <string name="discard_draft_dialog_button_discard">Απόρριψη</string>
@@ -101,7 +101,9 @@
     <string name="submit_dialog_content">Τα σχόλιά σας, μαζί με τα αρχεία καταγραφής των σφαλμάτων και συνημμένες εικόνες, θα αποσταλούν στους διακομιστές της Xiaomi.</string>
     <string name="submit_dialog_cancel">Ακύρωση</string>
     <string name="submit_dialog_confirm">Υποβολή</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς σφάλματος (διαρκεί περίπου ένα λεπτό)</string>
-    <string name="bugreport_tool_log_toast">Το αρχείο καταγραφής αποθηκεύτηκε στο %s</string>
+    <string name="bugreport_dump_start_notification_title">Δημιουργία αναφορά σφάλματος</string>
+    <string name="bugreport_dump_start_notification_summary">Διαρκεί περίπου ένα λεπτό.</string>
+    <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
+    <string name="bugreport_dump_complete_notification_summary">Πατήστε για να τη δείτε.</string>
     <string name="screen_orientation_type">-1</string>
 </resources>

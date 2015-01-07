@@ -36,6 +36,9 @@
   <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
   <string name="data_usage_warning">Προειδοποίηση χρήσης δεδομένων!</string>
   <string name="data_usage_warning_summary">Η Χρήση δεδομένων κινητής τηλεφωνίας σας σε ροή υψηλότερης ποιότητας μουσικής, μπορεί να αυξήσει το κόστος χρήσης των δεδομένων σας.</string>
+  <string name="delete_file_as_well">Διαγραφή και του τοπικού αρχείου επίσης</string>
+  <string name="delete_file_end">Διαγραφή των αρχείων τελείως</string>
+  <string name="delete_file_start">Έναρξη διαγραφής των επιλεγμένων αρχείων</string>
   <string name="device_connected">Συνδέθηκε</string>
   <string name="device_not_connected">Δεν συνδέθηκε</string>
   <string name="dialog_button_create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
@@ -190,10 +193,12 @@
   <string name="no_local_source_find">"Αδυναμία εύρεσης τραγουδιού"</string>
   <string name="no_online_song_selected">Δεν έχουν επιλεγεί τραγούδια</string>
   <string name="no_results_return">Χωρίς αποτελέσματα αναζήτησης</string>
+  <string name="no_song">Δεν υπάρχουν τραγούδια</string>
   <string name="no_song_downloaded">Δεν μπορεί να γίνει λήψη τραγουδιού</string>
   <string name="normal_quality">Κανονική ποιότητα</string>
   <string name="not_login">Είσοδος</string>
   <string name="not_selected">Παρακαλώ επιλέξετε ένα τραγούδι</string>
+  <string name="nowplaying_menu_item_delete">Διαγραφή</string>
   <string name="ok">OK</string>
   <string name="online_music">Online</string>
   <string name="online_playlist_is_empty">Κενή λίστα αναπαραγωγής!</string>
@@ -210,7 +215,9 @@
   <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
   <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD αν υπάρχει</string>
   <string name="project_device">Mi Phone</string>
+  <string name="project_device_mobile">Φορητή συσκευή</string>
   <string name="quit_warining">Η συσκευή αναπαραγωγής θα σταματήσει μετά από %d λεπτό(ά)</string>
+  <string name="recommend_fragment_title">Θέμα</string>
   <string name="retry">Δοκιμή ξανά</string>
   <string name="ringtone_not_support">"Το φορμά του τραγουδιού δεν υποστηρίζεται"</string>
   <string name="search_album">Αναζήτηση άλμπουμ Online</string>
@@ -242,6 +249,7 @@
   <string name="song_not_find">"Δεν μπόρεσε να βρεθεί το τραγούδι. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά."</string>
   <string name="source_from">Πηγή από : %1$s</string>
   <string name="start_to_play">Αναπαραγωγή</string>
+  <string name="stream_quality">ποιότητα stream</string>
   <string name="streamloadingtext">Σύνδεση στο %s</string>
   <string name="tab_album_list">Άλμπουμ</string>
   <string name="tab_artist_list">Καλλιτέχνης</string>
