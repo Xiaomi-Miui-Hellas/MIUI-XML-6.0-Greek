@@ -20,6 +20,7 @@
     <string name="music_headset_no_contected">Δεν ανιχνεύτηκαν ακουστικά</string>
     <string name="music_headset_calibrate_wrong_key">Λάθος κουμπί</string>
     <string name="music_hifi_title">Ήχος Hi-Fi</string>
+    <string name="music_hifi_volume">Ένταση Hi-Fi</string>
     <string name="music_hifi_summary">Μειώστε το θόρυβο και την παραμόρφωση και αυξήστε την ποιότητα του ήχου. Το χαρακτηριστικό αυτό αυξάνει την κατανάλωση της μπαταρίας.</string>
     <string name="music_mi_effect_title">Βελτίωση ήχου Mi</string>
     <string name="music_mi_effect_summary">Χρήση της βελτίωσης ήχου για το ηχείο</string>
@@ -975,7 +976,7 @@
 "<li>Άλλα δεδομένα σας</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
+Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
     <string name="erase_external_storage">Διαγραφή κάρτας SD</string>
     <string name="erase_external_storage_description">Διαγραφή όλων των δεδομένων της κάρτας SD όπως μουσική και εικόνες</string>
     <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
@@ -1402,8 +1403,8 @@
     <string name="accessibility_screen_magnification_summary">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, μπορείτε να κάνετε ζουμ μέσα και έξω αγγίζοντας την οθόνη τρεις φορές.
 
 Κατά τη μεγέθυνση, μπορείτε να:
-"<li><ul>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
-"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></ul></li>"
+"<ul><li>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
+"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></li></ul>"
 
 Μπορείτε επίσης προσωρινά μεγεθύνει ότι είναι κάτω από το δάχτυλό σας με τριπλό κλικ πατώντας και κρατώντας το πατημένο. Σε αυτή την κατάσταση μεγέθυνσης, μπορείτε να σύρετε το δάχτυλό σας για να εξερευνήσετε διάφορα μέρη της οθόνης. Σηκώστε το δάχτυλό σας για να επιστρέψετε στην προηγούμενη κατάσταση σας.
 
@@ -2113,14 +2114,6 @@
     <string name="dndm_repeated_call_summary_3min">Χτύπα όταν λαμβάνεται μια δεύτερη κλήση από τον ίδιο αριθμό μέσα σε 3 λεπτά</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-    <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
-    <string name="oldman_mode_entry_name">Απλή λειτουργία</string>
-    <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργία</string>
-    <string name="oldman_mode_enabled_name">Απλή λειτουργία</string>
-    <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
-    <string name="oldman_mode_confirm_title">Επανεκκίνηση του τηλεφώνου;</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Lite λειτουργία.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από τη λειτουργία Lite;</string>
     <string name="search_airplane">αεροπλάνο</string>
     <string name="search_network">Δίκτυο</string>
     <string name="search_wifi">Wi-Fi</string>
@@ -2841,7 +2834,7 @@
     <string name="layout_size_large">Τεράστιο</string>
     <string name="page_layout_confirm_title">Αλλαγή ρυθμίσεων οθόνης</string>
     <string name="page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>
-    <string name="provision_page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>	
+    <string name="provision_page_layout_confirm_message">Η συσκευή σας πρέπει να κάνει επανεκκίνηση για να εφαρμόσει αυτές τις αλλαγές. Αυτό διαρκεί περίπου 1 λεπτό.</string>
     <string name="page_layout_1">Κυρ 28/12</string>
     <string name="page_layout_2">Κάμερα</string>
     <string name="page_layout_3">Άλμπουμ</string>
@@ -2873,6 +2866,41 @@
     <string name="page_layout_29">Jai Mani</string>
     <string name="page_layout_30">Frank Santo</string>
     <string name="page_layout_31">Alan Turing</string>
+    <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
+    <string name="oldman_mode_entry_name">Απλή λειτουργία</string>
+    <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργία</string>
+    <string name="oldman_mode_enabled_name">Απλή λειτουργία</string>
+    <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
+    <string name="oldman_mode_confirm_title">Επανεκκίνηση του τηλεφώνου;</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Lite λειτουργία.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από τη λειτουργία Lite;</string>
+    <string name="location_agps_params_settings_title">Ρυθμίσεις AGPS</string>
+    <string name="location_agps_supl_settings">Ρυθμίσεις SUPL</string>
+    <string name="location_agps_supl_server_addr">Διεύθυνση διακομιστή</string>
+    <string name="location_agps_supl_server_port">Θύρα διακομιστή</string>
+    <string name="location_agps_pref_si_title">Προτιμώμενη λειτουργία</string>
+    <string name="location_agps_si_mode">Λειτουργία AGPS SI</string>
+    <string name="location_agps_si_mode_summary">Επιλέξτε προτιμώμενη μέθοδο AGPS</string>
+    <string name="location_agps_si_mode_dialog_title">Μέθοδος AGPS</string>
+    <string name="location_agps_pref_apn_title">Προτιμώμενο apn</string>
+    <string name="location_agps_apn_type">Τύποι Apn</string>
+    <string name="location_agps_apn_summary">Επιλέξτε προτιμώμενο τύπο apn</string>
+    <string name="location_agps_apn_choose_dialog_title">Τύποι Apn</string>
+    <string name="location_agps_pref_reset_type_title">Προτιμώμενος τύπος εκκίνησης</string>
+    <string name="location_agps_reset_type">Τύπος εκκίνησης</string>
+    <string name="location_agps_reset_type_summary">Επιλέξτε τον προεπιλεγμένο τύπο εκκίνησης</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Τύπος εκκίνησης</string>
+    <string name="location_agps_pref_network_title">Ανοικτό δίκτυο</string>
+    <string name="location_agps_register_network_type">Τύπος δικτύου πρόσβασης</string>
+    <string name="location_agps_register_network_type_summary">Επιλέξτε το δίκτυο πρόσβασης για ενεργοποίηση AGPS...</string>
+    <string name="location_agps_register_network_type_dialog_title">Επιλογή δικτύου</string>
+    <string name="location_agps_roaming_help">Προσοχή: Επιλέγοντας ΟΛΑ ΤΑ ΔΙΚΤΥΑ να ανοίγουν το AGPS μπορεί να οδηγήσει σε απώλεια των τηλεφωνικών τελών κατά την περιαγωγή!</string>
+    <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
+    <string name="location_agps_def_supl_host">221.176.0.55</string>
+    <string name="location_agps_def_supl_port">7275</string>
+    <string name="location_agps_def_network_mode">HOME</string>
+    <string name="location_agps_def_reset_type">HOT</string>
+    <string name="location_agps_def_location_mode">MSB</string>
     <string name="miracast_settings_category">Wi-Fi ρυθμίσεις της οθόνης</string>
     <string name="miracast_display_category">Οθόνες</string>
     <string name="miracast_menu_search">Αναζήτηση</string>

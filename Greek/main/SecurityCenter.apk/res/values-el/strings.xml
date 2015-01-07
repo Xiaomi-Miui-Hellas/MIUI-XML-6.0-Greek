@@ -13,7 +13,7 @@
     <string name="summary_optimizer">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
     <string name="button_optimizer">OK</string>
     <string name="title_antivirus">Σάρωση ιών</string>
-    <string name="header_antivirus">"Αυτή η εφαρμογή κρυπτογραφεί και ανεβάζει ID της συσκευής σας στους διακομιστές της Tencent (%s)."</string>
+    <string name="header_antivirus">Αυτή η εφαρμογή κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές της Tencent (%s).</string>
     <string name="name_antivirus">δείτε την Πολιτική Απορρήτου</string>
     <string name="text_antivirus">Χρήση της online βάσης ιών</string>
     <string name="text_antivirus_oversea">Ενημέρωση βάσης ιών</string>
@@ -226,6 +226,9 @@
     <string name="boot_reminder_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη %2$dω %3$dλ</string>
     <string name="boot_reminder_hour">Η συσκευή θα ενεργοποιηθεί σε %1$dω %2$dλ</string>
     <string name="boot_reminder_minute">Η συσκευή θα ενεργοποιηθεί σε %1$dλ</string>
+    <string name="boot_reminder_only_hour">Η συσκευή θα ενεργοποιηθεί σε %1$dω</string>
+    <string name="boot_reminder_only_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη</string>
+    <string name="boot_reminder_day_hour">Η συσκευή θα ενεργοποιηθεί σε %1$dη %2$dω</string>
     <string name="boot_reminder">Ενεργοποίηση της συσκευής σε μια προκαθορισμένη ώρα</string>
     <string name="shutdown_cancel_reminder">Δεν απενεργοποιήθηκε</string>
     <string name="shutdown_cancel_reminder_detail">"Η συσκευή δεν απενεργοποιήθηκε  γιατί ήσασταν στη μέση μιας κλήσης"</string>
@@ -366,7 +369,7 @@
     <string name="title_data_flow_yes">Παρακολούθηση ροής δεδομένων</string>
     <string name="title_show_notification_yes">Εμφάνιση στη μπάρα ειδοποιήσεων</string>
     <string name="title_show_notification_no">Απόκρυψη ειδοποιήσεων</string>
-    <string name="button_text_fix">Σωστό</string>
+    <string name="button_text_fix">Εντάξει</string>
     <string name="button_text_view">Προβολή</string>
     <string name="button_text_security">OK</string>
     <string name="item_virus">Virus</string>
@@ -637,6 +640,8 @@
     <string name="summary_cloud_account">Αξιοποιήστε στο έπακρο τις δυνατότητες της συσκευής σας</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, εφαρμογές και πολλά άλλα μεταξύ των συσκευών σας</string>
+    <string name="title_network_switch">Πρόσβαση στο Internet</string>
+    <string name="summary_network_switch">Επιτρέψτε στο Κέντρο Ασφάλειας την πρόσβαση στο Internet</string>
     <string name="title_power_optimizer">Εξοικονόμηση μπαταρίας</string>
     <string name="summary_power_optimizer">Μειώστε την απόδοση της συσκευής σας όταν η μπαταρία είναι χαμηλή</string>
     <string name="title_data_flow">Ορίστε μια προειδοποίηση χρήσης δεδομένων</string>
@@ -645,6 +650,7 @@
     <string name="summary_telecom_operator">Πάρτε τα μηνιαία στατιστικά στοιχεία χρήσης των δεδομένων από το φορέα σας</string>
     <string name="title_flow_verify">Σύγκριση στοιχείων</string>
     <string name="summary_flow_verify">Δεν έχετε συγχρονίσει τα στατιστικά στοιχεία με τον φορέα σας εδώ και %d ημέρες</string>
+    <string name="summary_never_flow_verify">"Αυτός ο αριθμός δεν έχει επιβεβαιωθεί με τον φορέα σας"</string>
     <string name="title_saving_switch">Εξοικονόμηση δεδομένων</string>
     <string name="summary_saving_switch">Περιορισμός εφαρμογών από τη χρήση δεδομένων κινητής τηλεφωνίας σας για μεταφορά δεδομένων</string>
     <string name="title_flow_notification">Αναφορά χρήσης δεδομένων</string>
@@ -667,6 +673,7 @@
     <string name="summary_virus_cloudscan">Ανέβασε και σάρωσε τις εφαρμογές με την online βάση ιών</string>
     <string name="title_cleaner_cloudscan">Μεταφόρτωση ονομάτων φακέλων</string>
     <string name="summary_cleaner_cloudscan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
+    <string name="toast_network_switch">Αυτή η εφαρμογή μπορεί να συνδεθεί στο Internet</string>
     <string name="toast_flow_notification">Ενεργοποίηση ειδοποιήσεων για χρήση δεδομένων</string>
     <string name="toast_show_notification">Καρφιτσώθηκε στην μπάρα ειδοποιήσεων</string>
     <string name="toast_virus_cloudscan">Η σάρωση Ιών θα χρησιμοποιήσει την online βάση ορισμών</string>
