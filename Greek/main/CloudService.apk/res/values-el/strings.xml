@@ -19,6 +19,7 @@
     <string name="error_data_in_transfer">Ο συγχρονισμός θα τελειώσει σε %s ώρες.</string>
     <string name="activate">Ενεργοποίηση</string>
     <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
+    <string name="find_device_status_ok">Βρείτε τη συσκευή σας από οπουδήποτε στο i.mi.com</string>
     <string name="account">Λογαριασμός</string>
     <string name="verify">Επαλήθευση</string>
     <string name="next">Επόμενο</string>
@@ -203,6 +204,12 @@
     <string name="micloud_check_sim_notify_title">Επανενεργοποίηση Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Φαίνεται ότι έχετε αλλάξει τις κάρτες SIM. Συνδεθείτε
 στον λογαριασμό Mi για επανενεργοποίηση του Mi Cloud."</string>
+    <string name="micloud_setting_contact_summary">Πληροφορίες επαφών και φωτογραφίες προφίλ</string>
+    <string name="micloud_setting_sms_summary">Μηνύματα SMS και MMS</string>
+    <string name="micloud_setting_gallery_summary">Φωτογραφίες και βίντεο</string>
+    <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό και ετικέτες</string>
+    <string name="micloud_setting_music_summary">Λίστες αναπαραγωγής και αγαπημένα</string>
+    <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi-Fi</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credits το χρόνο</string>
     <string name="get_this_month_gb">Αποκτήστε %s δωρεάν χώρο αυτό το μήνα</string>
     <string name="get_first_month_gb">αποκτήστε %s δωρεάν χώρο</string>
