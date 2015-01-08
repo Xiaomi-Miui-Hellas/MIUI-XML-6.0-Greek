@@ -369,7 +369,7 @@
     <string name="title_data_flow_yes">Παρακολούθηση ροής δεδομένων</string>
     <string name="title_show_notification_yes">Εμφάνιση στη μπάρα ειδοποιήσεων</string>
     <string name="title_show_notification_no">Απόκρυψη ειδοποιήσεων</string>
-    <string name="button_text_fix">Εντάξει</string>
+    <string name="button_text_fix">Διόρθωση</string>
     <string name="button_text_view">Προβολή</string>
     <string name="button_text_security">OK</string>
     <string name="item_virus">Virus</string>
