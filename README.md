@@ -21,6 +21,7 @@ https://xiaomi-miui.gr/
 	<tr>
 		<td><span align="center"><a href="https://xiaomi-miui.gr/community/index.php/User/1-MIUI-ART/" target="_blank"><img src="https://xiaomi-miui.gr/community/wcf/images/avatars/e7/126-e71dc494179ddb8ce1f843030270c6b75d7946be.png" border="0" alt="MIUI_ART (Owner)"><br />MIUI_ART (Owner)</span></td>
 		<td><span align="center"><a href="https://xiaomi-miui.gr/community/index.php/User/1042-SomniusX/" target="_blank"><img src="https://xiaomi-miui.gr/community/wcf/images/avatars/ad/221-ad039e16423900a74388e0fe2b848784a7713288-128.jpg" border="0" alt="Somnius (aka @SomniusX)"><br />Somnius (aka <a href="http://twitter.com/SomniusX" target="_blank">@SomniusX</a>)</span></td>
+		<td><span align="center"><a href="https://xiaomi-miui.gr/community/index.php/User/2651-dnomikos/" target="_blank"><img src="https://xiaomi-miui.gr/community/wcf/images/focusBlue2/avatar.jpg" border="0" alt="dnomikos"><br />dnomikos</span></td>		
 	</tr>
 	<tr>
 		<td><span align="center"><a href="https://xiaomi-miui.gr/community/index.php/User/128-creativ7/" target="_blank"><img src="https://xiaomi-miui.gr/community/wcf/images/avatars/20/154-201c774165b5a24908521be1b7bccea169f6092a.jpg" border="0" alt="creativ7"><br />creativ7</span></td>
