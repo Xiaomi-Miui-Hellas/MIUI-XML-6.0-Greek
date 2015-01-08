@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών στο &amp;lt;b>cloud&amp;lt;/b>?</item>
-        <item quantity="one">Διαγραφή %s φωτογραφίας στο &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="other">Διαγραφή %s φωτογραφιών στο &amp;lt;b>cloud&amp;lt;/b>;</item>
+        <item quantity="one">Διαγραφή %s φωτογραφίας στο &amp;lt;b>cloud&amp;lt;/b>;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Διαγραφή %s φωτογραφίας ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Διαγραφή %s φωτογραφιών ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
+        <item quantity="one">Διαγραφή %s φωτογραφίας ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
+        <item quantity="one">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>?</item>
-        <item quantity="one">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="other">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>;</item>
+        <item quantity="one">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>;</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών?</item>
-        <item quantity="one">Διαγραφή %s φωτογραφίας?</item>
+        <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
+        <item quantity="one">Διαγραφή %s φωτογραφίας;</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Διαγραφή %s βίντεο?</item>
-        <item quantity="one">Διαγραφή %s βίντεο?</item>
+        <item quantity="other">Διαγραφή %s βίντεο;</item>
+        <item quantity="one">Διαγραφή %s βίντεο;</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d φωτογραφίες</item>

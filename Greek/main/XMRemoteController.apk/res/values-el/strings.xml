@@ -179,7 +179,7 @@
     <string name="supporting_soon">Έρχονται σύντομα</string>
     <string name="delete">Διαγραφή</string>
     <string name="rename">Μετονομασία</string>
-    <string name="delete_confirm">Αποσύνδεση συσκευής?</string>
+    <string name="delete_confirm">Αποσύνδεση συσκευής;</string>
     <string name="delete_desc">"Δεν θα μπορείτε να ελέγξετε το “%s” χρησιμοποιώντας το Mi Remote."</string>
     <string name="rename_hint">"Πληκτρολογήστε το όνομα της συσκευής"</string>
     <string name="add_device">Σύζευξη νέας συσκευής</string>
@@ -220,7 +220,7 @@
     <string name="province">Province</string>
     <string name="operator">Operator</string>
     <string name="next_step">επόμενο βήμα</string>
-    <string name="somthing_wrong">Έχετε προβλήματα?</string>
+    <string name="somthing_wrong">Έχετε προβλήματα;</string>
     <string name="maybe_is">Βεβαιωθείτε ότι:</string>
     <string name="no_network">"· Είστε συνδεδεμένοι στο Internet"</string>
     <string name="network_unstable">· Έχετε σταθερή σύνδεση</string>

@@ -153,10 +153,6 @@
   <string name="composer_failed_to_get_database_infomation">"Δεν μπορούν να ληφθούν πληροφορίες από την βάσης δεδομένων."</string>
   <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές προς εξαγωγή. Αν έχετε επαφές στο τηλέφωνό σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν την εξαγωγή επαφών από το τηλέφωνο.</string>
   <string name="composer_not_initialized">"Ο συνθέτης vCard δεν έχει ξεκινήσει σωστά."</string>
-  <string name="config_export_extensions_to_consider" />
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
-  <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
   <string name="confirm_delete_selected_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
   <string name="confirm_delete_sim_entry_miui">Διαγραφή %d επαφών στην κάρτα SIM;</string>
@@ -340,7 +336,6 @@
   <string name="email_other">Email</string>
   <string name="email_work">Email δουλειάς</string>
   <string name="emptyGroup">Δεν υπάρχουν άνθρωποι σε αυτή την ομάδα</string>
-  <string name="empty_divider_title" />
   <string name="enter_contact_name">"Πληκτρολογήστε το όνομα του ατόμου"</string>
   <string name="eventLabelsGroup">Γενέθλια</string>
   <string name="eventTypeCustom">Προσαρμογή</string>
@@ -407,10 +402,6 @@
   <string name="group_sms_progress_msg">Ομαδοποίηση…</string>
   <string name="groupsLabel">Ομάδες</string>
   <string name="groups_list_empty">Δεν υπάρχουν ομάδες</string>
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
-  <string name="hint_distance" />
   <string name="hint_findContacts">Εύρεση επαφών</string>
   <string name="hint_more_contact">Συγχώνευση διπλών επαφών</string>
   <string name="ic_menu_back">Πίσω</string>
@@ -491,6 +482,9 @@
   <string name="locale_change_in_progress">Λίστα επαφών ενημερώνεται ώστε να αντικατοπτρίζει την αλλαγή της γλώσσας.</string>
   <string name="login_ok">Σύνδεση</string>
   <string name="lunarBirthdayLabelsGroup">Σεληνιακά γενέθλια</string>
+  <string name="lunar_calendar">Σεληνιακό ημερολόγιο</string>
+  <string name="lunar_leap">Δίσεκτο</string>
+  <string name="lunar_yue">Μήνας</string>
   <string name="make_primary">Θυμήσου την επιλογή</string>
   <string name="map_custom">Προβολή %s διεύθυνσης</string>
   <string name="map_home">Προβολή διεύθυνσης σπιτιού</string>
@@ -828,7 +822,7 @@
   <string name="resource_comment_edit_comment_waiting">Έλεγχος ιστορικού του χρήστη…</string>
   <string name="resource_comment_edit_text_default">Γράψτε ένα σχόλιο</string>
   <string name="resource_comment_edit_title">Επεξεργασία σχολίου: %1$s</string>
-  <string name="resource_comment_entry_tips">Δείτε τα σχόλια</string>
+  <string name="resource_comment_entry_tips">Σχόλια (%1$s)</string>
   <string name="resource_comment_expand_full_text">Επεκτείνετε όλο το κείμενο ▼</string>
   <string name="resource_comment_footer">Τα κενά σχόλια δεν εμφανίζονται.</string>
   <string name="resource_comment_good_comments">Θετικά</string>
@@ -865,6 +859,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s θέματα</string>
   <string name="resource_detail_recommend_other_themes">Στους χρήστες άρεσε επίσης</string>
   <string name="resource_detail_update_log_title">Ενημερώσεις</string>
+  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
   <string name="resource_download">Λήψη</string>
   <string name="resource_download_trial">Δωρεάν δοκιμή</string>
@@ -889,11 +884,14 @@
   <string name="resource_exchange_wrong_format_by_local">Η μορφή του κώδικα που δώσατε είναι λανθασμένη.</string>
   <string name="resource_exchange_wrong_format_by_server">"Ο κωδικός δεν επαληθεύτηκε. Βεβαιωθείτε ότι τον έχετε εισαγάγει σωστά."</string>
   <string name="resource_expand_full_text">Εμφάνιση</string>
+  <string name="resource_failed_to_load_list">Αποτυχία φόρτωσης λίστας</string>
   <string name="resource_get_auth_checking">Έλεγχος άδειας…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Δέκα συσκευές έχουν ήδη εξουσιοδοτηθεί σε αυτόν τον λογαριασμό</string>
   <string name="resource_get_auth_exceed_max_limit_title">Ο αριθμός εξουσιοδοτημένων συσκευών έχει ξεπεραστεί</string>
-  <string name="resource_get_auth_missing">Θέματα από άλλες πηγές δεν υποστηρίζονται</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Αυτό το θέμα δεν είναι πλέον διαθέσιμο.</string>
+  <string name="resource_get_auth_not_official">Θέματα από τρίτες πηγές, δεν υποστηρίζονται</string>
   <string name="resource_get_auth_retrieving">Ανάκτηση άδειας…</string>
+  <string name="resource_has_been_downloaded">"Έχετε ήδη κατεβάσει αυτό το θέμα."</string>
   <string name="resource_hint">Προσοχή</string>
   <string name="resource_import_failed">Η εισαγωγή απέτυχε</string>
   <string name="resource_import_successful">Λήψη ολοκληρώθηκε</string>
@@ -903,6 +901,8 @@
   <string name="resource_menu_refresh">Ανανέωση</string>
   <string name="resource_mute">Κανένα</string>
   <string name="resource_my">Τοπικά</string>
+  <string name="resource_no_match_app">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια.</string>
+  <string name="resource_no_network_text">"Αδυναμία σύνδεσης στο δίκτυο."</string>
   <string name="resource_no_result">"Δεν βρίσκω τίποτα"</string>
   <string name="resource_notification_default">Ειδοποιήσεις</string>
   <string name="resource_on_trial">Δοκιμή: %1$s</string>
@@ -925,8 +925,10 @@
   <string name="resource_ringtone_playing_error">Αναπαραγωγή λάθους</string>
   <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
   <string name="resource_save_to_note">Αποθήκευση στις σημειώσεις</string>
+  <string name="resource_search_list_empty">"Δεν βρέθηκε τίποτα"</string>
   <string name="resource_see_more">Δείτε περισσότερα</string>
   <string name="resource_select">Επιλέξτε</string>
+  <string name="resource_select_ringtone_confirm">Επιλογή αυτού του ήχου;</string>
   <string name="resource_selected">Προτεινόμενο</string>
   <string name="resource_send">Αποστολή</string>
   <string name="resource_server_alert_dialog_title">"Επιστρέφουμε αμέσως…"</string>
@@ -935,9 +937,14 @@
   <string name="resource_share_text">"Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα σας άρεσε: %1$s! Σύνδεσμος: %2$s"</string>
   <string name="resource_share_title">Κοινή χρήση</string>
   <string name="resource_system_title">Πόροι συστήματος</string>
-  <string name="resource_tip_select_ringtone">Καμία επιλογή</string>
+  <string name="resource_tip_select_none">Καμία επιλογή</string>
   <string name="resource_title">Πληροφορίες πηγής</string>
+  <string name="resource_title_category">Κατηγορίες</string>
+  <string name="resource_title_hot_subject">Δημοφιλή</string>
+  <string name="resource_title_local">Τοπικά</string>
+  <string name="resource_title_rank">Κορυφαία charts</string>
   <string name="resource_title_select_ringtone">Επιλέξτε Ήχο</string>
+  <string name="resource_title_subject">Προτεινόμενα</string>
   <string name="resource_trial_end_message">Η δοκιμή του %1$s έληξε. Αν σας αρέσει, μπορείτε να το αγοράσετε.</string>
   <string name="resource_trial_end_purchase">Αγορά</string>
   <string name="resource_trial_end_restore">Τερματισμός δοκιμής</string>
@@ -947,8 +954,6 @@
   <string name="resource_trial_fail_message">Βεβαιωθείτε ότι το ρολόι του συστήματος σας είναι ρυθμισμένο στη σωστή ώρα.</string>
   <string name="resource_trial_fail_title">"Αδυναμία σύστασης δοκιμαστικής περιόδου"</string>
   <string name="resource_trial_time">δοκιμή για %1$d λεπτά</string>
-  <string name="resource_unable_to_access">"Δυστυχώς,
-το περιεχόμενο που ψάχνετε δεν είναι διαθέσιμο στην περιοχή σας."</string>
   <string name="resource_unknow_error">Προέκυψε ένα άγνωστο σφάλμα</string>
   <string name="resource_update">Ενημέρωση</string>
   <string name="resource_user_know">ΟΚ</string>
@@ -1064,6 +1069,7 @@
   <string name="sms_work_pager">Μήνυμα τηλεφώνου τηλεειδοποίησης</string>
   <string name="social_widget_label">Επαφή</string>
   <string name="social_widget_loading">Φορτώνει…</string>
+  <string name="solar_calendar">Γρηγοριανό ημερολόγιο</string>
   <string name="splitConfirmation">Αυτή η επαφή θα χωριστεί σε πολλαπλές επαφές.</string>
   <string name="splitConfirmation_title">Διαχωρισμός επαφής;</string>
   <string name="starredList">Με αστέρι</string>

@@ -55,7 +55,7 @@
     <string name="about_version_label">Έκδοση</string>
     <string name="about_developer_label">Ανάπτυξη</string>
     <string name="about_developer_name">XiaoMi Inc.</string>
-    <string name="nowifi_alert_dialog_title">Χρησιμοποιήστε το δίκτυο κινητής για να κάνετε streaming του βίντεο?</string>
+    <string name="nowifi_alert_dialog_title">Χρησιμοποιήστε το δίκτυο κινητής για να κάνετε streaming του βίντεο;</string>
     <string name="nowifi_alert_dialog_message">Αυτό μπορεί να αυξήσει σημαντικά τη χρήση κινητών δεδομένων σας.</string>
     <string name="nowifi_alert_dialog_continue">Συνέχεια</string>
     <string name="nowifi_alert_dialog_exit">Έξοδος</string>

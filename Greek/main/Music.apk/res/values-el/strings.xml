@@ -46,10 +46,10 @@
   <string name="dialog_button_find_music">Ανακαλύψτε νέα μουσική</string>
   <string name="dialog_button_login">Συνδεθείτε και συγχρονίσετε τη μουσική σας</string>
   <string name="dialog_button_scan_tracks">Αναζήτηση για μουσική σε αυτή τη συσκευή</string>
-  <string name="dialog_delete_descript">Διαγραφή %s?</string>
+  <string name="dialog_delete_descript">Διαγραφή %s;</string>
   <string name="dialog_hint_music_error">Δεν βρέθηκαν τραγούδια.</string>
   <string name="dialog_hint_network_error">"Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά."</string>
-  <string name="dialog_remove_descript">Διαγραφή %s?</string>
+  <string name="dialog_remove_descript">Διαγραφή %s;</string>
   <string name="dialog_title_add_playlist">Προσθήκη λίστας</string>
   <string name="dialog_title_delete_tracks">Διαγραφή</string>
   <string name="dialog_title_name_playlist">Όνομα λίστας</string>

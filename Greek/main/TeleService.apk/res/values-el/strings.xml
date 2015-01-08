@@ -869,5 +869,6 @@
     <string name="preference_dial_pad_touch_tone_default">Προεπιλογή</string>
     <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
     <string name="preference_telocation_summary_countrycode_off">Χωρίς αυτομ.κλήση κωδικού χώρας</string>
-    <string name="telephony_setting">Τηλέφωνο</string>
+    <string name="telephony_setting">Ρυθμίσεις κλήσεων</string>
+    <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
 </resources>

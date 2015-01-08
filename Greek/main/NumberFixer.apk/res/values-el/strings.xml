@@ -17,7 +17,7 @@
     <string name="find_numbers_delete">Διαγραφή κωδικού περιοχής/χώρας</string>
     <string name="find_numbers_delete_progress">Εύρεση #ψήφιων αριθμών που αρχίζουν με ~…</string>
     <string name="number_list_title">Διόρθωση λίστας</string>
-    <string name="delete_dialog">Διαγραφή # από την λίστα?</string>
+    <string name="delete_dialog">Διαγραφή # από την λίστα;</string>
     <string name="number_deleted">Ο αριθμός διαγράφηκε από την λίστα</string>
     <string name="delete">Διαγραφή</string>
     <string name="cancel">Άκυρο</string>
@@ -32,10 +32,10 @@
     <string name="prefix_label">Εύρεση αριθμών που αρχίζουν με: (προαιρετικό)</string>
     <string name="ok">Ok</string>
     <string name="num_digits_prompt">Διαλέξτε μήκος</string>
-    <string name="confirm_add">"Προσθήκη #areacode# στην αρχή των #numresults# τηλεφ.αριθμών?
+    <string name="confirm_add">"Προσθήκη #areacode# στην αρχή των #numresults# τηλεφ.αριθμών;
 
 πχ. το 555-5555 θα γίνει #areacode#555-5555"</string>
-    <string name="confirm_delete">"Διαγραφή #areacode# από την αρχή των #numresults# τηλεφ.αριθμών?
+    <string name="confirm_delete">"Διαγραφή #areacode# από την αρχή των #numresults# τηλεφ.αριθμών;
 
 πχ. το #areacode#555-5555 θα γίνει 555-5555"</string>
 </resources>

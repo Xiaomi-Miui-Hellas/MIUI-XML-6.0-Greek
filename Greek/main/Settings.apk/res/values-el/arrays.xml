@@ -541,6 +541,16 @@
         <item>Λαμπρό</item>
         <item>Τυπικό</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Αυτόματη αντίθεση</item>
+        <item>Αυξημένη αντίθεση</item>
+        <item>Τυπική</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Βελτιστοποίηση αντίθεσης για το διαθέσιμο φως</item>
+        <item>"Αύξηση της αντίθεσης οθόνης"</item>
+        <item>Η αντίθεση θα παραμείνει σταθερή</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Επέτρεψε</item>
         <item>Ερώτηση</item>
@@ -608,6 +618,10 @@
         <item>4.5 ίντσες</item>
         <item>4.0 ίντσες</item>
         <item>3.5 ίντσες</item>
+    </string-array>
+    <string-array name="agps_network_entries">
+        <item>Οικείο δίκτυο</item>
+        <item>Όλα τα δίκτυα</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Μικρότερη καθυστέρηση</item>

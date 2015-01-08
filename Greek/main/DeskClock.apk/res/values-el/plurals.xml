@@ -16,4 +16,8 @@
         <item quantity="other">%1$d λεπτά</item>
         <item quantity="one">1 λεπτό</item>
     </plurals>
+     <plurals name="snooze_message">
+        <item quantity="other">Αναβολή για %d λεπτά</item>
+        <item quantity="one">Αναβολή για %d λεπτό</item>
+     </plurals>
 </resources>
