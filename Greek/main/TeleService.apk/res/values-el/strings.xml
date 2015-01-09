@@ -378,6 +378,7 @@
     <string name="incall_error_call_failed">Η κλήση δεν πραγματοποιήθηκε.</string>
     <string name="incall_status_dialed_mmi">Έναρξη ακολουθίας MMI…</string>
     <string name="incall_error_turn_off_airplane_mode">Απενεργ. λειτουργίας πτήσης</string>
+    <string name="incall_error_no_active_sim">Δεν υπάρχει ενεργή κάρτα SIM.</string>
     <string name="emergency_enable_radio_dialog_title">Κλήση έκτακτης ανάγκης</string>
     <string name="dial_emergency_error">Η κλήση δεν πραγματοποιήθηκε. %s δεν είναι αριθμός έκτακτης ανάγκης!</string>
     <string name="dial_emergency_empty_error">Η κλήση δεν πραγματοποιήθηκε. Πληκτρολογήστε έναν αριθμό έκτακτης ανάγκης!</string>

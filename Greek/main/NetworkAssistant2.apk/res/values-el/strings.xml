@@ -334,6 +334,7 @@
     <string name="tc_sms_report_get_sms_timeout">Αδυναμία λήψης φόρμας δεδομένων SMS: λήξη χρονικού ορίου</string>
     <string name="tc_sms_report_get_sms_successs">Φόρμα SMS χρήσης δεδομένων ενημερώθηκε</string>
     <string name="tc_sms_report_get_default">Δεν θα επιβαρυνθείτε με χρεώσεις για μηνύματα SMS που χρησιμοποιούνται για τη λήψη υπολοίπου χρήσης δεδομένων από το φορέα σας.</string>
+    <string name="tc_sms_report_toast_text">Λήψη πληροφοριών…</string>
     <string name="privacy_declare_dialog_title">Όροι και Προϋποθέσεις</string>
     <string name="privacy_declare_dialog_message">Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με Opera &lt;a href=%s> Όρους και προϋποθέσεις&lt;/a>.</string>
     <string name="sc_allow_network_dialog_tiltle">Αδυναμία χρήσης Εξοικονόμησης Δεδομένων</string>
