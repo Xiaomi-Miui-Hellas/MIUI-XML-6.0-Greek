@@ -57,7 +57,7 @@
      <string name="download_list_intoAuthAlert">Παρακαλώ περιμένετε</string>
      <string name="download_list_open_xl_cancel">Ακύρωση</string>
      <string name="download_list_open_xl_message">Άνοιγμα της μηχανής λήψης της xunlei, με υψηλές ταχύτητες λήψης άμμεσα。</string>
-     <string name="download_list_open_xl_ok">Καθορίστε</string>
+     <string name="download_list_open_xl_ok">OK</string>
      <string name="download_list_open_xl_title">Άνοιγμα της μηχανής λήψης της xunlei</string>
      <string name="download_no_application_title">Αδύνατο άνοιγμα αρχείου</string>
      <string name="download_paused">Λήψη σε παύση</string>
