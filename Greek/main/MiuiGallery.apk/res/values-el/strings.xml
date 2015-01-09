@@ -41,7 +41,7 @@
     <string name="albumset_page_title_separator">|</string>
     <string name="alert">Προειδοποίηση</string>
     <string name="alert_init_merged_message">Τώρα, οι φωτογραφίες από τη συσκευή και τις φωτογραφίες που έχετε αποθηκευμένες στο Mi Cloud θα εμφανίζονται μαζί.</string>
-    <string name="alert_init_merged_title">Όλες οι φωτογραφίες σας. Μαζί με την τελευταία.</string>
+    <string name="alert_init_merged_title">Όλες οι φωτογραφίες σε ένα μέρος.</string>
     <string name="alert_message_open_sync">Απαιτείται συγχρονισμός, θέλετε να γίνει τώρα;</string>
     <string name="alert_secret_album_message">Σύρετε στο κάτω μέρος των άλμπουμ σας για να δείτε τα κρυφά άλμπουμ.</string>
     <string name="alert_secret_album_set_pattern">Ορίστε ένα μοτίβο</string>
