@@ -212,7 +212,7 @@
     <string name="report_success">Αναφορά απεστάλη</string>
     <string name="report_error">Λήξη χρονικού ορίου αναφοράς, παρακαλώ δοκιμάστε ξανά αργότερα</string>
     <string name="report_error_not_net">Δεν είστε συνδεδεμένοι με το δίκτυο, παρακαλώ δοκιμάστε ξανά αργότερα</string>
-    <string name="report_warning">"Αναφορά %1$s SMS στη Mi; Αυτά τα μηνύματα και οι αριθμοί τηλεφώνου από τους οποίους στάλθηκαν, θα φορτωθούν στους διακομιστές Mi για επανεξέταση. Οποιεσδήποτε προσωπικές πληροφορίες που σχετίζονται με αυτά τα μηνύματα, παραμένουν πάντα ανώνυμες."</string>
+    <string name="report_warning">Αναφορά %1$s SMS στη Mi; Αυτά τα μηνύματα και οι αριθμοί τηλεφώνου από τους οποίους στάλθηκαν, θα φορτωθούν στους διακομιστές Mi για επανεξέταση. Οποιεσδήποτε προσωπικές πληροφορίες που σχετίζονται με αυτά τα μηνύματα, παραμένουν πάντα ανώνυμες.</string>
     <string name="report_warning_title">Αναφορά SMS</string>
     <string name="menu_report_block">Σήμανση ως Spam</string>
     <string name="st_sub_title_customize_mode_name">Όνομα κανόνα</string>
@@ -298,4 +298,5 @@
     <string name="call_transfer_block">Αποκλεισμός προωθημένων κλήσεων</string>
     <string name="call_transfer_block_type">Αποκλεισμός προωθημένων κλήσεων</string>
     <string name="call_transfer_info">Αποκλεισμός κλήσεων που προωθούνται από άγνωστους αριθμούς</string>
+    <string name="sms_smart_engine_update">Αυτόματη ενημέρωση φίλτρου SMS</string>
 </resources>

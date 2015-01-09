@@ -70,6 +70,7 @@
     <string name="download_again">Κατεβάστε ξανά</string>
     <string name="space_not_enough_title">Δεν υπάρχει αρκετός χώρος</string>
     <string name="space_not_enough_msg">Δεν υπάρχει αρκετός χώρος αποθήκευσης στη συσκευή σας για να κατεβάσετε αυτήν την ενημερωμένη έκδοση.</string>
+    <string name="clean_up_button">Εκκαθάριση</string>
     <string name="no_wifi_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="no_wifi_msg">Δεν είστε πια συνδεδεμένοι στο WLAN. Συνεχίζοντας τη λήψη με την σύνδεση δεδομένων κινητής τηλεφωνίας, θα αυξηθεί η χρήση των δεδομένων σας.</string>
     <string name="go_on_download">Συνεχίστε</string>
@@ -145,6 +146,8 @@
     <string name="update_feedback_need_update">Θα πρέπει πρώτα να ενημερώσετε το σύστημά σας με την πιο πρόσφατη έκδοση.</string>
     <string name="update_feedback_expired">"Έχετε χάσει την προθεσμία για αυτή την εβδομάδα.
 Αλλά μπορείτε να συμμετάσχετε την επόμενη Τρίτη"</string>
+    <string name="update_feedback_need_account">Θα πρέπει πρώτα να συνδεθείτε στο Mi λογαριασμό σας</string>
+    <string name="update_feedback_need_network">Συνδεθείτε πρώτα σε δίκτυο</string>
     <string name="update_happy">Θαυμάσια!</string>
     <string name="update_general">Έτσι κι έτσι</string>
     <string name="update_sad">Μπα (όχι καλή)</string>
@@ -174,7 +177,7 @@
     <string name="comment_upload_hint">Ευχαριστούμε για τα σχόλιά σας!</string>
     <string name="comment_upload_success">Δημοσιεύτηκε</string>
     <string name="comment_invalid">Βαθμολογήστε αυτή την ενημέρωση (πατήστε τα αστέρια)</string>
-    <string name="comment_upload_not_logined">Θα πρέπει πρώτα να συνδεθείτε στο λογαριασμό σας Mi</string>
+    <string name="comment_upload_not_logined">Θα πρέπει πρώτα να συνδεθείτε στο Mi λογαριασμό σας</string>
     <string name="fourgrid_hint_text">Σας ευχαριστούμε που χρησιμοποιείτε την έκδοση της MIUI! Πείτε μας τη γνώμη σας και βοηθήστε μας να βελτιώσουμε την MIUI.</string>
     <string name="fourgrid_notificaiont">Εμφάνιση στη γραμμή κατάστασης</string>
     <string name="fourgrid_no_notificaiont">Χωρίς εμφάνιση στη γραμμή κατάστασης</string>
