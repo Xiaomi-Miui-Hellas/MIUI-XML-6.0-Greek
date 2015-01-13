@@ -52,7 +52,7 @@
     <string name="global_actions_shutdown">Τερματισμός</string>
     <string name="global_actions_silent_mode">Αθόρυβη λειτουργία</string>
     <string name="screen_on_proximity_sensor_title">Πρόληψη ατυχών κλήσεων</string>
-    <string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την περιοχή πορτοκαλί της οθόνης</string>
+    <string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την πορτοκαλί περιοχή της οθόνης</string>
     <string name="screen_on_proximity_sensor_hint">Για να απενεργοποιήσετε αυτή τη λειτουργία, πατήστε το κουμπί \"Back\" και \"Volume up\" ταυτόχρονα.</string>
     <string name="first_back_long_press_message">"Πατώντας παρατεταμένα το κουμπί \"Back\" θα τερματίσει η τρέχουσα διεργασία και όλες τις υπηρεσίες της που τρέχουν στο παρασκήνιο.
 
