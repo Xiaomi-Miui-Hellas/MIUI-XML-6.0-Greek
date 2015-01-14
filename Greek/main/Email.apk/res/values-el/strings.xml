@@ -136,7 +136,7 @@
   <string name="account_setup_incoming_title">Ρυθμίσεις λογαριασμού</string>
   <string name="account_setup_incoming_username_label">Όνομα</string>
   <string name="account_setup_names_account_name_label">Δώστε ένα φιλικό όνομα στον λογαριασμό (δεν απαιτείται)</string>
-  <string name="account_setup_names_headline">Ο λογαριασμός σας έχει ρυθμιστεί και τα email είναι καθ' οδόν!</string>
+  <string name="account_setup_names_headline">"Ο λογαριασμός σας έχει ρυθμιστεί και τα email είναι καθ' οδόν!"</string>
   <string name="account_setup_names_title">Ρύθμιση λογαριασμού</string>
   <string name="account_setup_names_user_name_empty_error">"Αυτό το πεδίο δεν μπορεί να είναι κενό."</string>
   <string name="account_setup_names_user_name_label">Το όνομά σας (εμφανίζεται στα εξερχόμενα)</string>
@@ -517,14 +517,6 @@
   <string name="mailbox_name_display_starred">Με αστέρι</string>
   <string name="mailbox_name_display_trash">Σκουπίδια</string>
   <string name="mailbox_name_display_unread">Αδιάβαστα</string>
-  <string name="mailbox_name_server_all_unread">Αδιάβαστα</string>
-  <string name="mailbox_name_server_drafts">Πρόχειρα</string>
-  <string name="mailbox_name_server_inbox">Εισερχόμενα</string>
-  <string name="mailbox_name_server_junk">Ανεπιθύμητα</string>
-  <string name="mailbox_name_server_outbox">Εξερχόμενα</string>
-  <string name="mailbox_name_server_sent">Απεσταλμένα</string>
-  <string name="mailbox_name_server_starred">Με αστέρι</string>
-  <string name="mailbox_name_server_trash">Σκουπίδια</string>
   <string name="mailbox_settings_activity_title">Επιλογές συγχρονισμού</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Επιλογές συγχρονισμού (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Μέρες για συγχρονισμού email</string>
