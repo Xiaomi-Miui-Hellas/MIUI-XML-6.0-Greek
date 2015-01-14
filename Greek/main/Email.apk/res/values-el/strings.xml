@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">Ηχητική αναζήτηση</string>
   <string name="abc_shareactionprovider_share_with">Διαμοιρασμός με</string>
   <string name="abc_shareactionprovider_share_with_application">Διαμοιρασμός με %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
   <string name="account_folder_list_summary_drafts">Πρόχειρα</string>
@@ -298,7 +297,6 @@
   <string name="collapse_recipient_details">Κατάρρευση των στοιχείων του δικαιούχου</string>
   <string name="colon">:</string>
   <string name="compose">Σύνθεση</string>
-  <string name="compose_help_context">σύνθεση</string>
   <string name="compose_send">Αποστολή</string>
   <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
   <string name="confirm">Επιβεβαίωση</string>
@@ -332,7 +330,6 @@
   <string name="contextmenu_send_mail">Αποστολή email</string>
   <string name="contextmenu_sharelink">Διαμοιρασμός συνδέσμου</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Μεταφέρθηκε στο %1$s</string>
   <string name="conversation_item_mark_read">Διαβασμένο</string>
   <string name="conversation_item_mark_unread">Αδιάβαστο</string>
@@ -448,7 +445,6 @@
   <string name="forward_attribution_no_headers">---------- Προωθημένο μήνυμα ----------</string>
   <string name="forward_download_failed_ticker">"Αδύνατη προώθηση ενός ή παραπάνω συνημμένων."</string>
   <string name="forward_download_failed_title">Συνημμένο δεν προωθήθηκε</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Από</string>
   <string name="from_heading">"Από: "</string>
   <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
@@ -598,7 +594,6 @@
   <string name="message_saved">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
   <string name="message_type_name">message</string>
   <string name="message_view_attachment_background_load">Θα γίνει λήψη ενός ή παραπάνω συνημμένων πριν την αποστολή του προωθημένου μηνύματός σας.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_remaining">%1$d απομένουν</string>
   <string name="more_atts_total">%1$d συνημμένα</string>
   <string name="more_context">Περισσότερα</string>
@@ -708,7 +703,6 @@
   <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
   <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">λίστα</string>
   <string name="prefDialogTitle_conversationListIcon">Εικόνα αποστολέα</string>
   <string name="prefDialogTitle_removal_action">Αρχείο &amp; διαγραφή δράσεων</string>
   <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή E-mail, please κάντε ενεργοποίηση.</string>
@@ -770,14 +764,9 @@
   <string name="reply">Απάντηση</string>
   <string name="reply_all">Απάντηση όλων</string>
   <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Απάντηση-σε:"</string>
   <string name="report">Αναφορά</string>
   <string name="report_phishing">Αναφορά ψευδούς</string>
-  <string name="report_rendering_improvement">Φαίνεται καλό</string>
-  <string name="report_rendering_improvement_desc">Αυτό το μήνυμα φαίνεται καλό.</string>
-  <string name="report_rendering_problem">Φαίνεται κακό</string>
-  <string name="report_rendering_problem_desc">Αυτό το μήνυμα φαίνεται κακό.</string>
   <string name="report_spam">Αναφορά spam</string>
   <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
   <string name="require_manual_sync_message">Είναι απενεργοποιημένος ο συγχρονισμός στο παρασκήνιο όταν βρίσκεστε σε roaming.</string>
@@ -896,7 +885,6 @@
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Παρακαλώ σύρετε από την κορυφή για να πάρετε την κοινοποίηση. Κάντε κλικ για να ολοκληρώσετε τη ρύθμιση της ασφάλειας.</string>
   <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
-  <string name="wait_help_context">περιμένετε</string>
   <string name="widget_all_mail">όλα τα μηνύματα</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Άλλο</string>
