@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">Νέα</string>
   <string name="action_item_delete">Διαγραφή</string>
   <string name="action_item_download">Λήψη</string>
+  <string name="action_item_hide">Απόκρυψη</string>
   <string name="action_item_remove">Διαγραφή</string>
   <string name="action_item_send">Αποστολή</string>
   <string name="add_music">Προσθήκη τραγουδιών</string>
@@ -23,11 +24,13 @@
   <string name="avoid_to_use_traffic_summary">Εμφάνιση προειδοποίηση χρήσης δεδομένων"</string>
   <string name="avoid_to_use_traffic_title">Χρησιμοποιείτε μόνο WiFi για να κάνετε streaming μουσικής</string>
   <string name="baidu_music">Μουσική Baidu</string>
+  <string name="bill_list_fragment_title">Charts</string>
   <string name="bluetooth_device">Συσκευή Bluetooth</string>
   <string name="buffering">Προ-φορτώνει…</string>
   <string name="button_add">Προσθήκη</string>
   <string name="can_not_find_resource">"Αδυναμία εύρεσης πόρων"</string>
   <string name="cancel">Άκυρο</string>
+  <string name="channel_list_fragment_title">Ράδιο</string>
   <string name="choose_download_quality">Επιλογή ποιότητας λήψης</string>
   <string name="choose_stream_quality">Επιλέξτε ποιότητα ροής</string>
   <string name="click_modify">Πατήστε για τροποποίηση lyric</string>
@@ -120,6 +123,8 @@
   <string name="filter_by_duration_min">0 δευ</string>
   <string name="filter_by_duration_prefix">"Ελάχιστη διάρκεια: "</string>
   <string name="filter_by_duration_summary">"Να μην εμφανίζονται μικρά αρχεία ήχου"</string>
+  <string name="filter_by_folder">Ανά φάκελο</string>
+  <string name="filter_by_folder_summary">Επιλογή φακέλων για εμφάνιση</string>
   <string name="filter_by_size">Ανά μέγεθος</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -229,6 +234,7 @@
   <string name="search_title_song">Τραγούδι</string>
   <string name="select_album">Επιλογή άλμπουμ</string>
   <string name="select_device">Επιλογή συσκευής</string>
+  <string name="select_displayed_folders">Επιλογή φακέλων για εμφάνιση</string>
   <string name="select_local_album">Επιλογή τοπικού άλμπουμ</string>
   <string name="select_local_lyric">Επιλογή τοπικών στίχων</string>
   <string name="select_lyric">Επιλογή στίχων</string>

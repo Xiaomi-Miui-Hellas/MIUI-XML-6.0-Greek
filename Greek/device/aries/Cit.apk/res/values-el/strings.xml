@@ -31,8 +31,10 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Μείωση θορύβου περιβάλλοντος</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Πίσω μικρόφωνο</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Βασικό μικρόφωνο</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Μικρόφωνο κορυφής</string>
     <string name="cit_audio_lb_phonecall_title">Εξομοίωση κλήσης</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Μικρόφωνο κορυφής</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Μπροστινό μικρόφωνο</string>
     <string name="cit_headset_plug_detect_title">Σύνδεση Ακουστικών</string>
     <string name="cit_headset_button_check_title">Κουμπιά Ακουστικών</string>
     <string name="cit_headset_loopback_check_title">Μικρόφωνο Ακουστικών</string>
@@ -106,12 +108,18 @@
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Δοκιμή πίσω μικροφώνου στο ηχείο.
 
 Γυρίστε το τηλέφωνο και μιλήστε στο πίσω μικρόφωνο. Θα πρέπει να ακούσετε την φωνή σας στο ηχείο "</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Δοκιμή μικροφώνου κορυφής. 
+
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
     <string name="cit_audio_lb_summary_phonecall">"Δοκιμή εξομοίωσης κλήσης.
 
 Κρατήστε το τηλέφωνο σαν να κάνετε μια κλήση και μιλήστε με το κύριο μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή στο ηχείο."</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Δοκιμή μικροφώνου κορυφής.
 
- Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Δοκιμή μπροστινού μικροφώνου.
+
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο στη θέση του ακουστικού. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
     <string name="cit_sd_plugin_check_summary">Το κείμενο \"Εντοπίστηκε κάρτα SD, αφαιρέστε την κάρτα SD τώρα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
     <string name="cit_sd_plugout_check_summary">Όταν αφαιρέσετε την κάρτα SD, το κείμενο \"Η κάρτα SD έχει αφαιρεθεί, τοποθετήστε την κάρτα SD τώρα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
     <string name="cit_keyboard_test_summary">Όταν πατάτε τα κουμπιά, το αντίστοιχο κείμενο στην οθόνη θα πρέπει να γίνετε πράσινο (το \"Home\" και το κουμπί λειτουργίας δεν περιλαμβάνονται στη δοκιμή).</string>

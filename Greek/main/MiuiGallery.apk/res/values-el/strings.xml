@@ -58,8 +58,8 @@
     <string name="auto_create_recent_album_confirm">Μετά την απενεργοποίηση αυτής της λειτουργίας, η εφαρμογή θα διαγράψει τα δεδομένα των αγαπημένων άλμπουμ. Τα αγαπημένα άλμπουμ που έχουν οριστεί από το χρήστη δε θα επηρεαστούν. Εναλλακτικά, μπορείτε να το ορίσετε μόνοι σας κρατώντας πατημένο ένα άλμπουμ.</string>
     <string name="auto_create_recent_album_over_ten_times">Αυτόματη δημιουργία άλμπουμ όταν ανοίγει ένα άλμπουμ πάνω από 10 φορές</string>
     <string name="auto_upload_album_comfirm_to_share">Αυτό το άλμπουμ θα ανέβει αυτόματα.</string>
-    <string name="auto_upload_guide">Ανεβάστε αυτόματα τις φωτογραφίες σας από άλλες εφαρμογές στο MiCloud</string>
-    <string name="auto_upload_setting_toast">Δείτε περισσότερες επιλογές για αυτό το χαρακτηριστικό στις ρυθμίσεις MiCloud</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Ανεβάστε αυτόματα τις φωτογραφίες σας από άλλες εφαρμογές στο Mi Cloud. Δείτε τις ρυθμίσεις στο &lt;font color=#323232>&lt;b>Ρυθμίσεις Άλμπουμ>Συγχρονισμός με Mi Cloud>Ανεβάστε αυτόματα&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="auto_upload_guide_title">Ανεβάστε αυτόματα</string>
     <string name="auto_upload_title">Ανεβάστε αυτόματα</string>
     <string name="autofix">Αυτόματη βελτίωση</string>
     <string name="autohomemain">Autohomemain</string>
@@ -95,7 +95,7 @@
     <string name="click_to_add_picture">Πατήστε για προσθήκη εικόνων</string>
     <string name="click_top_right">Πατήστε το εικονίδιο στα δεξιά</string>
     <string name="close">Κλείσιμο</string>
-    <string name="cloud_album_more_settings">Ρυθμίσεις του Cloud άλμπουμ</string>
+    <string name="cloud_album_more_settings">Συγχρονισμός με Mi Cloud</string>
     <string name="cloud_album_set_create">Νέο</string>
     <string name="cloud_album_set_scan_qr_code">Κωδ. QR</string>
     <string name="cloud_albums">Άλμπουμ στο Cloud</string>
@@ -337,7 +337,6 @@
     <string name="negative">Αρνητικό</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="new_device_tips">Δεν βρέθηκα συσκευή. Κλικ για προβολή</string>
-    <string name="new_feature">Νέα λειτουργία</string>
     <string name="no">Όχι</string>
     <string name="no_albums_alert">Δεν υπάρχουν διαθέσιμα άλμπουμ.</string>
     <string name="no_connectivity">Μερικές τοποθεσίες δε μπόρεσαν να προσδιοριστούν λόγω προβλήματος στο δίκτυο.</string>
@@ -346,7 +345,7 @@
     <string name="no_network_connected">Δεν υπάρχει σύνδεση διαδικτύου</string>
     <string name="no_picture_or_video">Χωρίς φωτογραφίες ή βίντεο</string>
     <string name="no_storage_disable_cloud_albums">Τα Cloud άλμπουμ έχουν απενεργοποιηθεί, παρακαλώ δοκιμάστε ξανά όταν ο εξ.χώρος θα είναι διαθέσιμος.</string>
-    <string name="no_such_album">Δεν βρέθηκε το Άλμπουμ</string>	
+    <string name="no_such_album">Δεν βρέθηκε το Άλμπουμ</string>
     <string name="no_such_item">Αδύνατη η εύρεση του αντικειμένου.</string>
     <string name="no_thumbnail">Χωρίς μικρογραφία</string>
     <string name="none_picture">Δεν βρέθηκαν φωτογραφίες</string>

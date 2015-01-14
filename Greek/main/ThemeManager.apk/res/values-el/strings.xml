@@ -19,7 +19,6 @@
   <string name="backup_theme_name">Το Αντίγραφο ασφαλείας μου</string>
   <string name="backup_theme_progress_message">Δημιουργία αντιγράφων ασφαλείας των αρχείων θεμάτων, παρακαλώ περιμένετε…</string>
   <string name="backup_theme_success_message">Η δημιουργία αντιγράφων ασφαλείας θεμάτων ήταν επιτυχής</string>
-  <string name="basic_info">Βασικές πληροφορίες</string>
   <string name="change_wallpaper">Ταπετσαρία</string>
   <string name="close">Κλείσιμο</string>
   <string name="component_category_finest_title">Προτεινόμενα</string>
@@ -87,7 +86,7 @@
   <string name="online_search_hint">Αναζήτηση online πόρων</string>
   <string name="payment_info">MiCredits</string>
   <string name="purchased_list">Λίστα αγορασμένων</string>
-  <string name="purchased_list_format">Αγορασμένα 1$s</string>
+  <string name="purchased_list_format">Αγορασμένα %1$s</string>
   <string name="resource_account_abnormal_state">Σφάλμα λογαριασμού, δοκιμάστε ξανά αργότερα.</string>
   <string name="resource_account_fail_to_add">Αποτυχία προσθήκης λογαριασμού!</string>
   <string name="resource_account_login">Σύνδεση</string>

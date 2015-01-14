@@ -5,7 +5,6 @@
     <string name="menu_copy">Αντιγραφή</string>
     <string name="description">Εάν δεν βλέπετε το πρόβλημα στα κοινά σφάλματα, περιγράψτε το εδώ (στα Αγγλικά)</string>
     <string name="suggestion_description">"Γράψτε εδώ τις προτάσεις σας (στα Αγγλικά) πχ I hope you'll add X feature, because…"</string>
-    <string name="nonsystemapp_description">Περιγραφή του προβλήματος (στα Αγγλικά)</string>
     <string name="btn_send">Αποστολή</string>
     <string name="err_type">Τύπος σφάλματος</string>
     <string name="err_type_reboot">Επανεκκίνηση Συστήματος</string>
