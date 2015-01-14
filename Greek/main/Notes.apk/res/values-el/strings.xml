@@ -34,6 +34,7 @@
      <string name="format_move_notes_to_folder">Μεταφέρθηκαν %1$s σημειώσεις στο %2$s</string>
      <string name="hint_foler_name">Όνομα</string>
      <string name="info_note_enter_desktop">Η σημείωση προστέθηκε στην αρχική οθόνη</string>
+     <string name="loading_text">Φόρτωση…</string>
      <string name="login_sync">Είσοδος &amp; συγχρονισμός</string>
      <string name="menu_create_folder">Νέος φάκελος</string>
      <string name="menu_delete">Διαγραφή</string>
@@ -96,6 +97,7 @@
      <string name="sns_toast_over_limit">Αποστολή ως εικόνα (πάνω από το όριο κειμένου))</string>
      <string name="toast_folder_privacy_mode">Δεν είναι δυνατή η επεξεργασία του φακέλου σε λειτουργία επισκέπτη</string>
      <string name="toast_message_add_image_fail">Αποτυχία εισαγωγής εικόνας!</string>
+     <string name="toast_message_add_text_warn">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>
      <string name="toast_note_privacy_mode">Δεν είναι δυνατή η δημιουργία σημείωσης σε λειτουργία επισκέπτη</string>
      <string name="toast_reach_text_limit_attachment">Το περιεχόμενο του σημειώματος είναι πολύ μεγάλο για να προσθέσετε νέα συνημμένα.</string>
      <string name="toast_reach_text_limit_truncate">Το περιεχόμενο του σημειώματος έχει κοπεί, γιατί είναι πολύ μεγάλο.</string>

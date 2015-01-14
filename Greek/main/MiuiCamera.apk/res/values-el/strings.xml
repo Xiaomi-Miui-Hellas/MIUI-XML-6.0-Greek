@@ -266,4 +266,5 @@
     <string name="pref_camera_long_press_shutter_feature_title">Πατήστε παρατεταμένα το κουμπί κλείστρου</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Εστίαση</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Λειτουργία ριπής</string>
+    <string name="pref_camera_asd_title">Αυτόματη Αναγνώριση σκηνής</string>
 </resources>

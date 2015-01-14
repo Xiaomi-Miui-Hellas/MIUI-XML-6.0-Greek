@@ -706,4 +706,12 @@
     <string name="pref_category_title_lock_screen_memory_clean">Καθαρισμός όταν κλειδώσει η οθόνη</string>
     <string name="pref_title_lock_screen_memory_clean">Καθαρισμός όταν κλειδώσει η οθόνη</string>
     <string name="pref_summary_lock_screen_memory_clean">Αυτόματος καθαρισμός όταν η συσκευή είναι κλειδωμένη</string>
+    <string name="title_delete_large_file">Διαγραφή μεγάλων αρχείων</string>
+    <string name="summary_delete_large_file">Είστε σίγουροι ότι θέλετε να διαγράψετε το επιλεγμένο αρχείο; Μετά την διαγραφή μεγάλων αρχείων μπορεί το χαρακτηριστικό χαρτών εκτός σύνδεσης να μην είναι διαθέσιμο. Παρακαλώ επιλέξτε προσεκτικά</string>
+    <string name="title_delete_cache">Διαγραφή δεδομένων cache</string>
+    <string name="summary_delete_cache">Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα δεδομένα cache; Ορισμένες εφαρμογές μπορεί να μην διαγραφούν μετά τη χρήση. Παρακαλώ επιλέξτε προσεκτικά</string>
+    <string name="positive_confirm">Επιβεβαίωση</string>
+    <string name="title_auto_cleaner">Αυτόματος καθαρισμός</string>
+    <string name="summary_auto_cleaner">Πότε να γίνει αυτόματος καθαρισμός; Κάθε τρεις ημέρες, μετά το άνοιγμα του προεπιλεγμένου αυτόματου καθαρισμού σκουπιδιών, μπορείτε να αλλάξετε τη συχνότητα και το περιεχόμενο στις ρυθμίσεις</string>
+    <string name="confirm_auto_cleaner">Επιβεβαίωση</string>
 </resources>

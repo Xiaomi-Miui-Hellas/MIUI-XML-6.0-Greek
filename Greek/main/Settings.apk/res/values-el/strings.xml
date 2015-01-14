@@ -2542,6 +2542,11 @@
     <string name="screen_color_temperature_and_saturation">Θερμοκρασία χρώματος &amp; κορεσμός</string>
     <string name="screen_effect">Αντίθεση &amp; χρώματα</string>
     <string name="screen_optimize">Αντίθεση</string>
+    <string name="screen_paper_mode_title">Λειτουργία ανάγνωσης</string>
+    <string name="screen_paper_mode_summary">"Μείωση αντανάκλασης φόντου της οθόνης"</string>
+    <string name="screen_paper_mode_turn_on">Ενεργό</string>
+    <string name="screen_paper_mode_turn_off">Ανενεργό</string>
+    <string name="screen_paper_mode_apps_title">Χρήση της λειτουργίας ανάγνωσης για αυτές τις εφαρμογές</string>
     <string name="finish_application">Τέλος</string>
     <string name="header_category_accounts">Λογαριασμοί</string>
     <string name="auto_startup_application_manage">Αυτόματη εκκίνηση</string>
