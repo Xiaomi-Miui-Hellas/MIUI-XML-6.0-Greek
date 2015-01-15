@@ -39,7 +39,7 @@
     <string name="call_title_redialing_with_times">Επανακλήθηκε %d φορές</string>
     <string name="onHold">Σε αναμονή</string>
     <string name="unknown">Άγνωστο</string>
-    <string name="private_num">Απόκρυψη</string>
+    <string name="private_num">Απόρρητος αριθμός</string>
     <string name="payphone">Καρτοτηλέφωνο</string>
     <string name="callFailed_userBusy">Απασχολημένη γραμμή</string>
     <string name="callFailed_congestion">Απασχολημένο δίκτυο</string>

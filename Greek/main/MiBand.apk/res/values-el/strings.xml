@@ -117,7 +117,7 @@
   <string name="date_today">Σήμερα</string>
   <string name="date_year_month">MMM, yyyy</string>
   <string name="date_year_month_day">MMM d, yyyy</string>
-  <string name="date_yesterday">Εχθές</string>
+  <string name="date_yesterday">Χθες</string>
   <string name="day">ημέρες</string>
   <string name="day_active_detail">Στατ.Ημέρας</string>
   <string name="debug_host_label">Add test host:</string>
@@ -422,7 +422,7 @@
   <string name="pull_to_refresh_from_bottom_pull_label">Φόρτωση περισσοτέρων</string>
   <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση</string>
   <string name="pull_to_refresh_refreshing_label">Ανανέωση…</string>
-  <string name="pull_to_refresh_release_label">Ελευθερώστε για φόρτωση</string>
+  <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>
   <string name="ran">ran </string>
   <string name="read_useragreement">Έχω διαβάσει τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου.</string>
   <string name="red">Κόκκινο</string>

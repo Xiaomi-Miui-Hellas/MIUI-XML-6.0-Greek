@@ -344,7 +344,7 @@
   <string name="date_heading">"Ημερομηνία: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Σήμερα, %1$s</string>
-  <string name="date_message_received_yesterday">Χτες, %1$s</string>
+  <string name="date_message_received_yesterday">Χθες, %1$s</string>
   <string name="debug_clear_webview_cache">Καθαρισμός WebView cache</string>
   <string name="debug_disable_graphics_acceleration_label">Απενεργοποίηση επιτάχυνσης γραφικών</string>
   <string name="debug_enable_debug_logging_label">Ενεργοποίηση έξτρα καταγραφής αποσφαλμάτωσης;</string>
