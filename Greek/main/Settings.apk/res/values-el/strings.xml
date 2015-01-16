@@ -2297,8 +2297,6 @@
     <string name="apn_new">Προσθήκη νέου APN</string>
     <string name="apn_save">Αποθήκευση APN</string>
     <string name="apn_save_msg">Οι ρυθμίσεις APN έχουν αλλάξει θέλετε να αποθηκευτούν</string>
-    <string name="apn_cm_wap">CMWAP</string>
-    <string name="apn_cm_net">CMNET</string>
     <string name="apn_chinaunicom_3gnet_general">Wal-3G σύνδεση στο Internet</string>
     <string name="apn_chinaunicom_3gwap_general">Wal 3G κινητό Internet</string>
     <string name="activating">Ενεργοποίηση</string>
