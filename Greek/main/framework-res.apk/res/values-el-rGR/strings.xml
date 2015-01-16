@@ -80,7 +80,7 @@
     <string name="pm">μμ.</string>
     <string name="AM">ΠΜ.</string>
     <string name="PM">ΜΜ.</string>
-    <string name="yesterday">Εχθές</string>
+    <string name="yesterday">Χθες</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
