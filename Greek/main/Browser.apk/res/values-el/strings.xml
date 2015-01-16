@@ -751,6 +751,6 @@
   <string name="webview_ok">OK</string>
   <string name="webview_older">Παλιότερα</string>
   <string name="webview_today">Σήμερα</string>
-  <string name="webview_yesterday">Εχθές</string>
+  <string name="webview_yesterday">Χθες</string>
   <string name="week_picker_dialog_title">Ορισμός εβδομάδας</string>
 </resources>

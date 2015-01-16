@@ -539,4 +539,5 @@
     <string name="snippet_audio">[ήχος]</string>
     <string name="snippet_picture">[εικόνα]</string>
     <string name="audio_download_failed">η λήψη ήχου απέτυχε</string>
+    <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub  δεν μπορεί να είναι κενή"</string>
 </resources>

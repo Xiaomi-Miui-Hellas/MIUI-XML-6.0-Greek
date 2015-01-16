@@ -976,7 +976,7 @@
 "<li>Άλλα δεδομένα σας</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
+Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
     <string name="erase_external_storage">Διαγραφή κάρτας SD</string>
     <string name="erase_external_storage_description">Διαγραφή όλων των δεδομένων της κάρτας SD όπως μουσική και εικόνες</string>
     <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
@@ -1403,8 +1403,8 @@
     <string name="accessibility_screen_magnification_summary">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, μπορείτε να κάνετε ζουμ μέσα και έξω αγγίζοντας την οθόνη τρεις φορές.
 
 Κατά τη μεγέθυνση, μπορείτε να:
-"<ul><li>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
-"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></li></ul>"
+"<li><ul>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
+"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></ul></li>"
 
 Μπορείτε επίσης προσωρινά μεγεθύνει ότι είναι κάτω από το δάχτυλό σας με τριπλό κλικ πατώντας και κρατώντας το πατημένο. Σε αυτή την κατάσταση μεγέθυνσης, μπορείτε να σύρετε το δάχτυλό σας για να εξερευνήσετε διάφορα μέρη της οθόνης. Σηκώστε το δάχτυλό σας για να επιστρέψετε στην προηγούμενη κατάσταση σας.
 
@@ -2543,10 +2543,11 @@
     <string name="screen_effect">Αντίθεση &amp; χρώματα</string>
     <string name="screen_optimize">Αντίθεση</string>
     <string name="screen_paper_mode_title">Λειτουργία ανάγνωσης</string>
-    <string name="screen_paper_mode_summary">"Μείωση αντανάκλασης φόντου της οθόνης"</string>
+    <string name="screen_paper_mode_summary">Μείωση αντανάκλασης φόντου της οθόνης</string>
     <string name="screen_paper_mode_turn_on">Ενεργό</string>
     <string name="screen_paper_mode_turn_off">Ανενεργό</string>
     <string name="screen_paper_mode_apps_title">Χρήση της λειτουργίας ανάγνωσης για αυτές τις εφαρμογές</string>
+    <string name="screen_paper_mode_off_apps_title">Να μην γίνει χρήση της λειτουργίας ανάγνωσης για τις παρακάτω εφαρμογές</string>
     <string name="finish_application">Τέλος</string>
     <string name="header_category_accounts">Λογαριασμοί</string>
     <string name="auto_startup_application_manage">Αυτόματη εκκίνηση</string>
@@ -2855,10 +2856,6 @@
     <string name="page_layout_11">Ασφάλεια</string>
     <string name="page_layout_12">Ρυθμίσεις</string>
     <string name="page_layout_13">Εργαλεία</string>
-    <string name="page_layout_14">Παιχνίδια</string>
-    <string name="page_layout_15">Εφαρμογές</string>
-    <string name="page_layout_16">Θέματα</string>
-    <string name="page_layout_17">Η ζωή μου</string>
     <string name="page_layout_18">Πρόσφατα</string>
     <string name="page_layout_19">Επαφές</string>
     <string name="page_layout_20">Κατάλογος</string>

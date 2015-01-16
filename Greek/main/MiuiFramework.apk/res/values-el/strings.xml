@@ -44,9 +44,9 @@
     <string name="app_no_notification">Κενό</string>
     <string name="app_notificaiton_on_notificationBar">Μπάρα ειδοποιήσεων</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Οθόνη κλειδώματος, Μπάρα ειδοποιήσεων</string>
-    <string name="lockscreen_access_pattern_start">Το Μοτίβο ενεργοποιήθηκε</string>
+    <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
     <string name="lockscreen_access_pattern_cleared">Το μοτίβο ακυρώθηκε</string>
-    <string name="lockscreen_access_pattern_cell_added">Το κινητό προστέθηκε</string>
+    <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
     <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
     <string name="global_actions_airplane_mode">Λειτουργία πτήσης</string>
     <string name="global_actions_reboot">Επανεκκίνηση</string>
@@ -62,7 +62,7 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="force_exit_skip_message">%1$s είναι βασικό συστατικό συστήματος και δεν μπορεί υποχρεωθεί σε κλείσιμο.</string>
     <string name="screen_button_notification_title">Πλήκτρα οθόνης ανενεργά</string>
     <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε πατήστε τα πλήκτρα \"Home\" και ower\" ταυτόχρονα.</string>
-    <string name="perm_send_push_dspt">Επέτρεψε την αυτόματη λήψη μηνυμάτων Mi</string>
+    <string name="perm_send_push_dspt">Επέτρεψε την αυτόματη αποστολή μηνυμάτων στη Mi</string>
     <string name="perm_send_push_lab">Αποστολή αυτόματου μηνύματος</string>
     <string name="select">Επιλογή</string>
     <string name="select_all">Επιλογή όλων</string>
@@ -82,10 +82,10 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="sim_added_reboot_title">Η κάρτα SIM θα ενεργοποιηθεί μετά την επανεκκίνηση της συσκευής σας.</string>
     <string name="sim_added_reboot_confirm">Επανεκκίνηση</string>
     <string name="yellow_page_unable_send_sms">Αδύνατη η αποστολή SMS</string>
-    <string name="yellow_page_module_sms_sent">SMS εστάλη</string>
+    <string name="yellow_page_module_sms_sent">Το μήνυμα SMS εστάλη</string>
     <string name="yellow_page_sms_send_failed">Δεν ήταν δυνατή η αποστολή SMS</string>
     <string name="yellow_page_sms_sending">Αποστολή…</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">Αδύνατη η αποστολή μηνυμάτων σε λειτ. επισκεπτών.</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Αδύνατη η αποστολή SMS σε λειτουργία επισκέπτη.</string>
     <string name="group_name_contacts">Επαφές</string>
     <string name="group_name_friends">Φίλοι</string>
     <string name="group_name_family">Οικογένεια</string>
@@ -101,4 +101,5 @@ To enable this function, go to Ρυθμίσεις > Πρόσθετες Ρυθμ�
     <string name="maml_component_customization_title">Ρυθμίσεις</string>
     <string name="default_name">Προεπιλογή</string>
     <string name="resource_select">Επιλογή</string>
+    <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις > Λειτουργία Ανάγνωσης.</string>
 </resources>

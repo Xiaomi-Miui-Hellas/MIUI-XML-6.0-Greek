@@ -11,7 +11,7 @@
     <string name="loading">Φόρτωση…</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
-    <string name="yesterday">Εχθές</string>
+    <string name="yesterday">Χθες</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="midnight">ΠΜ</string>
@@ -39,7 +39,7 @@
     <string name="activating">Ενεργοποίηση…</string>
     <string name="check_phone_error_title">Ανενεργή υπηρεσία συγχρονισμού</string>
     <string name="check_phone_io_error">Σφάλμα δικτύου.</string>
-    <string name="send_sms_for_sync_title">Ανενεργή υπηρεσία συγχρονισμού</string>
+    <string name="send_sms_for_sync_title">Υπηρεσία συγχρονισμού ανενεργή</string>
     <string name="send_sms_for_sync_notice">Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
     <string name="activate">Ενεργοποίηση</string>
     <string name="activate_fail_notification_title">Επανενεργοποίηση συγχρονισμού</string>

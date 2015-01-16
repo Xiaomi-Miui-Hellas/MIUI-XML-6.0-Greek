@@ -80,6 +80,8 @@
   <string name="call_radio">Κλήση radio</string>
   <string name="call_record_setting_miui">Ρυθμίσεις εγγραφής</string>
   <string name="call_settings">Ρυθμίσεις</string>
+  <string name="call_sim1_menu_title">Κλήση από SIM1</string>
+  <string name="call_sim2_menu_title">Κλήση από SIM2</string>
   <string name="call_telex">Κλήση telex</string>
   <string name="call_tty_tdd">Κλήση TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -756,10 +758,13 @@
   <string name="prepare_import">Εισαγωγή επαφών</string>
   <string name="preview_contact_card_title">Εισαγωγή επαφών…</string>
   <string name="previous">Προηγούμενο</string>
-  <string name="private_num">Περιορισμένος αριθμός</string>
+  <string name="private_num">Απόρρητος αριθμός</string>
   <string name="profile_display_name">Ρύθμιση του προφίλ μου</string>
   <string name="profile_name">Το προφίλ μου</string>
   <string name="profile_name_photo">Εγώ</string>
+  <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
+  <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
+  <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
   <string name="qr_card_card">Ο QR κωδικός μου</string>
   <string name="qrcode_card_title">QR κωδικός</string>
   <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
@@ -779,7 +784,7 @@
   <string name="recentCalls_editNumberBeforeCall">Επεξεργασία αριθμού πριν την κλήση</string>
   <string name="recentCalls_empty">Το αρχείο κλήσεων είναι άδειο</string>
   <string name="recentCalls_removeFromRecentList">Αφαίρεση από το αρχείο κλήσεων</string>
-  <string name="recentCalls_shareVoicemail">Μοίρασμα του τηλεφωνητή</string>
+  <string name="recentCalls_shareVoicemail">Κοινή χρήση τηλεφωνητή</string>
   <string name="recentCalls_trashVoicemail">Διαγραφή τηλεφωνητή</string>
   <string name="recent_contacts_label">Πρόσφατα</string>
   <string name="recent_number">Πρόσφατες</string>
@@ -909,6 +914,7 @@
   <string name="resource_online">Δίκτυο %1$s</string>
   <string name="resource_pack_confirm">"Ακόμα κι αν έχετε ήδη αγοράσει %1$d μέρη από αυτό το θέμα, είναι φθηνότερα αν αγοράσετε την πλήρη δέσμη."</string>
   <string name="resource_pack_discount_info">%1$s αποθηκευμένα</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Το θέμα αυτό δεν είναι πλέον διαθέσιμο.</string>
   <string name="resource_pack_price_info">%1$s Αρχική</string>
   <string name="resource_pack_warning">"Έχετε ήδη αγοράσει %1$d μέρη από αυτό το θέμα. Είναι φθηνότερα, αν αγοράσετε τα υπόλοιπα μέρη ξεχωριστά."</string>
   <string name="resource_present">Δώρο</string>
@@ -1170,6 +1176,7 @@
   <string name="yellowpage_navigation_send_to_desktop_downloading">Λήψη εικονιδίου…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Προστέθηκε στην Αρχική οθόνη</string>
+  <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον κατάλογο</string>
   <string name="yellowpage_user_profile">Προφίλ</string>
   <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
 </resources>

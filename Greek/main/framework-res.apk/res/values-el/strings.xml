@@ -435,10 +435,10 @@
   <string name="launch_warning_title">Ανακατεύθυνση εφαρμογής</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Φόρτωση…</string>
-  <string name="lockscreen_access_pattern_cell_added">Προστέθηκε κελί</string>
-  <string name="lockscreen_access_pattern_cleared">Το μοτίβο απαλείφθηκε</string>
+  <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
+  <string name="lockscreen_access_pattern_cleared">Το μοτίβο ακυρώθηκε</string>
   <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
-  <string name="lockscreen_access_pattern_start">Ξεκίνησε η δημιουργία μοτίβου</string>
+  <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
   <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Καμία υπηρεσία.</string>
