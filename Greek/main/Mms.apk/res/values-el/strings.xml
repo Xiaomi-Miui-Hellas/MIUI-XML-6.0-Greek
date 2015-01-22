@@ -511,6 +511,7 @@
     <string name="file_create_time">Ώρα δημιουργίας:</string>
     <string name="file_size">Μέγεθος:</string>
     <string name="file_title">Όνομα:</string>
+    <string name="festival_networking_title">Σημείωση</string>
     <string name="festival_networking_desc">Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά.</string>
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Να μην εμφανιστεί ξανά</string>

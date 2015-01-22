@@ -79,7 +79,7 @@
     <string name="activate_popup_confirm_failed_phone_error">Επανάληψη</string>
     <string name="activate_popup_title_upload_diagnosis_info">"Αδυναμία ενεργοποίησης κάρτας SIM"</string>
     <string name="activate_popup_desc_upload_diagnosis_info">"Αδυναμία ενεργοποίησης κάρτας SIM. Παρακαλώ σκεφτείτε την περίπτωση αποστολής διαγνωστικών πληροφοριών για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. (ID αναφοράς : %s)"</string>
-    <string name="activate_popup_confirm_upload_diagnosis_info">αποστολή</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Αποστολή αναφοράς</string>
     <string name="activate_popup_link_diagnosis_detail">Ποια προσωπικά στοιχεία θα συμπεριληφθούν;</string>
     <string name="activate_popup_title_diagnosis_detail">Πληροφορίες Διάγνωσης</string>
     <string name="activate_feature_mx">Δωρεάν μηνύματα Cloud</string>

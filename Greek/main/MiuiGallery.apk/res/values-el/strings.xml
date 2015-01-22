@@ -88,6 +88,7 @@
     <string name="cannot_send_message">Αδυναμία αποστολής μηνύματος</string>
     <string name="cannot_send_message_reason">Το μήνυμά σας δεν έχει παραλήπτες.</string>
     <string name="cant_delete_cloud_album">Αδυναμία διαγραφής: %s είναι άλμπουμ συστήματος ή μοιράζεται από άλλους.</string>
+    <string name="choose_cloud_album">Επιλέξτε άλμπουμ</string>
     <string name="cleaning_cache">Εκκαθάριση προσωρινής μνήμης…</string>
     <string name="clear_thumbnail_cache">Εκκαθάριση μνήμης μικρογραφιών</string>
     <string name="clear_thumbnail_cache_confirm">Η μνήμη μικρογραφιών θα εκκαθαριστεί. Η εφαρμογή θα αναζητήσει εκ νέου αρχεία πολυμέσων και θα δημιουργήσει τις μικρογραφίες αργότερα.</string>
