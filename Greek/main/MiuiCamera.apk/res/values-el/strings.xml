@@ -246,7 +246,7 @@
     <string name="object_track_enable_toast">Πατήστε και στις δύο άκρες του αντικειμένου με δύο δάχτυλα για να το παρακολουθείτε.</string>
     <string name="pref_camera_auto_capture_when_stable_title">Αυτόμ.λήψη όταν είναι σταθερή</string>
     <string name="accessibility_panorama_review_cancel">Πανόραμα Ακύρωση Αποθήκευσης</string>
-    <string name="simple_mode_button_text_manual">Κλείσιμο χειροκίνητης λειτουργία</string>
+    <string name="simple_mode_button_text_manual">Κλείσιμο χειροκίνητης λειτουργίας</string>
     <string name="pref_qc_focus_position_title">Εστίαση</string>
     <string name="pref_front_mirror_entry_auto">Αυτόματο</string>
     <string name="pref_front_mirror_entry_on">Ενεργό</string>
