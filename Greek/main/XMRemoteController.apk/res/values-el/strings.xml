@@ -24,7 +24,7 @@
     <string name="share_title_to_mitalk">Μοίρασμα</string>
     <string name="share_title_to_mitalk_ellipsis">κ.λπ.</string>
     <string name="share_title_to_sina_weibo">Μοίρασμα στο microblogging Sina</string>
-    <string name="share_content_to_sina_weibo">%1$s θα μοιραστεί σε %2$ φίλους σας.</string>
+    <string name="share_content_to_sina_weibo">Σε %1$s άρεσε το %2$s. Μοιραστείτε το με φίλους σας.</string>
     <string name="share_content_device_box_to_sina_weibo">Πλαίσιο έκδοσης</string>
     <string name="share_content_device_tv_to_sina_weibo">Συσκευή TV</string>
     <string name="share_content_device_other_to_sina_weibo">Άλλη συσκευή</string>

@@ -2151,6 +2151,7 @@
     <string name="device_sd_memory">Κάρτα SD</string>
     <string name="device_cpu2_info">Dual Core</string>
     <string name="device_cpu4_info">Quad Core</string>
+    <string name="device_cpu8_info">Octa core</string>
     <string name="available_size">%s Διαθέσιμα</string>
     <string name="total_size">%s Σύνολο</string>
     <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Συνολικά: %2$s</string>

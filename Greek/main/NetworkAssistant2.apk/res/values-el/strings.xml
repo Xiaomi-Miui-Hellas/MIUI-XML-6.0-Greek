@@ -186,8 +186,7 @@
     <string name="network_assistant_upgraded_title">Ενημέρωση ολοκληρώθηκε</string>
     <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
     <string name="lock_screen_traffic_warn_title">Προειδοποίηση χρήσης</string>
-    <string name="notification_title">%1$s - %2$s : περίπου %3$s χρησιμοποιημένα</string>
-    <string name="notification_content_title">Χρησιμοποιήθηκε %1$s ενώ ήταν κλειδωμένο</string>
+    <string name="lock_screen_traffic_notify_body">Χρήση δεδομένων με κλειστή οθόνη: %s</string>
     <string name="free_time_traffic_title">Εισαγωγή ορίων εκτός αιχμής</string>
     <string name="free_time_traffic_hint">Εισαγωγή ορίων δεδομένων εκτός αιχμής</string>
     <string name="traffic_protection_label">Προειδοποίηση χρήσης δεδομένων</string>
@@ -373,4 +372,19 @@
     <string name="roaming_start_body">Επιτρέψτε στις εφαρμογές στη λίστα εξαιρέσεων να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
     <string name="dialog_app_roaming_title">Η διεθνής περιαγωγή δεν είναι ενεργοποιημένη για %1$s</string>
     <string name="dialog_app_roaming_message">Όταν είστε σε περιαγωγή στο εξωτερικό, μόνο εφαρμογές που έχετε προσθέσει στη λίστα εξαιρέσεων μπορούν να χρησιμοποιήσουν τις υπηρεσίες δεδομένων. %1$s δεν έχει προστεθεί στη λίστα εξαιρέσεων. Προβολή λίστας τώρα;</string>
+    <string name="traffic_setting_completed">OK</string>
+    <string name="traffic_setting_extra_pkg_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="traffic_setting_extra_pkg_summary">Ρύθμιση προγράμματος δεδομένων και ορίων χρήσης</string>
+    <string name="traffic_setting_extra_pkg_oversea_summary">Ρύθμιση προγράμματος δεδομένων και ορίων χρήσης</string>
+    <string name="traffic_setting_daily_limit_summary">Ορισμός ορίων χρήσης δεδομένων</string>
+    <string name="traffic_setting_extra_traffic_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="traffic_setting_step_num">Ρυθμίσεις προγράμματος δεδομένων</string>
+    <string name="traffic_setting_open">Ενεργό</string>
+    <string name="traffic_setting_app_count">%d εφαρμογές</string>
+    <string name="traffic_warning_purchase_title">Το υπόλοιπο είναι μικρότερο από %d%%</string>
+    <string name="traffic_purchase_body">Εξοικονόμηση 50% εάν ανανεώσετε τώρα.</string>
+    <string name="traffic_purchse_suggestion">Είναι ώρα να ανανεώσετε</string>
+    <string name="traffic_over_purchase_title">Υπέρβαση ορίου δεδομένων</string>
+    <string name="traffic_over_purchase_body">Πατήστε για να δείτε λεπτομέρειες.</string>
+    <string name="traffic_over_purchase_link">"Έχετε φτάσει το όριο χρήσης δεδομένων κινητής τηλεφωνίας του προγράμματός σας.&lt;br/>Αν ξεπεράσετε το όριο χρήσης δεδομένων, ο φορέας σας μπορεί να σας χρεώσει πρόσθετα τέλη.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Ανανεώστε τώρα και κερδίστε 50%.&lt;/U>&lt;/font>"</string>
 </resources>

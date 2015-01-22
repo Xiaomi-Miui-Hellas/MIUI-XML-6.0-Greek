@@ -239,7 +239,7 @@
     <string name="faq_stat_title">Έχω 0 κλικ το πρωί;</string>
     <string name="faq_stat_text">Η κατάταξη καθαρίζει με την έναρξη κάθε νέας ημέρας.</string>
     <string name="faq_vsm_title">Προσοχή!</string>
-    <string name="faq_vsm_text">Σιγουρευτείτε πως αποσυνδέσατε το Mi-Key πριν την αφαίρεση του καλύμματος της συσκευής!</string>
+    <string name="faq_vsm_text">Σιγουρευτείτε πως αποσυνδέσατε το MiKey πριν την αφαίρεση του καλύμματος της συσκευής!</string>
     <string name="hint_long_press_del">Μακρύ πάτημα για διαγραφή</string>
     <string name="hint_mikey_sprite">Κάνοντας κλικ στο πλήκτρο του οδηγού MiKey είναι σαν να πατάτε στην οθόνη</string>
     <string name="enable_mikey_sprite">Ενεργοποίηση οδηγού MiKey</string>

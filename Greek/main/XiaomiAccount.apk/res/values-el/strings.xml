@@ -38,6 +38,7 @@
     <string name="passport_reg_via_sms_alert">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.</string>
     <string name="passport_reg_sms_send_prompt">Αποστολή κωδικού επαλήθευσης στο %s</string>
     <string name="passport_password_req_notice">Κωδικός από 8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών).</string>
+    <string name="passport_error_empty_email">Εισάγετε τη διεύθυνση e-mail σας</string>
     <string name="passport_error_email">Μη έγκυρη διεύθυνση e-mail</string>
     <string name="passport_activing_account">Ενεργοποίηση…</string>
     <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
@@ -203,6 +204,7 @@
     <string name="hide_mibi_info">Οι πληροφορίες νομισμάτων Mi είναι αθέατες</string>
     <string name="failed_get_mibi_info">Αδυναμία ανάκτησης υπολοίπου</string>
     <string name="mipay_center">ΤΡαπεζικές κάρτες</string>
+    <string name="mi_service">Υποστήριξη</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Προσθήκη λογαριασμού Sina Weibo</string>
     <string name="bind_weibo_description">Βρείτε και συγχρονίστε τις επαφές των φίλων σας από το Sina Weibo.</string>
