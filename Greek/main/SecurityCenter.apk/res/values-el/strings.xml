@@ -714,4 +714,5 @@
     <string name="title_auto_cleaner">Αυτόματος καθαρισμός</string>
     <string name="summary_auto_cleaner">Πότε να γίνει αυτόματος καθαρισμός; Κάθε τρεις ημέρες, μετά το άνοιγμα του προεπιλεγμένου αυτόματου καθαρισμού σκουπιδιών, μπορείτε να αλλάξετε τη συχνότητα και το περιεχόμενο στις ρυθμίσεις</string>
     <string name="confirm_auto_cleaner">Επιβεβαίωση</string>
+    <string name="auto_cleaner_open">Ενεργοποίηση</string>
 </resources>

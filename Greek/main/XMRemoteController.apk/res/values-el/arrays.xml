@@ -59,10 +59,6 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <string-array name="app_detail_tabs">
-        <item>Λεπτομέρειες</item>
-        <item>Σχόλια</item>
-    </string-array>
     <string-array name="ac_mode_array">
         <item>Ψύξη</item>
         <item>Θέρμανση</item>

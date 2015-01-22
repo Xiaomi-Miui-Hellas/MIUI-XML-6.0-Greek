@@ -867,6 +867,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
   <string name="resource_download">Λήψη</string>
+  <string name="resource_download_notification_content">Κάντε κλικ για έλεγχο</string>
+  <string name="resource_download_notification_title_many">Επιτυχής λήψη %1$s θεμάτων!</string>
+  <string name="resource_download_notification_title_one">Επιτυχής λήψη θέματος!</string>
   <string name="resource_download_trial">Δωρεάν δοκιμή</string>
   <string name="resource_downloaded_title">Πόροι που ελήφθησαν</string>
   <string name="resource_downloading">Λήψη</string>

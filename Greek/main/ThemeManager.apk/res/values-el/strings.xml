@@ -156,6 +156,9 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
      <string name="resource_download">Λήψη</string>
+     <string name="resource_download_notification_content">Κάντε κλικ για έλεγχο</string>
+     <string name="resource_download_notification_title_many">Επιτυχής λήψη %1$s θεμάτων!</string>
+     <string name="resource_download_notification_title_one">Επιτυχής λήψη ενός θέματος!</string>
      <string name="resource_download_trial">Δωρεάν δοκιμή</string>
      <string name="resource_downloaded_title">Πόροι που ελήφθησαν</string>
      <string name="resource_downloading">Λήψη</string>
@@ -259,7 +262,6 @@
      <string name="selected_resource_file_invalid">Το επιλεγμένο αρχείο δεν είναι έγκυρο.</string>
      <string name="settings">Ρυθμίσεις</string>
      <string name="short_ringtone_resource">Βραχύς</string>
-     <string name="theme_batch_has_update_text">%1$d θέματα έχουν διαθέσιμη νέα έκδοση</string>
      <string name="theme_batch_update_all">Ενημέρωση όλων</string>
      <string name="theme_batch_update_dlg_content">Ενημέρωση %1$s και %2$d άλλων θεμάτων τώρα;</string>
      <string name="theme_batch_update_dlg_content_single">Ενημέρωση %1$s τώρα;</string>
@@ -316,6 +318,7 @@
      <string name="theme_user_agreement_content3">" και "</string>
      <string name="theme_user_agreement_content4">πολιτικής απορρήτου</string>
      <string name="theme_user_agreement_content5">.</string>
+     <string name="theme_user_agreement_exit">Έξοδος</string>
      <string name="theme_user_agreement_remind_again">Προβολή των όρων χρήσης</string>
      <string name="theme_user_agreement_remind_never">Να μην εμφανιστεί ξανά</string>
      <string name="theme_user_agreement_remind_summary">Προβολή των όρων χρήσης κάθε φορά. Αυτή η ρύθμιση θα ενεργοποιηθεί μετά την επανεκκίνηση της συσκευής.</string>

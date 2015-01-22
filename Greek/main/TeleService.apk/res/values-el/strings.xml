@@ -138,8 +138,6 @@
     <string name="always_enable_mms">Πάντα να λαμβάνονται τα MMS</string>
     <string name="always_enable_mms_summary">Λήψη MMS, ακόμη και όταν τα δεδομένα είναι απενεργοποιημένα</string>
     <string name="network_unlock">Ξεκλειδώστε</string>
-    <string name="sim_cards_network_mode_changed_title">Ανιχνεύτηκε νέα κάρτα SIM</string>
-    <string name="sim_cards_network_mode_changed_summary">Πατήστε για να δείτε τις ρυθμίσεις κλήσεων και SMS.</string>
     <string name="networks_title">Φορείς δικτύου</string>
     <string name="network_settings_warn_message">Χρήση μόνο των δικτύων που επιλέγετε.</string>
     <string name="network_settings_auto_select_title">Χωρίς αυτόματη επιλογή δικτύου</string>

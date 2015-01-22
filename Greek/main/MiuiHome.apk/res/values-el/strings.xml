@@ -207,4 +207,20 @@
     <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
     <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
     <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
+    <string name="app_category_finance">Οικονομικά</string>
+    <string name="app_category_social">Κοινωνικά</string>
+    <string name="app_category_travel">Ταξίδια</string>
+    <string name="app_category_music_movie">Μουσική &amp; Βίντεο</string>
+    <string name="app_category_shopping">Ψώνια</string>
+    <string name="app_category_photos">Φωτογραφίες</string>
+    <string name="app_category_games">Παιχνίδια</string>
+    <string name="app_category_news">Ειδήσεις</string>
+    <string name="app_category_lifestyle">Lifestyle</string>
+    <string name="app_category_tools">Εργαλεία</string>
+    <string name="app_category_entertainment">Διασκέδαση</string>
+    <string name="app_category_education">Εκπαίδευση</string>
+    <string name="app_category_books">Βιβλία</string>
+    <string name="app_category_sport">Αθλητισμός</string>
+    <string name="app_category_health">Υγεία</string>
+    <string name="app_category_productivity">Παραγωγικότητα</string>
 </resources>
