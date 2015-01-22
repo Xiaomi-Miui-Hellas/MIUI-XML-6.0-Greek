@@ -222,7 +222,7 @@
   <string name="paused">Διακόπηκε</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Τηλέφωνο</string>
-  <string name="pull_to_signin">Σύρτε προς τα κάτω για να συνδεθείτε.</string>
+  <string name="pull_to_signin">Σύρετε προς τα κάτω για να συνδεθείτε.</string>
   <string name="release_to_signin">Απελευθέρωση σύνδεσης</string>
   <string name="rename_description">Μετονομασία…</string>
   <string name="rename_failed">Αποτυχία μετονομασίας %1$s</string>
@@ -256,12 +256,12 @@
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_usb">Αποθήκευση USB</string>
   <string name="storage_warning">Η εξωτερική αποθήκευση δεν είναι διαθέσιμη.</string>
-  <string name="sys_size_enable">Ενεργοποίηση</string>
+  <string name="sys_size_enable">" διαθέσιμα"</string>
   <string name="system_alert">Υπενθύμιση</string>
   <string name="tab_category">Κατηγορίες</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Τοπικά</string>
-  <string name="tab_path">ΦΑΚΕΛΛΟΙ</string>
+  <string name="tab_path">ΦΑΚΕΛΟΙ</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
   <string name="tools">Εργαλεία</string>
