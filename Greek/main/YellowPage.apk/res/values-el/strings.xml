@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Αποστολή…</string>
-    <string name="sina_share_success">Αποστολή</string>
-    <string name="sina_share_fail">Αποτυχία αποστολής</string>
-    <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
-    <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
-    <string name="sina_share_fail_content_repeat">Δεν είναι δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
     <string name="app_label">Κατάλογος</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="express_info_divider">" / "</string>
@@ -14,8 +8,8 @@
     <string name="delete">Διαγραφή</string>
     <string name="back">Επιστροφή</string>
     <string name="refresh">Ανανέωση</string>
-    <string name="sim1">Sim 1</string>
-    <string name="sim2">Sim 2</string>
+    <string name="sim1">SIM 1</string>
+    <string name="sim2">SIM 2</string>
     <string name="check_network">Προβολή ρυθμίσεων δικτύου</string>
     <string name="try_again">Προσπαθήστε ξανά</string>
     <string name="network_unavaliable">Δίκτυο μη διαθέσιμο, παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου</string>
@@ -107,6 +101,7 @@
     <string name="agree">Συμφωνώ</string>
     <string name="enable_now">Ενεργοποίηση</string>
     <string name="dont_enable">Απενεργοποίηση</string>
+    <string name="user_notice_title">Σημείωση για τους χρήστες</string>
     <string name="user_notice_identify_summary_format">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
     <string name="user_notice_yp_detail_summary_format">Μερικές επισημάνσεις στον κατάλογό σας είναι παρωχημένες. Θέλετε να τις ενημερώσετε? Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
     <string name="user_notice_identify_summary_format_cta">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
@@ -201,6 +196,8 @@
     <string name="express_inquiry_trace_success">επιτυχής εντοπισμός</string>
     <string name="express_inquiry_untrace_success">Ο εντοπισμός ακυρώθηκε</string>
     <string name="express_inquiry_trace_user_notice_content">Θα σας ενημερώνουμε όταν η κατάσταση της παραγγελίας σας αλλάζει.</string>
+    <string name="express_inquiry_trace_device_login_notice">"Χρησιμοποιείτε αυτή την υπηρεσία σε άλλη συσκευή. Αν θέλετε να λαμβάνετε την κατάσταση της παραγγελίας από αυτή τη συσκευή, θα πρέπει να επαληθεύσετε το λογαριασμό σας Mi."</string>
+    <string name="express_inquiry_clipboard_number_message">Αναζήτηση του αντιγραμμένου αριθμού;</string>
     <string name="express_send">Αποστολή</string>
     <string name="express_sender_info">Πληροφορίες Αποστολέα</string>
     <string name="express_addressee_info">Πληροφορίες Παραλήπτη</string>
@@ -332,4 +329,13 @@
     <string name="web_permission_message">%1$s χρειάζεται πρόσβαση σε %2$s για να λειτουργήσει σωστά.</string>
     <string name="remember_preference">Να θυμάται την επιλογή</string>
     <string name="allow">Επέτρεψε</string>
+    <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
+    <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
+    <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
+    <string name="sina_share_pendding">Αποστολή…</string>
+    <string name="sina_share_success">Αποστολή</string>
+    <string name="sina_share_fail">Αποτυχία αποστολής</string>
+    <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
+    <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
+    <string name="sina_share_fail_content_repeat">Δεν είναι δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
 </resources>

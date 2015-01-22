@@ -26,6 +26,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="app_name">Υπηρεσία πληρωμών</string>
     <string name="format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="format_date">MMM. dd, yyyy</string>
+    <string name="format_bill_date">yyyy/M/d</string>
     <string name="colon">": "</string>
     <string name="unit">Mi Credit</string>
     <string name="unit_value">%1$s Mi Credit</string>
@@ -67,8 +68,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="button_count_down_finish">OK(%1$s)</string>
     <string name="payment_title">Επιβεβαιώστε τις πληροφορίες πληρωμής</string>
     <string name="payment_with_login_title">Δώστε τον κωδικό λογαριασμού Mi</string>
-    <string name="payment_recharge_group_favorite">Μέθοδοι φόρτωσης</string>
-    <string name="payment_recharge_group_familiar">Επιλέξτε τη μέθοδο φόρτωσης</string>
+    <string name="payment_recharge_group_title">Επιλέξτε τη μέθοδο ανανέωσης</string>
     <string name="recharge_grid_item_more">Περισσότερο</string>
     <string name="milicenter_title">MiCredit</string>
     <string name="balance_title">Υπόλοιπο</string>
@@ -93,9 +93,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="error_cert_date_summary">"Σφάλμα ημερ. πιστοποιητικού. 
 Παρακαλώ ελέγξτε την τοπική ημερομηνία και προσπαθήστε ξανά."</string>
     <string name="title_recharge">Συμπληρώστε MiCredit</string>
-    <string name="recharge_group_familiar">Συνήθεις μέθοδοι</string>
-    <string name="recharge_group_favorite">Χρησιμοποιήστε προηγούμενη μέθοδο ανανέωσης</string>
-    <string name="recharge_group_others">Άλλες μέθοδοι ανανέωσης</string>
     <string name="recharge_prepaid_title">Προπληρωμένη κάρτα</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
@@ -138,7 +135,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="prepaid_error_password">Κωδικός πρόσβασης της κάρτας άκυρος.</string>
     <string name="prepaid_error_card_length">Μη έγκυρος αριθμός κάρτας ή κωδικός πρόσβασης.</string>
     <string name="progress_prepaid_creating">Δημιουργία παραγγελίας…</string>
-    <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
+    <string name="prepaid_card_order_info">%1$s κάρτα ανανέωσης: RMB %2$s</string>
     <string name="voucher_input_password_prompt">Εισάγετε τον κωδικό</string>
     <string name="voucher_edit_limit">ψηφία</string>
     <string name="voucher_error_password">Μη έγκυρος κωδικός κουπονιού!</string>
@@ -245,8 +242,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="giftcard_expire_notification_prime_title">Ο κωδικός πρόκειται να λήξει…</string>
     <string name="giftcard_expire_notification_sub_title">Η κάρτα δώρου Mi Credit λήγει σε %1$s</string>
     <string name="title_mili_center">MiCredits</string>
-    <string name="title_recharge_record">Αρχεία ανανεώσεων</string>
-    <string name="title_pay_record">Αρχεία πληρωμών</string>
+    <string name="title_bill_record">Ιστορικό πληρωμών</string>
     <string name="title_transaction">Συναλλαγές</string>
     <string name="title_giftcard">Προσφορές</string>
     <string name="giftcard_record">Οι κάρτες δώρων μου</string>
@@ -256,11 +252,9 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
     <string name="fee_with_giftcard"> (συμπεριλαμβάνεται%1$s)</string>
     <string name="fee_with_mibi_giftcard"> %1$s-MiCredit κάρτα δώρου</string>
     <string name="fee_with_partner_giftcard"> %1$s-MiCredit %2$s</string>
-    <string name="recharge_record_empty">Δεν υπάρχουν αρχεία ανανέωσης.</string>
-    <string name="pay_record_empty">Δεν υπάρχουν αρχεία πληρωμών.</string>
+    <string name="bill_record_empty">Δεν υπάρχουν εγγραφές.</string>
     <string name="progress_downloading">Φορτώνει…</string>
     <string name="btn_net_connection_retry">Δοκιμή ξανά</string>
-    <string name="pay_record_typeall">Όλα</string>
     <string name="mibi_license_title">Συμφωνία χρήστη</string>
     <string name="mibi_license_message">"Είστε έτοιμοι να χρησιμοποιήσετε το Mi Credit, το οποίο είναι μια υπηρεσία που παρέχεται από την Xiaomi. Πριν χρησιμοποιήσετε αυτή την υπηρεσία πρέπει να συμφωνήσετε στους Όρους Παροχής Υπηρεσιών που αναφέρονται στο %1$s. Πατήστε OK εάν συμφωνείτε με τους όρους και τις προϋποθέσεις που περιγράφονται στο %1$s. Χρειάζεστε μια σύνδεση  Internet για να χρησιμοποιήσετε το Mi Credit."</string>
     <string name="mibi_license_message_span">MiCredit Συμφωνία χρήστη</string>
