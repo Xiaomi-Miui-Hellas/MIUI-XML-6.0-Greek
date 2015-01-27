@@ -27,6 +27,10 @@
         <item quantity="other">%d τραγούδια βρέθηκαν</item>
         <item quantity="one">%d τραγούδι βρέθηκε</item>
      </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d παρόμοια τραγούδια</item>
+        <item quantity="one">%d παρόμοιο τραγούδι</item>
+     </plurals>
      <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>

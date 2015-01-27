@@ -151,6 +151,7 @@
     <string name="st_title_call_wait_setting">Ρύθμ. κλήσεων σε αναμονή</string>
     <string name="st_title_call_wait">Αναμονή κλήσης</string>
     <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+    <string name="st_title_sim_unknown">Άγνωστο</string>
     <string name="st_title_not_sim">Άδειο</string>
     <string name="st_sum_call_wait">Εάν το σήμα κατειλημμένου δεν είναι το προεπιλεγμένο, μπορεί να προκαλέσει σύγχυση σε εκείνους που σας καλούν.</string>
     <string name="sim_not_ready">Η κάρτα SIM δεν είναι έτοιμη</string>
