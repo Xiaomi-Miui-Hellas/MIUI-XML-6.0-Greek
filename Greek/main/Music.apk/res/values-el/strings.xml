@@ -184,8 +184,8 @@
   <string name="music_settings">Μουσική</string>
   <string name="my_account">Ο λογαριασμός μου</string>
   <string name="my_music">Τοπικό</string>
-  <string name="my_music_empty">Τίποτα για να παίξετε! Κάντε λήψη κάποιας μουσικής στην καρτέλα on-line μουσικής.</string>
-  <string name="my_music_empty_goto_online">No songs found</string>
+  <string name="my_music_empty">Η λίστα αναπαραγωγής είναι άδεια.</string>
+  <string name="my_music_empty_goto_online">Δεν βρέθηκαν τραγούδια</string>
   <string name="my_playlist">Η λίστα μου</string>
   <string name="network_error">Δεν υπάρχει σύνδεση δικτύου, ελέγξτε τις ρυθμίσεις του δικτύου σας</string>
   <string name="network_failure">"Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά."</string>
@@ -247,6 +247,7 @@
   <string name="set_lyric_successful">Επιτυχής ορισμός στίχων</string>
   <string name="set_ringtones_failed">"Αποτυχία ορισμού ήχου κλήσης"</string>
   <string name="set_ringtones_successful">%s ορίστηκε ως ήχος κλήσης</string>
+  <string name="similar_songs">Παρόμοια τραγούδια</string>
   <string name="sleep_mode">Χρονοδιακόπτης ύπνου</string>
   <string name="sleep_mode_canceled">Χρονοδιακόπτης ύπνου κλειστός</string>
   <string name="sleep_mode_summary">Χρησιμοποιήστε το ρυθμιστικό κάτω για να ρυθμίσετε την ώρα</string>
@@ -268,8 +269,8 @@
   <string name="track_list_control_edit_delete_playlist">Μετονομασία</string>
   <string name="track_list_control_edit_rename_playlist">Μετονομασία</string>
   <string name="track_list_control_play">Αναπαραγωγή</string>
-  <string name="track_main_fragment_tab_album">Album</string>
-  <string name="track_main_fragment_tab_track">Songs</string>
+  <string name="track_main_fragment_tab_album">Άλμπουμ</string>
+  <string name="track_main_fragment_tab_track">Τραγούδια</string>
   <string name="track_search_title">Κομμάτι</string>
   <string name="track_view">Κομμάτι</string>
   <string name="trigger_to_scan_media_library_finish">Ολοκλήρωση ανανέωσης</string>

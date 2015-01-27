@@ -5,16 +5,16 @@
         <item quantity="one">1 λεπτό</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d λεπ.</item>
-        <item quantity="one">1 λεπ.</item>
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d ώρες</item>
         <item quantity="one">1 ώρα</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d μέρες</item>
-        <item quantity="one">1 μέρα</item>
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">EΒΔΟΜΑΔΑ %d</item>
