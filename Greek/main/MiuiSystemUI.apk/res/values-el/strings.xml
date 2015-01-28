@@ -175,6 +175,8 @@
     <string name="status_bar_network_flow_today">Σήμερα: %1$s</string>
     <string name="status_bar_network_flow">"Σήμερα: %1$s    Υπόλοιπο: %2$s    Μηνιαίο όριο: %3$s"</string>
     <string name="status_bar_network_flow_exceed">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Μηνιαίο όριο: %4$s</string>
+    <string name="status_bar_network_flow_exceed_to_purchase">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Αγορά ></string>
+    <string name="status_bar_network_flow_warning_to_purchase">"Σήμερα: %1$s    Υπόλοιπο: %2$s    Αγορά >"</string>
     <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
     <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
     <string name="notification_otg_mouse_in">Το ποντίκι συνδέθηκε</string>

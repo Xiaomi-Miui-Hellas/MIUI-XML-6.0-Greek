@@ -1160,6 +1160,7 @@
   <string name="wipe_data">Εκκαθάριση δεδομένων</string>
   <string name="yellowPageNavigationIconLabel">Φάκελος</string>
   <string name="yellowPageNavigationLabel">Φάκελος</string>
+  <string name="yellowpage_navigation_clear_search_history">Καθαρισμός ιστορικού</string>
   <string name="yellowpage_navigation_more_items">Περισσότερα</string>
   <string name="yellowpage_navigation_more_items_title">Περισσότερες υπηρεσίες</string>
   <string name="yellowpage_navigation_network_location_enable">Ενεργοποίηση τώρα</string>

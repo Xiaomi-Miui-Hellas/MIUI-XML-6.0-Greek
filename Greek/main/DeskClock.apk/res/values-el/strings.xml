@@ -64,6 +64,8 @@
     <string name="alarm_screen">Οθόνη αφύπνισης και ήχος</string>
     <string name="slider_text">Σύρετε για να σταματήσει</string>
     <string name="snooze_confirm_cancel">Ακύρωση αναβολής</string>
+    <string name="menu_item_sort_by_gmt_offset">Ταξινόμηση κατά ώρα</string>
+    <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
     <string name="full_wday_month_day_no_year">EEE d MMMM</string>
     <string name="elapsed_time_format">(+ %s )</string>
     <string name="app_label">Ρολόι</string>

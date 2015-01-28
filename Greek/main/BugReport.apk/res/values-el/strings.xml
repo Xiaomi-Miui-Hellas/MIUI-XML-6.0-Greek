@@ -104,5 +104,4 @@
     <string name="bugreport_dump_start_notification_summary">Διαρκεί περίπου ένα λεπτό.</string>
     <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
     <string name="bugreport_dump_complete_notification_summary">Πατήστε για να τη δείτε.</string>
-    <string name="screen_orientation_type">-1</string>
 </resources>

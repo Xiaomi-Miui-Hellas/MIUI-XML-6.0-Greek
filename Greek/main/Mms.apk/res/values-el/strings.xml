@@ -311,6 +311,7 @@
     <string name="pref_title_delivery_reports">Κατάσταση παράδοσης</string>
     <string name="pref_summary_delivery_reports">Εμφάνιση κατάστασης παράδοσης για κάθε μήνυμα που στέλνετε</string>
     <string name="pref_title_ringtone_repeat">Συχνότητα υπενθύμισης</string>
+    <string name="pref_title_ringtone_repeat_summary">Αριθμός ήχων ειδοποίησης όταν λαμβάνετε μήνυμα SMS, ενώ οθόνη είναι απενεργοποιημένη:</string>
     <string name="pref_other_title">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_system_title">Σύστημα</string>
     <string name="pref_advanced_settings_title">Προχωρημένες ρυθμίσεις</string>
