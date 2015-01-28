@@ -164,7 +164,7 @@
   <string name="minute"> Λεπτό</string>
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Μήνας</string>
-  <string name="more">Πηγαίνετε στο %s</string>
+  <string name="more">More</string>
   <string name="my">Τοπικά</string>
   <string name="my_favorite">Με αστέρι</string>
   <string name="my_offline">Εκτός σύνδεσης</string>
@@ -219,7 +219,7 @@
   <string name="qiyi">iQiyi</string>
   <string name="receive_mipush">Λήψη Xiaomi push</string>
   <string name="receive_mipush_summary">Λάβετε ειδοποιήσεις για νέα και ενημερωμένες σε απευθείας σύνδεση περιεχόμενου</string>
-  <string name="recent_play">Πρόσφατα έπαιξε</string>
+  <string name="recent_play">Recently played: Ep.%d</string>
   <string name="recentplay">Έπαιξαν πρόσφατα</string>
   <string name="reload_sub_title">Πατήστε για επανάληψη</string>
   <string name="reload_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>

@@ -186,7 +186,7 @@
     <string name="network_assistant_upgraded_title">Ενημέρωση ολοκληρώθηκε</string>
     <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
     <string name="lock_screen_traffic_warn_title">Προειδοποίηση χρήσης</string>
-    <string name="lock_screen_traffic_notify_body">Χρήση δεδομένων με κλειστή οθόνη: %s</string>
+    <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
     <string name="free_time_traffic_title">Εισαγωγή ορίων εκτός αιχμής</string>
     <string name="free_time_traffic_hint">Εισαγωγή ορίων δεδομένων εκτός αιχμής</string>
     <string name="traffic_protection_label">Προειδοποίηση χρήσης δεδομένων</string>
