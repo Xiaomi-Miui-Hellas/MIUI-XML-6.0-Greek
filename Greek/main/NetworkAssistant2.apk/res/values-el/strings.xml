@@ -39,6 +39,7 @@
     <string name="main_secondary_message_traffic_detail_leisure">"
 Εκτός αιχμής: %1$s υπόλοιπο | %2$s αναλώθηκαν"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s δεδομένα αναλώθηκαν σε ώρα αιχμής | δεν απομένουν δεδομένα εκτός αιχμής</string>
+    <string name="main_alert_message_month_limit_error">Το όριο δεδομένων που έχετε ορίσει είναι λανθασμένο</string>
     <string name="firewall_activity_lable">Περιορισμοί ανά εφαρμογή</string>
     <string name="firewall_applist">Εφαρμογές</string>
     <string name="firewall_rule_group_title_mobile">Κινητή</string>
@@ -186,7 +187,8 @@
     <string name="network_assistant_upgraded_title">Ενημέρωση ολοκληρώθηκε</string>
     <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
     <string name="lock_screen_traffic_warn_title">Προειδοποίηση χρήσης</string>
-    <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
+    <string name="lock_screen_traffic_notify_body">Χρήση δεδομένων με κλειστή οθόνη: %s</string>
+    <string name="lock_screen_setting_summary">Εμφάνισης ειδοποίησης μετά την χρήση 100KB</string>
     <string name="free_time_traffic_title">Εισαγωγή ορίων εκτός αιχμής</string>
     <string name="free_time_traffic_hint">Εισαγωγή ορίων δεδομένων εκτός αιχμής</string>
     <string name="traffic_protection_label">Προειδοποίηση χρήσης δεδομένων</string>
@@ -216,6 +218,10 @@
     <string name="traffic_config_alert_body_extra_notset">"
 Αγοράσατε %s επιπλέον δεδομένα αυτό το μήνα. Αυτό δεν αντικατοπτρίζεται στο μηνιαίο όριο χρήσης που έχετε ορίσει χειροκίνητα."</string>
     <string name="traffic_config_alert_setted">Εφαρμογή ρυθμίσεων</string>
+    <string name="traffic_limit_error_alert_title">Υπενθύμιση ορίου δεδομένων %s</string>
+    <string name="traffic_limit_error_alert_iknow">OK</string>
+    <string name="traffic_limit_error_alert_reset">Επαναφορά ορίου</string>
+    <string name="traffic_limit_error_alert_body">"Ο λογαριασμός του παρόχου σας δείχνει ότι έχετε %1$s υπόλοιπο για αυτό το μήνα. Αυτό είναι περισσότερο από το %2$s όριο που έχετε ορίσει χειροκίνητα."</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="datausage_purchase_title_pkglist">Αγορά δεδομένων</string>
@@ -342,7 +348,6 @@
     <string name="privacy_prompt_traffic_adjust_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για ενημέρωση των προτύπων ερωτημάτων SMS και για έλεγχο εάν αυτό το χαρακτηριστικό είναι διαθέσιμο στην περιοχή σας.</string>
     <string name="privacy_prompt_traffic_purchase_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για λήψη περισσότερων πληροφοριών σχετικά με τις επιλογές αγοράς δεδομένων.</string>
     <string name="privacy_prompt_tc_sms_report_message">"Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi προκειμένου  να ενημερωθούν οι πληροφορίες χρήσης δεδομένων κινητής."</string>
-    <string name="privacy_prompt_purchase_history_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για λήψη του ιστορικού αγορών δεδομένων κινητής.</string>
     <string name="title_limit_traffic_per_day">Ημερήσιο όριο χρήσης δεδομένων</string>
     <string name="pref_title_traffic_limit_number">Μέγεθος</string>
     <string name="pref_title_over_traffic_limit_warning">Απενεργοποίηση δεδομένων σε περίπτωση υπέρβασης ορίου</string>
@@ -381,10 +386,17 @@
     <string name="traffic_setting_step_num">Ρυθμίσεις προγράμματος δεδομένων</string>
     <string name="traffic_setting_open">Ενεργό</string>
     <string name="traffic_setting_app_count">%d εφαρμογές</string>
+    <string name="traffic_setting_update_template_falure">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="traffic_warning_purchase_title">Το υπόλοιπο είναι μικρότερο από %d%%</string>
     <string name="traffic_purchase_body">Εξοικονόμηση 50% εάν ανανεώσετε τώρα.</string>
     <string name="traffic_purchse_suggestion">Είναι ώρα να ανανεώσετε</string>
     <string name="traffic_over_purchase_title">Υπέρβαση ορίου δεδομένων</string>
     <string name="traffic_over_purchase_body">Πατήστε για να δείτε λεπτομέρειες.</string>
     <string name="traffic_over_purchase_link">"Έχετε φτάσει το όριο χρήσης δεδομένων κινητής τηλεφωνίας του προγράμματός σας.&lt;br/>Αν ξεπεράσετε το όριο χρήσης δεδομένων, ο φορέας σας μπορεί να σας χρεώσει πρόσθετα τέλη.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Ανανεώστε τώρα και κερδίστε 50%.&lt;/U>&lt;/font>"</string>
+    <string name="notify_setting_pkg_title">Ρύθμιση μηνιαίου ορίου δεδομένων</string>
+    <string name="notify_weekly_pkg_body">%s χρησιμοποιήθηκαν αυτή την εβδομάδα. Πατήστε για να ρυθμίσετε το όριο.</string>
+    <string name="notify_daily_data_usage_body">%s χρησιμοποιήθηκαν σήμερα. Πατήστε για να ρυθμίσετε το όριο.</string>
+    <string name="notify_month_traffic_body">%s χρησιμοποιήθηκαν αυτό το μήνα. Πατήστε για να ρυθμίσετε το όριο.</string>
+    <string name="notify_daily_limit_title">Ρύθμιση ημερήσιου ορίου δεδομένων</string>
+    <string name="notify_daily_limit_body">%s χρησιμοποιήθηκαν σήμερα. Πατήστε για να ρυθμίσετε το όριο.</string>
 </resources>

@@ -275,6 +275,7 @@
     <string name="note_preference_delete">Τύπος σε χρήση, αδύνατη η διαγραφή</string>
     <string name="block_message_number">Μηνύματα: %d</string>
     <string name="block_phone_number">Κλήσεις: %d</string>
+    <string name="info_antispam_close">AntiSpam ανενεργό</string>
     <string name="mark_fraud">Απάτη</string>
     <string name="mark_agent">Αντιπρ. πωλήσεων</string>
     <string name="mark_sell">Τηλεπωλητής</string>
