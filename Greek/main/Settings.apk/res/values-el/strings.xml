@@ -1403,8 +1403,8 @@
     <string name="accessibility_screen_magnification_summary">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, μπορείτε να κάνετε ζουμ μέσα και έξω αγγίζοντας την οθόνη τρεις φορές.
 
 Κατά τη μεγέθυνση, μπορείτε να:
-"<li><ul>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
-"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></ul></li>"
+"<ul><li>"Pan: Σύρετε δύο ή περισσότερα δάχτυλα στην οθόνη.
+"<li>Ρυθμίστε το επίπεδο zoom: αγγίξτε δύο ή περισσότερα δάχτυλα μαζί ή απομακρύνετέ τα.</li></li></ul>"
 
 Μπορείτε επίσης προσωρινά μεγεθύνει ότι είναι κάτω από το δάχτυλό σας με τριπλό κλικ πατώντας και κρατώντας το πατημένο. Σε αυτή την κατάσταση μεγέθυνσης, μπορείτε να σύρετε το δάχτυλό σας για να εξερευνήσετε διάφορα μέρη της οθόνης. Σηκώστε το δάχτυλό σας για να επιστρέψετε στην προηγούμενη κατάσταση σας.
 
@@ -2254,6 +2254,7 @@
     <string name="common_settings">Απλές ρυθμίσεις</string>
     <string name="battery_settings">Μπαταρία</string>
     <string name="battery_settings_title">Μπαταρία</string>
+    <string name="power_center">Τροφοδοσία</string>
     <string name="battery_indicator_style">Μορφή δείκτη μπαταρίας</string>
     <string name="power_usage_history">Χρήση μπαταρίας</string>
     <string name="default_usb_mode">Προεπιλεγμένος τύπος σύνδεσης USB</string>
@@ -2908,33 +2909,4 @@
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="wifi_disconnected_notification_title">Το Wi-Fi αποσυνδέθηκε</string>
     <string name="wifi_disconnected_notification_summary">Επανάληψη ή σύνδεση σε άλλο Wi-Fi.</string>
-    <string name="miracast_settings_category">Wi-Fi ρυθμίσεις της οθόνης</string>
-    <string name="miracast_display_category">Οθόνες</string>
-    <string name="miracast_menu_search">Αναζήτηση</string>
-    <string name="miracast_menu_searching">Αναζήτηση</string>
-    <string name="miracast_menu_teardown">Λύσιμο</string>
-    <string name="miracast_menu_connect">Ξεκινήστε τη ροή</string>
-    <string name="miracast_menu_disconnect">Σταματήστε τη ροή</string>
-    <string name="miracast_menu_forget">Ξεχάστε την οθόνη</string>
-    <string name="miracast_menu_rename">Μετονομασία οθόνης</string>
-    <string name="miracast_setup_save">Αποθήκευση</string>
-    <string name="miracast_setup_cancel">Ακύρωση</string>
-    <string name="miracast_wifi_off">Για να χρησιμοποιήσετε το Miracast, ενεργοποιήσετε το Wi-Fi</string>
-    <string name="miracast_no_sinks_found">Δεν υπάρχει ασύρματη οθόνη που να είναι διαθέσιμο</string>
-    <string name="miracast_nickname">Παρακαλούμε να ορίσετε ένα νέο όνομα:</string>
-    <string name="miracast_connection_failed_generic">Η σύνδεση δεν ήταν επιτυχής</string>
-    <string name="miracast_sink_connected">Συνδεδεμένος</string>
-    <string name="miracast_sink_not_available">Δεν είναι διαθέσιμο</string>
-    <string name="miracast_sink_connecting">Σύνδεση …</string>
-    <string name="miracast_sink_ready_to_connect">Έτοιμος να συνδεθείτε</string>
-    <string name="miracast_sink_busy">Απασχολημένος</string>
-    <string name="miracast_error_already_streaming">Ήδη κάνει streaming σε μία οθόνη</string>
-    <string name="miracast_error_connection_in_progress">Η σύνδεση είναι σε εξέλιξη. Παρακαλώ περιμένετε</string>
-    <string name="miracast_cancelconnect_dialog">Ακύρωση σύνδεσης</string>
-    <string name="miracast_dialog_title">%1$s</string>
-    <string name="miracast_error_cancelconnect">Η σύνδεση είναι απασχολημένη</string>
-    <string name="miracast_search_for_displays">Ψάχνοντας για ασύρματες οθόνες …</string>
-    <string name="miracast_PC2THOR_streaming_on">Το Miracast δεν είναι διαθέσιμη επειδή ένα PC κάνει streaming σε αυτή τη συσκευή</string>
-    <string name="miracast_disable_dhcp">Απενεργοποίηση HDCP</string>
-    <string name="miracast_enable_dhcp">Ενεργοποίηση HDCP</string>
 </resources>

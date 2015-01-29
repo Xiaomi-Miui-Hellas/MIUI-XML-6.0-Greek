@@ -44,6 +44,7 @@
     <string name="toast_feedbackservice_in_submit">Αποστολή προηγούμενου σχολίου…</string>
     <string name="toast_pending_log_collection">Συλλογή αρχείων καταγραφής…</string>
     <string name="toast_feedback_submitted">Το σχόλιό σας έχει καταχωρηθεί</string>
+    <string name="toast_feedback_submitting">Υποβολή…</string>
     <string name="toast_feedback_pending_wlan">Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο</string>
     <string name="toast_feedback_network_unavailable">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
     <string name="toast_network_unavailable">Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο.</string>
@@ -57,6 +58,7 @@
     <string name="packaging_dialog_content">Παράγεται αναφορά…</string>
     <string name="loading_apps">Δημιουργία λίστας…</string>
     <string name="loading_hot_problem">Φόρτωση…</string>
+    <string name="loading_problem_list">Φόρτωση λίστας…</string>
     <string name="network_err">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και ανανεώστε.</string>
     <string name="refresh">Ανανέωση</string>
     <string name="announcement">Προσοχή</string>
@@ -104,4 +106,6 @@
     <string name="bugreport_dump_start_notification_summary">Διαρκεί περίπου ένα λεπτό.</string>
     <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
     <string name="bugreport_dump_complete_notification_summary">Πατήστε για να τη δείτε.</string>
+    <string name="plus_one_submit_dialog_content">"Τα επιλεγμένα σχόλιά σας, μαζί με τα αρχεία καταγραφής σφαλμάτων, θα σταλούν στους διακομιστές ΜΙ."</string>
+    <string name="plus_one_submit_dialog_not_show_again">Να θυμάται την επιλογή</string>
 </resources>

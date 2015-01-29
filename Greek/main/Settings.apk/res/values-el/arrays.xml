@@ -623,9 +623,4 @@
         <item>Οικείο δίκτυο</item>
         <item>Όλα τα δίκτυα</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Μικρότερη καθυστέρηση</item>
-        <item>Κανονικό</item>
-        <item>Καλύτερη ποιότητα</item>
-    </string-array>
 </resources>
