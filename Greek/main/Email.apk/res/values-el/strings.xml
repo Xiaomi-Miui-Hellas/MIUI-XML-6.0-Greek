@@ -775,6 +775,10 @@
   <string name="search_result">Αποτέλεσμα αναζήτησης:</string>
   <string name="search_results_header">Αποτελέσματα</string>
   <string name="search_results_loaded">%1$d</string>
+  <string name="search_tabs_name_all">Όλα</string>
+  <string name="search_tabs_name_recipient">Παραλήπτης</string>
+  <string name="search_tabs_name_sender">Αποστολέας</string>
+  <string name="search_tabs_name_subject">Θέμα</string>
   <string name="search_results_searching_header">Αναζήτηση…</string>
   <string name="search_title">Ενοποιημένο Email</string>
   <string name="search_txt_size_limit_prompt">Η λέξη προς αναζήτηση να είναι μεγαλύτερη από 3。</string>
