@@ -364,7 +364,7 @@
   <string name="mili_unbind_question_content">Μετά την αποσύνδεση μπορείτε να χρησιμοποιήσετε ένα άλλο τηλέφωνο για να συνδεθείτε στο MiBand ή να το αντικαταστήσετε με άλλο.</string>
   <string name="mili_unbind_question_content_1">Εάν έχετε ήδη ρυθμίσει το MiBand να ξεκλειδώσετε το τηλέφωνο, η αποσύνδεση θα αποτρέψει αυτή τη λειτουργία</string>
   <string name="minute" />
-  <string name="modify_gender">Φύλλο</string>
+  <string name="modify_gender">Φύλο</string>
   <string name="modify_height">Ύψος</string>
   <string name="modify_nickname">Ενημέρωση ψευδώνυμου</string>
   <string name="modify_signiture">Ενημέρωση υπογραφής</string>
