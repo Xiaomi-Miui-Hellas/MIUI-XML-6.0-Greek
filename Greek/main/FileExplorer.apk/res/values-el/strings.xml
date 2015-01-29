@@ -21,10 +21,10 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Έγγραφα</string>
   <string name="category_favorite">Αγαπημένα</string>
-  <string name="category_log">Μητρώα</string>
   <string name="category_music">Μουσική</string>
   <string name="category_other">Διάφορα</string>
   <string name="category_picture">Εικόνες</string>
+  <string name="category_recent">Πρόσφατα</string>
   <string name="category_theme">Θέματα</string>
   <string name="category_type_document">Έγγραφα</string>
   <string name="category_type_meida">Πολυμέσα</string>
@@ -139,7 +139,7 @@
   <string name="menu_item_sort_name">Όνομα</string>
   <string name="menu_item_sort_size">Μέγεθος</string>
   <string name="menu_item_sort_type">Τύπο</string>
-  <string name="menu_list_name">Menu</string>
+  <string name="menu_list_name">Μενού</string>
   <string name="migrate_announcement_msg">Συγχρονίστε τον λογαριασμό στο KuaiPan με το λογαριασμό της Mi από τις ρυθμίσεις KuaiPan.</string>
   <string name="migrate_announcement_title">Ολοκλήρωση μετεγκατάστασης</string>
   <string name="mobile_photo">Φωτογραφίες τηλεφώνου</string>

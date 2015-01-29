@@ -27,6 +27,7 @@
      <string name="canceling">Ακυρώνεται</string>
      <string name="check_phone_error_title">Αποτυχία ενεργοποίησης υπηρεσίας συγχρονισμού</string>
      <string name="check_phone_io_error">Σφάλμα δικτύου</string>
+     <string name="choose_title">Επιλέξτε αρχείο</string>
      <string name="connect_confirm">Ο/Το %1$s ζητάει σύνδεση</string>
      <string name="connecting">Συνδέεται</string>
      <string name="contact_carrier_message">Επικοινωνήστε με την εταιρεία εάν έχετε ερωτήσεις</string>
