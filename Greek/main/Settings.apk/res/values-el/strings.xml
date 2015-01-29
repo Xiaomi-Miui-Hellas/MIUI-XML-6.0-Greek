@@ -750,7 +750,7 @@
     <string name="display_settings_title">Οθόνη</string>
     <string name="sound_settings">Ήχος</string>
     <string name="ringtone_title">Ήχος κλήσης</string>
-    <string name="all_volume_title">Ήχοι</string>
+    <string name="all_volume_title">Ένταση ήχων</string>
     <string name="musicfx_title">Μουσικά εφέ</string>
     <string name="ring_volume_title">Ένταση κουδουνίσματος</string>
     <string name="vibrate_in_silent_title">Δόνηση όταν είναι στο αθόρυβο</string>
