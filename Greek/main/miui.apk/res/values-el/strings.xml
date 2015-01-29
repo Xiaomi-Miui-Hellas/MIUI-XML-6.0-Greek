@@ -26,7 +26,10 @@
     <string name="date_picker_dialog_title">Ορισμός ημερ.</string>
     <string name="time_picker_dialog_title">Ορισμός ώρας</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερ. και ώρας</string>
-    <string name="copyright">Copyright</string>
+    <string name="app_name_which_call">Εφαρμογή:%s</string>
+    <string name="app_version_which_call">Έκδοση εφαρμογής:%s</string>
+    <string name="policy_name">Πολιτική:%s</string>
+    <string name="copyright">Πνευματικά δικαιώματα</string>
     <string name="user_agreement">Συμφωνία χρήσης</string>
     <string name="privacy_policy">Ιδιωτικό απόρρητο</string>
     <string name="mibi_license">MiCredit συμφωνία χρήσης</string>
