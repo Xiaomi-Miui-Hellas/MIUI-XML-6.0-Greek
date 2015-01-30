@@ -302,4 +302,8 @@
   <string name="wifi_state">Κατάσταση Wi-Fi</string>
   <string name="xiaomi_account">Λογαριασμός Mi</string>
   <string name="yes">Ναι</string>
+  <string name="category_log">Ημερολόγιο</string>
+  <string name="no_enough_space">Μη επαρκής χώρος</string>
+  <string name="ui_bar_txt_download_progress">Υπάρχουν %1$d αρχεία για να κατεβάσετε</string>
+  <string name="ui_bar_txt_upload_progress">Μεταφόρτωση</string>
 </resources>
