@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wallpaper_scrolling">όλα</string>
     <string name="application_name">MiHome</string>
     <string name="folder_name">Φάκελος</string>
     <string name="unnamed_folder_name">Χωρίς όνομα</string>
