@@ -2,7 +2,6 @@
 <resources>
     <string name="app_label">Καιρός</string>
     <string name="view_indexes_wind_unit">χμ/ω</string>
-    <string name="view_realtime_clear_substitution">Καθαρός</string>
     <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
     <string name="app_name">Καιρός</string>
     <string name="location_management">Πόλεις</string>

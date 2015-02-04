@@ -35,6 +35,7 @@
      <string name="authenticating_manually">Αποτυχία πιστοποίησης</string>
      <string name="average_score">Μέσος όρος</string>
      <string name="avg_score">%.1f</string>
+     <string name="baodian">Pointer</string>
      <string name="bestv">BesTV</string>
      <string name="buffering">Προ-φορτώνει …</string>
      <string name="buffering_video_netplay_label_v5">Προ-φορτώνει …</string>
@@ -42,6 +43,7 @@
      <string name="cancel_button">Ακύρωση</string>
      <string name="cancel_favorite_success">Χωρίς αστέρι</string>
      <string name="category">Κατηγορίες</string>
+     <string name="catoon">Κινούμενα σχέδια</string>
      <string name="channel_choice">"Επιλογή συντάκτη"</string>
      <string name="channel_hot">Δημοφιλή</string>
      <string name="channel_latest">Νέα</string>
@@ -111,7 +113,7 @@
      <string name="download_is_in_tasklist">Βρίσκεται στην λίστα caching</string>
      <string name="download_percent_hint">Λήψη %d%%</string>
      <string name="download_task_with">%d εργασίες</string>
-     <string name="download_with">Λήχη %1$s/%2$s</string>
+     <string name="download_with">Λήψη %1$s/%2$s</string>
      <string name="edit">Επεξεργασία</string>
      <string name="edit_comment">Προσθέστε σχόλιο</string>
      <string name="episode_suffix">Eπ. %d</string>
@@ -135,6 +137,7 @@
      <string name="gong_count_ji">%d Eπ. συνολικά</string>
      <string name="gong_count_xiang">%d Βίντεο</string>
      <string name="good">ΟΚ</string>
+     <string name="hollywood">Hollywood</string>
      <string name="hot">Δημοφιλή</string>
      <string name="hot_recommend">Τάσεις</string>
      <string name="icntv">iCNTV</string>
@@ -144,6 +147,7 @@
      <string name="install_comfirm">Πατήστε για να εγκαταστήσετε</string>
      <string name="installed">Εγκαταστάθηκε</string>
      <string name="introduce">Περίληψη</string>
+     <string name="japank">Japanese TV</string>
      <string name="ji">επ</string>
      <string name="key_back_down_toast">Για να εξέλθετε, πιέστε πάλι Πίσω</string>
      <string name="lekan">Lekan</string>
@@ -290,6 +294,7 @@
      <string name="updateapk_intro">Change log</string>
      <string name="updatedalready">Ενημέρωση</string>
      <string name="upgrade">Αναβάθμιση</string>
+     <string name="usa">US TV</string>
      <string name="use_cellular_network">Χρήση δικτύου κινητής</string>
      <string name="use_cellular_network_summary">χρησιμοποιήστε δίκτυο κινητής τηλεφωνίας για να κατεβάσετε τα βίντεο, αυτό θα προκαλέσει το κόστος της κυκλοφορίας.</string>
      <string name="use_cellular_offlinedownload_summary">Εμφάνιση ειδοποίησης όταν γίνεται χρήση δεδομένων κινητής για τη λήψη βίντεο</string>
