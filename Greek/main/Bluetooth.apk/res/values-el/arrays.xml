@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Δόνηση όταν χτυπάει</item>
+        <item>Δόνηση κατά τη λήψη μηνύματος</item>
+        <item>Δόνηση όταν χτυπάει ξυπνητήρι</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Λήψη φωτογραφίας</item>
+        <item>Βρείτε το τηλέφωνο</item>
+        <item>Βρείτε το MiKey</item>
+    </string-array>
+</resources>

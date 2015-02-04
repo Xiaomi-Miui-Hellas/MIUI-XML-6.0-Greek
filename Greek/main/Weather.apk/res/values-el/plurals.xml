@@ -12,4 +12,8 @@
         <item quantity="other">πριν %d ημέρες</item>
         <item quantity="one">πριν %d ημέρα</item>
     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Καθαρός</item>
+        <item quantity="one">Ηλιόλουστος</item>
+     </plurals>
 </resources>

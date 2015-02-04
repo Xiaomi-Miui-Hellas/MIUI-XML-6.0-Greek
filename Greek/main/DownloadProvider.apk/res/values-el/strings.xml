@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Διαχειριστής λήψεων</string>
+     <string name="auto_restart_under_wifi">Το Wi-Fi θα κατεβάσει αυτόματα το αρχείο αυτό</string>
+     <string name="button_cancel_download">Ακύρωση</string>
+     <string name="button_queue_for_wifi">Ουρά</string>
+     <string name="button_start_now">Έναρξη τώρα</string>
+     <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης</string>
+     <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης</string>
+     <string name="download_error">Ανεπιτυχής</string>
+     <string name="download_no_application_title">"Δεν είναι δυνατό το άνοιγμα του αρχείου"</string>
+     <string name="download_percent">%d%%</string>
+     <string name="download_queued">Στην ουρά</string>
+     <string name="download_remaining">%s υπόλοιπο</string>
+     <string name="download_running">Σε εξέλιξη</string>
+     <string name="download_running_percent">Σε εξέλιξη, %d%%</string>
+     <string name="download_unknown_title">&lt;Ανώνυμο></string>
+     <string name="notif_text_engine_off">Η επιτάχυνση λήψεων της Xunlei είναι ανενεργή.</string>
+     <string name="notif_text_engine_on">Επιτάχυνση…</string>
+     <string name="notif_title_file_size">Σύνολο %1$d αρχεία</string>
+     <string name="notif_title_multiple_downloading">Λήψη %1$d αρχείων</string>
+     <string name="notif_title_single_downloading">Λήψη %1$s</string>
+     <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
+     <string name="notification_download_failed">Αποτυχία λήψης.</string>
+     <string name="notification_need_wifi_for_size">Το μέγεθος λήψης απαιτεί Wi-Fi.</string>
+     <string name="notification_paused_in_background">Σε παύση στο παρασκήνιο.</string>
+     <string name="paused_waiting_for_network">Αναμονή για δίκτυο</string>
+     <string name="permdesc_accessAllDownloads">Επιτρέπει στην εφαρμογή να δει και να τροποποιήσει όλες τις λήψεις που ξεκίνησαν από οποιαδήποτε εφαρμογή στο σύστημα.</string>
+     <string name="permdesc_downloadCacheNonPurgeable">"Επιτρέπει στην εφαρμογή να κάνει λήψη αρχείων στην προσωρινή μνήμη λήψης, η οποία δεν θα μπορεί να διαγραφεί αυτόματα όταν ο διαχειριστής λήψης χρειάζεται περισσότερο χώρο."</string>
+     <string name="permdesc_downloadCompletedIntent">επιτρέπει στην εφαρμογή την αποστολή ειδοποιήσεων σχετικά με την ολοκλήρωση λήψεων. Κακόβουλες εφαρμογές μπορούν να το εκμεταλλευτούν για να μπερδέψουν άλλες εφαρμογές που πραγματοποιούν λήψεις αρχείων.</string>
+     <string name="permdesc_downloadManager">Επιτρέπει στην εφαρμογή την πρόσβαση στον διαχειριστή λήψεων και να τον χρησιμοποιήσουν για την λήψη αρχείων. Κακόβουλες εφαρμογές μπορούν να το εκμεταλλευτούν για να διακόψουν τις λήψεις και να αποκτήσουν πρόσβαση σε ιδιωτικές πληροφορίες.</string>
+     <string name="permdesc_downloadManagerAdvanced">"Επιτρέπει στην εφαρμογή την πρόσβαση στις προχωρημένες λειτουργίες του διαχειριστή λήψεων. Κακόβουλες εφαρμογές μπορούν να το εκμεταλλευτούν για να διακόψουν τις λήψεις και να αποκτήσουν πρόσβαση σε ιδιωτικές πληροφορίες."</string>
+     <string name="permdesc_downloadWithoutNotification">Επιτρέπει στην εφαρμογή να κάνει λήψη αρχείων μέσω του διαχειριστή λήψεων, χωρίς να εμφανίζεται καμία ειδοποίηση στο χρήστη.</string>
+     <string name="permdesc_seeAllExternal">Επιτρέπει στην εφαρμογή να δει όλες τις λήψεις στην κάρτα SD, ανεξάρτητα από το ποια εφαρμογή έχουν ληφθεί.</string>
+     <string name="permlab_accessAllDownloads">Πρόσβαση σε όλες τις λήψεις του συστήματος</string>
+     <string name="permlab_downloadCacheNonPurgeable">Δέσμευση χώρου στην προσωρινή μνήμη λήψης</string>
+     <string name="permlab_downloadCompletedIntent">Αποστολή ειδοποιήσεων λήψης.</string>
+     <string name="permlab_downloadManager">Πρόσβαση στον διαχειριστή λήψεων.</string>
+     <string name="permlab_downloadManagerAdvanced">Προχωρημένες λειτουργίες διαχειριστή λήψεων.</string>
+     <string name="permlab_downloadWithoutNotification">Λήψη αρχείων χωρίς ειδοποίηση</string>
+     <string name="permlab_seeAllExternal">Δείτε όλες τις λήψεις στον αποθηκευτικό χώρο USB</string>
+     <string name="privacy_notif_content">Πατήστε για να δείτε λεπτομέρειες.</string>
+     <string name="privacy_notif_title">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
+     <string name="privacy_tip_cancel">Ακύρωση</string>
+     <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
+     <string name="privacy_tip_ok">OK</string>
+     <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
+     <string name="root_downloads">Λήψεις</string>
+     <string name="task_already_exist">Η εργασία υπάρχει ήδη</string>
+     <string name="wifi_recommended_body" formatted="false">"Αν ξεκινήσετε την λήψη του %s τώρα μπορεί να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας σας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας σας, ανάλογα με το πρόγραμμα δεδομένων σας.
+
+ Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi."</string>
+     <string name="wifi_recommended_title">Σειρά αναμονής για λήψη αργότερα;</string>
+     <string name="wifi_required_body" formatted="false">"Θα πρέπει να χρησιμοποιήσετε το Wi-Fi για να ολοκληρωθεί αυτή η %s λήψη. 
+
+Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi."</string>
+     <string name="wifi_required_title">Η λήψη είναι πολύ μεγάλη για το δίκτυο του παρόχου</string>
+</resources>

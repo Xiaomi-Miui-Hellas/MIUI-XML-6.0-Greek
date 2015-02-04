@@ -24,7 +24,6 @@
   <string name="category_music">Μουσική</string>
   <string name="category_other">Διάφορα</string>
   <string name="category_picture">Εικόνες</string>
-  <string name="category_recent">Πρόσφατα</string>
   <string name="category_theme">Θέματα</string>
   <string name="category_type_document">Έγγραφα</string>
   <string name="category_type_meida">Πολυμέσα</string>
@@ -303,7 +302,4 @@
   <string name="xiaomi_account">Λογαριασμός Mi</string>
   <string name="yes">Ναι</string>
   <string name="category_log">Ημερολόγιο</string>
-  <string name="no_enough_space">Μη επαρκής χώρος</string>
-  <string name="ui_bar_txt_download_progress">Υπάρχουν %1$d αρχεία για να κατεβάσετε</string>
-  <string name="ui_bar_txt_upload_progress">Μεταφόρτωση</string>
 </resources>
