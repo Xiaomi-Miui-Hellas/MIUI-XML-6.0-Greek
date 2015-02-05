@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Αποστολή…</string>
+    <string name="sina_share_success">Αποστολή</string>
+    <string name="sina_share_fail">Αποτυχία αποστολής</string>
+    <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
+    <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
+    <string name="sina_share_fail_content_repeat">"Δεν ήταν δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…"</string>
     <string name="app_name">Mi Cloud</string>
     <string name="sync_item_sms_title">Συγχρονισμός μηνυμάτων</string>
     <string name="sync_item_sms_summary">Συγχρονισμός SMS που στάλθηκαν και ελήφθησαν αυτό το τηλέφωνο</string>
@@ -244,4 +250,10 @@
     <string name="loading_hint">Φόρτωση</string>
     <string name="buy_space_expire">Ο αγορασμένος χώρος λήγει στις %s</string>
     <string name="buy_space_expire_concat">%1$s έως %2$s</string>
+    <string name="share_miliao_not_installed">Το MiTalk δεν έχει εγκατασταθεί.</string>
+    <string name="share_weibo_not_installed">Το Weibo δεν έχει εγκατασταθεί.</string>
+    <string name="share_weixin_not_installed">Το Wechat δεν έχει εγκατασταθεί.</string>
+    <string name="share_success">επιτυχία κοινής χρήσης</string>
+    <string name="share_cancel">ακύρωση κοινής χρήσης</string>
+    <string name="share_failed">αποτυχία κοινής χρήσης</string>
 </resources>

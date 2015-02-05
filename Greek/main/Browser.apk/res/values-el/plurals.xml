@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="adblock_rules_number_text">
+     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d αποκλεισμένα</item>
         <item quantity="one">%d αποκλεισμένο</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
+     </plurals>
+     <plurals name="find_on_page_matches">
         <item quantity="other">%d βρέθηκαν</item>
         <item quantity="one">%d βρέθηκε</item>
-    </plurals>
-    <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d τραγούδια</item>
-        <item quantity="one">%d τραγούδι</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d άλμπουμ</item>
-        <item quantity="one">%d άλμπουμ</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d δημοφιλή τραγούδια</item>
-        <item quantity="one">%d δημοφιλή τραγούδι</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d επιλέχθηκαν</item>
-        <item quantity="one">%1$d επιλέχθηκε</item>
-    </plurals>
-    <plurals name="webview_last_num_days">
-        <item quantity="other">Τελευτ. %d μέρες</item>
-    </plurals>
-    <plurals name="webview_matches_found">
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Τελευταίες %d ημέρες</item>
+     </plurals>
+     <plurals name="matches_found">
         <item quantity="other">%1$d από %2$d</item>
         <item quantity="one">1 ταυτοποίηση</item>
-    </plurals>
+     </plurals>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκε</item>
+     </plurals>
 </resources>
