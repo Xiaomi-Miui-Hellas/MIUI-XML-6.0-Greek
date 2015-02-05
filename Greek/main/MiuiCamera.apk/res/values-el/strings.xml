@@ -14,8 +14,8 @@
     <string name="confirm_restore_message">Επαναφορά προεπιλεγμένων ρυθμίσεων της κάμερας;</string>
     <string name="confirm_location_title">Προσθήκη γεωγραφικών ετικετών</string>
     <string name="confirm_location_message">Προσθήκη ετικέτας στις φωτογραφίες και τα βίντεο με την τοποθεσία όπου λαμβάνονται;</string>
-    <string name="save">Ναι</string>
-    <string name="no_save">Όχι, ευχαριστώ</string>
+    <string name="confirm_location_alert">προσθήκη γεωγραφικών ετικετών</string>
+    <string name="start_capture">Έναρξη καταγραφής</string>
     <string name="pref_camera_recordlocation_title">Αποθήκευση Τοποθεσίας</string>
     <string name="pref_camera_recordlocation_entry_off">Ανενεργό</string>
     <string name="pref_camera_recordlocation_entry_on">Ενεργό</string>
@@ -222,9 +222,6 @@
     <string name="face_beauty_age_alias_female_45_60">Γυναίκα 45-60</string>
     <string name="face_beauty_age_alias_female_60_m">Γυναίκα 60 +</string>
     <string name="simple_mode_button_text_face_beauty">Κλείσιμο αποχρώσεων δέρματος</string>
-    <string name="pref_camera_multiple_face_beauty_title">Βελτίωση αποχρώσεων δέρματος</string>
-    <string name="pref_camera_multiple_face_beauty_entry_off">1 άτομο</string>
-    <string name="pref_camera_multiple_face_beauty_entry_on">2 άτομα</string>
     <string name="pref_face_beauty_title">Αποχρώσεις δέρματος</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Φωτογραφίες και βίντεο δεν μπορεί να εμφανίζονται όταν η οθόνη είναι κλειδωμένη.</string>
     <string name="pref_priority_storage_title">Αποθήκευση σε κάρτα SD</string>
@@ -237,6 +234,7 @@
     <string name="pref_capture_settings">Ρυθμίσεις κάμερας</string>
     <string name="pref_camcorder_settings">Ρυθμίσεις κάμερας</string>
     <string name="pref_advance_settings">Ρυθμίσεις για προχωρημένους</string>
+    <string name="accessibility_setting_button">Κουμπί πρόσθετων ρυθμίσεων</string>
     <string name="pref_camera_auto_chroma_flash_title">Έγχρωμο Φλας</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="simple_mode_button_text_ubifocus">Κλείσιμο επανεστίασης</string>

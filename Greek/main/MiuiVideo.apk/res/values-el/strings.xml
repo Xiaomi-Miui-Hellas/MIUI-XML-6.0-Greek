@@ -29,6 +29,7 @@
      <string name="all_ep">Όλα τα επισ.</string>
      <string name="all_media">Όλα τα μέσα</string>
      <string name="app_name">Βίντεο</string>
+     <string name="app_recommend">Προτεινόμενα</string>
      <string name="area_unknown">Άγνωστο</string>
      <string name="authenticated_failed">Αποτυχία εισόδου</string>
      <string name="authenticating">Επαλήθευση</string>
@@ -163,7 +164,6 @@
      <string name="login_tip_title">Σύνδεση</string>
      <string name="maintitle_prefix">Διαθέσιμη ενημέρωση</string>
      <string name="media_name_comment">%s σχόλια</string>
-     <string name="menu_item_disable_audio_enhance">Απενεργοποίηση βελτίωσης ήχου</string>
      <string name="menu_item_enable_audio_enhance">Ενεργοποίηση βελτιώσεων ήχου</string>
      <string name="minute"> Λεπτό</string>
      <string name="mipush_setting">Xiaomi push</string>

@@ -976,7 +976,7 @@
 "<li>Άλλα δεδομένα σας</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί.</string>
+Για την διαγραφή μουσικής, φωτογραφιών, και άλλων δεδομένων, ο "<b>αποθηκευτικός χώρος USB</b> πρέπει να διαγραφεί."</string>
     <string name="erase_external_storage">Διαγραφή κάρτας SD</string>
     <string name="erase_external_storage_description">Διαγραφή όλων των δεδομένων της κάρτας SD όπως μουσική και εικόνες</string>
     <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
@@ -2145,6 +2145,7 @@
     <string name="upload_debug_log_title">Ανεβάστε debug log</string>
     <string name="upload_debug_log_summary">Ανεβάστε το debug log, μόνο όταν η σύνδεση Wi-Fi είναι διαθέσιμη, για να βοηθήσετε την ομάδα της MIUI να αναπτύξει μια πιο σταθερή ROM</string>
     <string name="device_miui_version">Έκδοση MIUI</string>
+    <string name="cmcc_hardware_version">Έκδοση υλικού</string>
     <string name="device_cpu">CPU</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Εσωτερικός χώρος</string>
