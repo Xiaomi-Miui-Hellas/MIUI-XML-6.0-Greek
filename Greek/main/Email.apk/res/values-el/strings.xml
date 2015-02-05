@@ -627,6 +627,7 @@
   <string name="outbox_alert_button_confirm">Επεξεργασία</string>
   <string name="outbox_alert_button_no_resend">"Μην στείλεις"</string>
   <string name="outbox_alert_button_resend">Αποστολή ξανά</string>
+  <string name="outbox_alert_certificate_error">Το πιστοποιητικό email εξαιρέθηκε. Παρακαλώ να το ενημερώσετε</string>
   <string name="outbox_alert_description_auth_error">Αιτία: Σφάλμα πιστοποίησης από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
   <string name="outbox_alert_description_http_error">Αιτία: Σφάλμα HTTP από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
   <string name="outbox_alert_description_provision_error">Αιτία: Σφάλμα ρύθμισης παραμέτρων από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
@@ -636,6 +637,7 @@
   <string name="outbox_alert_edit_resend">Επεξ.και αποστολή ξανά</string>
   <string name="outbox_alert_failed_edit_resend">"Αδυναμία αποστολής. Επεξεργαστείτε και δοκιμάστε πάλι."</string>
   <string name="outbox_alert_mailbox_not_found">Δεν βρέθηκε η διεύθυνση email</string>
+  <string name="outbox_alert_rw_io_error">Παρουσιάστηκε σφάλμα κατά την αποστολή του μηνύματός σας. Παρακαλώ δοκιμάστε να το στείλετε ξανά</string>
   <string name="outbox_alert_select_operation">Επιλέξτε μία ενέργεια</string>
   <string name="outbox_alert_title_sent_failed">Αποτυχία αποστολής e-mail</string>
   <string name="outbox_no_mails">Άδειο</string>
@@ -768,6 +770,7 @@
   <string name="save_action">Αποθήκευση</string>
   <string name="save_attachment">Αποθήκευση</string>
   <string name="save_draft">Αποθήκευση πρόχειρου</string>
+  <string name="save_draft_failed">Αποτυχία αποθήκευσης πρόχειρου</string>
   <string name="saved">Αποθηκεύτηκε, %s</string>
   <string name="saving">Αποθηκεύει…</string>
   <string name="search_attachment">Αναζήτηση</string>
