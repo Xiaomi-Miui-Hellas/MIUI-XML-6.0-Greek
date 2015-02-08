@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d</item>
+        <item quantity="zero">Επιλέχθηκαν %1$d</item>
+        <item quantity="one">Επιλέχθηκαν %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">%1$s πόλεις θα διαγραφούν</item>
+        <item quantity="one">Μια πόλη θα διαγραφεί</item>
+    </plurals>
+</resources>
