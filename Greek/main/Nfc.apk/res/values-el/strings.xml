@@ -7,8 +7,8 @@
     <string name="outbound_me_profile_title">NFC interaction complete</string>
     <string name="outbound_me_profile_text">Touch to give this person your contact info.</string>
     <string name="accessibility_nfc_enabled">NFC ενεργό.</string>
-    <string name="touch">Αγγλιξτε για έναρξη</string>
-    <string name="beam_progress">Εισερχλομενη δέσμη…</string>
+    <string name="touch">Αγγίξτε για έναρξη</string>
+    <string name="beam_progress">Εισερχόμενη δέσμη…</string>
     <string name="beam_outgoing">Μεταβίβαση…</string>
     <string name="beam_complete">Ολοκληρώθηκε</string>
     <string name="beam_failed">Δεν ολοκληρώθηκε</string>
