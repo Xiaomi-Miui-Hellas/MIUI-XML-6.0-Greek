@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cit_label">Δοκιμές υλικού</string>
+    <string name="cit_name">Δοκιμές υλικού</string>
+    <string name="cit_pass">Πέρασε</string>
+    <string name="cit_fail">Απέτυχε</string>
+    <string name="cit_tool">Πρόσθετα Εργαλεία</string>
+    <string name="cit_hide_menu">Απόκρυψη μενού</string>
+    <string name="cit_not_available">Αυτή η δοκιμή δεν είναι διαθέσιμη σε αυτή την έκδοση του MIUI</string>
+    <string name="cit_version_check_title">Πληροφορίες Έκδοσης</string>
+    <string name="cit_sim_check_title">Κάρτα SIM</string>
+    <string name="cit_keyboard_test_title">Πληκτρολόγιο</string>
+    <string name="cit_pointer_location_title">Οθόνη Αφής</string>
+    <string name="cit_leds_check_title">Λυχνίες LED</string>
+    <string name="cit_display_check_title">Οθόνη</string>
+    <string name="cit_vibrator_check_title">Δόνηση</string>
+    <string name="cit_wifi_address_check_title">Διεύθυνση Wi-Fi</string>
+    <string name="cit_wifi_ap_scan_check_title">Σάρωση Wi-Fi access point</string>
+    <string name="cit_blue_tooth_address_check_title">Διεύθυνση Bluetooth</string>
+    <string name="cit_blue_tooth_scan_check_title">Σάρωση Bluetooth</string>
+    <string name="cit_accelermeter_sensor_check_title">Επιταχυνσιόμετρο</string>
+    <string name="cit_magnetic_sensor_check_title">Μαγνητόμετρο</string>
+    <string name="cit_proximity_sensor_check_title">Αισθητήρας Προσέγγισης</string>
+    <string name="cit_light_sensor_check_title">Αισθητήρας Φωτός</string>
+    <string name="cit_pressure_sensor_check_title">Αισθητήρας Πίεσης</string>
+    <string name="cit_gyroscope_sensor_check_title">Γυροσκόπιο</string>
+    <string name="cit_play_sd_mp3_title">Αναπαραγωγή MP3</string>
+    <string name="cit_play_sd_mp3_hifi_title">Αναπαραγωγή MP3(HIFI)</string>
+    <string name="cit_audio_loopback_check_one_title">Κύριο μικρόφωνο</string>
+    <string name="cit_audio_loopback_check_two_title">Δευτερεύον μικρόφωνο</string>
+    <string name="cit_audio_loopback_dualmic_earpiece_title">Μείωση θορύβου περιβάλλοντος</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Πίσω μικρόφωνο</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Βασικό μικρόφωνο</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Μικρόφωνο κορυφής</string>
+    <string name="cit_audio_lb_phonecall_title">Εξομοίωση κλήσης</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Μικρόφωνο κορυφής</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Μπροστινό μικρόφωνο</string>
+    <string name="cit_headset_plug_detect_title">Σύνδεση Ακουστικών</string>
+    <string name="cit_headset_button_check_title">Κουμπιά Ακουστικών</string>
+    <string name="cit_headset_loopback_check_title">Μικρόφωνο Ακουστικών</string>
+    <string name="cit_headset_pull_detect_title">Αποσύνδεση Ακουστικών</string>
+    <string name="cit_charger_plugin_check_title">Σύνδεση Φορτιστή</string>
+    <string name="cit_charger_plugout_check_title">Αποσύνδεση Φορτιστή</string>
+    <string name="cit_main_camera_check_title">Κύρια Κάμερα</string>
+    <string name="cit_front_camera_check_title">Εμπρόσθια κάμερα</string>
+    <string name="cit_sd_plugin_check_title">Ανίχνευση κάρτας SD</string>
+    <string name="cit_sd_plugout_check_title">Αφαίρεση κάρτας SD</string>
+    <string name="cit_gps_check_title">GPS</string>
+    <string name="cit_fm_check_title">FM Ράδιο</string>
+    <string name="cit_power_check_title">Ένδειξη Μπαταρίας</string>
+    <string name="cit_reset_check_title">Επανεκκίνηση</string>
+    <string name="cit_OTG_plugin_check_title">Ανίχνευση OTG</string>
+    <string name="cit_OTG_plugout_check_title">Αφαίρεση OTG</string>
+    <string name="cit_tool_modem">Εργαλεία ελέγχου Μόντεμ</string>
+    <string name="cit_tool_modem_offline_log">On/Off καταγραφής εκτός σύνδεσης</string>
+    <string name="cit_tool_modem_exit_ftm">Έξοδος από τη λειτουργία FTM</string>
+    <string name="cit_tool_modem_bugreport">Αναφορά MODEM</string>
+    <string name="cit_tool_nfc">Εργαλεία ελέγχου NFC</string>
+    <string name="cit_tool_nfc_st">NFC ST:</string>
+    <string name="cit_tool_nfc_st_confreq">Συχν:</string>
+    <string name="cit_tool_nfc_st_run">Έναρξη</string>
+    <string name="cit_tool_nfc_st_stop">Στοπ</string>
+    <string name="cit_tool_cal_camera">Βαθμονόμηση Κάμερας</string>
+    <string name="cit_touch_calib_title">Βαθμονόμηση αφής</string>
+    <string name="cit_touch_calib_summary">Στο επόμενο βήμα θα γίνει βαθμονόμηση της αφής, πατήστε ΟΚ και μην αγγίζετε την οθόνη έως ότου η βαθμονόμηση ολοκληρωθεί</string>
+    <string name="cit_touch_calib_pass">Η βαθμονόμηση ολοκληρώθηκε με επιτυχία</string>
+    <string name="cit_touch_calib_fail">Αποτυχία βαθμονόμησης. Παρακαλώ δοκιμάστε ξανά.</string>
+    <string name="cit_touch_calib_instruction">Έναρξη βαθμονόμησης</string>
+    <string name="cit_version_check_summary">Παρακάτω είναι οι πληροφορίες έκδοσης του λειτουργικού. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
+    <string name="cit_proximity_sensor_check_summary">"Καλύψτε τον αισθητήρα εγγύτητας (βρίσκεται στο πάνω μέρος του τηλεφώνου κοντά στο ακουστικό) με το χέρι σας και στη συνέχεια απομακρύνετε το χέρι σας. Η τιμή θα πρέπει να αυξάνεται ξεκινώντας από 0,0 όταν μετακινείτε το χέρι σας μακριά από τη συσκευή.
+Κατά τη βαθμονόμηση, βεβαιωθείτε ότι δεν υπάρχει τίποτα μεταξύ του αισθητήρα και του χεριού σας (π.χ. προστατευτικό κάλυμμα της οθόνης ή γάντια)."</string>
+    <string name="cit_magnetic_sensor_check_summary">Οι τιμές συντεταγμένων για τα Χ, Υ, Ζ, πρέπει να εμφανίζονται παρακάτω</string>
+    <string name="cit_light_sensor_check_summary">Βρέθηκαν οι παρακάτω πληροφορίες για αισθητήρα φωτός DAC</string>
+    <string name="cit_gyroscope_sensor_check_summary">Οι τιμές συντεταγμένων για τα Χ, Υ, Ζ, πρέπει να εμφανίζονται παρακάτω</string>
+    <string name="cit_pressure_sensor_check_summary">Ελέγξτε την τιμή του αισθητήρα πίεσης</string>
+    <string name="cit_leds_check_summary">Οπίσθιος φωτισμός οθόνης, LED ειδοποιήσεων, φλας και φωτισμός πλήκτρων, θα πρέπει να ανταποκρίνονται όταν πατηθεί το αντίστοιχο κουμπί.</string>
+    <string name="cit_vibrator_check_summary">Δείτε αν η δόνηση (σύντομη και παρατεταμένη) λειτουργεί κανονικά</string>
+    <string name="cit_wifi_address_check_summary">Η δοκιμή θα εμφανίσει την διεύθυνση δικτύου WLAN που είστε τώρα συνδεδεμένοι. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
+    <string name="cit_wifi_ap_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με όλα τα διαθέσιμα Wi-Fi access points. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
+    <string name="cit_blue_tooth_address_check_summary">Η δοκιμή θα εμφανίσει την MAC address του Bluetooth.</string>
+    <string name="cit_blue_tooth_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με διαθέσιμες συσκευές Bluetooth που έχουν εντοπιστεί σε κοντινή απόσταση.</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Μετακινήστε τη συσκευή γρήγορα σε μία κατεύθυνση. Οι τιμές συντεταγμένων Χ, Υ, Ζ θα εμφανίζονται παρακάτω. (όταν το τηλέφωνο είναι σε κίνηση: το Χ  αντιπροσωπεύει το αριστερά/δεξιά, το Υ αντιπροσωπεύει το εμπρός/πίσω και το Ζ αντιπροσωπεύει το πάνω/κάτω).
+Πριν την βαθμονόμηση της συσκευής, τοποθετήστε την σε μια επίπεδη επιφάνεια."</string>
+    <string name="cit_headset_plug_detect_summary">Όταν τα ακουστικά είναι συνδεδεμένα, το κείμενο \"Τα Ακουστικά είναι συνδεδεμένα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_headset_button_check_summary">Όταν τα ακουστικά είναι συνδεδεμένα, η δοκιμή θα εμφανίσει με πράσινο χρώμα το αντίστοιχο επιλεγμένο πλήκτρο από τα ακουστικά όταν πατηθεί.</string>
+    <string name="cit_headset_pull_detect_summary">Όταν τα ακουστικά είναι συνδεδεμένα, το κείμενο \"Τα ακουστικά αποσυνδέθηκαν\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_sim_check_summary">Ελέγχει την κατάσταση της κάρτας SIM</string>
+    <string name="cit_reset_check_summary">Η δοκιμή αυτή θα κάνει επανεκκίνηση τη συσκευή</string>
+    <string name="cit_audio_loopback_check_summary_first">"Δοκιμή κεντρικού μικροφώνου
+
+Κρατήστε το τηλέφωνο σαν να κάνετε μια κλήση και μιλήστε στο μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή σας στο ακουστικό."</string>
+    <string name="cit_audio_loopback_check_summary_second">"Δοκιμή δευτερεύοντος μικροφώνου
+
+Γυρίστε το τηλέφωνο έτσι ώστε η είσοδος των ακουστικών να είναι στραμμένη προς τα κάτω και μιλήστε στο ακουστικό. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο."</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Δοκιμή μείωσης θορύβου περιβάλλοντος
+
+Κρατήστε το τηλέφωνο σαν να απαντάτε σε μια κλήση και μιλήστε στο μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή σας (με μειωμένο θόρυβο στο βάθος) στο ακουστικό."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Δοκιμή βασικού μικροφώνου.
+
+Κρατήστε το τηλέφωνο σαν να κάνετε μια κλήση και μιλήστε στο μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή σας στο ακουστικό"</string>
+    <string name="cit_headset_loopback_check_summary">Ενώ φοράτε τα ακουστικά, συνδέστε τα με τη συσκευή. Μιλήστε στο μικρόφωνο των ακουστικών. Θα πρέπει να ακούσετε τη φωνή σας στα ηχεία των ακουστικών.</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Δοκιμή πίσω μικροφώνου στο ηχείο.
+
+Γυρίστε το τηλέφωνο και μιλήστε στο πίσω μικρόφωνο. Θα πρέπει να ακούσετε την φωνή σας στο ηχείο "</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Δοκιμή μικροφώνου κορυφής. 
+
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Δοκιμή εξομοίωσης κλήσης.
+
+Κρατήστε το τηλέφωνο σαν να κάνετε μια κλήση και μιλήστε με το κύριο μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή στο ηχείο."</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Δοκιμή μικροφώνου κορυφής.
+
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο κορυφής. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Δοκιμή μπροστινού μικροφώνου.
+
+Γυρίστε το τηλέφωνο και μιλήστε στο μικρόφωνο στη θέση του ακουστικού. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
+    <string name="cit_sd_plugin_check_summary">Το κείμενο \"Εντοπίστηκε κάρτα SD, αφαιρέστε την κάρτα SD τώρα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_sd_plugout_check_summary">Όταν αφαιρέσετε την κάρτα SD, το κείμενο \"Η κάρτα SD έχει αφαιρεθεί, τοποθετήστε την κάρτα SD τώρα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_keyboard_test_summary">Όταν πατάτε τα κουμπιά, το αντίστοιχο κείμενο στην οθόνη θα πρέπει να γίνετε πράσινο (το \"Home\" και το κουμπί λειτουργίας δεν περιλαμβάνονται στη δοκιμή).</string>
+    <string name="cit_charger_plugin_check_summary">Όταν ο φορτιστής USB είναι συνδεδεμένος το κείμενο \"Φόρτιση μέσω USB (ή AC)\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_charger_plugout_check_summary">Όταν ο φορτιστής USB είναι αποσυνδεδεμένος το κείμενο \"Φορτιστής USB (ή AC) αποσυνδέθηκε\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_play_sd_mp3_summary">Επιβεβαιώστε ότι υπάρχει ένα αρχείο με το όνομα \"music.mp3\" αποθηκευμένο στην κάρτα SD. Το αρχείο \"music.mp3\" θα πρέπει να ακούγετε από τα εξωτερικά ηχεία της συσκευής όταν ανοίγετε αυτό το τεστ.</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Επιβεβαιώστε ότι υπάρχει ένα αρχείο με το όνομα \"music.mp3\" αποθηκευμένο στην κάρτα SD. The file \"music.mp3\" θα πρέπει να παίξει μέσω της διαδρομής HIFI της συσκευής όταν ανοίγετε αυτό το τεστ.</string>
+    <string name="cit_display_check_summary">Επιβεβαιώστε ότι το απαιτούμενο αρχείο BMP είναι στην κάρτα SD. Επιβεβαιώστε ότι τα χρώματα εμφανίζονται ομαλά και με συνέχεια σε όλη την οθόνη και ότι δεν υπάρχουν ακανόνιστα φωτεινά ή σκοτεινά σημεία.</string>
+    <string name="cit_main_camera_check_summary">"Οδηγίες δοκιμής:
+
+ 1.Πατήστε το κουμπί \"Κάμερα\" για να ανοίξετε την πίσω κάμερα
+ 2.Επιβεβαιώστε ότι το φλας είναι ενεργό
+ 3.Πατήστε το κουμπί του κλείστρου
+ 4.Πατήστε το εικονίδιο τσεκαρίσματος. Το σύστημα θα σώσει τη φωτογραφία αυτόματα.
+ 5.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζετε παρακάτω. Πατήστε \"Διαγραφή\" για να ολοκληρώσετε το τεστ"</string>
+    <string name="cit_front_camera_check_summary">"Οδηγίες δοκιμής:
+
+1.Πατήστε στο κουμπί \"Κάμερα\" για να ανοίξετε την μπροστινή κάμερα
+2.Πατήστε το κουμπί του κλείστρου
+3.Πατήστε το εικονίδιο τσεκαρίσματος. Το σύστημα θα σώσει τη φωτογραφία αυτόματα.
+4.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζετε παρακάτω. Πατήστε \"Διαγραφή\" για να ολοκληρώσετε το τεστ."</string>
+    <string name="cit_camera_calibration_summary">"Οδηγίες δοκιμής:
+
+1.Πατήστε στο κουμπί \"Βαθμονόμηση\" για να ανοίξετε την κάμερα
+2.Πατήστε το κουμπί \"Επιστροφή\" για να βγείτε από την κάμερα
+3.Θα υπάρξει μια ετικέτα \"Η βαθμονόμηση πέτυχε\" για να δείξει ότι ο οπτικός σταθεροποιητής εικόνας έχει βαθμονομηθεί"</string>
+    <string name="cit_camera_sdcard_error">Δεν μπορείτε να τραβήξετε φωτογραφία. Η κάρτα SD είναι πλήρης.</string>
+    <string name="cit_gps_check_summary">Οι πληροφορίες GPS θα πρέπει να εμφανίζονται παρακάτω.</string>
+    <string name="cit_fm_check_summary">Αυτή η δοκιμή θα ελέγξει τη λειτουργία FM της συσκευής.</string>
+    <string name="cit_power_check_summary">Το διαθέσιμο υπόλοιπο φορτίο της μπαταρίας θα πρέπει να εκφράζεται ως ένα ποσοστό παρακάτω</string>
+    <string name="cit_audio_cali_title">Δοκιμή βαθμονόμησης ενισχυτή Ηχείου</string>
+    <string name="cit_audio_cali_summary">Βαθμονόμηση ενισχυτή Ηχείου</string>
+    <string name="cit_audio_cali_playing">Πατήστε το κουμπί για να κάνετε βαθμονόμηση</string>
+    <string name="cit_audio_cali_file_existed">Δεν υπάρχει αρχείο μουσικής, δεν μπορεί να βαθμονομηθεί!</string>
+    <string name="cit_audio_cali_done">Η βαθμονόμηση ολοκληρώθηκε!</string>
+    <string name="cit_audio_cali_valueR">Σύνθετη αντίσταση:</string>
+    <string name="cit_audio_cali_valueT">tCoef:</string>
+    <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Μετρητής:</string>
+    <string name="cit_audio_cali_failed">Η βαθμονόμηση απέτυχε. Παρακαλώ δοκιμάστε ξανά!</string>
+    <string name="cit_aud_spkcal">Βαθμονόμηση</string>
+    <string name="cit_audio_calibrating">Η βαθμονόμηση είναι σε εξέλιξη…</string>
+    <string name="cit_OTG_plugin_check_summary">Όταν μια συσκευή OTG είναι συνδεδεμένη, το κείμενο \"Ανιχνεύτηκε συσκευή USB OTG\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_OTG_plugout_check_summary">Όταν αφαιρέσετε μια συσκευή OTG, το κείμενο \"Η συσκευή USB OTG αφαιρέθηκε\" θα πρέπει να εμφανίζεται παρακάτω.</string>
+    <string name="cit_vibrator_short">Σύντομη δόνηση</string>
+    <string name="cit_vibrator_long">Παρατεταμένη δόνηση</string>
+    <string name="cit_vibrator_show_advanced">Εμφάνιση προηγμένων επιλογών</string>
+    <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
+    <string name="cit_vibrator_haptic">Ανταπόκριση δόνησης</string>
+    <string name="cit_vibrator_load_down_pattern">Μοτίβο Κάτω</string>
+    <string name="cit_vibrator_load_up_pattern">Μοτίβο Πάνω</string>
+    <string name="cit_vibrator_play_touch_pattern">Δόνηση</string>
+    <string name="cit_wifi_state_refresh">Ανανέωση</string>
+    <string name="cit_wifi_address_error">Αδυναμία λήψης διεύθυνσης Wi-Fi, ελέγξτε εάν είναι ενεργό το Wi-Fi.</string>
+    <string name="cit_wifi_ap_scanning">Σάρωση…</string>
+    <string name="cit_wifi_ap_scan_retry">Σάρωση ξανά…</string>
+    <string name="cit_wifi_fail_to_scan">Δεν ήταν δυνατή η σάρωση για δίκτυα</string>
+    <string name="cit_bluetooth_scan_retry">Σάρωση ξανά</string>
+    <string name="cit_bluetooth_scanning">Σάρωση για κοντινές συσκευές Bluetooth (Μπορεί να διαρκέσει περίπου 4 δευτερόλεπτα)…</string>
+    <string name="cit_bluetooth_not_support">Αυτή η συσκευή δεν υποστηρίζει Bluetooth</string>
+    <string name="cit_bluetooth_scanning_opening_bluetooth">Άνοιγμα συσκευής Bluetooth…</string>
+    <string name="cit_bluetooth_scanning_bluetooth_error">Παρουσιάστηκε σφάλμα κατά τη σάρωση για συσκευές Bluetooth.</string>
+    <string name="cit_bluetooth_address_open_error">Αδυναμία λήψης διεύθυνσης Bluetooth. Παρουσιάστηκε σφάλμα κατά το άνοιγμα της συσκευής Bluetooth.</string>
+    <string name="cit_bluetooth_scanning_bluetooth_done">Σάρωση ολοκληρώθηκε. Δεν βρέθηκαν συσκευές Bluetooth σε κοντινή απόσταση.</string>
+    <string name="cit_headset_plug_hint">Συνδέστε τα ακουστικά τώρα</string>
+    <string name="cit_headset_pull_hint">Αποσυνδέστε τα ακουστικά τώρα</string>
+    <string name="cit_headset_plug_finish">Τα ακουστικά είναι συνδεδεμένα</string>
+    <string name="cit_headset_pull_finish">Τα ακουστικά αποσυνδέθηκαν</string>
+    <string name="cit_headset_button_unknown">Άγνωστο</string>
+    <string name="cit_headset_button_click">Πατήστε τα κουμπιά στα ακουστικά</string>
+    <string name="cit_headset_button_pass">Πέρασε</string>
+    <string name="cit_headset_button_play_pause">Αναπαραγωγή/Παύση</string>
+    <string name="cit_headset_button_stop">Στοπ</string>
+    <string name="cit_headset_button_next">Επόμενο</string>
+    <string name="cit_headset_button_previous">Προηγούμενο</string>
+    <string name="cit_headset_button_rewind">Από την αρχή</string>
+    <string name="cit_headset_button_fast_forward">Γρήγορα μπροστά</string>
+    <string name="cit_sim_state_absent">Δεν βρέθηκε κάρτα SIM</string>
+    <string name="cit_sim_state_unkown">Άγνωστο</string>
+    <string name="cit_sim_state_network_locked">Κλειδωμένο Network PIN</string>
+    <string name="cit_sim_state_pin_required">Χρειάζεται κωδικός PIN</string>
+    <string name="cit_sim_state_puk_required">Χρειάζεται κωδικός PUK</string>
+    <string name="cit_sim_state_ready">Κάρτα SIM ΟΚ</string>
+    <string name="cit_sim_serial_number">Νούμερο κάρτας SIM:</string>
+    <string name="cit_sim_sim_operator">Φορέας SIM:</string>
+    <string name="cit_sim_sim_operator_name">Όνομα φορέα SIM:</string>
+    <string name="cit_sim_sim_country">Χώρα:</string>
+    <string name="cit_sim_network_operator">Πάροχος υπηρεσιών δικτύου:</string>
+    <string name="cit_sim_network_operator_name">Όνομα παρόχου υπηρεσιών δικτύου:</string>
+    <string name="cit_sim_network_type">Τύπος δικτύου:</string>
+    <string name="cit_sim_error_unknown">Άγνωστο</string>
+    <string name="cit_reset_test">Τεστ</string>
+    <string name="cit_audio_loopback_next">Επόμενο</string>
+    <string name="cit_audio_loopback_previous">Προηγούμενο</string>
+    <string name="cit_sd_plugged_in">Εντοπίστηκε κάρτα SD, αφαιρέστε την κάρτα SD τώρα</string>
+    <string name="cit_sd_plugged_out">Η κάρτα SD έχει αφαιρεθεί, τοποθετήστε την κάρτα SD τώρα</string>
+    <string name="cit_sd_mount">Προσάρτηση κάρτας SD</string>
+    <string name="cit_sd_unmount">Αποπροσάρτηση κάρτας SD</string>
+    <string name="cit_sd_mount_sucess">Επιτυχής προσάρτηση κάρτας SD</string>
+    <string name="cit_sd_unmount_sucess">Επιτυχής αποπροσάρτηση κάρτας SD</string>
+    <string name="cit_sd_fail">Παρουσιάστηκε σφάλμα.</string>
+    <string name="cit_charger_waiting_in">Συνδέστε το φορτιστή</string>
+    <string name="cit_ac_charger_in">Φόρτιση μέσω AC</string>
+    <string name="cit_usb_charger_in">Φόρτιση μέσω USB</string>
+    <string name="cit_charger_waiting_out">Αφαιρέστε τον φορτιστή τώρα</string>
+    <string name="cit_ac_charger_out">Φορτιστής AC αποσυνδέθηκε</string>
+    <string name="cit_usb_charger_out">Φορτιστής USB αποσυνδέθηκε</string>
+    <string name="cit_usb_OTG_in">Ανιχνεύτηκε συσκευή USB OTG</string>
+    <string name="cit_OTG_waiting_in">Συνδέστε τη συσκευή USB OTG τώρα.</string>
+    <string name="cit_OTG_waiting_out">Αποσυνδέστε τη συσκευή USB OTG τώρα.</string>
+    <string name="cit_usb_OTG_out">Η συσκευή USB OTG αφαιρέθηκε.</string>
+    <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει την δοκιμή OTG.</string>
+    <string name="cit_sd_mp3_not_existed">"Δεν υπάρχει αρχείο στην κάρτα SD που να ονομάζεται \"music.mp3\"
+Αφού τοποθετήσετε το \"music.mp3\" στον κατάλογο της κάρτας SD, πατήστε την οθόνη για να παίξει."</string>
+    <string name="cit_playing_sd_mp3">Αναπαραγωγή music.mp3…</string>
+    <string name="cit_display_continue">Αγγίξτε την οθόνη για να ξεκινήσει η δοκιμή</string>
+    <string name="cit_vga_camera_capture">Κάμερα</string>
+    <string name="cit_vga_camera_delete">Διαγραφή</string>
+    <string name="cit_vga_camera_deleted">Φωτογραφία διαγράφηκε</string>
+    <string name="cit_vga_camera_capture_fail">Αποτυχία σύλληψης φωτογραφίας</string>
+    <string name="cit_gps_disabled">"Το GPS δεν είναι ενεργό, 
+
+Αγγίξτε την οθόνη για να ενεργοποιήσετε το GPS…"</string>
+    <string name="cit_gps_satellite_count">Δορυφόροι GPS: %d</string>
+    <string name="cit_gps_satellite_prn">PRN: %s</string>
+    <string name="cit_gps_satellite_snr">SNR: %s</string>
+    <string name="cit_gps_first_fix_time">Κλείδωσε σε: %s</string>
+    <string name="cit_gps_location">Τοποθεσία: %s</string>
+    <string name="cit_lcdlight_brightness">Οπίσθιος Φωτισμός</string>
+    <string name="cit_lcdlight_brightness_max">Μεγ.</string>
+    <string name="cit_lcdlight_brightness_min">Ελάχ.</string>
+    <string name="cit_batterylight_rgb">Ένδειξη LED</string>
+    <string name="cit_batterylight_red">Κόκκινο</string>
+    <string name="cit_batterylight_green">Πράσινο</string>
+    <string name="cit_batterylight_blue">Μπλε</string>
+    <string name="cit_torch_on">Ενεργοποίηση Φλας</string>
+    <string name="cit_torch_off">Απενεργοποίηση Φλας</string>
+    <string name="cit_button_light_on">Φωτισμός πλήκτρων ενεργός</string>
+    <string name="cit_button_light_off">Φωτισμός πλήκτρων ανενεργός</string>
+    <string name="cit_notificationlight">Φωτεινή ένδειξη ειδοποίησης</string>
+    <string name="cit_notificationlight_off">Φωτισμός ειδοποίησης ανενεργός</string>
+    <string name="cit_notificationlight_on">Φωτισμός ειδοποίησης ενεργός</string>
+    <string name="cit_keyboard_current">Πληκτρολόγιο: %s</string>
+    <string name="cit_headset_button_current">Κουμπί ακουστικών: %s</string>
+    <string name="cit_keyboard_back">Δοκιμή πλήκτρου: BACK</string>
+    <string name="cit_keyboard_menu">Δοκιμή πλήκτρου: MENU</string>
+    <string name="cit_kayboard_volume_up">Δοκιμή πλήκτρου: VOLUME_UP</string>
+    <string name="cit_kayboard_volume_down">Δοκιμή πλήκτρου: VOLUME_DOWN</string>
+    <string name="cit_fm_not_supported">Αυτή η συσκευή δεν υποστηρίζει FM Ράδιο</string>
+    <string name="cit_fm_open_bluetooth">Γίνεται ενεργοποίηση Bluetooth…</string>
+    <string name="cit_fm_open_1">FM - 88.5</string>
+    <string name="cit_fm_open_2">FM - 107.9</string>
+    <string name="cit_fm_close">Απενεργοποίηση FM Ράδιο</string>
+    <string name="cit_fm_start_service">Ενεργοποίηση FM Ράδιο</string>
+    <string name="cit_fm_audio_path">Ρύθμιση διαδρομής ήχου</string>
+    <string name="cit_fm_audio_path_headset">Ακουστικά</string>
+    <string name="cit_fm_audio_path_speaker">Ηχεία</string>
+    <string name="cit_start_calibration">Βαθμονόμηση</string>
+    <string name="cit_stop_calibration">Διακοπή βαθμονόμησης</string>
+    <string name="cit_exit_test_title">Έξοδος από τις δοκιμές</string>
+    <string name="cit_exit_test_summary">Κατά την έξοδο, όλα τα σχετικά δεδομένα κειμένου θα διαγραφούν.</string>
+    <string name="cit_battery_temp_pass">Κανονική θερμοκρασία μπαταρίας</string>
+    <string name="cit_battery_temp_fail">Κακή θερμοκρασία μπαταρίας (τιμή=%d)</string>
+    <string name="cit_calibration_pass">Η βαθμονόμηση πέτυχε</string>
+    <string name="cit_calibration_fail">Η βαθμονόμηση απέτυχε</string>
+    <string name="cit_tool_log">Αρχεία Καταγραφής</string>
+    <string name="cit_tool_log_logcat">Αρχείο καταγραφής ADB</string>
+    <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
+    <string name="cit_tool_log_ril">Αρχείο καταγραφής RIL</string>
+    <string name="cit_tool_log_dmesg">DMESG</string>
+    <string name="cit_tool_log_modem">Αρχείο καταγραφής Modem</string>
+    <string name="cit_tool_log_kmsg">Τελευταίο αρχείο καταγραφής kernel</string>
+    <string name="cit_tool_log_bugreport">Αναφορά Bug</string>
+    <string name="cit_tool_log_toast">Αρχείο καταγραφής αποθηκεύτηκε σε %s</string>
+    <string name="cit_tool_log_file_not_exist">%s δεν υπάρχει</string>
+    <string name="cit_tool_log_generate_bugreport">Δημιουργία αναφορά σφάλματος…</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Δημιουργία αναφορά σφάλματος… (Αυτό διαρκεί περίπου 1 λεπτό)</string>
+    <string name="cit_tool_log_no_sdcard">Τοποθετήστε την κάρτα SD τώρα</string>
+    <string name="cit_tool_bluetooth">Εργαλεία δοκιμής Bluetooth</string>
+    <string name="cit_tool_bluetooth_on">Ενεργοποίηση Bluetooth</string>
+    <string name="cit_tool_bluetooth_dut">Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_l">Λειτουργία Bluetooth （2.402GHz)</string>
+    <string name="cit_tool_bluetooth_tx_h">Λειτουργία Bluetooth （2.480GHz)</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Λειτουργία Bluetooth (2.402GHz)</string>
+    <string name="cit_tool_bluetooth_le_tx_ch19">Λειτουργία Bluetooth LE 2.440GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Λειτουργία Bluetooth (2.480GHz)</string>
+    <string name="cit_tool_bluetooth_off">Απενεργοποίηση Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">Το Bluetooth δεν είναι ενεργοποιημένο!</string>
+    <string name="cit_tool_wifi">Εργαλεία δοκιμής Wi-Fi</string>
+    <string name="cit_tool_wifi_rx_chan">Rx: Κανάλι</string>
+    <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
+    <string name="cit_tool_wifi_tx_bg_chan">Κανάλι:</string>
+    <string name="cit_tool_wifi_tx_bg_txpr">TX ένταση:</string>
+    <string name="cit_tool_wifi_tx_bg_txrt">Ρυθμός μετάδοσης:</string>
+    <string name="cit_tool_wifi_tx_n">Tx: n</string>
+    <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+    <string name="cit_tool_wifi_tx_n_chan">Κανάλι:</string>
+    <string name="cit_tool_wifi_tx_n_txpr">TX ένταση:</string>
+    <string name="cit_tool_wifi_tx_n_txrt">Ρυθμός μετάδοσης: MCS</string>
+    <string name="cit_tool_wifi_txrx_chain_selection">Επιλέξτε κεραία</string>
+    <string name="cit_tool_wifi_chain_1">1</string>
+    <string name="cit_tool_wifi_chain_2">2</string>
+    <string name="cit_tool_wifi_chain_1_2">1+2</string>
+    <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+    <string name="cit_tool_wifi_rx_exit">Rx:έξοδος</string>
+    <string name="cit_tool_wifi_rx_run">Εκκίνηση</string>
+    <string name="cit_tool_wifi_rx_stop">Στοπ</string>
+    <string name="cit_tool_wifi_rx_error">Παρουσιάστηκε σφάλμα κατά την εκτέλεση του προγράμματος</string>
+    <string name="cit_tool_wifi_rx_count_error">Η εξαχθείσα τιμή δεν είναι αριθμός</string>
+    <string name="cit_tool_wifi_rx_ap_name">Όνομα Access point</string>
+    <string name="cit_tool_wifi_exit">Έξοδος</string>
+    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+    <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">Κανάλι:</string>
+    <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+    <string name="cit_tool_wifi_rxn_test_channel">κανάλι:</string>
+    <string name="cit_tool_wifi_rxn_test_bw">εύρος ζώνης:</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">Εύρος ζώνης:</string>
+    <string name="cit_tool_wifi_tx_st_chan">Κανάλι:</string>
+</resources>
