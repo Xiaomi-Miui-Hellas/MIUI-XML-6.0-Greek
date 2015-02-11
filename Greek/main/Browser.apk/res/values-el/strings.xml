@@ -353,6 +353,7 @@
      <string name="miui_bookmark_menu_moveout_group_txt">Μεταφορά</string>
      <string name="miui_content_copy">Αντιγραφή</string>
      <string name="miui_content_cut">Αποκοπή</string>
+     <string name="miui_content_open_url">Άνοιγμα URL</string>
      <string name="miui_content_paste">Επικόλληση</string>
      <string name="miui_content_select">Επιλογή</string>
      <string name="miui_content_select_all">Επιλογή όλων</string>
