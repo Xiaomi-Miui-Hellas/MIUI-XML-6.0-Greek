@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_app_name">Mi Account</string>
-    <string name="passport_account_hint_text">Διεύθυνση e-mail ή αριθμός τηλεφώνου</string>
+    <string name="passport_account_hint_text">Διεύθυνση email ή αριθμός τηλεφώνου</string>
     <string name="passport_phone_num_hint_text">Αριθμός τηλεφώνου</string>
     <string name="passport_login">Σύνδεση</string>
-    <string name="passport_login_with_email_or_id"><u>Συνδεθείτε με την διεύθυνση e-mail ή με το Mi Account ID</u></string>
-    <string name="passport_email_or_id_hint_text">Email address ή Mi Account ID</string>
+    <string name="passport_login_with_email_or_id"><u>Συνδεθείτε με την διεύθυνση email ή με το Mi Account ID</u></string>
+    <string name="passport_email_or_id_hint_text">Διεύθυνση email ή Mi Account ID</string>
     <string name="passport_verify">Επαλήθευση</string>
     <string name="passport_register">Δημιουργία λογαριασμού</string>
-    <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με την χρήση διεύθυνσης e-mail</u></string>
+    <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με την χρήση διεύθυνσης email</u></string>
     <string name="passport_next">Επόμενο</string>
     <string name="passport_prev">Προηγούμενο</string>
     <string name="passport_forget_password"><u>Ξεχάσατε τον κωδικό σας;</u></string>
@@ -28,33 +28,33 @@
     <string name="passport_error_illegal_pwd">Λανθασμένος κωδικός πρόσβασης</string>
     <string name="passport_error_empty_captcha_code">Εισάγετε τον κωδικό</string>
     <string name="passport_error_empty_vcode">Εισάγετε τον κωδικό επαλήθευσης</string>
-    <string name="passport_email">Διεύθυνση e-mail</string>
+    <string name="passport_email">Διεύθυνση email</string>
     <string name="passport_reg_type_other_ways"><u>Δημιουργία λογαριασμού με άλλη μέθοδο</u></string>
     <string name="passport_reg_type_other_ways_title">Δημιουργία λογαριασμού με άλλη μέθοδο</string>
-    <string name="passport_reg_type_email">Δημιουργία λογαριασμού με χρήση e-mail</string>
+    <string name="passport_reg_type_email">Δημιουργία λογαριασμού με χρήση email</string>
     <string name="passport_reg_using_phone_number_prompt">Δημιουργία λογαριασμού με τον αριθμό τηλεφώνου</string>
     <string name="passport_reg_using_other_phone_number_prompt">Δημιουργία λογαριασμού με άλλο αριθμό τηλεφώνου</string>
     <string name="passport_reg_using_other_phone">Δημιουργία λογαριασμού με άλλο αριθμό τηλεφώνου</string>
     <string name="passport_reg_via_sms_alert">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.</string>
     <string name="passport_reg_sms_send_prompt">Αποστολή κωδικού επαλήθευσης στο %s</string>
     <string name="passport_password_req_notice">Κωδικός από 8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών).</string>
-    <string name="passport_error_empty_email">Εισάγετε τη διεύθυνση e-mail σας</string>
-    <string name="passport_error_email">Μη έγκυρη διεύθυνση e-mail</string>
+    <string name="passport_error_empty_email">Εισάγετε τη διεύθυνση email σας</string>
+    <string name="passport_error_email">Μη έγκυρη διεύθυνση email</string>
     <string name="passport_activing_account">Ενεργοποίηση…</string>
     <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
     <string name="passport_active_email_visit">Ελέγξτε τα εισερχόμενά σας στο %s</string>
     <string name="passport_click_email_to_valid">"
 
 Για την ενεργοποίηση του λογαριασμού σας, 
- ακολουθήστε το σύνδεσμο στο e-mail ενεργοποίησης."</string>
-    <string name="passport_resend_active_email">Αποστολή νέου e-mail ενεργοποίησης</string>
+ ακολουθήστε το σύνδεσμο στο email ενεργοποίησης."</string>
+    <string name="passport_resend_active_email">Αποστολή νέου email ενεργοποίησης</string>
     <string name="passport_delete_account">Αποσύνδεση</string>
     <string name="passport_completed">Ολοκληρώθηκε</string>
     <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
     <string name="passport_error_no_sms_service">Αδυναμία αποστολής SMS, το δίκτυο κινητής τηλεφωνίας δεν είναι διαθέσιμο.</string>
     <string name="passport_reg_failed">Δεν είναι δυνατή η δημιουργία του λογαριασμού</string>
     <string name="passport_login_instead_reg">Χρήση αυτού του αριθμού</string>
-    <string name="passport_login_instead_reg_with_email">Χρήση αυτού του e-mail</string>
+    <string name="passport_login_instead_reg_with_email">Χρήση αυτού του email</string>
     <string name="passport_get_back_pwd">Ανάκτηση κωδικού πρόσβασης</string>
     <string name="passport_login_failed">Αδυναμία σύνδεσης</string>
     <string name="passport_verification_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
@@ -69,7 +69,7 @@
     <string name="passport_error_invalid_dev_id">Λάθος ID συσκευής</string>
     <string name="passport_error_user_name">Μη έγκυρο όνομα χρήστη</string>
     <string name="passport_error_verify_code">Ο κωδικός που δώσατε είναι λανθασμένος</string>
-    <string name="passport_error_dup_email">Αυτή η διεύθυνση e-mail έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό</string>
+    <string name="passport_error_dup_email">Αυτή η διεύθυνση email έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό</string>
     <string name="passport_error_login">Αδυναμία σύνδεσης</string>
     <string name="passport_relogin_notice">Παρακαλώ συνδεθείτε ξανά</string>
     <string name="passport_quick_login_title">Εισάγετε τον κωδικό σας</string>
@@ -82,7 +82,7 @@
     <string name="passport_input_vcode_hint">Εισάγετε κωδικό επαλήθευσης</string>
     <string name="passport_confirm">Επιβεβαίωση</string>
     <string name="passport_login_notice">Σύνδεση…</string>
-    <string name="passport_failed_to_send_activate_email">Αδυναμία αποστολής e-mail ενεργοποίησης</string>
+    <string name="passport_failed_to_send_activate_email">Αδυναμία αποστολής email ενεργοποίησης</string>
     <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
     <string name="passport_reging">Δημιουργία λογαριασμού…</string>
     <string name="passport_reg_success">Επιτυχής εγγραφή</string>
@@ -135,7 +135,7 @@
     <string name="account">Λογαριασμός</string>
     <string name="login">Είσοδος</string>
     <string name="login_with_email_or_id"><u>Είσοδος με άλλο λογαριασμό</u></string>
-    <string name="email_or_id_hint_text">E-mail ή Mi Account ID</string>
+    <string name="email_or_id_hint_text">Email ή Mi Account ID</string>
     <string name="verify">Επαλήθευση</string>
     <string name="register">Δημιουργία λογαριασμού Mi</string>
     <string name="register_by_email"><u>Δημιουργία λογαριασμού με άλλη μέθοδο</u></string>
@@ -154,7 +154,7 @@
     <string name="error_no_sms_service">Αδυναμία αποστολής SMS, το δίκτυο κινητής τηλεφωνίας δεν είναι διαθέσιμο.</string>
     <string name="reg_failed">Δεν είναι δυνατή η δημιουργία του λογαριασμού</string>
     <string name="login_instead_reg">Χρήση αυτού του αριθμού</string>
-    <string name="login_instead_reg_with_email">Χρήση αυτού του e-mail</string>
+    <string name="login_instead_reg_with_email">Χρήση αυτού του email</string>
     <string name="get_back_pwd">Ανάκτηση κωδικού πρόσβασης</string>
     <string name="login_failed">Αδυναμία σύνδεσης</string>
     <string name="logout_failed">Αδυναμία αποσύνδεσης</string>
@@ -238,7 +238,7 @@
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="account_none">Κανένα</string>
     <string name="account_no_set">Κανένα</string>
-    <string name="account_none_user_name">Κανενα</string>
+    <string name="account_none_user_name">Κανένα</string>
     <string name="micloud_user_base_info">Πληροφορίες χρήστη</string>
     <string name="account_user_email">Email</string>
     <string name="account_user_phone">Αριθμός τηλεφώνου</string>
@@ -251,8 +251,9 @@
     <string name="account_user_id">Mi Account ID</string>
     <string name="account_user_details">Πληροφορίες χρήστη</string>
     <string name="account_user_name_dialog_title">Πληκτρολογήστε το όνομα χρήστη</string>
-    <string name="account_user_using_weibo_avatar">Χρήση εικόνας προφίλ από Use Sina Weibo</string>
-    <string name="account_user_using_qq_avatar">Χρήση είκόνας προφίλ από QQ</string>
+    <string name="account_user_using_weibo_avatar">Χρήση εικόνας προφίλ από Sina Weibo</string>
+    <string name="account_user_using_qq_avatar">Χρήση εικόνας προφίλ από QQ</string>
+    <string name="account_user_using_facebook_avatar">Χρήση εικόνας προφίλ από Facebook</string>
     <string name="account_user_avatar_from_camera">Λήψη φωτογραφίας</string>
     <string name="account_user_avatar_from_album">Επιλέξτε φωτογραφία</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
@@ -261,6 +262,7 @@
     <string name="account_error_longer_user_name">"Το όνομα δεν μπορεί να υπερβαίνει τους 20 χαρακτήρες"</string>
     <string name="account_error_user_birthday">Τα γενέθλια που δώσατε δεν είναι έγκυρα</string>
     <string name="account_crop_user_avatar">Περικοπή φωτογραφίας</string>
+    <string name="sns_access_token_expired_warning">Η σύνδεση στο λογαριασμό σας έχει λήξει. Παρακαλώ συνδεθείτε ξανά.</string>
     <string name="bind_settings">Λογαριασμοί</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Συνδεδεμένοι λογαριασμοί</string>
