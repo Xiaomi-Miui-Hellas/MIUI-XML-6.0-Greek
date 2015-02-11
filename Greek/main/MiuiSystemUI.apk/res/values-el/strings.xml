@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="status_bar_date_formatter">%2$s</string>
-    <string name="audio_effect_settings">Ορισμός τύπου ακουστικών</string>
-    <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
-    <string name="audio_effect_custom">Ρύθμιση</string>
     <string name="app_label">Γραμμή κατάστασης</string>
     <string name="status_bar_no_recent_apps">Δεν υπάρχουν πρόσφατες εφαρμογές</string>
     <string name="battery_low_title">Συνδέστε το φορτιστή σας!</string>
@@ -88,9 +85,11 @@
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi συνδεδεμένο</string>
     <string name="gps_notification_searching_text">Ανίχνευση για GPS</string>
     <string name="gps_notification_found_text">Η τοποθεσία έχει καθοριστεί από το GPS</string>
-    <string name="accessibility_clear_all">Εκαθάρριση όλων.</string>
+    <string name="accessibility_clear_all">Εκκαθάριση όλων.</string>
     <string name="status_bar_notification_inspect_item_title">Πληροφορίες εφαρμογής</string>
     <string name="status_bar_date_format">d MMMM, yyyy</string>
+    <string name="oldman_status_bar_time_format_24">HH:mm</string>
+    <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="status_bar_recent_guide_all">"Σύρετε προς τα πάνω για κλείσιμο
 Σύρετε προς τα κάτω για κλείδωμα"</string>
     <string name="status_bar_recent_guide_top">Σύρετε προς τα πάνω για κλείσιμο</string>
@@ -173,10 +172,10 @@
     <string name="ext_media_mountable_notification_message">Άνοιγμα εξωτερικών μέσων με τον File Explorer</string>
     <string name="ext_media_safe_remove">Ασφαλής αφαίρεση</string>
     <string name="status_bar_network_flow_today">Σήμερα: %1$s</string>
-    <string name="status_bar_network_flow">"Σήμερα: %1$s    Υπόλοιπο: %2$s    Μηνιαίο όριο: %3$s"</string>
-    <string name="status_bar_network_flow_exceed">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Μηνιαίο όριο: %4$s</string>
-    <string name="status_bar_network_flow_exceed_to_purchase">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Αγορά ></string>
-    <string name="status_bar_network_flow_warning_to_purchase">"Σήμερα: %1$s    Υπόλοιπο: %2$s    Αγορά >"</string>
+    <string name="status_bar_network_flow_content">"Σήμερα: %1$s   Υπόλοιπο: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_purchase">"   Αγορά >"</string>
+    <string name="status_bar_network_flow_limit">"   Μηνιαίο όριο: %1$s"</string>
     <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
     <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
     <string name="notification_otg_mouse_in">Το ποντίκι συνδέθηκε</string>
@@ -210,4 +209,7 @@
     <string name="usb_share_net_info">Κοινή χρήση δικτύου μέσω USB</string>
     <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
     <string name="battery_profiles">Χρησιμοποιήστε τα προφίλ μπαταρίας</string>
+    <string name="audio_effect_settings">Ορισμός τύπου ακουστικών</string>
+    <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
+    <string name="audio_effect_custom">Ρύθμιση</string>
 </resources>
