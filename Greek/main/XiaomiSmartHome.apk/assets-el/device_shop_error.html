@@ -1,0 +1,78 @@
+<html>
+
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="content-type">
+		<meta id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1，target-densitydpi=high-dpi, user-scalable=no,minimal-ui" name="viewport">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<title>页面加载失败</title>
+		<style>
+		html{
+			height:100%;
+		}
+		body{
+			height:100%;
+			margin:0;
+			padding:0;
+			font-family: "Microsoft YaHei",微软雅黑,"Microsoft JhengHei",华文细黑,STHeiti,MingLiu,"Helvetica Neue","宋体",serif;
+			min-width:260px;
+			position:relative;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+		#content{
+			max-width:100%;
+			position:absolute;
+			left:50%;
+			top:40%;
+			transform:translate(-50%,-50%);
+			-webkit-transform:translate(-50%,-50%);
+			-ms-transform:translate(-50%,-50%);
+			text-align: center;
+		}
+		#content h2{
+			font-size:24px;
+			line-height: 40px;
+			color:#333333;
+			font-weight: 100;
+		}
+		#content h2 img{
+			width:40px;
+			vertical-align: middle;
+			margin-right:15px;
+		}
+		#content p{
+			color:#666666;
+			margin-top:50px;
+		}
+		#content p a{
+			text-decoration: none;
+			padding:5px 15px;
+			border:1px solid #efefef;
+			border-radius: 15px;
+			font-size:12px;
+			color:#666666;
+		}
+		</style>
+	</head>
+
+	<body>
+		<div id="content">
+			<h2><img src="./img/alert.png" />加载失败</h2>
+			<p><a href="javascript:void(0)" onclick="alert(1)">点击刷新</a></p>
+		</div>
+        <script type="text/javascript" src="shop.js"></script>
+
+		<script type="text/javascript">
+		function test(){
+		    alert(location.hash);
+			if(location.hash == ""){
+				return false;
+			}
+			var url = location.hash.substr(1);
+			location.href = url;
+		}
+			
+		</script>
+	</body>
+
+</html>
