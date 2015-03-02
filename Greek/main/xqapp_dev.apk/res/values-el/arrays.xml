@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_notification_setting_values">
+        <item>NONE</item>
+        <item>STATUS_BAR</item>
+        <item>SOUND</item>
+        <item>VIBRATE</item>
+        <item>SOUND_VIBRATE</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Τη Δευτέρα,</item>
+        <item>Την Τρίτη,</item>
+        <item>Την Τετάρτη,</item>
+        <item>Την Πέμπτη,</item>
+        <item>Την Παρασκευή,</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Τη Δευτέρα</item>
+        <item>Την Τρίτη,</item>
+        <item>Την Τετάρτη</item>
+        <item>Την Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+    </string-array>
+    <string-array name="channel_select_score_tips">
+        <item>Τρέχουσα δίκτυα και πολύ ομαλή ταχύτητα Internet είναι εξαιρετικά καλή</item>
+        <item>Τρέχουσα δίκτυα και πολύ ομαλή ταχύτητα Διαδικτύου</item>
+        <item>Τρέχουσα δίκτυα και ανοιχτό Διαδίκτυο ταχύτητα στο φυσιολογικό</item>
+        <item>Που επηρεάζουν την τρέχουσα εβδομάδα δικτύωσης ταχύτητα Διαδικτύου</item>
+        <item>Τρέχουσα σοβαρή δίκτυο συμφόρηση δικτύου ταχύτητα είναι αργή</item>
+    </string-array>
+    <string-array name="channel_select_score_condition">
+        <item>0 παρέμβαση</item>
+        <item>Εξαιρετική</item>
+        <item>Liang</item>
+        <item>Παρέμβαση φωτός</item>
+        <item>Σοβαρές διαταραχές</item>
+    </string-array>
+    <string-array name="suggested_device_names">
+        <item>Το κινητό μου</item>
+        <item>IPad μου</item>
+        <item>Γυναίκα τηλέφωνο</item>
+        <item>Πατέρας τηλέφωνο</item>
+        <item>Μητέρα τηλέφωνο</item>
+        <item>Κιβώτιο TV</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto-el</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>Η προεπιλογή συστήματος - Ελληνικά</item>
+        <item>Απλοποιημένα κινεζικά</item>
+        <item>Παραδοσιακά κινέζικα-Hong Kong</item>
+        <item>Παραδοσιακά κινέζικα-Ταϊβάν</item>
+    </string-array>
+</resources>
