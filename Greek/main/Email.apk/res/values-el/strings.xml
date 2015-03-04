@@ -400,7 +400,6 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Κλείσιμο συρταριού πλοήγησης</string>
   <string name="drawer_open">Άνοιγμα συρταριού πλοήγησης</string>
-  <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
   <string name="elided_padding_token"> </string>
   <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>

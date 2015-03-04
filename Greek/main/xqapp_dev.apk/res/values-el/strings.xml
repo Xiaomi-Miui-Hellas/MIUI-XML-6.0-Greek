@@ -3,9 +3,6 @@
     <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
     <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
     <string name="pull_to_refresh_refreshing_label">Φορτώνει…</string>
-    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
-    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="app_name">Mi Wi Fi by Maddoctor</string>
     <string name="KSCSDK_UNKNOW_ERR_RUNTIME">Κάτι λάθος με τον πελάτη του μια νέα έκδοση και στη συνέχεια προσπαθήστε ξανά.</string>
     <string name="KSCSDK_UNKNOW_ERR_DATA">Κάτι λάθος με τη συνδεσιμότητα δικτύου για λίγο και στη συνέχεια προσπαθήστε ξανά.</string>
