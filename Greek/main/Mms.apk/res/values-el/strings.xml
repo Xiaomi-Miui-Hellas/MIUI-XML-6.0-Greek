@@ -110,9 +110,6 @@
     <string name="pref_title_sms_delete">Όριο μηνύματος κειμένου</string>
     <string name="pref_title_mms_delete">Όριο μηνυμάτων πολυμέσων</string>
     <string name="pref_messages_to_save">Ορίστε τον αριθμό των μηνυμάτων που θα αποθηκευτούν</string>
-    <string name="prefDefault_vibrateWhen">ποτέ</string>
-    <string name="prefDefault_vibrate_true">πάντα</string>
-    <string name="prefDefault_vibrate_false">ποτέ</string>
     <string name="pref_title_mms_auto_retrieval">Αυτόματη ανάκτηση MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Αυτόματη ανάκτηση μηνυμάτων MMS</string>
     <string name="pref_title_mms_retrieval_during_roaming">Αυτόμ. ανάκτηση σε περιαγωγή</string>
