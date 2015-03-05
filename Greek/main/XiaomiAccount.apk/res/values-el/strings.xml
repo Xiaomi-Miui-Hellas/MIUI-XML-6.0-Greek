@@ -204,7 +204,7 @@
     <string name="hide_mibi_info">Οι πληροφορίες νομισμάτων Mi είναι αθέατες</string>
     <string name="failed_get_mibi_info">Αδυναμία ανάκτησης υπολοίπου</string>
     <string name="mipay_center">ΤΡαπεζικές κάρτες</string>
-    <string name="mi_service">Υποστήριξη</string>
+    <string name="mi_support_service">Υποστήριξη</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Προσθήκη λογαριασμού Sina Weibo</string>
     <string name="bind_weibo_description">Βρείτε και συγχρονίστε τις επαφές των φίλων σας από το Sina Weibo.</string>
@@ -259,10 +259,12 @@
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="account_empty_user_name">Εισάγετε το όνομα χρήστη Λογαριασμού Mi</string>
     <string name="account_error_shorter_user_name">Το όνομα πρέπει να είναι μεγαλύτερο από 2 χαρακτήρες</string>
-    <string name="account_error_longer_user_name">"Το όνομα δεν μπορεί να υπερβαίνει τους 20 χαρακτήρες"</string>
+    <string name="account_error_longer_user_name">Το όνομα δεν μπορεί να υπερβαίνει τους 20 χαρακτήρες</string>
     <string name="account_error_user_birthday">Τα γενέθλια που δώσατε δεν είναι έγκυρα</string>
     <string name="account_crop_user_avatar">Περικοπή φωτογραφίας</string>
     <string name="sns_access_token_expired_warning">Η σύνδεση στο λογαριασμό σας έχει λήξει. Παρακαλώ συνδεθείτε ξανά.</string>
+    <string name="user_avatar_uploading">Μεταφόρτωση…</string>
+    <string name="user_avatar_update_title">Ενημέρωση εικόνας προφίλ</string>
     <string name="bind_settings">Λογαριασμοί</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Συνδεδεμένοι λογαριασμοί</string>

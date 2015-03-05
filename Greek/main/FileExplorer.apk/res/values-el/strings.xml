@@ -21,6 +21,7 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Έγγραφα</string>
   <string name="category_favorite">Αγαπημένα</string>
+  <string name="category_log">Ημερολόγιο</string>
   <string name="category_music">Μουσική</string>
   <string name="category_other">Διάφορα</string>
   <string name="category_picture">Εικόνες</string>
@@ -63,6 +64,7 @@
   <string name="delete_files">Διαγραφή %1$d αρχείων;</string>
   <string name="delete_folder">Διαγραφή αυτού του αρχείου;</string>
   <string name="delete_folders">Διαγραφή %1$d;</string>
+  <string name="delete_selected_tasks">Διαγραφή επιλεγμένων;</string>
   <string name="des_running_trans">%1$d αρχεία δεν μεταφέρθηκαν.</string>
   <string name="dialog_select_type">Επιλογή τύπου αρχείου</string>
   <string name="dialog_type_audio">Ήχος</string>
@@ -98,6 +100,7 @@
   <string name="file_loading">Φορτώνει…</string>
   <string name="file_not_exist">το αρχείο δεν υπάρχει</string>
   <string name="file_too_large">Αποτυχία αποστολής: πολύ μεγάλο αρχείο.</string>
+  <string name="files">Αρχεία</string>
   <string name="finished">Ολοκληρώθηκε</string>
   <string name="folder_exist">Ο φάκελος ήδη υπάρχει</string>
   <string name="folder_name_illegal">μη έγκυρο όνομα φακέλου</string>
@@ -113,16 +116,32 @@
   <string name="ftp_username_hint">Όνομα χρήστη</string>
   <string name="gbk_summary">Απλοποιημένη Κινέζικη κωδικοποίηση των Windows</string>
   <string name="gbk_title">GBK</string>
+  <string name="get_cloud_space">Προσθέστε 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP Client </string>
   <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kp_category_all">Κατηγορία</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Κείμενο</string>
+  <string name="kuaipan_cloud_photo">Φωτογραφίες KuaiPan</string>
+  <string name="kuaipan_create_shortcut_success">Η συντόμευση δημιουργήθηκε</string>
+  <string name="kuaipan_data_formater_with_year">μήνας M ημέρα d έτος YYYY</string>
+  <string name="kuaipan_data_formater_without_year">M μήνας d ημέρα</string>
+  <string name="kuaipan_delete_success">Η φωτογραφία διαγράφηκε</string>
   <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">Έλλειψη χώρου</string>
+  <string name="kuaipan_photo_folder_divider">,</string>
+  <string name="kuaipan_photo_locate">Εντοπίστηκε %1$s</string>
+  <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Σημείωση</string>
   <string name="kuaipan_prompt_message">"
 Ο εξυπηρετητής δεν είναι διαθέσιμος, παρακαλώ δοκιμάστε αργότερα…
 "</string>
+  <string name="kuaipan_root_fooder">Αρχική</string>
   <string name="kuaipan_tech_support">Είσοδος στο kuaipan.cn</string>
   <string name="load_err">Αδυναμία φόρτωσης</string>
   <string name="loading">Φορτώνει…</string>
@@ -161,10 +180,11 @@
   <string name="name_illegal">Δώστε ένα όνομα</string>
   <string name="net_lose_connected">Η σύνδεση χάθηκε</string>
   <string name="networkView_notConnected">Μη διαθέσιμο δίκτυο.</string>
-  <string name="network_connect_confirm_des">Θα προσπελάσετε το δίκτυο για χρήση του kuaipan, εντάξει;</string>
+  <string name="network_connect_confirm_des">Η εφαρμογή χρειάζεται να συνδεθεί με το Internet για να λειτουργήσει κανονικά.</string>
   <string name="never_notify_network_connect">"Να μην εμφανιστεί ξανά"</string>
   <string name="new_folder_name">Ανώνυμος φάκελος</string>
   <string name="no">Όχι</string>
+  <string name="no_display_file">"Αδυναμία προβολής %1$s"</string>
   <string name="no_enough_storage_indication">"Ο χώρος της συσκευής είναι γεμάτος."</string>
   <string name="no_enough_storage_title">Λίγος χώρος</string>
   <string name="no_file">Άδειο</string>
@@ -301,5 +321,4 @@
   <string name="wifi_state">Κατάσταση Wi-Fi</string>
   <string name="xiaomi_account">Λογαριασμός Mi</string>
   <string name="yes">Ναι</string>
-  <string name="category_log">Ημερολόγιο</string>
 </resources>

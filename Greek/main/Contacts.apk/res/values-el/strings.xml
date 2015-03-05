@@ -1170,6 +1170,7 @@
   <string name="yellowpage_navigation_network_location_not_enabled_title">Ενεργοποίηση υπηρεσιών θέσης δικτύου</string>
   <string name="yellowpage_navigation_no_content">"Δεν βρέθηκε τίποτα"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Πόλη</string>
+  <string name="yellowpage_navigation_search_history">Ιστορικό</string>
   <string name="yellowpage_navigation_search_offline_hint">"Δεν είστε συνδεδεμένος"</string>
   <string name="yellowpage_navigation_search_result_average_price">Μέσος όρος %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">"Δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>

@@ -8,6 +8,10 @@
         <item quantity="other">%d ημέρες απομένουν</item>
         <item quantity="one">%d ημέρα απομένει</item>
      </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">%d τραγούδια προστέθηκαν</item>
+        <item quantity="one">%d τραγούδι προστέθηκε</item>
+     </plurals>
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d νέα</item>
      </plurals>

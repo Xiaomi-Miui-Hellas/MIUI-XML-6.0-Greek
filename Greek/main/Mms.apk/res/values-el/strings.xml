@@ -310,6 +310,7 @@
     <string name="pref_title_ringtone_repeat">Συχνότητα υπενθύμισης</string>
     <string name="pref_title_ringtone_repeat_summary">Αριθμός ήχων ειδοποίησης όταν λαμβάνετε μήνυμα SMS, ενώ οθόνη είναι απενεργοποιημένη:</string>
     <string name="pref_other_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="pref_show_sms_template_summary">Αυτόματη αντιγραφή και συμπλήρωση κωδικών επαλήθευσης</string>
     <string name="pref_system_title">Σύστημα</string>
     <string name="pref_advanced_settings_title">Προχωρημένες ρυθμίσεις</string>
     <string name="pref_edit_smsc_address">Αριθμός του κέντρου SMS</string>
@@ -356,6 +357,7 @@
     <string name="timed_message_in_total">… (%d συνολικά)</string>
     <string name="processing">Επεξεργασία…</string>
     <string name="title_date_type">Χρονοσήμανση μηνυμάτων</string>
+    <string name="title_show_sms_template">Έλεγχος στα SMS για κωδικούς επαλήθευσης</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_on_sim_1">Mi Message κάρτα SIM 1</string>
