@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Αναζήτηση</string>
-  <string name="apps_search_activity"/>
   <string name="clear_shortcuts">Καθαρισμός συντομεύσεων</string>
   <string name="clear_shortcuts_agree">Καθαρισμός</string>
   <string name="clear_shortcuts_disagree">"Διαφωνώ"</string>
@@ -14,18 +13,22 @@
   <string name="corpus_label_global">Όλα</string>
   <string name="corpus_label_web">Ιστός</string>
   <string name="corpus_selection_heading">Αναζήτηση</string>
-  <string name="default_search_domain">.google.com</string>
+  <string name="cta_declaration">Για να μπορέσετε να χρησιμοποιήσετε όλες τις δυνατότητες της αναζήτησης, θα πρέπει να ενεργοποιήσετε το δίκτυο, τον εντοπισμό θέσης, την ανάγνωση των αρχείων κλήσεων, την ανάγνωση του βιβλίου διευθύνσεων, κλπ. Συμφωνείτε;</string>
+  <string name="cta_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
+  <string name="cta_declaration_negative_text">Έξοδος</string>
+  <string name="cta_declaration_positive_text">OK και συνέχεια</string>
+  <string name="cta_declaration_title">Όροι Παροχής Υπηρεσιών</string>
   <string name="device_settings_category_title">Καθαρισμός συντομεύσεων</string>
-  <string name="google_app_label">Google Search</string>
-  <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-  <string name="google_search_description">Google Search προτάσεις</string>
-  <string name="google_search_hint">Google Search</string>
+  <string name="distance_unit_kilometer">Χμ</string>
+  <string name="distance_unit_meter">μ</string>
+  <string name="google_app_label">Αναζήτηση Google</string>
+  <string name="google_search_description">Προτάσεις αναζήτησης της Google</string>
+  <string name="google_search_hint">Αναζήτηση Google</string>
   <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Google Search</string>
-  <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="google_settings_category_title">Αναζήτηση Google</string>
   <string name="menu_help">Βοήθεια</string>
   <string name="menu_settings">Ρυθμίσεις αναζήτησης</string>
+  <string name="recently_shortcut_label">Πρόσφατες συντομεύσεις</string>
   <string name="remove_from_history">Διαγραφή από το ιστορικό αναζήτησης</string>
   <string name="remove_from_history_failed">"Αδύνατη η διαγραφή από το ιστορικό"</string>
   <string name="search_in_app_store">Αναζήτηση στο market</string>
@@ -34,7 +37,10 @@
   <string name="search_sources">Περιεχόμενα αναζήτησης</string>
   <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
   <string name="search_widget">Αναζήτηση</string>
-  <string name="send_secret_code">Send secret code</string>
+  <string name="send_secret_code">Αποστολή μυστικού κωδικού</string>
   <string name="system_search_category_title">Τηλέφωνο</string>
+  <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Εκφώνησε:</string>
+  <string name="xiaomi_search_label">Αποτελέσματα online</string>
 </resources>

@@ -35,6 +35,7 @@
      <string name="choose_stream_quality">Επιλέξτε ποιότητα ροής</string>
      <string name="click_modify">Πατήστε για τροποποίηση lyric</string>
      <string name="click_to_shuffle">Κλικ για ανακάτεμα</string>
+     <string name="click_to_view_new_local_audios">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="close_music_time">"Λεπτά: "</string>
      <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
      <string name="data_usage_warning">Προειδοποίηση χρήσης δεδομένων!</string>
@@ -58,6 +59,7 @@
      <string name="dialog_title_name_playlist">Όνομα λίστας</string>
      <string name="dialog_title_remove_tracks">Διαγραφή</string>
      <string name="dialog_title_track_picker">Επιλέξτε Τραγούδια</string>
+     <string name="disallow_add_to_personal_radio">Δεν μπορείτε να προσθέσετε τραγούδια σε ένα προσωπικό ραδιοφωνικό σταθμό</string>
      <string name="done">Ολοκληρώθηκε</string>
      <string name="download">Λήψη</string>
      <string name="download_auto_after_favorite_summary">"Αυτόματη λήψη τραγουδιών που έχετε χαρακτηρίσει ως αγαπημένα</string>
@@ -138,6 +140,7 @@
      <string name="fragment_title_artist_album">Άλμπουμ</string>
      <string name="fragment_title_bill">Λίστες αναπαραγωγής</string>
      <string name="fragment_title_channel">FM</string>
+     <string name="fragment_title_personal">ΠΡΟΣΩΠΙΚΑ</string>
      <string name="fragment_title_recommend">Συνιστάται</string>
      <string name="headset_settings">Ρυθμίσεις ακουστικών</string>
      <string name="high_quality">Υψηλή ποιότητα</string>
@@ -146,6 +149,8 @@
      <string name="i_know">ΟΚ</string>
      <string name="impunity_declaration">Η δικτυακή μουσική που θα ακούσετε, παρέχεται από την αντίστοιχη υπηρεσία της Baidu. Επιλέξτε Επιβεβαίωση για αποδοχή των <a href="http://music.baidu.com/doc/agreement">όρων χρήσης</a>, μπορεί να αυξηθεί το κόστος χρήσης δεδομένων.</string>
      <string name="impunity_declaration_ignore">Χωρίς προτροπή</string>
+     <string name="impunity_declaration_negative_text">Έξοδος</string>
+     <string name="impunity_declaration_positive_text">OK και συνέχεια</string>
      <string name="impunity_declaration_settings">Ειδοποίηση σε κάθε χρήση δικτύου</string>
      <string name="impunity_declaration_summary">Κατά την είσοδο στην μουσική, θα εμφανίζεται ένα παράθυρο υπενθύμισης</string>
      <string name="impunity_declaration_title"> Δήλωση και όροι</string>
@@ -192,6 +197,7 @@
      <string name="network_traffic">Χρήση δεδομένων</string>
      <string name="no_album_info">Καμία πληροφορία άλμπουμ</string>
      <string name="no_artist_info">Καμία πληροφορία καλλιτέχνη</string>
+     <string name="no_enough_info">Δεν υπάρχουν αρκετές πληροφορίες για το τραγούδι</string>
      <string name="no_favorites_songs">Κενό</string>
      <string name="no_file_picker_find">Δεν εγκαταστάθηκε διαχειριστής αρχείων στη συσκευή</string>
      <string name="no_introduction">Χωρίς περίληψη</string>
@@ -244,6 +250,7 @@
      <string name="select_lyric">Επιλογή στίχων</string>
      <string name="send_to">Αποστολή προς</string>
      <string name="send_to_title">Αποστολή προς (%1$s)</string>
+     <string name="server_error">Σφάλμα διακομιστή. Παρακαλώ δοκιμάστε ξανά αργότερα</string>
      <string name="set_album_successful">Επιτυχής επιλογή άλμπουμ</string>
      <string name="set_as_ring">Ορισμός ως ήχος κλήσης</string>
      <string name="set_id3_failed">Αποτυχία ορισμού πληροφοριών ID3</string>
@@ -262,13 +269,15 @@
      <string name="start_to_play">Αναπαραγωγή</string>
      <string name="stream_quality">ποιότητα stream</string>
      <string name="streamloadingtext">Σύνδεση στο %s</string>
+     <string name="suggest_text">Χρήστες που τους άρεσε αυτό, τους άρεσαν επίσης</string>
      <string name="support_online_only">Υποστήριξη μόνο online</string>
      <string name="tab_album_list">Άλμπουμ</string>
      <string name="tab_artist_list">Καλλιτέχνης</string>
      <string name="tab_local_folder_list">Φάκελος</string>
      <string name="tab_local_track_list">Τραγούδια</string>
      <string name="tab_track_list">Κομμάτι</string>
-     <string name="take_effect_afater_restart">Θα χρειαστεί να κάνετε επανεκκίνηση του Music app για αυτή τη ρύθμιση για να τεθεί σε ισχύ.</string>
+     <string name="take_effect_afater_restart">Θα χρειαστεί να κάνετε επανεκκίνηση της εφαρμογής Μουσική, για να τεθεί σε ισχύ αυτή η ρύθμιση.</string>
+     <string name="today_update">Η Μουσική ενημερώθηκε</string>
      <string name="track_list_control_download">Λήψη</string>
      <string name="track_list_control_edit_add_tracks">Προσθέστε τραγούδια</string>
      <string name="track_list_control_edit_delete_playlist">Μετονομασία</string>
