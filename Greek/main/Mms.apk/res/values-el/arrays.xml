@@ -32,6 +32,18 @@
         <item>Με MMS</item>
         <item>Με Mi message</item>
     </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Δεν έχει οριστεί</item>
+        <item>1 ώρα</item>
+        <item>6 ώρες</item>
+        <item>12 ώρες</item>
+        <item>1 ημέρα</item>
+        <item>Μέγιστο</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Μέγιστο</item>
+        <item>Δύο ημέρες</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 δευτερόλεπτο</item>
         <item>2 δευτερόλεπτα</item>

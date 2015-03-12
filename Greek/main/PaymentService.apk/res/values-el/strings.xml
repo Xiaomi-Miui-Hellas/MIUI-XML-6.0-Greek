@@ -270,6 +270,10 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
 Θα ελέγξουμε ξανά μέσα σε δύο εργάσιμες ημέρες.
 Κέντρο εξυπηρέτησης πελατών:400-100-5678"</string>
      <string name="progress_warning_waiting">Η πληρωμή δεν έχει φτάσει ακόμα τον λογαριασμό σας.</string>
+     <string name="prompt_info_button_hint">Προσοχή(%d)</string>
+     <string name="prompt_info_button_text">OK</string>
+     <string name="prompt_info_for_first_use">"Τα MiCredit δεν μπορούν να χρησιμοποιηθούν για αγορά προϊόντων hardware στο Mi.com."</string>
+     <string name="prompt_info_title">Συμβουλές</string>
      <string name="recharge_alipay_title">Alipay</string>
      <string name="recharge_bankcall_title">Πιστωτική κάρτα</string>
      <string name="recharge_grid_error_denomination">Παρακαλώ εισάγετε το σωστό ποσό μεταξύ ￥%1$s~%2$s</string>

@@ -541,4 +541,7 @@
     <string name="snippet_picture">[εικόνα]</string>
     <string name="audio_download_failed">η λήψη ήχου απέτυχε</string>
     <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub  δεν μπορεί να είναι κενή"</string>
+    <string name="pref_title_sms_validity_period">Περίοδος ισχύος SMS</string>
+    <string name="pref_title_mms_validity_period">Περίοδος ισχύος MMS</string>
+    <string name="open_url_with_web">Είτε να επιτρέψει το άνοιγμα σελίδας URL με το πρόγραμμα περιήγησης;</string>
 </resources>

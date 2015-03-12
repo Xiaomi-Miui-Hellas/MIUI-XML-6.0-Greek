@@ -2736,6 +2736,8 @@
     <string name="alert_show_screensaver_when_not_charging_title">Χρήση μπαταρίας</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Η Εμφάνιση οθόνης προφύλαξης θα καταναλώσει επιπλέον ισχύ μπαταρίας.</string>
     <string name="toast_need_login">Σύνδεση στο λογαριασμό Mi</string>
+    <string name="location_access_on">Ενεργό</string>
+    <string name="location_access_off">Ανενεργό</string>
     <string name="preferred_app_settings">Προεπιλεγμένες ρυθμίσεις εφαρμογών</string>
     <string name="preferred_app_settings_default">Προεπιλεγμένα</string>
     <string name="preferred_app_settings_reset">Επαναφορά προεπιλεγμένων εφαρμογών;</string>
@@ -2776,6 +2778,8 @@
     <string name="launching_rep">Αναφορά…</string>
     <string name="status_serialno">σειριακός αρ.</string>
     <string name="provision_next">Επόμενο</string>
+    <string name="privacy_mode_title">Δικαιώματα</string>
+    <string name="privacy_mode_summary">Περιορίστε την πρόσβαση στα προσωπικά δεδομένα</string>
     <string name="privacy_mode_dialog_title">Λειτουργία επισκέπτη</string>
     <string name="privacy_mode_dialog_message">Με την λειτουργία επισκέπτη, κλήσεις, μηνύματα κειμένου, σημειώσεις και άλμπουμ, θα είναι κρυμμένα. Αυτή η λειτουργία δεν θα είναι ασφαλής και θα μπορεί να αναιρεθεί από τον επισκέπτη, εκτός και αν έχετε κάνει τις απαραίτητες ρυθμίσεις περιορισμού πρόσβασης στις Ρυθμίσεις > Ασφάλεια &amp; απόρρητο > Ασφάλεια απορρήτου</string>
     <string name="lockscreen_glogin_submit_button">Είσοδος</string>
@@ -2798,6 +2802,8 @@
     <string name="permission_manager">Δικαιώματα</string>
     <string name="security_keyguard_category_name">Κλείδωμα οθόνης</string>
     <string name="security_password_category_name">Κωδικός</string>
+    <string name="device_security_settings_title">Ασφάλεια</string>
+    <string name="enable_crypt_keeper_encrypt">Ενεργοποίηση κρυπτογράφησης</string>
     <string name="bluetooth_unlock_title">Ξεκλείδωμα από Bluetooth συσκευή</string>
     <string name="bluetooth_unlock_turned_off">Απενεργοποιήθηκε</string>
     <string name="bluetooth_unlock_turned_on">Ενεργοποιήθηκε</string>
@@ -2814,6 +2820,11 @@
     <string name="bluetooth_unlock_device_matched_text">Χρήση της συσκευής για ξεκλείδωμα φρουρού</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Είσαι σίγουρος για την διαγραφή;</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Η παλιά συσκευή θα αντικατασταθεί με την νέα, είστε σίγουροι ;</string>
+    <string name="bluetooth_unlock_state_label">Κατάσταση:</string>
+    <string name="bluetooth_unlock_state_disconnected">Αποσυνδέθηκε</string>
+    <string name="bluetooth_unlock_state_key_error">Λάθος κωδικός</string>
+    <string name="bluetooth_unlock_state_too_far">Δεν είναι αρκετά κοντά</string>
+    <string name="bluetooth_unlock_state_ok">Επιτυχία</string>
     <string name="virus_scan">Σάρωση ιών</string>
     <string name="network_assistant">Δεδομένα</string>
     <string name="anti_spam">Λίστα φραγών</string>
@@ -2930,4 +2941,5 @@
     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
     <string name="wifi_notify_cmcc_connected_title">Ειδοποίηση δικτύου CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Εμφάνιση ειδοποίησης όταν γίνει σύνδεση σε δίκτυο CMCC</string>
+    <string name="wifi_datanetwork_switch_not_remind">"Να μην εμφανιστεί ξανά"</string>
 </resources>
