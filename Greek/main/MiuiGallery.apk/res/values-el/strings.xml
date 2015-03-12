@@ -23,6 +23,7 @@
     <string name="add_to_secret_successfully_message">Προστέθηκε στο μυστικό άλμπουμ</string>
     <string name="add_to_secret_unfinished_message_with_count">%1$s στοιχεία δεν προστέθηκαν στο μυστικό</string>
     <string name="adding_recipients">Προσθήκη παραληπτών…</string>
+    <string name="adjust">Προσαρμογή</string>
     <string name="album_member">Αριθμός άλμπουμ %s</string>
     <string name="album_name">Όνομα άλμπουμ</string>
     <string name="album_quota_fulfiled">Αδύνατη η δημιουργία του άλμπουμ. Υπέρβαση του μέγιστου αριθμού άλμπουμ ..</string>
@@ -71,10 +72,13 @@
     <string name="bigscreen_slide_fail_cause_loading">Παρακαλώ ξεκινήστε την παρουσίαση μετά την φόρτωση της εικόνας.</string>
     <string name="bigscreen_slide_playing">Παρουσίαση παίζει στο %s</string>
     <string name="bigscreen_video_quit">Πατήστε για έξοδο</string>
+    <string name="black_white">Μαύρο &amp; άσπρο</string>
+    <string name="brannan">Πρωί</string>
     <string name="browse_category">Εξερεύνηση εικόνων</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Από άλλα</string>
     <string name="by_sms">SMS</string>
+    <string name="camera_black_white">Μαύρο &amp; άσπρο</string>
     <string name="camera_connected">Η κάμερα συνδέθηκε.</string>
     <string name="camera_disconnected">Η κάμερα αποσυνδέθηκε.</string>
     <string name="camera_folder_display_name">Φωτογραφίες κάμερας</string>
@@ -122,7 +126,7 @@
     <string name="comma">, </string>
     <string name="confirm">ΟΚ</string>
     <string name="confirm_delete">Διαγραφή %s φωτογραφιών;</string>
-    <string name="confirm_delete_album" formatted="false">Διαγραφή %s άλμπουμς (%s συνολικά αρχεία);</string>
+    <string name="confirm_delete_album" formatted="false">Διαγραφή %s άλμπουμ (%s συνολικά αρχεία);</string>
     <string name="confirm_delete_has_cloud_image_video">Διαγραφή %s στοιχείων σε cloud;</string>
     <string name="confirm_delete_has_cloud_local_image_video">Διαγραφή %s στοιχείων σε &lt;β> τοπικό και cloud &lt;/ b>;</string>
     <string name="confirm_delete_has_local_image_video">Διαγραφή %s στοιχείων;</string>
@@ -132,12 +136,16 @@
     <string name="confirm_download">Χρειάζεται η λήψη %s . Αυτή η συμβουλή δεν θα εμφανιστεί ξανά.</string>
     <string name="confirm_download_video_message">Το βίντεο απαιτεί λήψη! Η λήψη θα συνεχίσει όταν βρεθεί διαθέσιμο δίκτυο Wi-Fi.</string>
     <string name="confirm_download_video_title">Λήψη βίντεο</string>
+    <string name="confirm_merge_face_albums">" "<Data> Συγχώνευση αυτού του άλμπουμ με &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>; </Data>" "</string>
     <string name="contact_photo">Εικόνα επαφής</string>
     <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
     <string name="context_menu_copy">Αντιγραφή</string>
     <string name="context_menu_copy_notice">Αντιγράφτηκε στο πρόχειρο</string>
     <string name="contrast">Αντίθεση</string>
+    <string name="cool">​Δροσερό</string>
+    <string name="cool_portrait">Portrait</string>
     <string name="create_new_cloud_folder">Δημιουργία νέου φακέλλου στο Cloud</string>
+    <string name="create_new_face">Νέο άτομο</string>
     <string name="crop">Κόψιμο</string>
     <string name="crop_fail_to_load_image">Αδύνατη η φόρτωση της εικόνας προς περικοπή.</string>
     <string name="crop_label">Περικοπή εικόνας</string>
@@ -180,8 +188,10 @@
     <string name="download_refocus_data">Λήψη δεδομένων επανεστιασμού</string>
     <string name="duotone">Δίχρωμο</string>
     <string name="duration">Διάρκεια</string>
+    <string name="early_bird">Brannan</string>
     <string name="edit">Επεξεργασία</string>
     <string name="edited_photo_bucket_name">Επεξεργάστηκε</string>
+    <string name="effect">Εφέ</string>
     <string name="email_picker_title">Προσθήκη e-mail</string>
     <string name="enable">Ανοίξτε</string>
     <string name="enable_cloud_for_sharing">Ενεργοποίηση του MiCloud άλμπουμ για προβολή κοινόχρηστων άλμπουμ.</string>
@@ -210,6 +220,13 @@
     <string name="external_sdcard_root">Κατάλογος root εξωτερικής κάρτας SD</string>
     <string name="external_usb_device">Εξ.χώρος USB</string>
     <string name="external_usb_device_hm">Εξωτερική συσκευή USB</string>
+    <string name="face_album">Άνθρωποι</string>
+    <string name="face_album_not_named">Χωρίς όνομα</string>
+    <string name="face_album_rename_hint">Εισάγετε το όνομα</string>
+    <string name="face_albumset_detecting_tip">Μισό λεπτό…</string>
+    <string name="face_albumset_empty">Κενό.</string>
+    <string name="face_albumset_use_tip">Χρησιμοποιήστε την ανίχνευση προσώπου για να ταξινομήσετε τις φωτογραφίες από τους ανθρώπους που βρίσκονται σε αυτές</string>
+    <string name="face_move_dialog_title">Επιλέξτε ένα άλμπουμ</string>
     <string name="facelift">Υφή δέρματος</string>
     <string name="facetan">Μαύρισμα</string>
     <string name="fail_hint">Αποτυχία ενέργειας.</string>
@@ -252,8 +269,10 @@
     <string name="highlight">Στιγμιότυπα</string>
     <string name="home_my_captured_items">οι φωτογραφίες που έχω τραβήξει</string>
     <string name="home_page_tab_cloud">Cloud</string>
+    <string name="home_page_tab_face">Πρόσωπο</string>
     <string name="home_page_tab_local">Τοπικό</string>
     <string name="home_page_tab_photo">Φωτογραφίες</string>
+    <string name="ignore_face">Αγνοήστε αυτό το άτομο</string>
     <string name="image_download_item_title">Λήψη εικόνας ( %s )</string>
     <string name="image_quota_fulfiled">Αδυναμία δημιουργίας εικόνας, ξεπεράστηκε το όριο.</string>
     <string name="immomo_camera">Immomo</string>
@@ -261,6 +280,7 @@
     <string name="import_fail">Αποτυχία εισαγωγής</string>
     <string name="impunity_declaration">Συμφωνείτε για σύνδεση στο Internet με την χρήση του άλμπουμ;</string>
     <string name="impunity_declaration_ignore">Όχι προβολή ξανά</string>
+    <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Προβολή ειδοποίησης δικτύου</string>
     <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου σε κάθε εκκίνηση του άλμπουμ</string>
     <string name="impunity_declaration_title">Ειδοποίηση δικτύου</string>
@@ -312,9 +332,10 @@
     <string name="menu_item_sort_size_asc">Μικρότερο μέγεθος</string>
     <string name="menu_item_sort_size_desc">Μεγαλύτερο μέγεθος</string>
     <string name="menu_view_contact">Προβολή επαφής</string>
+    <string name="merge_album_positive_button_text">Συγχώνευση</string>
     <string name="message_no_delete_access">Η πρόσβαση δεν επιτρέπεται. Αδύνατη η διαγραφή του αρχείου ή του φακέλου: %s</string>
     <string name="messagelist_sender_self">Εγώ</string>
-    <string name="miliao">Mi Talk</string>
+    <string name="miliao">MiTalk</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">MiTalk Ζωγραφική</string>
     <string name="miliao_saved_folder_display_name">Αποθηκευμένα από MiTalk</string>
@@ -322,7 +343,7 @@
     <string name="mishop">MiShop</string>
     <string name="mishop_saved_folder_display_name">Αποθηκευμένα στο MiShop</string>
     <string name="miui_capture_screen_folder_display_name">Στιγμιότυπα</string>
-    <string name="miui_wallpaper">Wallpaper</string>
+    <string name="miui_wallpaper">Ταπετσαρία</string>
     <string name="modified_time">Τροποποιημένο</string>
     <string name="moman">Moman Camera</string>
     <string name="moman_camera_drawing">Moman Camera drawing</string>
@@ -335,9 +356,11 @@
     <string name="mtxx">MTXX</string>
     <string name="multiface_crop_help">Αγγίξτε ένα πρόσωπο για να ξεκινήσετε.</string>
     <string name="must_pick_file">Επιλογή εικόνας</string>
+    <string name="name_wrong">"Αυτό δεν είναι %s"</string>
     <string name="negative">Αρνητικό</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-    <string name="new_device_tips">Δεν βρέθηκα συσκευή. Κλικ για προβολή</string>
+    <string name="new_device_tips">"Πατήστε για να δείτε
+τη συσκευή"</string>
     <string name="no">Όχι</string>
     <string name="no_albums_alert">Δεν υπάρχουν διαθέσιμα άλμπουμ.</string>
     <string name="no_connectivity">Μερικές τοποθεσίες δε μπόρεσαν να προσδιοριστούν λόγω προβλήματος στο δίκτυο.</string>
@@ -353,6 +376,7 @@
     <string name="not_auto_create_recent_album">Μη αυτόματη δημιουργία πρόσφατου άλμπουμ</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="not_show_hidden_albums">Να μην προβάλλονται τα κρυφά άλμπουμ</string>
+    <string name="old">​Ρετρό</string>
     <string name="only_show_camera_in_first_page">Δείξε μόνο τις φωτογραφίες του άλμπουμ κάμερας στην πρώτη σελίδα</string>
     <string name="only_show_camera_in_first_page_summary">Όταν απενεργοποιηθεί, οι φωτογραφίες όλων των άλμπουμ στο cloud θα εμφανίζονται στην πρώτη σελίδα.</string>
     <string name="open">Άνοιγμα συγχρονισμού</string>
@@ -366,6 +390,7 @@
     <string name="operation_failed">Αποτυχία ενέργειας!</string>
     <string name="operation_in_process">Επεξεργασία…</string>
     <string name="operation_refresh">Ανανέωση</string>
+    <string name="operation_remove_from_face_album">Αφαίρεση από το άλμπουμ</string>
     <string name="operation_remove_secret">Κατάργηση μυστικού</string>
     <string name="operation_rename">Μετονομασία</string>
     <string name="operation_set_as_screensaver">Ορισμός ως Screensaver</string>
@@ -390,10 +415,8 @@
     <string name="photo_page_save_image">Αποθήκευση</string>
     <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
     <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
-    <string name="photo_paint_adjust">ρυθμίστε</string>
     <string name="photo_paint_crop">Κόψιμο</string>
-    <string name="photo_paint_effect">εφέ</string>
-    <string name="photo_saved">Η φωτογραφία αποθηκεύτηκε στο %s άλμπουμ</string>
+    <string name="photo_save_succeed">Επιτυχής αποθήκευση</string>
     <string name="photo_size">Μέγεθος</string>
     <string name="photoeditor_name">Photo Studio</string>
     <string name="photos">Φωτογραφίες</string>
@@ -405,6 +428,7 @@
     <string name="picker_tab_photo">Φωτογραφία</string>
     <string name="posterize">Πόστερ</string>
     <string name="ppmm_gallery">PPMM</string>
+    <string name="preparing_data">Μισό λεπτό…</string>
     <string name="preparing_data_to_delete">Προετοιμασία για τη διαγραφή των δεδομένων εικόνας.</string>
     <string name="priority_storage">Αποθήκευση σε κάρτα SD</string>
     <string name="priority_storage_summary">Όταν η κάρτα SD εισαχθεί, η λήψη αρχείων στην κάρτα SD θα γίνει αυτόματα.</string>
@@ -428,6 +452,8 @@
     <string name="remove_from_secret_unfinished_message_with_count">%1$s στοιχεία δεν αφαιρέθηκαν από το μυστικό</string>
     <string name="remove_hidden_album">Ακύρωση απόκρυψης</string>
     <string name="remove_recent_album">Αφαίρεση από τα αγαπημένα άλμπουμ</string>
+    <string name="rename_face_album">Αλλαγή ονόματος</string>
+    <string name="rename_fail_msg">"Δεν ήταν δυνατή η αλλαγή ονόματος"</string>
     <string name="rename_failed">Η μετονομασία απέτυχε</string>
     <string name="rename_failed_duplicated_name">Ένα αρχείο με το ίδιο όνομα υπάρχει ήδη.</string>
     <string name="renren_image">RenRen</string>
@@ -437,6 +463,7 @@
     <string name="request_sms_url_title">Συμβουλή</string>
     <string name="retry_to_create_album">Δοκιμή ξανά</string>
     <string name="retry_to_request_qr_code">Δοκιμή ξανά</string>
+    <string name="rise">Θερμό</string>
     <string name="rotate">Περιστροφή</string>
     <string name="rotate_tooltip">Σύρετε την εικόνα για να την περιστρέψετε</string>
     <string name="same_name_album_exists_alert">Οι φωτογραφίες θα ανέβουν σε ένα υπάρχον άλμπουμ με το ίδιο όνομα.</string>
@@ -510,6 +537,7 @@
     <string name="slideshow_repeat_mode">Επανάληψη</string>
     <string name="square">Τετράγωνο</string>
     <string name="start_slide_show">Έναρξη του slide show</string>
+    <string name="start_to_use_face_albumset">Ταξινόμηση κατά άτομα</string>
     <string name="storage_all_volumes">Όλες οι συσκευές</string>
     <string name="storage_no_space">Δεν υπάρχει αρκετός ελεύθερος χώρος.</string>
     <string name="straighten">Ευθυγράμμιση</string>
@@ -560,6 +588,7 @@
     <string name="user_alias_self">Ο εαυτός μου</string>
     <string name="video_err">Αδύνατη η αναπαραγωγή βίντεο.</string>
     <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>
+    <string name="view_face_album">Προβολή άλμπουμ</string>
     <string name="view_sharers">Προβολή κοινόχρηστων</string>
     <string name="vignette">Βινιέτα</string>
     <string name="wallpaper">Ταπετσαρία</string>
@@ -571,6 +600,7 @@
     <string name="weixin">WeChat</string>
     <string name="where_is_barcode">Που είναι ο κωδικός QR;</string>
     <string name="white_balance">Ισορροπία λευκού</string>
+    <string name="who_is_this">Ποιος είναι αυτός;</string>
     <string name="widget_type">Επιλέξτε εικόνες</string>
     <string name="widget_type_album">Επιλέξτε άλμπουμ</string>
     <string name="widget_type_photo">Επιλέξτε εικόνα</string>

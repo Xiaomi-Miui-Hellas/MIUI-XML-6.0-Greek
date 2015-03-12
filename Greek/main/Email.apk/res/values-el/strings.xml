@@ -86,7 +86,8 @@
   <string name="account_setup_check_settings_check_incoming_msg">Επαληθεύονται οι ρυθμίσεις παρόχου…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Επαληθεύονται οι ρυθμίσεις smtp…</string>
   <string name="account_setup_check_settings_retr_info_msg">Γίνεται λήψη πληροφοριών λογαριασμού…</string>
-  <string name="account_setup_creating_account_msg">Δημιουργείται λογαριασμός…</string>
+  <string name="account_setup_creating_account_msg">Δημιουργία λογαριασμού…</string>
+  <string name="account_setup_deleting_account_msg">Διαγραφή λογαριασμού…</string>
   <string name="account_setup_exchange_certificate_title">Πιστοποιητικό πελάτη</string>
   <string name="account_setup_exchange_device_id_label">ID Συσκευής</string>
   <string name="account_setup_exchange_no_certificate">Κανένα</string>
