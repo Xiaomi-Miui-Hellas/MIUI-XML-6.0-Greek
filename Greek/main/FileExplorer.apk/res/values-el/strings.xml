@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_bind_prompt">Μετεγκατάσταση δεδομένων χρήστη… Αυτό μπορεί να διαρκέσει μερικά λεπτά.</string>
+  <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
+  <string name="action_mode_select_all">Επιλογή όλων</string>
   <string name="add_task">Προσθήκη εργασιών</string>
   <string name="adding_upload_tasks">Πρόσθεση εργασίας…</string>
   <string name="already_signin_description">"Είστε ήδη συνδεδεμένος."</string>

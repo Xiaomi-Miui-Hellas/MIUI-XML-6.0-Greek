@@ -47,6 +47,10 @@
      <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
      <string name="root_downloads">Λήψεις</string>
      <string name="task_already_exist">Η εργασία υπάρχει ήδη</string>
+     <string name="warning_tip_cancel">Συνεχίστε την λήψη</string>
+     <string name="warning_tip_content">Το Wi-Fi έχει αποσυνδεθεί. Αν συνεχίσετε την λήψη μέσω δεδομένων κινητής, μπορεί να επιβαρυνθείτε με επιπλέον κόστος. Συνιστάται η παύση της λήψης.</string>
+     <string name="warning_tip_ok">Παύση</string>
+     <string name="warning_tip_title">Προειδοποίηση μεταγωγής σε δίκτυο δεδομένων κινητής</string>
      <string name="wifi_recommended_body" formatted="false">"Αν ξεκινήσετε την λήψη του %s τώρα μπορεί να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας σας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας σας, ανάλογα με το πρόγραμμα δεδομένων σας.
 
  Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi."</string>

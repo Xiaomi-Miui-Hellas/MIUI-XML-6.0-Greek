@@ -21,6 +21,7 @@
      <string name="action_menu_text_bandwidth_on">Εύρος ζώνης/On</string>
      <string name="action_menu_text_bookmark">Προσθήκη αγαπημένου</string>
      <string name="action_menu_text_exit">Έξοδος</string>
+     <string name="action_menu_text_fullscreen">Πλήρης οθόνη</string>
      <string name="action_menu_text_history">Bookmarks/History</string>
      <string name="action_menu_text_nightmode">Λειτουργία νύχτας</string>
      <string name="action_menu_text_nightmode_off">Λειτ.νύχτας off</string>
