@@ -73,7 +73,7 @@
   <string name="err_fail_to_erase">Αποτυχία διαγραφής της ετικέτας</string>
   <string name="err_fail_to_read">Αποτυχία ανάγνωσης της ετικέτας</string>
   <string name="err_fail_to_write">Αποτυχία γραφής της ετικέτας</string>
-  <string name="err_nfc_off">Ενεργοποιήστε το NFC στις Ρυθμίσεις &gt; Δίκτυο &amp; συνδεσιμότητα &gt; Πρόσθετες ρυθμίσεις &gt; NFC</string>
+  <string name="err_nfc_off">Ενεργοποιήστε το NFC στις Ρυθμίσεις &gt; Δίκτυο &amp; συνδεσιμότητα &gt; Περισσότερα &gt; NFC</string>
   <string name="err_no_enough_space">Δεν υπάρχει αρκετός χώρος για την ετικέτα</string>
   <string name="err_no_nfc">"Το τηλέφωνό σας δεν υποστηρίζει NFC. Αυτή η εφαρμογή δεν μπορεί να λειτουργήσει."</string>
   <string name="err_parse_external_data">Αυτός ο τύπος αρχείου δεν υποστηρίζεται</string>
@@ -104,7 +104,7 @@
   <string name="input_password">Παρακαλώ εισάγετε τον κωδικό πρόσβασης τεσσάρων αριθμών</string>
   <string name="input_password_gain">Παρακαλούμε, εισάγετε ξανά τον κωδικό πρόσβασης</string>
   <string name="input_password_warning">"Ο κωδικός πρόσβασης θα γραφτεί στην ετικέτα, μην το ξεχνάτε!"</string>
-  <string name="local_app">Κατεβασμένες εφαρμογές</string>
+  <string name="local_app">ΛΗΦΘΕΝΤΑ</string>
   <string name="media_value">Πολυμέσα %s%%</string>
   <string name="meeting_mode">Λειτουργία Συνάντησης</string>
   <string name="miui_ringer_mode">Λειτουργία Ring</string>
@@ -137,11 +137,11 @@
   <string name="play_song">Αναπαρ. μουσικής</string>
   <string name="preference">Ρυθμίσεις</string>
   <string name="pwd_alert">Ορίστε ένα κωδικό τώρα</string>
-  <string name="pwd_pref">Προστατέψτε την ετικέτα από το ξαναγράψιμο</string>
+  <string name="pwd_pref">Προστατέψτε την ετικέτα από επανεγγραφή</string>
   <string name="pwd_pref_desc">Γράψτε το χαρακτηριστικό προστασίας ενεργοποιείται όταν γράφει αυτοκόλλητα αυτοκόλλητα αυτοκόλλητα άλλοι πρέπει να ξαναγράψουμε τον κωδικό σας</string>
   <string name="read_a_tag">Διαβάστε μια ετικέτα</string>
   <string name="reading">Διάβασμα…</string>
-  <string name="remote_app">Αναμονή για να κατεβάσετε ...</string>
+  <string name="remote_app">ΔΙΑΘΕΣΙΜΟ ΓΙΑ ΛΗΨΗ</string>
   <string name="remove_alert">Διαγραφή επιλεγμένων εργασιών;</string>
   <string name="ringer_mode">Λειτουργία Κουδουνιού</string>
   <string name="ringer_normal">Κουδούνι</string>
