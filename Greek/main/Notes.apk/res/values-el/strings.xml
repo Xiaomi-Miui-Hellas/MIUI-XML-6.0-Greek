@@ -103,6 +103,14 @@
      <string name="toast_reach_text_limit_truncate">Το περιεχόμενο του σημειώματος έχει κοπεί, γιατί είναι πολύ μεγάλο.</string>
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
+     <string name="welcome_note_for_cm">"Και περισσότερες σπουδαίες δυνατότητες!
+  - Συγχρονισμός με το Mi Cloud
+  - Αποθήκευση κατά την έξοδο
+  - Ορισμός υπενθυμίσεων
+
+Για να μάθετε περισσότερα, επισκεφθείτε τη διεύθυνση
+http://www.miui.com/forum.php?lang=1
+"</string>
      <string name="widget_content_loading">Φόρτωση…</string>
      <string name="widget_havenot_content">Χωρίς περιεχόμενο. Πατήστε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, πατήστε &amp; σύρετε μία άκρη.</string>
      <string name="widget_under_privacy_mode">Δεν μπορείτε να δείτε τις σημειώσεις σε λειτουργία επισκέπτη</string>

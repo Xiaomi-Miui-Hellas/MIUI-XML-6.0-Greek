@@ -269,6 +269,11 @@
   <string name="snooze_all_label">Αναβολή όλων</string>
   <string name="snooze_label">Αναβολή</string>
   <string name="subscribe_all">Εγγραφή</string>
+  <string name="sync_notice_cancel_toast_message">"Το τοπικό ημερολόγιο δεν θα συγχρονιστεί με το MiCloud"</string>
+  <string name="sync_notice_message">Δεν έχετε συγχρονίσει ακόμα το ημερολόγιο Mi. Ενεργοποίηση του διακόπτη τώρα;</string>
+  <string name="sync_notice_ok">Επέτρεψε</string>
+  <string name="sync_notice_ok_toast_message">Το τοπικό ημερολόγιο θα συγχρονιστεί με το MiCloud</string>
+  <string name="sync_notice_title">Αίτημα συγχρονισμού</string>
   <string name="synced">συγχρονισμένο</string>
   <string name="tab_category">Κατηγορίες</string>
   <string name="tab_local">Εγγεγραμμένα</string>

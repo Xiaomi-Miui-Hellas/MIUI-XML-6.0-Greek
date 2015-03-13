@@ -64,6 +64,7 @@
      <string name="gift_purchased_list_empty_with_received_list_empty">Δεν υπάρχουν δώρα.</string>
      <string name="gift_received_endnote">Από: %1$s (λήφθηκαν %2$s)</string>
      <string name="gift_received_list_empty">Δεν έχετε λάβει κανένα δώρο.</string>
+     <string name="gift_received_notification_title">%s σας έδωσε ένα θέμα.</string>
      <string name="gift_share">Κοινή χρήση</string>
      <string name="gift_transfer">Μεταφορά</string>
      <string name="gift_unbind_fail_dlg_title">Αδυναμία δημιουργίας κωδικού</string>
@@ -156,7 +157,6 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
      <string name="resource_download">Λήψη</string>
-     <string name="resource_download_notification_content">Κάντε κλικ για έλεγχο</string>
      <string name="resource_download_notification_title_many">Επιτυχής λήψη %1$s θεμάτων!</string>
      <string name="resource_download_notification_title_one">Επιτυχής λήψη ενός θέματος!</string>
      <string name="resource_download_trial">Δωρεάν δοκιμή</string>
@@ -235,6 +235,7 @@
      <string name="resource_share_text">Εδώ είναι ένα θέμα που σκέφτηκα ότι ίσως θα θέλατε: %1$s! Σύνδεσμος: %2$s</string>
      <string name="resource_share_title">Κοινή χρήση</string>
      <string name="resource_system_title">Πόροι του συστήματος</string>
+     <string name="resource_tab_to_view">Πατήστε για προβολή.</string>
      <string name="resource_tip_select_none">Καμία επιλογή</string>
      <string name="resource_title">Λεπτομέρειες Πόρων</string>
      <string name="resource_title_category">Κατηγορία</string>
