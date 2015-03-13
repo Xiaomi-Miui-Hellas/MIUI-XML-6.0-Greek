@@ -1,0 +1,127 @@
+{
+    "0": {
+        name: "Τυπικό",
+        desc: "Για βασική καθημερινή χρήση και ειδικά αν δεν έχετε μια σαφή εικόνα του προτύπου combo.",
+        speed: 500,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ToolboxAction",
+                        subActions: [
+                            {
+                                name: "com.xiaomi.miclick.core.action.TorchAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                            },
+                            {
+                                name: "com.xiaomi.miclick.core.action.EmptyAction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.WallpaperAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ScreenShotAction"
+                    },
+                    {
+                        name: "com.xiaomi.miclick.core.action.WeChatTimeLineShareAction"
+                    }
+                ]
+            }
+        }
+    },
+    "1": {
+        name: "Κουμπί Power",
+        desc: "Κατάλληλο για το πλήκτρο του οδηγού MiKey για να προσομοιώσετε πλήρως άλλα φυσικά κουμπιά.",
+        speed: 0,
+        actions: {
+            "1": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerShortAction"
+                    }
+                ]
+            },
+            "0": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.key.PowerLongAction"
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        name: "007",
+        desc: "Αυτό το πακέτο είναι για τη λήψη φωτογραφιών ή την εγγραφή σε άγνωστες συνθήκες.",
+            speed: 0,
+            actions: {
+                "1": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.CapturePhotoInstantAction"
+                        }
+                    ]
+                },
+                "0": {
+                    name: "com.xiaomi.miclick.core.action.GroupAction",
+                    subActions: [
+                        {
+                            name: "com.xiaomi.miclick.core.action.AudioRecorderAction"
+                        }
+                    ]
+                }
+            }
+    },
+    "3": {
+        name: "Τρελή λειτουργία",
+        desc: "Δοκιμάστε το…",
+        speed: 1000,
+        actions: {
+            "8": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.TorchAction"
+                    }
+                ]
+            },
+            "9": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.SearchAction"
+                    }
+                ]
+            },
+            "10": {
+                name: "com.xiaomi.miclick.core.action.GroupAction",
+                subActions: [
+                    {
+                        name: "com.xiaomi.miclick.core.action.ClearMemoryAction"
+                    }
+                ]
+            }
+        }
+    }
+}
