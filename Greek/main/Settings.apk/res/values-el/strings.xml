@@ -2927,6 +2927,10 @@
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
     <string name="location_agps_def_location_mode">MSB</string>
+    <string name="agps_roaming">A-GPS κατά την περιαγωγή</string>
+    <string name="agps_roaming_summary">Η χρήση του A-GPS κατά την περιαγωγή, μπορεί να αυξήσει τις τηλεφωνικές σας χρεώσεις</string>
+    <string name="agps_roaming_dia_title">Χρήση του A-GPS κατά την περιαγωγή</string>
+    <string name="agps_roaming_dia">Χρησιμοποιώντας το A-GPS κατά την περιαγωγή μπορεί να αυξηθεί η χρήση δεδομένων κινητής τηλεφωνίας σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
     <string name="wifi_disconnected_notification_title">Το Wi-Fi αποσυνδέθηκε</string>
     <string name="wifi_disconnected_notification_summary">Επανάληψη ή σύνδεση σε άλλο Wi-Fi.</string>
     <string name="wifi_off_airplane_on_title">Wi-Fi σε λειτουργία πτήσης</string>

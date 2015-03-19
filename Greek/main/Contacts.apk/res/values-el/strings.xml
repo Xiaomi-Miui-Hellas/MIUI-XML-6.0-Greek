@@ -379,6 +379,7 @@
      <string name="favoritesFrequentContacted">Συχνές επαφές</string>
      <string name="favorites_list_empty">Δεν υπάρχουν επαφές</string>
      <string name="firewall_setting">Φραγές</string>
+     <string name="followed_yellowpage">Χρυσός Οδηγός Mi</string>
      <string name="foundTooManyContacts">Βρέθηκαν πάνω από %d.</string>
      <string name="frequentList">Συχνά</string>
      <string name="from_account_format">%1$s</string>
@@ -1087,7 +1088,6 @@
      <string name="splitConfirmation_title">Διαχωρισμός επαφής;</string>
      <string name="starredList">Με αστέρι</string>
      <string name="starred_contacts">Αγαπημένα</string>
-     <string name="starred_yellowpage">Αγαπημένοι φάκελοι</string>
      <string name="status_available">Διαθέσιμος</string>
      <string name="status_away">Απουσιάζω</string>
      <string name="status_busy">Απασχολημένος</string>
