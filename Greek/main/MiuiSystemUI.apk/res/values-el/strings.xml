@@ -177,7 +177,7 @@
      <string name="status_bar_settings_signal_meter_disconnected">Δεν υπάρχει σύνδεση με το Internet.</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi συνδεδεμένο</string>
      <string name="status_bar_style_settings">Παράμετροι</string>
-     <string name="title_usb_accessory">αξεσουάρ USB</string>
+     <string name="title_usb_accessory">Αξεσουάρ USB</string>
      <string name="torch_activity_hint">Ο φακός μπορεί να ενεργοποιηθεί γρήγορα, κρατώντας [icon] στην οθόνη κλειδώματος</string>
      <string name="torch_activity_name">Φακός</string>
      <string name="torch_closed">Φακός off</string>
