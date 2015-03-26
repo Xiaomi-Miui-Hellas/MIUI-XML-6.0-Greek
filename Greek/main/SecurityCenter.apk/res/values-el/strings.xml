@@ -137,6 +137,10 @@
      <string name="clean_content_three">Εκτός από %s</string>
      <string name="clean_content_two">%1$s και %2$s</string>
      <string name="clean_content_zero">Μην καθαρίσεις τίποτα</string>
+     <string name="cmcc_app_check_dialog_message">Επανεκκινήστε τη συσκευή σας για να ολοκληρώσετε την επιδιόρθωση.</string>
+     <string name="cmcc_app_check_dialog_negative">Αργότερα</string>
+     <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
+     <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
      <string name="confirm_auto_cleaner">Επιβεβαίωση</string>
      <string name="cta_button_text_agree">Αποδοχή</string>
      <string name="cta_button_text_cancel">Ακύρωση</string>
@@ -347,8 +351,10 @@
      <string name="never">Μόνο μια φορά</string>
      <string name="notification_button_text_of_low_memory">Καθαρίστε</string>
      <string name="notification_summary_after_auto_cleanup">Καθαρισμένα %s.</string>
+     <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notification_summary_of_garbage_cleanup">Υπέρβαση καλαθιού %s .</string>
      <string name="notification_summary_of_low_memory">Χαμηλή μνήμη του συστήματος.</string>
+     <string name="notification_title_cmcc_app_check">Τελευταίος έλεγχος πριν %d ημέρες</string>
      <string name="notification_title_firewall_blocked">Αποκλεισμένα</string>
      <string name="notification_title_of_garbage_cleanup">Συναγερμός σκουπιδιών</string>
      <string name="notification_title_of_low_memory">%s σε χρήση</string>
@@ -603,6 +609,7 @@
      <string name="summary_cleaner_cloudscan">Ανέβασε και σύγκρινε τα άγνωστα ονόματα φακέλων με την online βάση</string>
      <string name="summary_cloud_account">Αξιοποιήστε στο έπακρο τις δυνατότητες της συσκευής σας</string>
      <string name="summary_cloud_service">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, εφαρμογές και πολλά άλλα μεταξύ των συσκευών σας</string>
+     <string name="summary_cmcc_app_check">"Μερικές εφαρμογές δεν ήταν δυνατό να επαληθευτούν"</string>
      <string name="summary_data_flow">Αποφύγετε να ξεπεράσετε το μηνιαίο όριο δεδομένων του φορέα σας</string>
      <string name="summary_default_app">"%s δεν έχει οριστεί ως προεπιλεγμένη εφαρμογή συστήματος"</string>
      <string name="summary_delete_cache">Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα δεδομένα cache; Ορισμένες εφαρμογές μπορεί να μην διαγραφούν μετά τη χρήση. Παρακαλώ επιλέξτε προσεκτικά</string>
@@ -642,6 +649,7 @@
      <string name="title_cleaner_cloudscan">Μεταφόρτωση ονομάτων φακέλων</string>
      <string name="title_cloud_account">Λογαριασμός Mi</string>
      <string name="title_cloud_service">Mi Cloud</string>
+     <string name="title_cmcc_app_check">"Η επαλήθευση δεν έχει ολοκληρωθεί"</string>
      <string name="title_data_flow">Ορίστε μια προειδοποίηση χρήσης δεδομένων</string>
      <string name="title_data_flow_no">Χωρίς παρακολούθηση ροής</string>
      <string name="title_data_flow_yes">Παρακολούθηση ροής δεδομένων</string>

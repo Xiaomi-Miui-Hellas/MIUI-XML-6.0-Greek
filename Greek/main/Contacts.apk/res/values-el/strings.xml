@@ -1167,11 +1167,6 @@
      <string name="yellowpage_navigation_clear_search_history">Καθαρισμός ιστορικού</string>
      <string name="yellowpage_navigation_more_items">Περισσότερα</string>
      <string name="yellowpage_navigation_more_items_title">Περισσότερες υπηρεσίες</string>
-     <string name="yellowpage_navigation_network_location_enable">Ενεργοποίηση τώρα</string>
-     <string name="yellowpage_navigation_network_location_enable_later">Ενεργοποίηση αργότερα</string>
-     <string name="yellowpage_navigation_network_location_enabled">Η υπηρεσία είναι ανοιχτή. Μπορείτε να την απενεργοποιήσετε στις ρυθμίσεις τοποθεσίας</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">Η διαχείριση παρέχει υπηρεσίες ανάλογα με την πόλη σας και τη δυνατότητα WLAN &amp; Η υπηρεσία τοποθεσίας δικτύου κινητής τηλεφωνίας μπορεί να βελτιώσει την ποιότητα των υπηρεσιών.</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_title">Ενεργοποίηση υπηρεσιών θέσης δικτύου</string>
      <string name="yellowpage_navigation_no_content">"Δεν βρέθηκε τίποτα"</string>
      <string name="yellowpage_navigation_search_city_name_hint">Πόλη</string>
      <string name="yellowpage_navigation_search_history">Ιστορικό</string>
