@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών στο &amp;lt;b>cloud&amp;lt;/b>;</item>
-        <item quantity="one">Διαγραφή %s φωτογραφίας στο &amp;lt;b>cloud&amp;lt;/b>;</item>
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
-        <item quantity="one">Διαγραφή %s φωτογραφίας ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
-        <item quantity="one">Διαγραφή %s βίντεο ταυτόχρονα &amp;lt;b>τοπικά και στο Cloud&amp;lt;/b>;</item>
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>;</item>
-        <item quantity="one">Διαγραφή %s βίντεο στο &amp;lt;b>cloud&amp;lt;/b>;</item>
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
+        <item quantity="other">Διαγραφή  %s φωτογραφιών;</item>
         <item quantity="one">Διαγραφή %s φωτογραφίας;</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
@@ -46,14 +46,19 @@
         <item quantity="one">%1$d φωτογραφία</item>
      </plurals>
      <plurals name="number_of_items">
-        <item quantity="other">%1$d αντικείμενα</item>
-        <item quantity="zero">%1$d αντικείμενα</item>
-        <item quantity="one">%1$d αντικείμενο</item>
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="zero">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
      </plurals>
      <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d επιλέχθηκαν</item>
-        <item quantity="zero">%1$d επιλέχθηκαν</item>
-        <item quantity="one">%1$d επιλέχθηκε</item>
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+     </plurals>
+     <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Μπορείτε να επιλέξετε %d στοιχεία</item>

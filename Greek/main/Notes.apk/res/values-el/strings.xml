@@ -38,7 +38,7 @@
      <string name="login_sync">Είσοδος &amp; συγχρονισμός</string>
      <string name="menu_create_folder">Νέος φάκελος</string>
      <string name="menu_delete">Διαγραφή</string>
-     <string name="menu_move">Μετακίνηση σε φάκελο</string>
+     <string name="menu_folders">Φάκελοι</string>
      <string name="menu_move_parent_folder">Φάκελος γονέας</string>
      <string name="menu_send_to_desktop">Αποστολή στην αρχική οθόνη</string>
      <string name="menu_send_wechat">Αποστολή στο WeChat</string>

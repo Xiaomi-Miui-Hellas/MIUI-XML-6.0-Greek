@@ -1545,7 +1545,7 @@
     <string name="battery_desc_voice">Χρήση μπαταρίας σε κλήσεις</string>
     <string name="battery_desc_standby">Χρήση μπαταρίας σε κατάσταση αδράνειας</string>
     <string name="battery_desc_radio">Μπαταρία που χρησιμοποιείται από το δίκτυο GSM</string>
-    <string name="battery_sugg_radio">Εναλλαγή στη λειτουργία του αεροπλάνου για να εξοικονομήσει ενέργεια σε περιοχές όπου δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας</string>
+    <string name="battery_sugg_radio">Εναλλαγή σε λειτουργία πτήσης για να εξοικονομήσετε ενέργεια σε περιοχές όπου δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας</string>
     <string name="battery_desc_display">Χρήση μπαταρίας από την οθόνη και φωτισμό</string>
     <string name="battery_sugg_display">Μειώστε τη φωτεινότητα της οθόνης ή / και χρονικό όριο οθόνης</string>
     <string name="battery_desc_wifi">Χρήση μπαταρίας από το Wi-Fi</string>

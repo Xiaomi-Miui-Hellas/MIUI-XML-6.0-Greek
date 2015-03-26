@@ -71,8 +71,8 @@
         <item>Χωρίς αλλαγή</item>
      </string-array>
      <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Κλήσεις</item>
+        <item>Επιφάνεια εργασίας</item>
+        <item>Τηλέφωνο</item>
         <item>Μηνύματα</item>
         <item>Πλοηγός</item>
         <item>Κάμερα</item>

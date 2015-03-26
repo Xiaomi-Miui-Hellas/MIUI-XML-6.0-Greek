@@ -590,7 +590,7 @@
         <item>Κάμερα</item>
         <item>Άλμπουμ</item>
         <item>Μουσική</item>
-        <item>E-mail</item>
+        <item>Email</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Αργό δίκτυο ή πολύ μεγάλη κίνηση</item>
