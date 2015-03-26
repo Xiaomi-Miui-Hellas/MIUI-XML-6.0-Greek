@@ -17,7 +17,7 @@
      <string name="app_name">Χρήση Δεδομένων</string>
      <string name="app_version">Έκδοση</string>
      <string name="app_wifi">Wi-Fi</string>
-     <string name="arrearage_exception_summary">"Ο λογαριασμός του παρόχου σας δείχνει ότι πρέπει να ανανεώσετε τώρα"</string>
+     <string name="arrearage_exception_summary">"Ο λογαριασμός του παρόχου σας, δείχνει ότι πρέπει να ανανεώσετε τώρα"</string>
      <string name="arrearage_exception_title">Το υπόλοιπό σας είναι πολύ χαμηλό</string>
      <string name="background_traffic">Παρασκήνιο %s</string>
      <string name="begin_date">Ημερομηνία μηδενισμού δεδομένων</string>
@@ -93,7 +93,7 @@
      <string name="dialog_roaming_title">Διεθνής περιαγωγή</string>
      <string name="disable_air_mode">Απενεργοποίηση λειτουργίας πτήσης</string>
      <string name="dns_exception_summary">"Οι ρυθμίσεις DNS του router δεν είναι διαθέσιμες."</string>
-     <string name="dns_exception_title">Test DNS</string>
+     <string name="dns_exception_title">Δοκιμή DNS</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="enable_network">Ενεργοποίηση δικτύου κινητής τηλεφωνίας</string>

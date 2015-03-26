@@ -17,7 +17,7 @@
         <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Διαγραφή  %s φωτογραφιών;</item>
+        <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
         <item quantity="one">Διαγραφή %s φωτογραφίας;</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
