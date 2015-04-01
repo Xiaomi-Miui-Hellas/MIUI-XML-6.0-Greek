@@ -79,6 +79,8 @@
      <string name="confirm_no_block_title">Άρση φραγής αυτού του αριθμού και αποκατάσταση όλων των μηνυμάτων;</string>
      <string name="confirm_rate_limit">Ένας μεγάλος αριθμός των μηνυμάτων πολυμέσων αποστέλλεται.</string>
      <string name="confirm_restore_all_title">Επαναφορά όλων των μηνυμάτων από αυτόν τον αριθμό;</string>
+     <string name="confirm_restore_checkbox">Άρση φραγής μηνυμάτων που στάλθηκαν από αυτό τον αριθμό</string>
+     <string name="confirm_restore_message">Επαναφορά επιλεγμένων μηνυμάτων;</string>
      <string name="confirm_restore_positive">Επαναφορά</string>
      <string name="confirm_restore_title">Επαναφορά όλων των επιλεγμένων μηνυμάτων;</string>
      <string name="confirm_send_mms">Ένας από τους παραλήπτες σας περιέχει διεύθυνση email. Αυτό το μήνυμα θα σταλεί ως ΜΜS, και ίσως επιφέρει επιπλέον χρεώσεις από τον πάροχό σας.</string>
