@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="add_miservice_dialog_content">"Το %s απαιτεί να προσθέσετε το MIUI service framework στη λίστα εξαιρέσεων. Μπορεί να λάβετε ειδοποιήσεις από τις ενσωματωμένες εφαρμογές MIUI και άλλες εφαρμογές τρίτων."</string>
+     <string name="add_miservice_dialog_title">MIUI service framework</string>
      <string name="add_to_whitelist_button">Διαχείριση εξαιρέσεων</string>
      <string name="add_white_list">Προσθήκη</string>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Ενημερώθηκε πάνω από 1 μήνα πριν</string>
