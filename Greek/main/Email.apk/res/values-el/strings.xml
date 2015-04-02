@@ -460,6 +460,11 @@
      <string name="general_preference_text_zoom_small">Μικρό</string>
      <string name="general_preference_text_zoom_tiny">Πολύ μικρό</string>
      <string name="generic_attachment_problem">"Αδύνατη επισύναψη αρχείου."</string>
+     <string name="gmail_acceleration">Χρήση διακομιστή μεσολάβησης για τον λογαριασμό Gmail</string>
+     <string name="gmail_login_confirm_to_use_proxy">Χρήση διακομιστή μεσολάβησης για πρόσβαση του λογαριασμού σας στο Gmail;</string>
+     <string name="gmail_login_verify">Προσθήκη λογαριασμού Gmail</string>
+     <string name="gmail_web_login_go">OK</string>
+     <string name="gmail_web_login_required_message">Σύνδεση στο Gmail</string>
      <string name="head_only_enable_dialog_message">Μόνο ο τίτλος (αντί όλου του email) έχει ληφθεί χωρίς χρήση δεδομένων.</string>
      <string name="head_only_enable_dialog_nagative">Απόρριψη</string>
      <string name="head_only_enable_dialog_positive">Αποδοχή</string>
@@ -624,6 +629,7 @@
      <string name="notification_exchange_calendar_added">Προστέθηκε ημερολόγιο Exchange</string>
      <string name="ok">ΟΚ</string>
      <string name="okay_action">ΟΚ</string>
+     <string name="open_proxy_in_settings">"Το Gmail δεν είναι διαθέσιμο στην τρέχουσα τοποθεσία σας. Μπορείτε όμως, να στέλνετε και να λαμβάνετε μηνύματα από τα εισερχόμενά σας στο Gmail με την χρήση του διακομιστή μεσολάβησης αλληλογραφίας. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
      <string name="other_mail">Άλλο ταχυδρομείο</string>
      <string name="outbox_alert_button_confirm">Επεξεργασία</string>
      <string name="outbox_alert_button_no_resend">"Μην στείλεις"</string>
@@ -881,9 +887,11 @@
      <string name="updated_just_now">Μόλις ενημερώθηκαν</string>
      <string name="upload_log">Αποστολή αρχείων καταγραφής διαγνωστικών</string>
      <string name="upload_log_failed">Αποτυχία αποστολής αρχείων καταγραφής</string>
+     <string name="upload_log_no">Ακύρωση</string>
      <string name="upload_log_success">Επιτυχής αποστολή αρχείων καταγραφής</string>
      <string name="upload_log_title">Αποστολή αρχείων καταγραφής διαγνωστικών;</string>
      <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+     <string name="upload_log_yes">Αποστολή</string>
      <string name="uploading_logs">Αποστολή αρχείων καταγραφής…</string>
      <string name="validation_failed_prompt">Η επαλήθευση απέτυχε. Παρακαλώ ελέγξτε τις ρυθμίσεις του διακομιστή %s</string>
      <string name="veiled_address" />

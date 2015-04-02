@@ -11,6 +11,7 @@
      <string name="account_updating_device_failed">Η σύνδεση στο Χρυσό Οδηγό απέτυχε, παρακαλώ προσπαθήστε ξανά</string>
      <string name="account_verify_password">Χρησιμοποιείτε αυτή την υπηρεσία σε άλλη συσκευή. Για λόγους ασφαλείας, πρέπει να επαληθεύσετε τον λογαριασμό Mi σε αυτή την συσκευή.</string>
      <string name="account_yellowpage_favorite">Αγαπημένα</string>
+     <string name="account_yellowpage_followed">Επαληθευμένοι Λογαριασμοί</string>
      <string name="account_yellowpage_recent">Προβολή ιστορικού</string>
      <string name="agree">Συμφωνώ</string>
      <string name="all_services">Όλα</string>
@@ -109,6 +110,7 @@
      <string name="express_inquiry_internal_failure">"Παρουσιάστηκε σφάλμα.
 Παρακαλώ ελέγξτε τον αριθμό αποστολής."</string>
      <string name="express_inquiry_logistics">Επιλέξτε μια υπηρεσία ταχυμεταφοράς</string>
+     <string name="express_inquiry_logistics_prefix">Υπηρεσία courier: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Επιλέξτε άλλες εταιρείες ταχυμεταφορών</string>
      <string name="express_inquiry_no_history">Δεν υπάρχει ιστορικό</string>
      <string name="express_inquiry_no_result">Δεν υπάρχουν αποτελέσματα</string>
@@ -117,7 +119,7 @@
 Παρακαλώ ελέγξτε τον αριθμό αποστολής."</string>
      <string name="express_inquiry_provider_info">Υποστηρίζεται από</string>
      <string name="express_inquiry_serial_number_indication">Αριθμός αποστολής</string>
-     <string name="express_inquiry_serial_number_prefix">"Αριθμός: "</string>
+     <string name="express_inquiry_serial_number_prefix">"Αριθμός: %s"</string>
      <string name="express_inquiry_trace">Εντοπισμός παραγγελίας</string>
      <string name="express_inquiry_trace_device_login_notice">"Χρησιμοποιείτε αυτή την υπηρεσία σε άλλη συσκευή. Αν θέλετε να λαμβάνετε την κατάσταση της παραγγελίας από αυτή τη συσκευή, θα πρέπει να επαληθεύσετε το λογαριασμό σας Mi."</string>
      <string name="express_inquiry_trace_success">επιτυχής εντοπισμός</string>
@@ -129,7 +131,6 @@
      <string name="express_no_order_info">Δεν υπάρχουν πληροφορίες παραγγελίας</string>
      <string name="express_order_confirmation">Επιβεβαίωση της παραγγελίας</string>
      <string name="express_order_created_time">Ώρα παραγγελίας</string>
-     <string name="express_order_detail">Λεπτομέρειες</string>
      <string name="express_order_failed">Απέτυχε</string>
      <string name="express_order_info">Πληροφορίες παραγγελίας</string>
      <string name="express_order_internal_id">Αριθμός παραγγελίας</string>
@@ -173,14 +174,23 @@
      <string name="expresss_inquiry_frequently_used_logistics">Κοινό</string>
      <string name="fraud_number_online_identification">Αποκλεισμός τηλεπωλητών(απαιτείται σύνδεση στο Internet)</string>
      <string name="gallery">Άλμπουμ</string>
+     <string name="general_btn_follow">Ακολουθήστε</string>
+     <string name="general_btn_follow_ok">Ακολουθείτε</string>
      <string name="general_cancel_favorite_ok">Διαγράφηκε από τα αγαπημένα</string>
+     <string name="general_cancel_followed_ok">Δεν ακολουθείτε</string>
      <string name="general_delete_recent_ok">Διαγράφτηκαν πρόσφατα</string>
      <string name="general_favorite_ok">Αγαπημένο προστέθηκε</string>
      <string name="general_favorite_title">Αγαπημένα</string>
+     <string name="general_follow_hint">"Όταν ακολουθείτε %1$s, μπορείτε να λαμβάνετε ειδοποιήσεις από %1$s, και να πάρετε περισσότερες υπηρεσίες από %1$s.
+
+Επιβεβαιώστε ότι θέλετε να  ακολουθείτε αυτή τη σελίδα"</string>
+     <string name="general_follow_hint_title">Συμβουλή</string>
      <string name="general_menu_delete_recent">Διαγραφή πρόσφατων</string>
      <string name="general_menu_unfavorite">Διαγραφή από τα αγαπημένα</string>
+     <string name="general_menu_unfollow">Μην ακολουθείτε</string>
      <string name="general_no_yellow_page">Η λίστα είναι άδεια</string>
      <string name="general_recent_title">Πρόσφατα</string>
+     <string name="general_unfollow_hint">Να μην ακολουθείτε %1$s;</string>
      <string name="general_yellow_page_title">Γενικά</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
@@ -209,9 +219,11 @@
      <string name="menu_delete_call_log">Διαγραφή αρχείου κλήσεων</string>
      <string name="menu_delete_one">Διαγραφή από το αρχείο κλήσεων</string>
      <string name="menu_enroll_in_yellow_page">Εγγραφή στο Χρυσό Οδηγό Mi</string>
+     <string name="menu_follow_yellow_page">Ακολουθείστε</string>
      <string name="menu_remove_black_list">Διαγραφή από την λίστα φραγών</string>
      <string name="menu_remove_from_favorite">Διαγραφή από τα αγαπημένα</string>
      <string name="menu_save_contact">Αποθήκευση αριθμού στις επαφές</string>
+     <string name="menu_unfollow_yellow_page">Μην ακολουθείτε</string>
      <string name="minimum_price">από %d RMB</string>
      <string name="mishop_web_payment_title">Ολοκλήρωση συναλλαγής Mi Store</string>
      <string name="more_coupons">Όλα τα κουπόνια</string>
@@ -233,16 +245,18 @@
      <string name="no_price">Καμία πληροφορία τιμής</string>
      <string name="notify_connect_summary">Προτροπή για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
      <string name="notify_connect_title">Ειδοποίηση σύνδεσης στο Internet</string>
-     <string name="order_date_label">Ημερομηνία αγοράς: %s</string>
+     <string name="order_date_label">Ημερομηνία αγοράς:</string>
+     <string name="order_detail">Λεπτομέρειες</string>
      <string name="order_empty_hint">Δεν υπάρχουν παραγγελίες</string>
-     <string name="order_id_label">Αριθμός Παραγγελίας: %s</string>
+     <string name="order_id_label">Αριθμός Παραγγελίας:</string>
      <string name="order_merchant_title">Οι παραγγελίες μου</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Δεν βρέθηκε σχετική παραγγελία</string>
-     <string name="order_price_label">Συνολικό πληρωτέο ποσό: %s</string>
+     <string name="order_price_label">Συνολικό πληρωτέο ποσό:</string>
      <string name="order_product_name_label">"Όνομα Προϊόντος: "</string>
      <string name="order_status">%s</string>
-     <string name="order_status_label">Κατάσταση παραγγελίας: %s</string>
+     <string name="order_status_label">Κατάσταση παραγγελίας:</string>
+     <string name="order_type_recharge">Ανανέωση</string>
      <string name="packages_no_package">Δεν υπάρχουν συνιστώμενα πακέτα</string>
      <string name="packages_pay">Αγορά</string>
      <string name="packages_pay_confirm">Επιβεβαίωση</string>
@@ -277,6 +291,7 @@
      <string name="recharge_order_pay">Ολοκλήρωση συναλλαγής</string>
      <string name="recharge_pay">Επαναφόρτιση τώρα</string>
      <string name="recharge_pay_hint_license">Ειδοποίηση επαναφόρτισης</string>
+     <string name="recharge_payment_error">Η παραγγελία έκλεισε ή παρουσιάστηκε σφάλμα</string>
      <string name="recharge_payment_result_failed_summary">Προσπαθήστε ξανά</string>
      <string name="recharge_payment_result_failed_title">Αποτυχία επαναφόρτισης</string>
      <string name="recharge_payment_result_ok_summary">Επιβεβαιώστε ότι το ποσό αυτό αποτυπώνεται στο υπόλοιπο σας.</string>
@@ -338,4 +353,10 @@
      <string name="voicemail">Τηλεφωνητής</string>
      <string name="web_permission_message">%1$s χρειάζεται πρόσβαση σε %2$s για να λειτουργήσει σωστά.</string>
      <string name="yellow_page_website">Επίσημη ιστοσελίδα</string>
+     <string name="yellowpage_navigation_network_location_enable">Επιτρέψτε</string>
+     <string name="yellowpage_navigation_network_location_enable_later">Όχι τώρα</string>
+     <string name="yellowpage_navigation_network_location_enabled">Η πρόσβαση στην τοποθεσία σας είναι ενεργή. Μπορείτε να την απενεργοποιήσετε ανά πάσα στιγμή στις Ρυθμίσεις.</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_summary">Βελτίωση των αποτελεσμάτων αναζήτησης, επιτρέποντας στον Χρυσό Οδηγό την πρόσβαση σε πληροφορίες για την τοποθεσίας σας.</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_title">Πρόσβαση στην τοποθεσία</string>
+     <string name="yuan">Yuan</string>
 </resources>
