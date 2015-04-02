@@ -11,7 +11,6 @@
      <string name="administrative_disable">Υπηρεσιακό απενεργοποιημένο</string>
      <string name="administrative_enable">Υπηρεσιακό ενεργοποιημένο</string>
      <string name="advanced_settings">Προαιρετικές ρυθμίσεις</string>
-     <string name="advanced_settings_container">advanced settings container</string>
      <string name="advanced_settings_hide">▽ Αγγίξτε για απόκρυψη όλων</string>
      <string name="advanced_settings_show">▷ Αγγίξτε για εμφάνιση όλων</string>
      <string name="advertisements_disable">Διαφημίσεις ανενεργές</string>
@@ -34,7 +33,6 @@
      <string name="apn_settings">Ονόματα σημείου πρόσβασης</string>
      <string name="atr_disable">Αναφορές κυκλοφορίας ανενεργές</string>
      <string name="atr_enable">Αναφορές κυκλοφορίας ενεργές</string>
-     <string name="auth_username">AuthUserName</string>
      <string name="auth_username_summary">Όνομα χρήστη που χρησιμοποιείται για τον έλεγχο ταυτότητας</string>
      <string name="auth_username_title">Πιστοποίηση ταυτότητος χρήστη</string>
      <string name="auto_answer_delay_entries_delay_10s">10 δευτερόλεπτα</string>
@@ -200,9 +198,7 @@
      <string name="data_enabled">Δεδομένα ενεργά</string>
      <string name="deactivate_all">Ακύρωση όλων</string>
      <string name="default_call_type">CSVoice</string>
-     <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
-     <string name="default_transport">UDP</string>
      <string name="delete">Διαγραφή</string>
      <string name="deleteAllSimEntries">Διαγραφή επαφών SIM</string>
      <string name="deleteSimContacts">Διαγραφή επαφών SIM…</string>
@@ -239,10 +235,8 @@
      <string name="disable_fdn_ok">Ενεργοποίηση FDN</string>
      <string name="disable_pin_ok">Απενεργοποιημένο PIN κάρτας SIM.</string>
      <string name="disable_sim_pin">Απενεργοποίηση PIN κάρτας SIM</string>
-     <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Ίδιο με το όνομα χρήστη></string>
      <string name="display_name_title">Εμφανιζόμενο όνομα</string>
-     <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Διακομιστής</string>
      <string name="doneButton">Ολοκληρώθηκε</string>
      <string name="dtmf_tone_enable_title">Ήχοι αφής πληκτρολογίου</string>
@@ -565,7 +559,6 @@
 Δοκιμάστε ξανά ή καλέστε την υπηρεσία εξυπηρέτησης πελατών για περισσότερες επιλογές."</string>
      <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
      <string name="other_settings_category">Άλλα</string>
-     <string name="password">Password</string>
      <string name="password_changed">Ο κωδικός σας άλλαξε</string>
      <string name="password_title">Κωδικός</string>
      <string name="payphone">Καρτοκινητή</string>
@@ -599,7 +592,6 @@
      <string name="place_a_call3">Συνδρομή 3</string>
      <string name="pocket_mode_summary">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετηθεί σε μια τσέπη ή μαλακή θήκη</string>
      <string name="pocket_mode_title">Πρόληψη ατυχών κλήσεων</string>
-     <string name="port">Port</string>
      <string name="port_title">Αριθμός θύρας</string>
      <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
      <string name="preference_category_ringtone">Ήχος κλήσης &amp; Δόνηση</string>
@@ -723,9 +715,7 @@
      <string name="select_voice_call_sim">Επιλογή κάρτας SIM</string>
      <string name="sendSms">Αποστολή μηνύματος</string>
      <string name="send_button">Αποστολή</string>
-     <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Αποστολή KeepAlive</string>
-     <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Χρησιμοποιείται για εξερχόμενες κλήσεις</string>
      <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>
      <string name="set_smsc_address_error">Αποτυχία ορισμού αριθμού</string>
@@ -746,10 +736,7 @@
      <string name="sip_accounts">Κλήσεις μέσω Διαδικτύου (SIP) λογαριασμοί</string>
      <string name="sip_accounts_title">Λογαριασμοί SIP</string>
      <string name="sip_add_account_tip_text">Για να χρησιμοποιήσετε την κλήση μέσω διαδικτύου, προσθέσετε ένα λογαριασμό SIP</string>
-     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-     <string name="sip_always">SIP_ALWAYS</string>
      <string name="sip_always_send_keepalive">Αποστολή πάντα</string>
-     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
      <string name="sip_call_options_entry_1">Για όλες τις κλήσεις όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
      <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω του Διαδικτύου</string>
      <string name="sip_call_options_entry_3">Ρωτήστε για κάθε κλήση</string>
@@ -838,7 +825,6 @@
      <string name="throttle_help">Μάθετε περισσότερα</string>
      <string name="throttle_rate">Πολιτική τιμολόγησης δεδομένων</string>
      <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
-     <string name="transport">Protocol</string>
      <string name="transport_title">Τύπος μεταφοράς</string>
      <string name="tty_mode_entries_full">TTY Full</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -857,7 +843,6 @@
      <string name="uplmn_list_setting_add_plmn">Νέο PLMN</string>
      <string name="uplmn_list_setting_title">Προτιμώμενα δίκτυα</string>
      <string name="uplmn_numeric_is_empty">Εισάγετε ένα αναγνωριστικό δικτύου</string>
-     <string name="username">UserName</string>
      <string name="username_title">Όνομα Χρήστη</string>
      <string name="ussdRunning">Κωδικός USSD εκτελείται …</string>
      <string name="ussd_dialog_sep">----------</string>
