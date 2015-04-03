@@ -2186,8 +2186,8 @@
      <string name="status_bar_settings_show_carrier_summary">Προβολή μόνο στην οθόνη κλειδώματος</string>
      <string name="status_bar_settings_show_flow_info">Προβολή λεπτομ.ροής</string>
      <string name="status_bar_settings_show_home_message">Εικονίδιο εφαρμογής</string>
-     <string name="status_bar_settings_show_keyguard_notification">Πλωτές ειδοποιήσεις</string>
-     <string name="status_bar_settings_show_keyguard_notification_summary">Εμφάνιση πλωτών ειδοποιήσεων στην οθόνη κλειδώματος και οπουδήποτε αλλού</string>
+     <string name="status_bar_settings_show_keyguard_notification">Εμφάνιση στην οθόνη κλειδώματος</string>
+     <string name="status_bar_settings_show_keyguard_notification_summary">Εμφάνιση ειδοποιήσεων στην οθόνη κλειδώματος και στην αναπτυσσόμενη προεπισκόπηση</string>
      <string name="status_bar_settings_show_network_speed">Προβολή ταχύτητας σύνδεσης</string>
      <string name="status_bar_settings_show_notification_icon">Προβολή εικονιδίων ειδοποίησης</string>
      <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ. στιγμιότυπου</string>
