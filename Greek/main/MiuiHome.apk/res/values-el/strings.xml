@@ -40,6 +40,7 @@
      <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
      <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
      <string name="cloud_app_restore_title">Σε αναμονή</string>
+     <string name="configure_wallpaper">Ρυθμίσεις</string>
      <string name="confirm_btn_label">ΟΚ</string>
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τωρινή ταπετσαρία</string>
@@ -71,6 +72,7 @@
      <string name="failed_to_drop">Αποτυχία μετακίνησης!</string>
      <string name="failed_to_drop_widget_invalid">Λάθος Widget</string>
      <string name="failed_to_drop_widget_nospace">Αποτυχία μετακίνησης, χωρίς ελεύθερο χώρο!</string>
+     <string name="failed_to_load_image">"Αδυναμία φόρτωσης εικόνας"</string>
      <string name="folder_name">Φάκελος</string>
      <string name="frame_load_failed">Μη έγκυρη κορνίζα!</string>
      <string name="free_style_apps_title">Επιλογή εφαρμογής</string>
@@ -148,6 +150,7 @@
      <string name="menu_wallpaper">Ταπετσαρία</string>
      <string name="menu_workspace_preview">Προεπισκόπηση</string>
      <string name="mi_wallpaper">Ταπετσαρία MIUI</string>
+     <string name="mtzgadget_missing_text">"Δεν είναι πλέον διαθέσιμο. Παρακαλώ προσθέστε ξανά"</string>
      <string name="multi_selecting_tips">Για να πάρετε μια εφαρμογή, πατήστε το εικονίδιό της</string>
      <string name="online_wallpaper">Online</string>
      <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>

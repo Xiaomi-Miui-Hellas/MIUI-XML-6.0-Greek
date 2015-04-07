@@ -28,6 +28,16 @@
      <string name="buy_space_sulotion_title">Αγορά χώρου αποθήκευσης</string>
      <string name="calendar_sync">Ημερολόγιο</string>
      <string name="click_to_enabled">Πατήστε για συγχρονισμό.</string>
+     <string name="close_cloud_app_backup_cancel">Ακύρωση</string>
+     <string name="close_cloud_app_backup_close">Έξοδος</string>
+     <string name="close_cloud_app_backup_local_backup">Αντίγραφα</string>
+     <string name="close_cloud_app_backup_message">Η υπηρεσία Cloud App Backup θα σταματήσει και τα δεδομένα θα διαγραφούν την 1 Μαΐου 2015. Παρακαλούμε να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας το συντομότερο δυνατόν.</string>
+     <string name="close_cloud_app_backup_notification_message">Πατήστε για λεπτομέρειες</string>
+     <string name="close_cloud_app_backup_notification_title">Ειδοποίηση προσαρμογής υπηρεσίας Micloud</string>
+     <string name="close_cloud_app_backup_title">Ειδοποίηση απενεργοποίησης</string>
+     <string name="cloud_app_back_up_quit_notification_content1">"Η υπηρεσία Mi Cloud's App Backup θα διακοπεί για εφαρμογές τρίτων (εκτός MIUI). Σχετικά δεδομένα εφαρμογών, θα διαγραφούν από 1η του Μάη του 2015. Για να αποφύγετε την απώλεια σημαντικών πληροφοριών, πάρτε αντίγραφα ασφαλείας των δεδομένων σας σε τοπικό επίπεδο τώρα."</string>
+     <string name="cloud_app_back_up_quit_notification_content2">Επαφές, Μηνύματα, Άλμπουμ, και άλλες εφαρμογές του συστήματος MIUI δεν θα επηρεαστούν.</string>
+     <string name="cloud_app_back_up_quit_notification_content3">Λήψη αντιγράφων</string>
      <string name="cloud_back_up_button_ok">Αναγκαστική διακοπή</string>
      <string name="cloud_back_up_close_info">Πατήστε για αντίγραφο.</string>
      <string name="cloud_back_up_dialog_content">"Διακοπή αντιγράφου ασφαλείας σε εξέλιξη; Αν σταματήσετε τώρα, δεν θα είστε σε θέση να χρησιμοποιήσετε αυτό το αντίγραφο ασφαλείας για να επαναφέρετε εφαρμογές."</string>

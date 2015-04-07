@@ -293,6 +293,7 @@
      <string name="read_number">86 άρθρα</string>
      <string name="read_unit">άρθρα</string>
      <string name="repair">Επιδιόρθωση</string>
+     <string name="repair_loading_text">Φόρτωση…</string>
      <string name="replace_dns">Αυτόματη αντικατάσταση DNS</string>
      <string name="right_precent">100%</string>
      <string name="roaming_not_start_body">Οι εφαρμογές στην λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
