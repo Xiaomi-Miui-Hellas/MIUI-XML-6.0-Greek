@@ -68,6 +68,7 @@
      <string name="record_list_cloud_call">Εγγραφές κλήσεων Cloud</string>
      <string name="record_list_cloud_fm">Εγγραφές FM Cloud</string>
      <string name="record_list_fm">Εγγραφές FM</string>
+     <string name="record_mark_point">%s σημ.αναφοράς</string>
      <string name="record_name_hour">.</string>
      <string name="record_picker_title">Επιλέξτε μια εγγραφή</string>
      <string name="recording">Ηχογράφηση…</string>
