@@ -31,7 +31,7 @@
      <string name="aqi_quality_index_moderate">Μέτριο</string>
      <string name="aqi_quality_index_unhealthy">Ανθυγιεινό</string>
      <string name="bad_wallpaper_source_prompt">Δεν είναι δυνατή η φόρτωση της ταπετσαρίας</string>
-     <string name="buffering">Προ-φορτώνει…</string>
+     <string name="buffering">Φόρτωση…</string>
      <string name="cancel_action">Άκυρο</string>
      <string name="cancel_btn_label">Άκυρο</string>
      <string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>

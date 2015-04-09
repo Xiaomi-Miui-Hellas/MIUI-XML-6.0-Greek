@@ -1144,7 +1144,7 @@
      <string name="viewContactTitle">Στοιχεία επικοινωνίας</string>
      <string name="view_updates_from_group">Προβολή ενημερώσεων</string>
      <string name="voicemail">Τηλεφωνητής</string>
-     <string name="voicemail_buffering">Προ-φορτώνει…</string>
+     <string name="voicemail_buffering">Φόρτωση…</string>
      <string name="voicemail_fetching_content">Φόρτωση τηλεφωνητή…</string>
      <string name="voicemail_fetching_timout">"Δεν ήταν δυνατή η φόρτωση τηλεφωνητή."</string>
      <string name="voicemail_playback_error">"Δεν ήταν δυνατή η αναπαραγωγή του φωνητικού μηνύματος."</string>

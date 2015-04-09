@@ -38,8 +38,8 @@
      <string name="avg_score">%.1f</string>
      <string name="baodian">Pointer</string>
      <string name="bestv">BesTV</string>
-     <string name="buffering">Προ-φορτώνει …</string>
-     <string name="buffering_video_netplay_label_v5">Προ-φορτώνει …</string>
+     <string name="buffering">Φόρτωση …</string>
+     <string name="buffering_video_netplay_label_v5">Φόρτωση …</string>
      <string name="cancel">Ακύρωση</string>
      <string name="cancel_button">Ακύρωση</string>
      <string name="cancel_favorite_success">Χωρίς αστέρι</string>
@@ -289,7 +289,7 @@
      <string name="update_size_prefix"><CDATA>Μέγεθος:</CDATA></string>
      <string name="update_title">Διαθέσιμη ενημέρωση</string>
      <string name="update_to_count_ji">Ενημέρωση στο Επ. %d</string>
-     <string name="update_to_count_qi">Updated to %s</string>
+     <string name="update_to_count_qi">Ενημερώθηκε σε %s</string>
      <string name="update_version_prefix"><CDATA>Ενημέρωση στην έκδοση:</CDATA></string>
      <string name="updateapk_intro">Change log</string>
      <string name="updatedalready">Ενημέρωση</string>
@@ -300,7 +300,7 @@
      <string name="use_cellular_offlinedownload_summary">Εμφάνιση ειδοποίησης όταν γίνεται χρήση δεδομένων κινητής για τη λήψη βίντεο</string>
      <string name="use_cellular_offlinedownload_title">Ειδοποίηση λήψης</string>
      <string name="use_cellular_play_summary">Εμφάνιση ειδοποίησης όταν γίνεται χρήση δεδομένων κινητής για προβολή βίντεο</string>
-     <string name="use_cellular_play_title">Ειδοποίηση streaming</string>
+     <string name="use_cellular_play_title">Ειδοποίηση ροής</string>
      <string name="userdata_alert_content">Αυτή τη στιγμή, χρησιμοποιώντας το δίκτυο δεδομένων, μπορεί να έχει πολλές χρεώσεις, βέβαιοι ότι θέλετε να συνεχίσετε;</string>
      <string name="userdata_alert_ok">Συνεχίστε</string>
      <string name="userdata_alert_title">Χρήση δεδομένων</string>

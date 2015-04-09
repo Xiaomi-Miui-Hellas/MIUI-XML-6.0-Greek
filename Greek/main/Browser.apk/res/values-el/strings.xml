@@ -324,7 +324,7 @@
      <string name="media_error_timeout">Λήξη χρονικού ορίου μετάδοσης δικτύου</string>
      <string name="media_error_video_not_exist">Το βίντεο δεν υπάρχει</string>
      <string name="media_player_error_button">OK</string>
-     <string name="media_player_error_text_invalid_progressive_playback">Συγνώμη, αυτό το βίντεο δεν είναι έγκυρο για streaming στη συσκευή.</string>
+     <string name="media_player_error_text_invalid_progressive_playback">Συγνώμη, αυτό το βίντεο δεν είναι έγκυρο για ροή στη συσκευή.</string>
      <string name="media_player_error_text_unknown">Συγνώμη, αδύνατη η αναπαραγωγή βίντεο.</string>
      <string name="media_player_error_title">Αδύνατη η αναπαραγωγή βίντεο</string>
      <string name="media_player_loading_video">Φόρτωμα βίντεο</string>
