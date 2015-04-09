@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Shell</string>
+     <string name="bugreport_confirm">"Οι αναφορές σφαλμάτων περιέχουν στοιχεία από διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων των προσωπικών και ιδιωτικών πληροφοριών. Μοιραστείτε τις αναφορές σφαλμάτων μόνο με τις εφαρμογές και τα άτομα που εμπιστεύεστε."</string>
+     <string name="bugreport_confirm_repeat">Εμφάνιση αυτού του μηνύματος την επόμενη φορά</string>
+     <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
+     <string name="bugreport_finished_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
+</resources>

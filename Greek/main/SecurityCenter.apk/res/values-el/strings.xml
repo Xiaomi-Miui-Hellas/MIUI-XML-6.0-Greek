@@ -701,6 +701,7 @@
      <string name="toast_network_eror">Σφάλμα δικτύου</string>
      <string name="toast_network_switch">Αυτή η εφαρμογή μπορεί να συνδεθεί στο Internet</string>
      <string name="toast_removed_from_white_list">αφαιρούνται από την λίστα επιτρεπόμενων</string>
+     <string name="toast_resolve_apk_error">Επίλυση σφάλματος apk</string>
      <string name="toast_root_apply_accept">Παραχώρηση Root στο ( %s )</string>
      <string name="toast_root_apply_reject">Άρνηση Root στο ( %s )</string>
      <string name="toast_shortcut_install">Δημιουργία συντόμευσης</string>

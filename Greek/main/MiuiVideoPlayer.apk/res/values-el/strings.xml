@@ -32,7 +32,7 @@
     <string name="adjust_position_prev_media_notice">Τελευταίο</string>
     <string name="adjust_position_next_media_notice">Επόμενο</string>
     <string name="loading_video_netplay_label">Φόρτωση…</string>
-    <string name="buffering">Προφόρτωση…</string>
+    <string name="buffering">Φόρτωση…</string>
     <string name="airkan_video_playing_in">Το βίντεο είναι</string>
     <string name="airkan_video_playing">παίζει</string>
     <string name="airkan_tips">Κάντε κλικ εδώ για να προβάλει το βίντεο στο TV-Box ή στην TV</string>
@@ -48,7 +48,7 @@
     <string name="top_status_local_media">Τοπικά</string>
     <string name="top_status_online_media">Online</string>
     <string name="loading_video_netplay_label_v5">Φόρτωση…</string>
-    <string name="buffering_video_netplay_label_v5">Προ-φόρτωση…</string>
+    <string name="buffering_video_netplay_label_v5">Φόρτωση…</string>
     <string name="to_be_play_label_v5">"Μέχρι το επόμενο: "</string>
     <string name="episode_prefix">"επεισόδιο "</string>
     <string name="episode_suffix" />

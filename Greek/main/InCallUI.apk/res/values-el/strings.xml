@@ -52,7 +52,7 @@
     <string name="callFailed_noSignal">Δεν υπάρχει σήμα</string>
     <string name="callFailed_limitExceeded">Υπέρβαση ορίου ACM</string>
     <string name="callFailed_powerOff">Ανενεργός Πομποδέκτης</string>
-    <string name="callFailed_simError">Δεν υπάρχει κάρτα SIM ή λάθος SIM</string>
+    <string name="callFailed_simError">Δεν υπάρχει κάρτα SIM ή σφάλμα SIM</string>
     <string name="callFailed_outOfService">Εκτός περιοχής κάλυψης</string>
     <string name="callFailed_fdn_only">Οι εξερχόμενες κλήσεις περιορίζονται από το FDN.</string>
     <string name="callFailed_dialToUssd">Το αίτημα DIAL τροποποιήθηκε σε αίτημα USSD.</string>
@@ -69,7 +69,7 @@
     <string name="call_lost">Η κλήση έχει χαθεί.</string>
     <string name="ok">OK</string>
     <string name="audio_mode_speaker">Ηχείο</string>
-    <string name="audio_mode_earpiece">Ακουστικό handset</string>
+    <string name="audio_mode_earpiece">Ακουστικό</string>
     <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
@@ -112,7 +112,7 @@
     <string name="voicemail">Αυτόματος τηλεφωνητής</string>
     <string name="voicemail_abbreviated">ΑΤ:</string>
     <string name="networks">Πάροχοι δικτύων</string>
-    <string name="call_settings">Ρυθμίσεις κλήσης</string>
+    <string name="call_settings">Ρυθμίσεις κλήσεων</string>
     <string name="additional_gsm_call_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="sum_gsm_call_settings">Πρόσθετες ρυθμίσεις μόνο GSM κλήσεων</string>
     <string name="additional_cdma_call_settings">Πρόσθετες ρυθμίσεις CDMA κλήσεων</string>
@@ -312,9 +312,9 @@
     <string name="fdn_enabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι ενεργοί</string>
     <string name="fdn_disabled">Οι αριθμοί κλήσης καθορισμένων αριθμών είναι ανενεργοί</string>
     <string name="enable_fdn">Ενεργοποίηση FDN</string>
-    <string name="disable_fdn">Απενεργοποίηση του FDN</string>
+    <string name="disable_fdn">Απενεργοποίηση FDN</string>
     <string name="change_pin2">Αλλαγή του PIN2</string>
-    <string name="enable_fdn_ok">Απενεργοποίηση του FDN</string>
+    <string name="enable_fdn_ok">Απενεργοποίηση FDN</string>
     <string name="disable_fdn_ok">Ενεργοποίηση FDN</string>
     <string name="sum_fdn">Διαχείριση αριθμών κλήσης καθορισμένων αριθμών</string>
     <string name="sum_fdn_change_pin">Αλλαγή αριθμού PIN για πρόσβαση FDN</string>
