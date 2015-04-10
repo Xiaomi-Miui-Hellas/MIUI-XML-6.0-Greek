@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="ApplicationIconMore99">99+</string>
      <string name="Folders">Φάκελοι</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχή</string>
      <string name="abc_action_bar_up_description">Πλοήγηση πάνω</string>
@@ -14,12 +15,17 @@
      <string name="abc_searchview_description_voice">Ηχητική αναζήτηση</string>
      <string name="abc_shareactionprovider_share_with">Διαμοιρασμός με</string>
      <string name="abc_shareactionprovider_share_with_application">Διαμοιρασμός με %s</string>
+     <string name="account_cache_provider">Account Cache Provider</string>
      <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
      <string name="account_folder_list_summary_drafts">Πρόχειρα</string>
      <string name="account_folder_list_summary_inbox">Εισερχόμενα</string>
      <string name="account_folder_list_summary_outbox">Εξερχόμενα</string>
      <string name="account_folder_list_summary_starred">Με αστέρι</string>
+     <string name="account_manager_type_exchange">com.android.exchange</string>
+     <string name="account_manager_type_imap">com.android.email</string>
+     <string name="account_manager_type_legacy_imap">com.android.email</string>
+     <string name="account_manager_type_pop3">com.android.email</string>
      <string name="account_name_toast">"Δεν μπορώ να δημιουργήσω λογαριασμό. Ένας λογαριασμός με το ίδιο όνομα υπάρχει ήδη."</string>
      <string name="account_options_acc_title">Λογαριασμός</string>
      <string name="account_options_common_title">Κοινές ρυθμίσεις</string>
@@ -51,6 +57,7 @@
      <string name="account_settings_login_dialog_reason_fmt" formatted="false">Η σύνδεσή σας στο %s απέτυχε, ο διακομιστής απάντησε: %s Θέλετε να ενημερώσετε το όνομα χρήστη ή/και τον κωδικό σας;</string>
      <string name="account_settings_login_dialog_title">"Αδύνατη η σύνδεση"</string>
      <string name="account_settings_mail_check_frequency_label">Συχνότητα συγχρονισμού</string>
+     <string name="account_settings_mibill_resolve_label">Ανάλυση καταστάσεων email</string>
      <string name="account_settings_name_label">Το όνομά σας</string>
      <string name="account_settings_notifications">Ρυθμίσεις ειδοποιήσεων</string>
      <string name="account_settings_notify_label">Ειδοποιήσεις email</string>
@@ -76,6 +83,7 @@
      <string name="account_setup_account_type_headline">Τύπος λογαριασμού</string>
      <string name="account_setup_account_type_instructions">Τι είδους λογαριασμού είναι αυτός;</string>
      <string name="account_setup_account_type_title">Ρυθμίσεις λογαριασμού</string>
+     <string name="account_setup_address_label">Email</string>
      <string name="account_setup_autodiscover_dlg_authfail_message">Επιβεβαιώστε ότι όνομα χρήστη, κωδικός και ρυθμίσεις λογαριασμού είναι σωστά.</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Πρόβλημα με την ρύθμιση του λογαριασμό</string>
      <string name="account_setup_basics_email_label">Διεύθυνση Email</string>
@@ -262,7 +270,7 @@
      <string name="bottom_bar_more_quickreply">Γρήγορη απάντηση</string>
      <string name="bottom_bar_more_unread">Σήμανση ως μη αναγνωσμένου</string>
      <string name="bottom_bar_no_quickreply_toast">Χωρίς γρήγορη απάντηση</string>
-     <string name="bytes">%s b</string>
+     <string name="bytes">%s b</string>
      <string name="cancel">Άκυρο</string>
      <string name="cancel_action">Άκυρο</string>
      <string name="cancel_attachment">Άκυρο</string>
@@ -298,6 +306,7 @@
      <string name="collapse_recipient_details">Κατάρρευση των στοιχείων του δικαιούχου</string>
      <string name="colon">:</string>
      <string name="compose">Σύνθεση</string>
+     <string name="compose_help_context">compose</string>
      <string name="compose_send">Αποστολή</string>
      <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
      <string name="confirm">Επιβεβαίωση</string>
@@ -331,6 +340,7 @@
      <string name="contextmenu_send_mail">Αποστολή email</string>
      <string name="contextmenu_sharelink">Διαμοιρασμός συνδέσμου</string>
      <string name="contextmenu_sms_dot">SMS…</string>
+     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Μεταφέρθηκε στο %1$s</string>
      <string name="conversation_item_mark_read">Διαβασμένο</string>
      <string name="conversation_item_mark_unread">Αδιάβαστο</string>
@@ -399,12 +409,17 @@
      <string name="download_failed">"Αδύνατη λήψη. Ακουμπήστε για νέα προσπάθεια"</string>
      <string name="download_show_image">Λήψη και προβολή εικόνας</string>
      <string name="downloading_message_body">Λήψη…</string>
-     <string name="draft_count_format"> (%1$s)</string>
+     <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Κλείσιμο συρταριού πλοήγησης</string>
      <string name="drawer_open">Άνοιγμα συρταριού πλοήγησης</string>
+     <string name="eas_hotmail_email">hotmail.com</string>
+     <string name="eas_outlook_email">outlook.com</string>
+     <string name="eas_template">domain\\user</string>
      <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
-     <string name="elided_padding_token"> </string>
+     <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
+     <string name="email_package_name">com.android.email</string>
+     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>
      <string name="empty_email_tip">Δεν θα μπορούσε να στείλει άδειο Email</string>
      <string name="empty_spam">Άδειασμα Spam</string>
@@ -434,10 +449,24 @@
      <string name="flow_saved_dlg_message">%1$d νέα μηνύματα. Εξοικονομήθηκαν %2$s (δεδομένα κινητής).</string>
      <string name="flow_saved_dlg_title">Μείωσαν τη χρήση των δεδομένων σας</string>
      <string name="flow_saved_preference_total">Εξοικονομήθηκαν %1$s.</string>
+     <string name="folder_drafts_name_en0">Drafts</string>
+     <string name="folder_drafts_name_en1">Draft</string>
+     <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
      <string name="folder_icon_desc">Εικονίδιο του φακέλου</string>
+     <string name="folder_junk_name_en0">Junk</string>
+     <string name="folder_junk_name_en1">Bulk Mail</string>
      <string name="folder_picker_title">Επιλογέας φακέλου</string>
      <string name="folder_removed">Καταργήθηκε από %1$s</string>
+     <string name="folder_sent_name_en0">Sent</string>
+     <string name="folder_sent_name_en1">Sent Messages</string>
+     <string name="folder_sent_name_en2">Sent Message</string>
+     <string name="folder_sent_name_en3">Sent Items</string>
+     <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
      <string name="folder_shortcut_widget_label">Φάκελος email</string>
+     <string name="folder_trash_name_en0">Trash</string>
+     <string name="folder_trash_name_en1">Deleted Messages</string>
+     <string name="folder_trash_name_en2">Deleted Message</string>
+     <string name="folder_trash_name_en3">[Gmail]/Bin</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Προώθηση</string>
@@ -446,6 +475,7 @@
      <string name="forward_attribution_no_headers">---------- Προωθημένο μήνυμα ----------</string>
      <string name="forward_download_failed_ticker">"Αδύνατη προώθηση ενός ή παραπάνω συνημμένων."</string>
      <string name="forward_download_failed_title">Συνημμένο δεν προωθήθηκε</string>
+     <string name="forward_subject_label">Fwd:</string>
      <string name="from">Από</string>
      <string name="from_heading">"Από: "</string>
      <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
@@ -460,6 +490,11 @@
      <string name="general_preference_text_zoom_small">Μικρό</string>
      <string name="general_preference_text_zoom_tiny">Πολύ μικρό</string>
      <string name="generic_attachment_problem">"Αδύνατη επισύναψη αρχείου."</string>
+     <string name="gmail_acceleration">Χρήση διακομιστή μεσολάβησης για τον λογαριασμό Gmail</string>
+     <string name="gmail_login_confirm_to_use_proxy">Χρήση διακομιστή μεσολάβησης για πρόσβαση του λογαριασμού σας στο Gmail;</string>
+     <string name="gmail_login_verify">Προσθήκη λογαριασμού Gmail</string>
+     <string name="gmail_web_login_go">OK</string>
+     <string name="gmail_web_login_required_message">Σύνδεση στο Gmail</string>
      <string name="head_only_enable_dialog_message">Μόνο ο τίτλος (αντί όλου του email) έχει ληφθεί χωρίς χρήση δεδομένων.</string>
      <string name="head_only_enable_dialog_nagative">Απόρριψη</string>
      <string name="head_only_enable_dialog_positive">Αποδοχή</string>
@@ -482,9 +517,12 @@
      <string name="inline_picture_deleted">"Αδυναμία εύρεσης αυτής της εικόνας. Λήψη…"</string>
      <string name="inline_picture_download_complete">Η λήψη εικόνας inline ολοκληρώθηκε</string>
      <string name="input_password_prompt">Παρακαλώ εισάγετε τον κωδικό:</string>
+     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+     <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+     <string name="intent_exchange_package">com.android.exchange</string>
      <string name="invalid_recipient">Η διεύθυνση %s δεν είναι έγκυρη.</string>
      <string name="invalid_recipient_title">Σφάλμα Παραλήπτη</string>
-     <string name="kilobytes">%s kb</string>
+     <string name="kilobytes">%s kb</string>
      <string name="label_notification_ticker" formatted="false">%s: %s</string>
      <string name="load_from_remote">Συνέχεια της αναζήτησης στο διακομιστή</string>
      <string name="load_more">Φόρτωσε περισσότερα</string>
@@ -514,11 +552,25 @@
      <string name="mailbox_name_display_starred">Με αστέρι</string>
      <string name="mailbox_name_display_trash">Σκουπίδια</string>
      <string name="mailbox_name_display_unread">Αδιάβαστα</string>
+     <string name="mailbox_name_server_all_unread">Unread</string>
+     <string name="mailbox_name_server_drafts">Drafts</string>
+     <string name="mailbox_name_server_inbox">Inbox</string>
+     <string name="mailbox_name_server_junk">Junk</string>
+     <string name="mailbox_name_server_outbox">Outbox</string>
+     <string name="mailbox_name_server_sent">Sent</string>
+     <string name="mailbox_name_server_starred">Starred</string>
+     <string name="mailbox_name_server_trash">Trash</string>
      <string name="mailbox_settings_activity_title">Επιλογές συγχρονισμού</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Επιλογές συγχρονισμού (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Μέρες για συγχρονισμού email</string>
      <string name="mailbox_settings_sync_enabled_label">Συγχρονισμός του φακέλου</string>
      <string name="mailbox_settings_sync_enabled_summary">Τα μηνύματα θα ληφθούν όταν βρεθεί σύνδεση</string>
+     <string name="maileditor_fontsize_textitem1">8pt</string>
+     <string name="maileditor_fontsize_textitem2">10pt</string>
+     <string name="maileditor_fontsize_textitem3">12pt</string>
+     <string name="maileditor_fontsize_textitem4">14pt</string>
+     <string name="maileditor_fontsize_textitem5">16pt</string>
+     <string name="maileditor_fontsize_textitem6">18pt</string>
      <string name="main_help_context">ttl</string>
      <string name="manual_sync">Συγχρονίστε τώρα</string>
      <string name="mark_important">Ως σημαντικό</string>
@@ -538,7 +590,7 @@
      <string name="meeting_updated">Ανανεώθηκε: %s</string>
      <string name="meeting_when">Πότε: %s</string>
      <string name="meeting_where">Που: %s</string>
-     <string name="megabytes">%s mb</string>
+     <string name="megabytes">%s mb</string>
      <string name="menu_att_mgr">Συνημμένα</string>
      <string name="menu_att_mgr_order_default">Προκαθορισμένο</string>
      <string name="menu_att_mgr_order_mime">Ταξινόμηση κατά μορφή</string>
@@ -575,7 +627,7 @@
 "</string>
      <string name="message_compose_insert_quick_response_list_title">Εισαγωγή γρήγορης απάντησης</string>
      <string name="message_compose_insert_quick_response_menu_title">Εισαγωγή γρήγορης απάντησης</string>
-     <string name="message_count_spacer">  </string>
+     <string name="message_count_spacer">  </string>
      <string name="message_decode_error">Έτυχε ένα σφάλμα στην αποκωδικοποίηση του μηνύματος.</string>
      <string name="message_details_title">Λεπτομέρειες μηνύματος</string>
      <string name="message_discarded">Το μήνυμα απορρίφθηκε.</string>
@@ -587,9 +639,17 @@
      <string name="message_saved">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
      <string name="message_type_name">message</string>
      <string name="message_view_attachment_background_load">Θα γίνει λήψη ενός ή παραπάνω συνημμένων πριν την αποστολή του προωθημένου μηνύματός σας.</string>
+     <string name="mibill_privacy_policy_button1">Όχι τώρα</string>
+     <string name="mibill_privacy_policy_button2">Συμφωνώ</string>
+     <string name="mibill_privacy_policy_description">Το Mi Wallet θα αναλύσει όλες τις καταστάσεις email που λάβατε στην εφαρμογή Mail και θα διαχειριστεί όλους του λογαριασμούς πιστωτικών καρτών για σας. Αυτή η υπηρεσία είναι προεπιλεγμένα ανενεργή για εταιρικά γραμματοκιβώτια.</string>
+     <string name="mibill_privacy_policy_link">Συμφωνείτε <a href="https://www.mipay.com/res/doc/eula/email.html"> στους όρους παροχής υπηρεσιών λογαριασμών πιστωτικών καρτών</a></string>
+     <string name="mibill_privacy_policy_title">Mi Wallet: ανάλυση καταστάσεων email</string>
+     <string name="mock_content_provider">Mock Content Provider</string>
      <string name="more_atts_remaining">%1$d απομένουν</string>
      <string name="more_atts_total">%1$d συνημμένα</string>
      <string name="more_context">Περισσότερα</string>
+     <string name="more_string">+%1$s</string>
+     <string name="more_than_999">999+</string>
      <string name="move_to_selection_dialog_title">Μεταφέρθηκε σε άλλο φάκελο</string>
      <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
      <string name="mute">Σίγαση</string>
@@ -601,6 +661,7 @@
      <string name="next_action">Επόμενο</string>
      <string name="next_not_prompt">"Χωρίς προτροπή"</string>
      <string name="no">Όχι</string>
+     <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">Καμία εφαρμογή δεν μπορεί να ανοίξει το συνημμένο για προβολή.</string>
      <string name="no_application_found_title">Ανοίξτε αυτό το συνημμένο.</string>
      <string name="no_contacts">Χωρίς επαφές.</string>
@@ -624,6 +685,7 @@
      <string name="notification_exchange_calendar_added">Προστέθηκε ημερολόγιο Exchange</string>
      <string name="ok">ΟΚ</string>
      <string name="okay_action">ΟΚ</string>
+     <string name="open_proxy_in_settings">"Το Gmail δεν είναι διαθέσιμο στην τρέχουσα τοποθεσία σας. Μπορείτε όμως, να στέλνετε και να λαμβάνετε μηνύματα από τα εισερχόμενά σας στο Gmail με την χρήση του διακομιστή μεσολάβησης αλληλογραφίας. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
      <string name="other_mail">Άλλο ταχυδρομείο</string>
      <string name="outbox_alert_button_confirm">Επεξεργασία</string>
      <string name="outbox_alert_button_no_resend">"Μην στείλεις"</string>
@@ -699,6 +761,7 @@
      <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
      <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
      <string name="pop3_name">POP3</string>
+     <string name="prefDefault_autoAdvance">list</string>
      <string name="prefDialogTitle_conversationListIcon">Εικόνα αποστολέα</string>
      <string name="prefDialogTitle_removal_action">Αρχείο &amp; διαγραφή δράσεων</string>
      <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή email. Παρακαλώ κάντε ενεργοποίηση.</string>
@@ -763,9 +826,14 @@
      <string name="reply">Απάντηση</string>
      <string name="reply_all">Απάντηση όλων</string>
      <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
+     <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Απάντηση-σε:"</string>
      <string name="report">Αναφορά</string>
      <string name="report_phishing">Αναφορά ψευδούς</string>
+     <string name="report_rendering_improvement">Looks good</string>
+     <string name="report_rendering_improvement_desc">This message looks good.</string>
+     <string name="report_rendering_problem">Looks bad</string>
+     <string name="report_rendering_problem_desc">This message looks bad.</string>
      <string name="report_spam">Αναφορά spam</string>
      <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
      <string name="require_manual_sync_message">Είναι απενεργοποιημένος ο συγχρονισμός στο παρασκήνιο όταν βρίσκεστε σε roaming.</string>
@@ -778,7 +846,7 @@
      <string name="save_draft_failed">Αποτυχία αποθήκευσης πρόχειρου</string>
      <string name="save_power_summary">Εξοικονόμηση μπαταρίας στο προκαθορισμένο χρονικό διάστημα</string>
      <string name="save_power_title">Εξοικονόμηση μπαταρίας</string>
-     <string name="saved">Αποθηκεύτηκε, %s</string>
+     <string name="saved">Αποθηκεύτηκε, %s</string>
      <string name="saving">Αποθηκεύει…</string>
      <string name="sdcard_cannot_use">Η κάρτα αποθήκευσης δεν μπορεί να χρησιμοποιηθεί</string>
      <string name="search_attachment">Αναζήτηση</string>
@@ -807,7 +875,7 @@
      <string name="send_failed">"Το μήνυμα δε στάλθηκε."</string>
      <string name="sender_whitelist_cleared">"Οι εικόνες δεν θα εμφανίζονται αυτόματα."</string>
      <string name="senders_elided">..</string>
-     <string name="senders_split_token">, </string>
+     <string name="senders_split_token">, </string>
      <string name="sending">Αποστολή…</string>
      <string name="sending_message">Αποστολή μηνύματος …</string>
      <string name="sent_folder_selection_title">Επιλογή φακέλου απεσταλμένων του διακομιστή για %s</string>
@@ -835,12 +903,16 @@
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sort_attachment">Ταξινόμηση κατά</string>
      <string name="spaceChar">" "</string>
+     <string name="special_text_colon_en">:</string>
+     <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
+     <string name="special_text_sender_en">sender</string>
      <string name="status_network_error">Πρόβλημα σύνδεσης.</string>
      <string name="storage">Μνήμη</string>
      <string name="str_select_all">Επιλογή όλων</string>
      <string name="str_select_none">Αποεπιλογή όλων</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Θέμα</string>
+     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
      <string name="swipe_down_to_refresh">Σαρώστε προς τα κάτω για να ανανεώσετε</string>
      <string name="switch_as_tranditional_view">Παραδοσιακή Προβολή</string>
      <string name="sync_error">"Αδύνατος συγχρονισμός."</string>
@@ -861,6 +933,11 @@
      <string name="tip_cannot_switchview_in_unread_folder">Δεν είναι δυνατή η εναλλαγή προβολής σε λειτουργία συνάθροιση μη αναγνωσμένων μηνυμάτων</string>
      <string name="to">Προς</string>
      <string name="to_heading">"Προς: "</string>
+     <string name="toast_bar_fail_synchronization">Μη φυσιολογική σύνδεση δικτύου. Παρακαλώ δοκιμάστε ξανά αργότερα</string>
+     <string name="toast_bar_insufficient_memory_space">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο τηλέφωνο. Ο συγχρονισμός email απέτυχε</string>
+     <string name="toast_bar_invalid_account">Ο λογαριασμός έληξε. Παρακαλώ συνδεθείτε ξανά</string>
+     <string name="toast_bar_no_connection_network">Το δίκτυο δεν είναι συνδεδεμένο. Κάντε κλικ στην επιλογή Ρυθμίσεις</string>
+     <string name="toast_bar_open_gmail_synchronization">Να μην περιορίζεται πλέον η χρήση του Gmail. Κάντε κλικ για να το χρησιμοποιήσετε</string>
      <string name="too_large_to_attach_additional">Αρχείο δεν επισυνάφθηκε. Φτάσατε στο όριο %1$s.</string>
      <string name="too_large_to_attach_multiple">Αδύνατη επισύναψη σε ένα ή περισσότερα αρχεία. Όριο %1$s.</string>
      <string name="too_large_to_attach_single">"Αδύνατη επισύναψη αρχείου όταν σε %1$s."</string>
@@ -881,9 +958,11 @@
      <string name="updated_just_now">Μόλις ενημερώθηκαν</string>
      <string name="upload_log">Αποστολή αρχείων καταγραφής διαγνωστικών</string>
      <string name="upload_log_failed">Αποτυχία αποστολής αρχείων καταγραφής</string>
+     <string name="upload_log_no">Ακύρωση</string>
      <string name="upload_log_success">Επιτυχής αποστολή αρχείων καταγραφής</string>
      <string name="upload_log_title">Αποστολή αρχείων καταγραφής διαγνωστικών;</string>
      <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+     <string name="upload_log_yes">Αποστολή</string>
      <string name="uploading_logs">Αποστολή αρχείων καταγραφής…</string>
      <string name="validation_failed_prompt">Η επαλήθευση απέτυχε. Παρακαλώ ελέγξτε τις ρυθμίσεις του διακομιστή %s</string>
      <string name="veiled_address" />
@@ -903,9 +982,11 @@
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Παρακαλώ σύρετε από την κορυφή για να πάρετε την κοινοποίηση. Κάντε κλικ για να ολοκληρώσετε τη ρύθμιση της ασφάλειας.</string>
      <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
+     <string name="wait_help_context">wait</string>
      <string name="widget_all_mail">όλα τα μηνύματα</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Άλλο</string>
+     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Λάθος κωδικός!</string>
      <string name="yes">Ναι</string>
      <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
