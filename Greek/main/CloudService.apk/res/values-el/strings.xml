@@ -256,7 +256,6 @@
      <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
      <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
      <string name="sync_dspt_entrance_provision_confirm_close">"Μην χρησιμοποιείτε"</string>
-     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Mi Cloud</string>
      <string name="sync_dspt_entrance_provision_confirm_title">"Να μη γίνει χρήση του Mi Cloud;"</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Παραλείψτε αυτό το βήμα</u></string>
