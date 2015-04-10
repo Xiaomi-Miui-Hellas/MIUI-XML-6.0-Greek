@@ -215,4 +215,8 @@
      <string name="user_guide_for_notification">Έχει ληφθεί μια νέα ειδοποίηση, μπορείτε να σύρετε προς τα κάτω την μπάρα για λεπτομέρειες</string>
      <string name="user_guide_for_toggle">Η λίστα διακοπτών μπορεί να μετακινηθεί οριζοντίως</string>
      <string name="user_guide_for_toggle_list">Κλικ για επεξεργασία της λίστας διακοπτών</string>
+     <string name="vpn_text">Πατήστε για να δείτε τις ρυθμίσεις.</string>
+     <string name="vpn_text_long">Συνδεδεμένο στο %s. Πατήστε για να δείτε λεπτομέρειες.</string>
+     <string name="vpn_title">Το VPN ενεργοποιήθηκε</string>
+     <string name="vpn_title_long">Σύνδεση σε VPN μέσω %s</string>
 </resources>

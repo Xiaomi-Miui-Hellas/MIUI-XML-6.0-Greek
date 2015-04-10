@@ -32,7 +32,7 @@
      <string name="close_cloud_app_backup_close">Έξοδος</string>
      <string name="close_cloud_app_backup_local_backup">Αντίγραφα</string>
      <string name="close_cloud_app_backup_message">Η υπηρεσία Cloud App Backup θα σταματήσει και τα δεδομένα θα διαγραφούν την 1 Μαΐου 2015. Παρακαλούμε να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας το συντομότερο δυνατόν.</string>
-     <string name="close_cloud_app_backup_notification_message">Πατήστε για λεπτομέρειες</string>
+     <string name="close_cloud_app_backup_notification_message">Πατήστε για να δείτε λεπτομέρειες</string>
      <string name="close_cloud_app_backup_notification_title">Ειδοποίηση προσαρμογής υπηρεσίας Micloud</string>
      <string name="close_cloud_app_backup_title">Ειδοποίηση απενεργοποίησης</string>
      <string name="cloud_app_back_up_quit_notification_content1">"Η υπηρεσία Mi Cloud's App Backup θα διακοπεί για εφαρμογές τρίτων (εκτός MIUI). Σχετικά δεδομένα εφαρμογών, θα διαγραφούν από 1η του Μάη του 2015. Για να αποφύγετε την απώλεια σημαντικών πληροφοριών, πάρτε αντίγραφα ασφαλείας των δεδομένων σας σε τοπικό επίπεδο τώρα."</string>
@@ -80,7 +80,8 @@
      <string name="find_device_disabled_title">Απενεργοποιημένο</string>
      <string name="find_device_disabling">Απενεργοποίηση…</string>
      <string name="find_device_dspt">Κλειδώστε ή καθαρίστε αυτή τη συσκευή από απόσταση.</string>
-     <string name="find_device_dspt_provision">"Εάν χάσετε την συσκευή σας, μπορείτε να πάτε στο "</string>
+     <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, μπορείτε να πάτε στο %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
+"</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" για εντοπισμό, κλείδωμα ή επαναφορά της.
@@ -252,8 +253,13 @@
      <string name="sub_sync_item_sms_title_wifi_only">Χρήση μόνο Wi-Fi για συγχρονισμό MMS</string>
      <string name="success_upgraded_space">%s προστέθηκαν</string>
      <string name="sync_dspt">Ενεργοποίηση συγχρονισμού</string>
-     <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές και μηνύματα ή να εντοπίστε τη συσκευή σας.</string>
+     <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
      <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
+     <string name="sync_dspt_entrance_provision_confirm_close">"Μην χρησιμοποιείτε"</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
+     <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Mi Cloud</string>
+     <string name="sync_dspt_entrance_provision_confirm_title">"Να μη γίνει χρήση του Mi Cloud;"</string>
+     <string name="sync_dspt_entrance_provision_skip"><u>Παραλείψτε αυτό το βήμα</u></string>
      <string name="sync_dspt_provision">"Το Mi Cloud συγχρονίζει τις φωτογραφίες σας, μηνύματα SMS, σημειώσεις, επαφές, μητρώο κλήσεων, και πολλά άλλα μεταξύ των συσκευών σας. Μπορείτε επίσης να έχετε πρόσβαση σε αυτά από οποιοδήποτε πρόγραμμα περιήγησης στο "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
      <string name="sync_dspt_provision2_int">mi.com/micloud</string>
