@@ -7,6 +7,7 @@
      <string name="action_item_add_to_new_playlist">Νέα</string>
      <string name="action_item_delete">Διαγραφή</string>
      <string name="action_item_download">Λήψη</string>
+     <string name="action_item_favorite">Αγαπημένο</string>
      <string name="action_item_hide">Απόκρυψη</string>
      <string name="action_item_remove">Διαγραφή</string>
      <string name="action_item_send">Αποστολή</string>
@@ -62,6 +63,7 @@
      <string name="disallow_add_to_personal_radio">Δεν μπορείτε να προσθέσετε τραγούδια σε ένα προσωπικό ραδιοφωνικό σταθμό</string>
      <string name="done">Ολοκληρώθηκε</string>
      <string name="download">Λήψη</string>
+     <string name="download_all_song">Λήψη όλων</string>
      <string name="download_auto_after_favorite_summary">"Αυτόματη λήψη τραγουδιών που έχετε χαρακτηρίσει ως αγαπημένα</string>
      <string name="download_auto_after_favorite_title">Λήψη αγαπημένων</string>
      <string name="download_auto_cancel">Όχι λήψη των αγαπημένων</string>
@@ -183,6 +185,7 @@
      <string name="modify_progress">Επεξ.στίχων σε εξέλιξη</string>
      <string name="modify_progress_helper">Σύρτε πάνω και κάτω για να χρονίσετε τους στίχους</string>
      <string name="modify_song_info">Επεξ.πληροφοριών τραγουδιού</string>
+     <string name="more_about_artist">Περισσότερα για %s</string>
      <string name="music_browser_label">Μουσική</string>
      <string name="music_filter">Φιλτράρετε τα αρχεία ήχου</string>
      <string name="music_quality">Ποιότητα μουσικής</string>
@@ -219,6 +222,7 @@
      <string name="payment_fail">Αποτυχία πληρωμής!</string>
      <string name="payment_success">Επιτυχία πληρωμής!</string>
      <string name="period_format">%1$s-%2$s</string>
+     <string name="play_all_song">Αναπαραγωγή όλων</string>
      <string name="playback_failed_no_title_by_bad_file">Το τραγούδι δεν μπορεί να αναπαραχθεί. δεν υποστηρίζεται ο τύπος του αρχείου ή το αρχείο δεν υπάρχει.</string>
      <string name="playlist_deleted_message">Διαγραφή λίστας.</string>
      <string name="playlist_renamed_message">Μετονομασία λίστας.</string>
