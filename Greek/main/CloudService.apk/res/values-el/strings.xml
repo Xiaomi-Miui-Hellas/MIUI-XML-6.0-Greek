@@ -256,6 +256,7 @@
      <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
      <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
      <string name="sync_dspt_entrance_provision_confirm_close">"Μην χρησιμοποιείτε"</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">"Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Mi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Mi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα."</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Mi Cloud</string>
      <string name="sync_dspt_entrance_provision_confirm_title">"Να μη γίνει χρήση του Mi Cloud;"</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Παραλείψτε αυτό το βήμα</u></string>
