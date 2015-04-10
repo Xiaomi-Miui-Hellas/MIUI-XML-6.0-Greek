@@ -15,7 +15,6 @@
      <string name="abc_searchview_description_voice">Ηχητική αναζήτηση</string>
      <string name="abc_shareactionprovider_share_with">Διαμοιρασμός με</string>
      <string name="abc_shareactionprovider_share_with_application">Διαμοιρασμός με %s</string>
-     <string name="account_cache_provider">Account Cache Provider</string>
      <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
      <string name="account_folder_list_summary_drafts">Πρόχειρα</string>
@@ -306,7 +305,6 @@
      <string name="collapse_recipient_details">Κατάρρευση των στοιχείων του δικαιούχου</string>
      <string name="colon">:</string>
      <string name="compose">Σύνθεση</string>
-     <string name="compose_help_context">compose</string>
      <string name="compose_send">Αποστολή</string>
      <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
      <string name="confirm">Επιβεβαίωση</string>
@@ -340,7 +338,6 @@
      <string name="contextmenu_send_mail">Αποστολή email</string>
      <string name="contextmenu_sharelink">Διαμοιρασμός συνδέσμου</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Μεταφέρθηκε στο %1$s</string>
      <string name="conversation_item_mark_read">Διαβασμένο</string>
      <string name="conversation_item_mark_unread">Αδιάβαστο</string>
@@ -414,12 +411,10 @@
      <string name="drawer_open">Άνοιγμα συρταριού πλοήγησης</string>
      <string name="eas_hotmail_email">hotmail.com</string>
      <string name="eas_outlook_email">outlook.com</string>
-     <string name="eas_template">domain\\user</string>
      <string name="edit_quick_response_dialog">Γρήγορη απάντηση</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
      <string name="email_package_name">com.android.email</string>
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>
      <string name="empty_email_tip">Δεν θα μπορούσε να στείλει άδειο Email</string>
      <string name="empty_spam">Άδειασμα Spam</string>
@@ -475,7 +470,6 @@
      <string name="forward_attribution_no_headers">---------- Προωθημένο μήνυμα ----------</string>
      <string name="forward_download_failed_ticker">"Αδύνατη προώθηση ενός ή παραπάνω συνημμένων."</string>
      <string name="forward_download_failed_title">Συνημμένο δεν προωθήθηκε</string>
-     <string name="forward_subject_label">Fwd:</string>
      <string name="from">Από</string>
      <string name="from_heading">"Από: "</string>
      <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
@@ -552,14 +546,6 @@
      <string name="mailbox_name_display_starred">Με αστέρι</string>
      <string name="mailbox_name_display_trash">Σκουπίδια</string>
      <string name="mailbox_name_display_unread">Αδιάβαστα</string>
-     <string name="mailbox_name_server_all_unread">Unread</string>
-     <string name="mailbox_name_server_drafts">Drafts</string>
-     <string name="mailbox_name_server_inbox">Inbox</string>
-     <string name="mailbox_name_server_junk">Junk</string>
-     <string name="mailbox_name_server_outbox">Outbox</string>
-     <string name="mailbox_name_server_sent">Sent</string>
-     <string name="mailbox_name_server_starred">Starred</string>
-     <string name="mailbox_name_server_trash">Trash</string>
      <string name="mailbox_settings_activity_title">Επιλογές συγχρονισμού</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Επιλογές συγχρονισμού (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Μέρες για συγχρονισμού email</string>
@@ -644,7 +630,6 @@
      <string name="mibill_privacy_policy_description">Το Mi Wallet θα αναλύσει όλες τις καταστάσεις email που λάβατε στην εφαρμογή Mail και θα διαχειριστεί όλους του λογαριασμούς πιστωτικών καρτών για σας. Αυτή η υπηρεσία είναι προεπιλεγμένα ανενεργή για εταιρικά γραμματοκιβώτια.</string>
      <string name="mibill_privacy_policy_link">Συμφωνείτε <a href="https://www.mipay.com/res/doc/eula/email.html"> στους όρους παροχής υπηρεσιών λογαριασμών πιστωτικών καρτών</a></string>
      <string name="mibill_privacy_policy_title">Mi Wallet: ανάλυση καταστάσεων email</string>
-     <string name="mock_content_provider">Mock Content Provider</string>
      <string name="more_atts_remaining">%1$d απομένουν</string>
      <string name="more_atts_total">%1$d συνημμένα</string>
      <string name="more_context">Περισσότερα</string>
@@ -761,7 +746,6 @@
      <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
      <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">list</string>
      <string name="prefDialogTitle_conversationListIcon">Εικόνα αποστολέα</string>
      <string name="prefDialogTitle_removal_action">Αρχείο &amp; διαγραφή δράσεων</string>
      <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή email. Παρακαλώ κάντε ενεργοποίηση.</string>
@@ -826,14 +810,9 @@
      <string name="reply">Απάντηση</string>
      <string name="reply_all">Απάντηση όλων</string>
      <string name="reply_attribution" formatted="false">Την %s, %s έγραψε:</string>
-     <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Απάντηση-σε:"</string>
      <string name="report">Αναφορά</string>
      <string name="report_phishing">Αναφορά ψευδούς</string>
-     <string name="report_rendering_improvement">Looks good</string>
-     <string name="report_rendering_improvement_desc">This message looks good.</string>
-     <string name="report_rendering_problem">Looks bad</string>
-     <string name="report_rendering_problem_desc">This message looks bad.</string>
      <string name="report_spam">Αναφορά spam</string>
      <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
      <string name="require_manual_sync_message">Είναι απενεργοποιημένος ο συγχρονισμός στο παρασκήνιο όταν βρίσκεστε σε roaming.</string>
@@ -982,11 +961,9 @@
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Παρακαλώ σύρετε από την κορυφή για να πάρετε την κοινοποίηση. Κάντε κλικ για να ολοκληρώσετε τη ρύθμιση της ασφάλειας.</string>
      <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
-     <string name="wait_help_context">wait</string>
      <string name="widget_all_mail">όλα τα μηνύματα</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Άλλο</string>
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Λάθος κωδικός!</string>
      <string name="yes">Ναι</string>
      <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
