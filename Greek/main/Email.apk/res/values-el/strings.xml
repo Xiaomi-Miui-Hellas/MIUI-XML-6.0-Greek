@@ -2,6 +2,9 @@
 <resources>
      <string name="ApplicationIconMore99">99+</string>
      <string name="Folders">Φάκελοι</string>
+     <string name="SMTP_independent_verification_text">Ανεξάρτητη επαλήθευση SMTP</string>
+     <string name="SMTP_password_text">Κωδικός πρόσβασης</string>
+     <string name="SMTP_username_text">Όνομα χρήστη</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχή</string>
      <string name="abc_action_bar_up_description">Πλοήγηση πάνω</string>
      <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -458,6 +461,7 @@
      <string name="folder_sent_name_en3">Sent Items</string>
      <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
      <string name="folder_shortcut_widget_label">Φάκελος email</string>
+     <string name="folder_synchronization_mail_settings">Ρυθμίσεις συγχρονισμού φακέλων αλληλογραφίας</string>
      <string name="folder_trash_name_en0">Trash</string>
      <string name="folder_trash_name_en1">Deleted Messages</string>
      <string name="folder_trash_name_en2">Deleted Message</string>

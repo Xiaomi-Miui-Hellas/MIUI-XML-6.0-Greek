@@ -507,6 +507,7 @@
      <string name="storage_limits_message">Περιορισμός του αριθμού των μηνυμάτων που μπορείτε να αποθηκεύσετε ανά συνομιλία;</string>
      <string name="storage_limits_setting">Ορισμός ορίων</string>
      <string name="storage_limits_setting_dismiss">Χωρίς όρια</string>
+     <string name="storage_unavailable">Δεν υπάρχει διαθέσιμος χώρος</string>
      <string name="subject_hint">Θέμα</string>
      <string name="subject_label">"Θέμα: "</string>
      <string name="text_in_popup_saved_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
