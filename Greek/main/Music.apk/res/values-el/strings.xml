@@ -41,6 +41,7 @@
      <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
      <string name="data_usage_warning">Προειδοποίηση χρήσης δεδομένων!</string>
      <string name="data_usage_warning_summary">Η Χρήση δεδομένων κινητής τηλεφωνίας σας σε ροή υψηλότερης ποιότητας μουσικής, μπορεί να αυξήσει το κόστος χρήσης των δεδομένων σας.</string>
+     <string name="delete">Διαγραφή</string>
      <string name="delete_file_as_well">Διαγραφή και του τοπικού αρχείου επίσης</string>
      <string name="delete_file_end">Διαγραφή των αρχείων τελείως</string>
      <string name="delete_file_start">Έναρξη διαγραφής των επιλεγμένων αρχείων</string>
@@ -218,6 +219,7 @@
      <string name="ok">OK</string>
      <string name="online_music">Online</string>
      <string name="online_playlist_is_empty">Κενή λίστα αναπαραγωγής!</string>
+     <string name="only_online_can_select_quality">Μόνο σε online τραγούδι μπορείτε να επιλέξετε την ποιότητα</string>
      <string name="order_process_fail">"Αδυναμία έγκρισης του λογαριασμού σας. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά"</string>
      <string name="payment_fail">Αποτυχία πληρωμής!</string>
      <string name="payment_success">Επιτυχία πληρωμής!</string>
@@ -235,6 +237,7 @@
      <string name="project_device_mobile">Φορητή συσκευή</string>
      <string name="quit_warining">Η συσκευή αναπαραγωγής θα σταματήσει μετά από %d λεπτό(ά)</string>
      <string name="recommend_fragment_title">Θέμα</string>
+     <string name="remove">Αφαίρεση</string>
      <string name="retry">Δοκιμή ξανά</string>
      <string name="ringtone_not_support">"Το φορμά του τραγουδιού δεν υποστηρίζεται"</string>
      <string name="search_album">Αναζήτηση άλμπουμ Online</string>
@@ -269,6 +272,9 @@
      <string name="sleep_mode_title">Σταματήστε την αναπαραγωγή μετά από τον χρόνο που πέρασε</string>
      <string name="song_name">Τραγούδι</string>
      <string name="song_not_find">"Δεν μπόρεσε να βρεθεί το τραγούδι. Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά."</string>
+     <string name="sort_by_language">Γλώσσα</string>
+     <string name="sort_by_name">Όνομα</string>
+     <string name="sort_by_time">Ημερομηνία</string>
      <string name="source_from">Πηγή από : %1$s</string>
      <string name="start_to_play">Αναπαραγωγή</string>
      <string name="stream_quality">Ποιότητα ροής</string>
@@ -281,7 +287,6 @@
      <string name="tab_local_track_list">Τραγούδια</string>
      <string name="tab_track_list">Κομμάτι</string>
      <string name="take_effect_afater_restart">Θα χρειαστεί να κάνετε επανεκκίνηση της εφαρμογής Μουσική, για να τεθεί σε ισχύ αυτή η ρύθμιση.</string>
-     <string name="today_update">Η Μουσική ενημερώθηκε</string>
      <string name="track_list_control_download">Λήψη</string>
      <string name="track_list_control_edit_add_tracks">Προσθέστε τραγούδια</string>
      <string name="track_list_control_edit_delete_playlist">Μετονομασία</string>
