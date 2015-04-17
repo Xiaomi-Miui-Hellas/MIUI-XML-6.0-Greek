@@ -866,7 +866,7 @@
      <string name="voicemail_settings_number_hint">Εισάγετε τον αριθμό του αυτόματου τηλεφωνητή</string>
      <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
      <string name="voicemail_settings_number_title">Αριθμός αυτόματου τηλεφωνητή</string>
-     <string name="voip_setting">Ρυθμίσεις VOIP</string>
+     <string name="voip_setting">Ρυθμίσεις VoIP</string>
      <string name="wrong_password">Ο κωδικός που δώσατε είναι λανθασμένος</string>
      <string name="xdivert_button">Ρυθμίσεις x-Diver</string>
      <string name="xdivert_setting">Ρυθμίσεις x-Divert</string>
