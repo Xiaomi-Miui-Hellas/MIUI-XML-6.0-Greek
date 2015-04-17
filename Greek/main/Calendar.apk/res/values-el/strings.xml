@@ -145,7 +145,7 @@
   <string name="local_calendar_display_name">Τοπικό ημερολόγιο</string>
   <string name="local_owner_account_name">Τοπικός λογαριασμός</string>
   <string name="lunar_date">Σεληνιακή Ημερομηνία</string>
-  <string name="menu_about_preferences">Περί του Ημερολογίου</string>
+  <string name="menu_about_preferences">Σχετικά με το Ημερολόγιο</string>
   <string name="menu_general_preferences">Γενικές ρυθμίσεις</string>
   <string name="menu_preferences">Ρυθμίσεις</string>
   <string name="menu_select_visible_calendars">Ημερολόγια για προβολή</string>
@@ -190,7 +190,7 @@
   <string name="pref_title_alert_remind">Αναδυόμενη υπενθύμιση</string>
   <string name="pref_title_no_remind">Χωρίς υπενθύμιση</string>
   <string name="pref_title_notification_remind">Ειδοποίηση υπενθύμισης</string>
-  <string name="preferences_about_title">Περί</string>
+  <string name="preferences_about_title">Σχετικά</string>
   <string name="preferences_alerts_popup_title">Αναδυόμενη ειδοποίηση</string>
   <string name="preferences_alerts_ringtone_title">Ήχος</string>
   <string name="preferences_alerts_title">Ειδοποιήσεις</string>
