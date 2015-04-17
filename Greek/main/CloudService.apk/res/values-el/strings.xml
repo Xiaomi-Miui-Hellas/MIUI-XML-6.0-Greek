@@ -3,6 +3,7 @@
      <string name="access_denied">Δεν επιτρέπεται η πρόσβαση</string>
      <string name="account">Λογαριασμός</string>
      <string name="activate">Ενεργοποίηση</string>
+     <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VoIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
      <string name="activating">Ενεργοποίηση…</string>
      <string name="alert_notif_title_dspt">Χωρίς συγχρονισμό</string>
      <string name="antispam_sync">Ρυθμίσεις Μην Ενοχλείτε</string>
@@ -33,7 +34,7 @@
      <string name="close_cloud_app_backup_local_backup">Αντίγραφα</string>
      <string name="close_cloud_app_backup_message">Η υπηρεσία Cloud App Backup θα σταματήσει και τα δεδομένα θα διαγραφούν την 1 Μαΐου 2015. Παρακαλούμε να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας το συντομότερο δυνατόν.</string>
      <string name="close_cloud_app_backup_notification_message">Πατήστε για να δείτε λεπτομέρειες</string>
-     <string name="close_cloud_app_backup_notification_title">Ειδοποίηση προσαρμογής υπηρεσίας Micloud</string>
+     <string name="close_cloud_app_backup_notification_title">Ειδοποίηση προσαρμογής υπηρεσίας Mi Cloud</string>
      <string name="close_cloud_app_backup_title">Ειδοποίηση απενεργοποίησης</string>
      <string name="cloud_app_back_up_quit_notification_content1">"Η υπηρεσία Mi Cloud's App Backup θα διακοπεί για εφαρμογές τρίτων (εκτός MIUI). Σχετικά δεδομένα εφαρμογών, θα διαγραφούν από 1η του Μάη του 2015. Για να αποφύγετε την απώλεια σημαντικών πληροφοριών, πάρτε αντίγραφα ασφαλείας των δεδομένων σας σε τοπικό επίπεδο τώρα."</string>
      <string name="cloud_app_back_up_quit_notification_content2">Επαφές, Μηνύματα, Άλμπουμ, και άλλες εφαρμογές του συστήματος MIUI δεν θα επηρεαστούν.</string>
@@ -213,7 +214,9 @@
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
      <string name="mx_dspt_provision_privacy">"Αυτή η υπηρεσία μπορεί να ζητήσει τον αριθμό του τηλεφώνου σας. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.
 Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές ΜΙ."</string>
+     <string name="mx_dspt_provision_with_voip">Καλέστε άλλους χρήστες MIUI δωρεάν, με χρήση της σύνδεσής σας στο Internet. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.</string>
      <string name="mx_sub_dspt_provision">Mi Message</string>
+     <string name="mx_sub_dspt_provision_with_voip">Κλήσεις μέσω διαδικτύου</string>
      <string name="next">Επόμενο</string>
      <string name="noRemind">Μην μου το θυμίζεις</string>
      <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
@@ -302,6 +305,8 @@
      <string name="vcode">Κωδικός επαλήθευσης</string>
      <string name="verify">Επαλήθευση</string>
      <string name="view_storage_title">Χώρος αποθήκευσης</string>
+     <string name="voip_choose_sim">Επιλέξτε τον αριθμό τηλεφώνου για να ενεργοποιήσετε το Mi Voice</string>
+     <string name="voip_dspt">Mi Voice</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>

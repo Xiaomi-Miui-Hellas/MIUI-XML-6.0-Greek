@@ -117,7 +117,6 @@
      <string name="edit">Επεξεργασία</string>
      <string name="edit_comment">Προσθέστε σχόλιο</string>
      <string name="empty_data">Σφάλμα φόρτωσης</string>
-     <string name="empty_keyword_hint">Η λέξη-κλειδί δεν μπορεί να είναι κενή</string>
      <string name="episode_suffix">Eπ. %d</string>
      <string name="error_empty_filter_title">Κανένα αποτέλεσμα</string>
      <string name="error_empty_title">Κάτι πήγε στραβά</string>

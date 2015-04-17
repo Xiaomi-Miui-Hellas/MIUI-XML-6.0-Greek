@@ -1486,6 +1486,9 @@
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Βασική έκδοση</string>
+     <string name="music_dolby_mode_movie">Ταινία</string>
+     <string name="music_dolby_mode_music">Μουσική</string>
+     <string name="music_dolby_mode_off">Ανενεργό</string>
      <string name="music_equalizer">Ισοσταθμιστής</string>
      <string name="music_equalizer_summary">Ρυθμίστε επιμέρους τον ήχο για τα διάφορα είδη μουσικής</string>
      <string name="music_headphone_settings">Επιλογή τύπου ακουστικών</string>
@@ -1510,6 +1513,7 @@
      <string name="music_hifi_volume">Ένταση Hi-Fi</string>
      <string name="music_mi_effect_summary">Χρήση της βελτίωσης ήχου για το ηχείο</string>
      <string name="music_mi_effect_title">Βελτίωση ήχου Mi</string>
+     <string name="music_title_dolby_control">DOLBY</string>
      <string name="musicfx_title">Μουσικά εφέ</string>
      <string name="mvno_match_data">MVNO τιμή</string>
      <string name="mvno_type">MVNO τύπος</string>
