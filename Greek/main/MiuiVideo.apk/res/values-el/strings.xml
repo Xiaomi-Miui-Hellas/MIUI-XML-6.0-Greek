@@ -31,6 +31,7 @@
      <string name="all_episode">Όλα τα Επεισόδια</string>
      <string name="app_latest_version">Η εφαρμογή είναι ήδη η πιο πρόσφατη έκδοση</string>
      <string name="app_name">Βίντεο</string>
+     <string name="app_update_background">Αναβαθμίστε την εφαρμογή σας στο παρασκήνιο</string>
      <string name="app_upgrade_version">Νέα έκδοση</string>
      <string name="app_version">Έκδοση Εφαρμογής</string>
      <string name="authenticated_failed">Αποτυχία εισόδου</string>
@@ -117,6 +118,7 @@
      <string name="edit">Επεξεργασία</string>
      <string name="edit_comment">Προσθέστε σχόλιο</string>
      <string name="empty_data">Σφάλμα φόρτωσης</string>
+     <string name="empty_keyword_hint">Η λέξη-κλειδί δεν μπορεί να είναι κενή</string>
      <string name="episode_suffix">Eπ. %d</string>
      <string name="error_empty_filter_title">Κανένα αποτέλεσμα</string>
      <string name="error_empty_title">Κάτι πήγε στραβά</string>
