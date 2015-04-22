@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>Το παρόν δίκτυο είναι πολύ σταθερό, με εξαιρετική ταχύτητα σύνδεσης</item>
+        <item>Το δίκτυο είναι φορτωμένο, επηρεάζοντας την συνολική απόδωση</item>
+        <item>Το δίκτυο είναι υπερφορτωμένο, με πάρα πολύ αργή ταχύτητα σύνδεσης</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>Ελληνικά</item>
+        <item>Κινέζικα</item>
+        <item>Αγγλικά</item>
+        <item>Κινέζικα του Hong Kong</item>
+        <item>Κινέζικα της Taiwan</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+    </string-array>
+</resources>
