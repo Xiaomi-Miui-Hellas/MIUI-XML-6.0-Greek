@@ -40,7 +40,7 @@
     <string name="auto_switch_prompt">Αυτόματη εναλλαγή στον Mi router σε %1$s</string>
     <string name="backup_auto_backup_this_device">Αυτόματο backup</string>
     <string name="backup_auto_backup_when_router_wifi_connected">Θα γίνει αυτόματα backup όταν ο Mi router είναι συνδεδεμένος στο WiFi</string>
-    <string name="backup_auto_rebackup_for_router_directory_deleted">Δεν βρίσκω τον backup φάκελο του Mi router. Μπορεί να έχει διαγραφεί, μετακινηθεί ή αλλάξει όνομα. Παρακαλώ ξανακάνετε backup.</string>
+    <string name="backup_auto_rebackup_for_router_directory_deleted">"Δεν βρίσκω τον backup φάκελο του Mi router. Μπορεί να έχει διαγραφεί, μετακινηθεί ή αλλάξει όνομα. Παρακαλώ ξανακάνετε backup."</string>
     <string name="backup_backing_up_x">Κάνοντας backup: %s</string>
     <string name="backup_cancel_backup">" Ακύρωση backup "</string>
     <string name="backup_cancel_rebackup">Ακύρωση backup</string>
@@ -76,7 +76,7 @@
     <string name="backup_no_new_files_to_backup">Δεν υπάρχουν νέα αρχεία για backup</string>
     <string name="backup_not_ready_for_router_not_connected">Το Backup απαιτεί τον Mi router για να συνεχίσει</string>
     <string name="backup_on_new_storage_confirm_message">Άλλαξε ο USB δίσκο, να κάνω backup και εδώ?</string>
-    <string name="backup_on_new_storage_no">Μην κάνεις backup</string>
+    <string name="backup_on_new_storage_no">"Μην κάνεις backup"</string>
     <string name="backup_on_new_storage_yes">Backup</string>
     <string name="backup_on_watched_directories_change">Επιλογή νέου εύρους backup</string>
     <string name="backup_phone_album">Αποθήκευσε τα φωτογραφικά άλμπουμ του κινητού</string>
@@ -118,8 +118,8 @@
     <string name="bind_search_error_2">Αποτυχία λήψης πληροφοριών σύνδεσης από τον Mi router</string>
     <string name="bind_search_error_3">Αποτυχία λήψης πληροφοριών από σχετικό router</string>
     <string name="bind_search_error_4">Δεν βρέθηκε Mi router στο τοπικό δίκτυο</string>
-    <string name="bind_search_error_5">Δεν βρέθηκε απ ενεργοποιημένος Mi router</string>
-    <string name="bind_search_error_6">Δεν βρέθηκε απ ενεργοποιημένος ή κλειστός Mi router</string>
+    <string name="bind_search_error_5">"Δεν βρέθηκε απ ενεργοποιημένος Mi router"</string>
+    <string name="bind_search_error_6">"Δεν βρέθηκε απ ενεργοποιημένος ή κλειστός Mi router"</string>
     <string name="bind_search_tip">Παρακαλώ συνδέστε το κινητό με τον Mi router για να τον διαχειριστείτε</string>
     <string name="bind_search_title">Χαίρεται %s</string>
     <string name="bind_searching">Αναζήτηση Mi router για διαχείριση</string>
@@ -133,19 +133,44 @@
     <string name="block_blockable_device_list_empty">No αποκλεισμένες συσκευές</string>
     <string name="block_blocked_hitch_hiker_list">Λίστα αποκλεισμού</string>
     <string name="block_blocked_hitch_hiker_list_empty">Δεν υπάρχουν αποκλεισμένες συσκευές</string>
-    <string name="block_cannot_block_lan_device">Σύνδεση μέσω LAN ώστε να μην χρησιμοποιείται το δίκτυο WiFi</string>
-    <string name="block_device_caption">Ανιχνεύτηκε αποκλεισμένη συσκευή</string>
+    <string name="block_cannot_block_lan_device">"Σύνδεση μέσω LAN ώστε να μην χρησιμοποιείται το δίκτυο WiFi"</string>
+    <string name="block_device_black_list">Μαύρη λίστα απεκλεισμένων</string>
+    <string name="block_device_black_list_description">Η μαύρη λίστα περιέχει αυτόματη φραγή</string>
+      <string name="block_device_caption">Ανιχνεύτηκε αποκλεισμένη συσκευή</string>
+    <string name="block_device_crack_router_management_password">Η απεκλεισμένη συσκευή έσπασε τον κωδικό πρόσβασης admin του router σας</string>
+    <string name="block_device_dangerous_device">Επικίνδυνη συσκευή</string>
+    <string name="block_device_dangerous_device_crack_wifi_password">Οι συνδέσεις δικτύου παρακολουθούνται</string>
     <string name="block_device_description">Η συσκευή αποκλείστηκε λόγω πολλαπλών προσπαθειών εισόδου</string>
+    <string name="block_device_device_type">Συσκευή τύπου</string>
     <string name="block_device_do">Λίστα αποκλεισμού</string>
+    <string name="block_device_enable_block_wifi_mechanism">Η απεκλεισμένη συσκευή ενεργοποίησε μηχανισμό wifi</string>
+    <string name="block_device_expose_invade_device">Έκθεση TA</string>
     <string name="block_device_failed_for_hitch_hiker_not_enabled">Παρακαλώ ενεργοποιήστε την αντικλεπτική λειτουργία από τα plug-ins να αποκλείσετε την συσκευή</string>
-    <string name="block_device_mac">MAC address</string>
+    <string name="block_device_invade_frequency">Ρωγμή συχνότητας</string>
+    <string name="block_device_invade_frequency_x">%d Φορές / sec</string>
+    <string name="block_device_last_invade_time">Τελευταία εισβολή</string>
+    <string name="block_device_mac">MAC Address</string>
     <string name="block_device_message">Στη συσκευή αυτή θα αρνηθεί η σύνδεση κάθε φορά. Μπορείτε να επιτρέψετε την σύνδεση, βγάζοντάς την από την λίστα αποκλεισμού</string>
     <string name="block_device_name_changed">Μετονομασία συσκευής επιτυχής</string>
     <string name="block_device_offline">Συσκευή offline</string>
+    <string name="block_device_protected">Προστατεύονται</string>
+    <string name="block_device_risk_level">Επίπεδο κινδύνου</string>
+    <string name="block_device_risk_level_high">Υψηλό</string>
+    <string name="block_device_risk_level_low">Χαμηλό</string>
+    <string name="block_device_risk_level_medium">Μεσαίο</string>
+    <string name="block_device_router_management_password_security_level">Επίπεδο ασφαλείας κωδικού πρόσβασης admin router</string>
+    <string name="block_device_router_management_password_security_level_description">Συνιστάτε η χρήση διαφορετικού κωδικού από αυτόν της πρόσβασης WiFi</string>
+    <string name="block_device_security_level">Επίπεδο ασφάλειας δικτύου</string>
+    <string name="block_device_security_level_description">Ενεργό κίνδυνο αμυντικής γραμμής του εξοπλισμού, σε νέο εξοπλισμό που θυμάται</string>
     <string name="block_device_succeeded">Η συσκευή προστέθηκε στην λίστα αποκλεισμένων</string>
+    <string name="block_device_times">Δεσμευμένο αριθμό</string>
+    <string name="block_device_times_unit">Φορές</string>
     <string name="block_device_tried_times_title">Προσπάθεια σύνδεσης</string>
     <string name="block_device_tried_times_x">%d φορές</string>
+    <string name="block_device_unblock_device">Κατάργηση της «μαύρης λίστας»</string>
     <string name="block_device_view_black_list">Λίστα αποκλεισμένων</string>
+    <string name="block_device_wifi_password_security_level">Επίπεδο ασφαλείας κωδικού πρόσβασης WiFi</string>
+    <string name="block_device_wifi_password_security_level_description">Συνιστάτε η χρησιμοποίηση συνδυασμού αγγλικών και αριθμών σαν κωδικός πρόσβασης</string>
     <string name="block_device_x_times">Η συσκευή αποκλείστηκε από το δίκτυο %d φορές</string>
     <string name="block_disable_block_hitch_hiker_mode">Αποκλεισμός συσκευής</string>
     <string name="block_disable_device_notification">Απενεργοποίηση ειδοποίησης για online/offline τώρα</string>
@@ -197,7 +222,7 @@
     <string name="bootstrap_name_tip">Για την διαφοροποίηση μεταξύ πολλαπλών Mi router</string>
     <string name="bootstrap_name_too_long">Το όνομα δεν μπορεί να είναι μεγαλύτερο από %d χαρακτήρες</string>
     <string name="bootstrap_need_dial">ΚΛήση</string>
-    <string name="bootstrap_need_not_dial">Μην καλείς</string>
+    <string name="bootstrap_need_not_dial">"Μην καλείς"</string>
     <string name="bootstrap_other_mode">Άλλοι τρόποι πρόσβασης</string>
     <string name="bootstrap_place_home">Σπίτι</string>
     <string name="bootstrap_place_office">Γραφείο</string>
@@ -227,7 +252,7 @@
     <string name="bootstrap_wait_effect_reconnecting">Αναγνωρίζοντας το δίκτυο WiFi</string>
     <string name="bootstrap_wait_effect_setting">Ρυθμίζεις</string>
     <string name="bootstrap_wait_effect_setting_failed">Αποτυχία να οριστεί</string>
-    <string name="bootstrap_wait_effect_tip">Θα τα φτιάξουμε όλα αυτόματα, λίγη υπομονή...</string>
+    <string name="bootstrap_wait_effect_tip">"Θα τα φτιάξουμε όλα αυτόματα, λίγη υπομονή..."</string>
     <string name="bootstrap_wan_not_connect">Η σύνδεση WAN έχει αποσυνδεθεί ή δεν είναι διαθέσιμη</string>
     <string name="bootstrap_wifi_name_hint">Παρακαλώ εισάγετε το όνομα του WiFi (SSID)</string>
     <string name="bootstrap_wifi_name_prompt">Όνομα WiFi (SSID)</string>
@@ -238,7 +263,7 @@
     <string name="bootstrap_wired_relay_mode_tip">Επεκτείνεται το σήμα του WiFi χρησιμοποιώντας ενσύρματη σύνδεση</string>
     <string name="bootstrap_wireless_relay_mode">Ασύρματος repeater</string>
     <string name="bootstrap_wireless_relay_mode_tip">Επεκτείνεται το σήμα του WiFi χρησιμοποιώντας μία σύνδεση WiFi</string>
-    <string name="bootstrap_wireless_relay_password_tip">Ο λογαριασμός και ο κωδικός του Mi router και repeater πρέπει να είναι οι ίδιοι και ο κωδικός του δικτύου WiFi θα γίνει ο κωδικός διαχείρισης του Mi router</string>
+    <string name="bootstrap_wireless_relay_password_tip">"Ο λογαριασμός και ο κωδικός του Mi router και repeater πρέπει να είναι οι ίδιοι και ο κωδικός του δικτύου WiFi θα γίνει ο κωδικός διαχείρισης του Mi router"</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_internal">Development</string>
     <string name="channel_preview">Προ επισκόπηση</string>
@@ -269,6 +294,11 @@
     <string name="choose_question">Παρακαλώ διαλέξτε μία ερώτηση</string>
     <string name="choosertitle_sharevia">Μοιραστείτε με</string>
     <string name="client_account_inconsistent_with_current_login">Η τρέχουσα συσκευή έχει συνδεθεί με άλλο Mi λογαριασμό, παρακαλώ να την αποσυνδέσετε και ξαναπροσπαθήστε</string>
+    <string name="client_block_device_block_device">Τραβήξτε το μαύρο</string>
+    <string name="client_block_device_ignore">Παράβλεψη</string>
+    <string name="client_block_device_read">Ανάγνωση</string>
+    <string name="client_block_device_trust">Εμπιστοσύνη</string>
+    <string name="client_block_device_try_to_connect_to_router">Επιχειρεί να αποκτήσει πρόσβαση στο δίκτυο</string>
     <string name="client_detail_bar_more">Περισσότερο</string>
     <string name="client_detail_info_connection_24g">WiFi 2.4GHz</string>
     <string name="client_detail_info_connection_5g">WiFi 5GHz</string>
@@ -321,7 +351,7 @@
     <string name="client_qos_download_band_x">Βandwidth λήψης: %s</string>
     <string name="client_qos_download_speed">Ταχύτητα λήψης</string>
     <string name="client_qos_input_cannot_be_empty">Δεν μπορεί να είναι κενό!</string>
-    <string name="client_qos_input_cannot_be_negative">Δεν μπορεί να είναι αρνητικό!</string>
+    <string name="client_qos_input_cannot_be_negative">"Δεν μπορεί να είναι αρνητικό!"</string>
     <string name="client_qos_input_chars_invalid">Μπορείτε να καταχωρήσετε μόνο νούμερα!</string>
     <string name="client_qos_input_must_be_positive">Πρέπει να είναι μεγαλύτερο από το 0!</string>
     <string name="client_qos_input_out_of_bound">ΠΟλύ μεγάλο νούμερο (περισσότερο από %d)!</string>
@@ -331,14 +361,14 @@
     <string name="client_qos_max_upload_band">Μέγιστη αποστολή</string>
     <string name="client_qos_mode_auto">Αυτόματος</string>
     <string name="client_qos_mode_auto_description">Αυτόματος καταμερισμός bandwidth για όλες τις συσκευές</string>
-    <string name="client_qos_mode_manual">Χειροκίνητα ρυθμισμένη ταχύτητα QoS</string>
+    <string name="client_qos_mode_manual">Χειροκίνητα ρυθμισμένη ταχύτητα QoS </string>
     <string name="client_qos_mode_manual_description">Η μέγιστη ταχύτητα της συσκευής, δεν μπορεί να ξεπερνά την ορισμένη ταχύτητα</string>
     <string name="client_qos_mode_priority">QoS προτεραιότητας</string>
     <string name="client_qos_mode_priority_description">Με την μεγαλύτερη προτεραιότητα θα λάβει το περισσότερο bandwidth</string>
     <string name="client_qos_prompt_on_speed_inaccurate">Η τιμή της ταχύτητας δεν είναι σωστή, καταχωρήστε την χειροκίνητα</string>
     <string name="client_qos_requires_enable_qos">Πριν χρησιμοποιήσετε τον περιορισμό ταχύτητας βάση QoS, πρέπει να ενεργοποιηθεί από τα plug-ins</string>
     <string name="client_qos_smartly_adjust_speed">QoS (Όριο ταχύτητας)</string>
-    <string name="client_qos_smartly_adjust_speed_description">Μετά την ενεργοποίηση, το σύστημα θα αποφασίζει την ταχύτητα όλων των συσκευών, ανάλογα με την ταχύτητα του δικτύου και τους περιορισμούς</string>
+    <string name="client_qos_smartly_adjust_speed_description">"Μετά την ενεργοποίηση, το σύστημα θα αποφασίζει την ταχύτητα όλων των συσκευών, ανάλογα με την ταχύτητα του δικτύου και τους περιορισμούς"</string>
     <string name="client_qos_speed_mode">QoS όριο ταχύτητας</string>
     <string name="client_qos_speed_mode_off">QoS απενεργοποιημένο όριο ταχύτητας</string>
     <string name="client_qos_speed_mode_unknown">QoS άγνωστο όριο ταχύτητας</string>
@@ -364,6 +394,7 @@
     <string name="client_quicklink_searching_title">Αναζήτηση έξυπνων συσκευών</string>
     <string name="client_quicklink_success_tip">Ανευρέθηκε νέα έξυπνη συσκευή, ξεκινήστε να την χρησιμοποιείται τώρα</string>
     <string name="client_quicklink_success_title">Σύνδεση επιτυχής</string>
+    <string name="client_quicklink_wifi_24g_not_enabled">Συνδέοντας έξυπνες συσκευές για ολοκλήρωση στο 2.4G wifi να ανοίξετε το 2.4G wifi</string>
     <string name="client_quicklink_wifi_not_connected_or_inconsistent">Η σύνδεση με τις έξυπνες συσκευές πρέπει να γίνει στο πλαίσιο του τρέχοντος δικτύου μεταξύ του τηλεφώνου και τον τρέχοντος WiFi router</string>
     <string name="client_router_net_status_connecting">Συνδέοντας...</string>
     <string name="client_router_net_status_normal">Το δίκτυο λειτουργεί φυσιολογικά</string>
@@ -372,13 +403,15 @@
     <string name="common_cancel">Ακύρωση</string>
     <string name="common_commit_button">Υποβολή</string>
     <string name="common_complete">Τέλος</string>
-    <string name="common_concat_s">του</string>
+    <string name="common_concat_s">Το</string>
     <string name="common_continue_button">Συνέχιση</string>
+    <string name="common_day">Ημέρα</string>
     <string name="common_delete">Διαγραφή</string>
     <string name="common_download_immediately">Κάντε λήψη τώρα</string>
     <string name="common_failed">Η διαδικασία απέτυχε, ελέγξτε το δίκτυο και ξαναδοκιμάστε</string>
     <string name="common_finish">Τέλος</string>
     <string name="common_hint">Επισήμανση</string>
+    <string name="common_hours">Ώρες</string>
     <string name="common_hours_ago">Πριν ώρες</string>
     <string name="common_ignore">Αγνοείστε</string>
     <string name="common_input_too_long">Πολλοί χαρακτήρες, μην εισάγετε περισσότερους από %d χαρακτήρες</string>
@@ -406,6 +439,7 @@
     <string name="common_menu_share">Διαμερισμός</string>
     <string name="common_menu_start">Έναρξη</string>
     <string name="common_mins_ago">λεπτά πριν</string>
+    <string name="common_minutes">Λεπτά</string>
     <string name="common_network_unavailable">Το δίκτυο δεν είναι διαθέσιμο, ξαναδοκιμάστε</string>
     <string name="common_next_step">Επόμενο</string>
     <string name="common_ok_button">OK</string>
@@ -422,16 +456,17 @@
     <string name="common_select_n">Επιλέξατε %d αντικείμενα</string>
     <string name="common_select_none">Καθαρισμός όλων</string>
     <string name="common_times">%1$s φορές</string>
+    <string name="common_waiting">Παρακαλώ περιμένετε ενώ το…</string>
     <string name="content_description">Παρακαλώ εισάγετε το e-mail σας, ώστε να επικοινωνήσουμε μαζί σας σχετικά με τις παρατηρήσεις σας</string>
-    <string name="cube_ptr_hours_ago"> ώρες πριν</string>
-    <string name="cube_ptr_last_update">τελευταία ενημέρωση: </string>
-    <string name="cube_ptr_minutes_ago"> λεπτά πριν</string>
+    <string name="cube_ptr_hours_ago"> ώρες πριν</string>
+    <string name="cube_ptr_last_update">τελευταία ενημέρωση: </string>
+    <string name="cube_ptr_minutes_ago"> λεπτά πριν</string>
     <string name="cube_ptr_pull_down">Τραβήξτε</string>
     <string name="cube_ptr_pull_down_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="cube_ptr_refresh_complete">Ενημερώθηκε.</string>
     <string name="cube_ptr_refreshing">Ενημερώνοντας...</string>
     <string name="cube_ptr_release_to_refresh">Αφήστε για ενημέρωση</string>
-    <string name="cube_ptr_seconds_ago"> δευτερόλεπτα πριν</string>
+    <string name="cube_ptr_seconds_ago"> δευτερόλεπτα πριν</string>
     <string name="diskbackup_backuping_complete">Έγινε με επιτυχία back σε %s</string>
     <string name="diskbackup_backuping_info">Απέμειναν για backup %1$s(%2$d%%)</string>
     <string name="diskbackup_backupstart_error">Η ενεργοποίηση του δίσκου για back απέτυχε, ξαναδοκιμάστε</string>
@@ -513,7 +548,7 @@
     <string name="download_input_download_url">Καταχωρείστε το URL λήψης</string>
     <string name="download_input_download_url_clipboard_empty">Το πρόχειρο είναι άδειο</string>
     <string name="download_input_download_url_duplicate">Η εξεργασία αυτή υπάρχει, θέλετε να το κατεβάσετε ξανά?</string>
-    <string name="download_input_download_url_duplicate1">%s εξεργασία υπάρχει ακόμα, θέλετε να το κατεβάσετε ξανά?</string>
+    <string name="download_input_download_url_duplicate1">"%s εξεργασία υπάρχει ακόμα, θέλετε να το κατεβάσετε ξανά?"</string>
     <string name="download_input_download_url_empty">Το URL δεν μπορεί να είναι κενό!</string>
     <string name="download_input_download_url_hint">HTTP, Bit torrent, ftp, Thunder</string>
     <string name="download_input_download_url_invalid">Λάθος URL</string>
@@ -523,11 +558,19 @@
     <string name="download_ongoing_empty_message">Δεν κατεβάζει αρχεία</string>
     <string name="download_pause_task_error">Αποτυχία παύσης λήψης, ελέγξτε το δίκτυο και δοκιμάστε ξανά</string>
     <string name="download_resume_task_error">Αποτυχία συνέχισης λήψης, ελέγξτε το δίκτυο και δοκιμάστε ξανά</string>
-    <string name="download_status_failed">Αποτυχία λήψης</string>
-    <string name="download_status_failed_for_no_space">Η λήψη απέτυχε, ελλιπής αποθηκευτικός χώρος</string>
+    <string name="download_setting">Ρυθμίσεις λήψης</string>
+    <string name="download_setting_hint">%1$s %2$s έναρξη, %3$s παύση</string>
+    <string name="download_setting_pause">Παύση λήψεων</string>
+    <string name="download_setting_resume">Συνέχιση λήψεων</string>
+    <string name="download_setting_schedule">Προγραμματισμένες λήψεις</string>
+    <string name="download_settting_change_path">Να τροποποιήσετε τη διαδρομή λήψης</string>
+    <string name="download_settting_path">Δρομολόγηση\\Λήψεις</string>
+    <string name="download_status_failed">Αποτυχία</string>
+    <string name="download_status_failed_for_no_space">Αποτυχία λήψης, ανεπαρκής χώρος</string>
     <string name="download_status_pause">Παύση</string>
     <string name="download_status_waiting">Εν αναμονή</string>
-    <string name="download_tools_resourcesearch_title">Ψάχνοντας για περισσότερες πηγές</string>
+    <string name="download_tools_resourcesearch_title">Αναζήτηση</string>
+    <string name="download_total_download_speed">Ταχύτητα λήψης: %s</string>
     <string name="download_xunlei_accelearate_title">Επιτάχυνση Xunlei</string>
     <string name="download_xunlei_bind_error">Σφάλμα δέσμευσης επιτάχυνσης Xunlei</string>
     <string name="download_xunlei_bind_fail">Αποτυχία Xunlei</string>
@@ -629,7 +672,7 @@
     <string name="file_media_type_images">Φωτογραφίες</string>
     <string name="file_media_type_others">Άλλο</string>
     <string name="file_media_type_videos">Βίντεο</string>
-    <string name="file_menu_cancel_share">Ακύρωση δικτύωσης</string>
+    <string name="file_menu_cancel_share">Ακύρωση κοινής χρήση</string>
     <string name="file_menu_create_folder_default_name">Νέος φάκελος</string>
     <string name="file_menu_create_folder_name_empty">Ο φάκελος δεν μπορεί να είναι κενός</string>
     <string name="file_menu_create_folder_name_too_long">Όνομα φακέλου πολύ μακρύ</string>
@@ -650,7 +693,7 @@
     <string name="file_menu_upload_to_router">Μεταφόρτωση στον Mi router</string>
     <string name="file_mobile_backup_desc">Backup τις φωτογραφίες στον Mi router</string>
     <string name="file_movie_collection_count">%s συνολικά</string>
-    <string name="file_movie_empty">Δεν βρέθηκαν ταινίες</string>
+    <string name="file_movie_empty">"Δεν βρέθηκαν ταινίες"</string>
     <string name="file_need_miwifi_description1">Θέαση εξ αποστάσεως δεν υποστηρίζεται</string>
     <string name="file_need_miwifi_description2">Συνδεθείτε με τον Mi router για να δείτε το αρχείο</string>
     <string name="file_no_disk_checked">Δεν βρέθηκε αποθηκευτικός δίσκος στον Mi router</string>
@@ -683,6 +726,7 @@
     <string name="file_tip_create_folder_failed">Αποτυχία δημιουργίας φακέλου, δοκιμάστε ξανά</string>
     <string name="file_tip_create_folder_success">Επιτυχής δημιουργία νέου φακέλου</string>
     <string name="file_tip_fetching_download_files">Λήψη αρχείων που κατέβηκαν, περιμένετε...</string>
+    <string name="file_tip_fetching_upload_files">Λήψη λίστας φορτωμένων αρχείων, παρακαλώ περιμένετε…</string>
     <string name="file_tip_message_cannot_move_file_to_children">Δεν μπορεί να μεταφερθεί ο φάκελος μέσα στον εαυτό του</string>
     <string name="file_tip_message_delete_failed">Αποτυχία διαγραφής, δοκιμάστε ξανά</string>
     <string name="file_tip_message_rename">Αποθηκεύοντας...</string>
@@ -701,6 +745,8 @@
     <string name="file_transfer_copy">Αντιγραφή</string>
     <string name="file_transfer_copy_label">Αντιγραφή αρχείου στο [%s]</string>
     <string name="file_transfer_download">Λήψη</string>
+    <string name="file_transfer_floder_label">【Φάκελο】%s</string>
+    <string name="file_transfer_folder_download_size">Συνολικά αρχεία %d</string>
     <string name="file_transfer_menu_delete_with_file">Διαγραφή αρχείων</string>
     <string name="file_transfer_message_add_success">Με επιτυχία προστέθηκαν οι νέες διεργασίες</string>
     <string name="file_transfer_message_completed">Όλες οι διεργασίες ολοκληρωθήκανε</string>
@@ -710,9 +756,11 @@
     <string name="file_transfer_move_label">Μετακίνηση αρχείου στο [%s]</string>
     <string name="file_transfer_no_completed_task">Χωρίς ολοκληρωμένες εργασίες</string>
     <string name="file_transfer_no_inporgress_task">Χωρίς τρέχουσες διεργασίες</string>
+    <string name="file_transfer_open_directory_title">Ανοικτή %s</string>
     <string name="file_transfer_section_header_copy_file">Αντιγραφή αρχείου</string>
     <string name="file_transfer_section_header_download_to_phone">Λήψη στο τηλέφωνο</string>
     <string name="file_transfer_section_header_upload_to_router">Μεταφορτώστε στον Mi router</string>
+    <string name="file_transfer_selected_file_folder_empty">Επιλέξατε το αρχείο να μεταφερθεί σε άδειο φάκελο</string>
     <string name="file_transfer_status_cancel">Ακύρωση</string>
     <string name="file_transfer_status_delete">Διαγραφή</string>
     <string name="file_transfer_status_device_not_found">Μη διαθέσιμη η κάρτα SD</string>
@@ -773,12 +821,12 @@
     <string name="invitation_associate_account">Ο λογαριασμός Mi να προστεθεί: %s</string>
     <string name="invitation_delete_button">Διαγραφή</string>
     <string name="invitation_delete_failed">Αποτυχία διαγραφής, ξαναδοκιμάστε</string>
-    <string name="invitation_delete_tip">Διαγράφοντας τον χρήστη του αφαιρείτε το δικαίωμα πρόσβασης στον router. Είστε σίγουρος για αυτό?</string>
+    <string name="invitation_delete_tip">"Διαγράφοντας τον χρήστη του αφαιρείτε το δικαίωμα πρόσβασης στον router. Είστε σίγουρος για αυτό?"</string>
     <string name="invitation_delete_waiting">Διαγραφή χρήστη, περιμένετε...</string>
     <string name="invitation_demote_self_failed">Αποτυχία αφαίρεσης, ξαναδοκιμάστε</string>
     <string name="invitation_demote_self_message">Σίγουρα θέλετε να ακυρώσετε το μοίρασμα του Mi router με %s ?</string>
     <string name="invitation_demote_self_waiting">Έξοδος από την κοινωνικοποίηση, περιμένετε...</string>
-    <string name="invitation_empty_description">Η οικογένεια δεν μπορεί να μοιράσει τον Mi router και κάποιες λειτουργίες, άλλες λειτουργίες είναι όπως του Διαχειριστή</string>
+    <string name="invitation_empty_description">"Η οικογένεια δεν μπορεί να μοιράσει τον Mi router και κάποιες λειτουργίες, άλλες λειτουργίες είναι όπως του Διαχειριστή"</string>
     <string name="invitation_empty_message">Μοιραστείτε τον Mi router με φίλους και οικογένεια</string>
     <string name="invitation_exceed_limit">Λυπάμαι, μέχρι 5 χρήστες μπορούν να μοιραστούν τον Mi router</string>
     <string name="invitation_feed_message">%s θέλει να μοιραστεί τον Mi router μαζί σου, κάνε κλικ εδώ</string>
@@ -829,8 +877,8 @@
     <string name="login_register">Εγγραφή</string>
     <string name="login_switch_account">Αλλαγή λογαριασμού</string>
     <string name="login_system_login">Απευθείας εισαγωγή</string>
-    <string name="login_system_login_prompt_prefix">Χρησιμοποιώντας τον Mi λογαριασμό σας</string>
-    <string name="login_system_login_prompt_suffix">Εισαγωγή</string>
+    <string name="login_system_login_prompt_prefix">Χρησιμοποιώντας τον Mi λογαριασμό σας  </string>
+    <string name="login_system_login_prompt_suffix">  Εισαγωγή</string>
     <string name="login_system_login_title">Ανεύρεση λογαριασμού Mi</string>
     <string name="login_username_input_fail">Δεν βρέθηκε λογαριασμός Mi ή ήταν ανενεργός</string>
     <string name="login_waiting">Εισαγωγή</string>
@@ -913,6 +961,8 @@
     <string name="reminder_offline_tip">Πιθανές αιτίες και προτάσεις:</string>
     <string name="reminder_offline_title">Ο Mi router είναι offline</string>
     <string name="reminder_switch_wifi">Σύσταση αλλαγή σε %s WiFi δίκτυο</string>
+    <string name="reminder_switch_wifi_24G">2.4G έχει πιο ισχυρό σήμα με μεγάλη διατρητικότητα στους τοίχους</string>
+    <string name="reminder_switch_wifi_5G">5G για ανάγκη γρήγορης μεταφοράς δεδομένων</string>
     <string name="reminder_switch_wifi_button">Αλλαγή</string>
     <string name="reset_factory_exit">Η εφαρμογή θα εξέλθει σε %d sec</string>
     <string name="reset_factory_waiting">Επαναφορά εργοστασιακών ρυθμίσεων, περιμένετε...</string>
@@ -956,8 +1006,8 @@
     <string name="setting_prompt_router_pwd_invalid">Ο κωδικός δεν μπορεί να έχει κινέζικους χαρακτήρες</string>
     <string name="setting_prompt_wifi_psw_at_least_8">Ο κωδικός του WiFi πρέπει να έχει τουλάχιστον 8 χαρακτήρες</string>
     <string name="setting_prompt_wifi_ssid_conflict1">Η συχνότητα των 5GHz και 2.4GHz έχουν το ίδιο SSID όνομα</string>
-    <string name="setting_prompt_wifi_ssid_conflict2">Το όνομα του επισκέπτη είναι το ίδιο με του 2.4GHz</string>
-    <string name="setting_prompt_wifi_ssid_conflict3">Το όνομα του επισκέπτη είναι το ίδιο με του 5GHz</string>
+    <string name="setting_prompt_wifi_ssid_conflict2">"Το όνομα του επισκέπτη είναι το ίδιο με του 2.4GHz"</string>
+    <string name="setting_prompt_wifi_ssid_conflict3">"Το όνομα του επισκέπτη είναι το ίδιο με του 5GHz"</string>
     <string name="setting_reboot">Επανεκκίνηση του Mi router</string>
     <string name="setting_recovery">Επαναφορά εργοστασιακών ρυθμίσεων</string>
     <string name="setting_router_admin_password_hint">Όχι λιγότερους από 8 χαρακτήρες</string>
@@ -1002,12 +1052,13 @@
     <string name="shutdown_now">Απενεργοποίηση τώρα</string>
     <string name="shutdown_router_closing_message">When the LED is off you can unplug the power</string>
     <string name="shutdown_router_closing_title">Shutting down</string>
-    <string name="shutdown_router_confirm_message">Shutting down Mi router will close all current connections, are you sure you want to shutdown?</string>
+    <string name="shutdown_router_confirm_message">"Shutting down Mi router will close all current connections, are you sure you want to shutdown?"</string>
     <string name="shutdown_title">Power off Mi router</string>
     <string name="splash_loading">Loading...</string>
     <string name="statistics_storage">Τοπικό</string>
     <string name="statistics_storage_extdisk">Αφαιρούμενο σκληρό δίσκο</string>
     <string name="statistics_storage_harddisk">Σκληρό δίσκο του router</string>
+    <string name="statistics_storage_indexing_tip">Δείκτης αρχείο που συστήνεται, τα αποτελέσματα μπορεί να μην είναι ακριβείς</string>
     <string name="statistics_storage_usage" formatted="false">Διαθέσιμα %dGB Συνολικά %dGB</string>
     <string name="statistics_storage_usage_camera">Κάμερας παρακολούθησης βίντεο</string>
     <string name="statistics_storage_usage_doc">Έγγραφο</string>
@@ -1045,6 +1096,8 @@
     <string name="tool_close">Έξοδος</string>
     <string name="tool_detail_install">Εγκατάσταση plug-in</string>
     <string name="tool_detail_title">Λεπτομέρειες Plug-in</string>
+    <string name="tool_disk_statistics">Χρήση του δίσκου</string>
+    <string name="tool_disk_statistics_description">Στατιστικά στοιχεία του χώρου στο δίσκο για την αποθήκευση πληροφοριών με μια ματιά</string>
     <string name="tool_download_barcoe">Σκάναρε τον QR κώδικα για λήψη</string>
     <string name="tool_goto_market">Άνοιγμα της αγοράς των plug-in</string>
     <string name="tool_has_update_title">Τips αναβάθμισης</string>
@@ -1078,6 +1131,7 @@
     <string name="tool_not_support_share">Οι οικογενειακοί χαρακτήρες δεν υποστηρίζουν αυτή την λειτουργία</string>
     <string name="tool_qos">QoS (Όριο ταχύτητας)</string>
     <string name="tool_qos_description">Το bandwidth θα μοιράζεται αυτόματα σε όλες τις συσκευές ανάλογα με την προτεραιότητα</string>
+    <string name="tool_router_download_timer">Προγραμματισμένες λήψεις</string>
     <string name="tool_router_reboot_timer">Χρονοδιακόπτης επανεκκίνησης</string>
     <string name="tool_router_reboot_timer_desc">Αυτόματα ενεργοποιείστε τον Mi router όταν χρειάζεται</string>
     <string name="tool_router_reboot_timer_switch_hint">Χρονοδιακόπτης επανεκκίνησης</string>
@@ -1088,11 +1142,13 @@
     <string name="tool_time_setting_end">Τέλος χρόνου</string>
     <string name="tool_time_setting_end_shutdown">Τέλος χρόνου</string>
     <string name="tool_time_setting_end_wifi">Χρόνος λήξης WiFi</string>
-    <string name="tool_time_setting_repeat">Επανάληψη</string>
-    <string name="tool_time_setting_setting">Ρυθμίσεις χρονοδιακόπτη</string>
-    <string name="tool_time_setting_start">Έναρξη</string>
-    <string name="tool_time_setting_start_shutdown">Έναρξη κλεισίματος</string>
-    <string name="tool_time_setting_start_wifi">Χρόνος έναρξης WiFi</string>
+    <string name="tool_time_setting_pause_download">"Παύση: "</string>
+    <string name="tool_time_setting_repeat">Επανάλληψη</string>
+    <string name="tool_time_setting_resume_download">"Έναρξη: "</string>
+    <string name="tool_time_setting_setting">Προγραμματισμός</string>
+    <string name="tool_time_setting_start">Από</string>
+    <string name="tool_time_setting_start_shutdown">Απενεργοποίηση</string>
+    <string name="tool_time_setting_start_wifi">Απενεργοποίηση Wi Fi</string>
     <string name="tool_timer_custom">Προσαρμογή</string>
     <string name="tool_timer_everyday">Καθημερινώς</string>
     <string name="tool_timer_loading_config">Φορτώνοντας τις ρυθμίσεις</string>
@@ -1116,7 +1172,7 @@
     <string name="tool_update_auto_time">%1$s %2$d:00 αυτόματη αναβάθμιση</string>
     <string name="tool_update_check_fail">Αποτυχία ελέγχου αναβάθμισης, ξαναδοκιμάστε</string>
     <string name="tool_update_check_update">Έλεγχος για αναβάθμιση</string>
-    <string name="tool_update_conflict">Παρακαλώ αναβαθμίστε το πρόγραμμα ώστε οι λειτουργίες της εφαρμογής και του Mi router να είναι συμβατές</string>
+    <string name="tool_update_conflict">"Παρακαλώ αναβαθμίστε το πρόγραμμα ώστε οι λειτουργίες της εφαρμογής και του Mi router να είναι συμβατές"</string>
     <string name="tool_update_current_version">Τρέχουσα έκδοση:</string>
     <string name="tool_update_downloading">Λήψη αναβάθμισης (%1$s/%2$s)...</string>
     <string name="tool_update_downloading1">Λαμβάνω την αναβάθμιση...</string>
@@ -1180,28 +1236,28 @@
     <string name="uploading_log_error">Αποτυχία αποστολής του app log, ξαναδοκιμάστε</string>
     <string name="user_experience_improve_agree">Συμφωνώ</string>
     <string name="user_experience_improve_join">Συμμετοχή</string>
-    <string name="user_experience_improve_joined_hint">Συμμετέχω, περιμένετε...</string>
-    <string name="user_experience_improve_license">"Mi Router User Experience Improvement Program
+    <string name="user_experience_improve_joined_hint">Έναρξη συμμετοχής, περιμένετε...</string>
+    <string name="user_experience_improve_license">"Mi Router App User Experience Program
  
-Xiaomi Communication Technology Co Ltd (hereinafter referred to as the xiaomi or we) sincerely invite you to join the Mi router User Experience Improvement Program. In order to better provide you with a new generation of intelligent devices. We will need to use your statistics collected from the mobile app, then through using this statistical data improve the Mi WiFi phone app and give a better user experience to everyone.
+ Xiaomi Inc. (Xiaomi) invite you to take part in our User Experience Program (the Program). If you choose participate, data and usage statistics for Mi Router app will be sent to Xiaomi so that we can better understand how this product is being used.
  
-Please be assured, we will keep all of your data private, statistics only include the frequency of using when using the Mi router app. Anonymous data is collected to improve Xiaomi products and services. SMS and Phone records are not collected.
+We don't collect any personally identifiable information or user data (contacts, call history, etc.) as a part of the Program. We collect statistics about how (and how often) you use Mi Router's various features.
  
- 1. Joining and leaving the program
- You are free to choose whether or not to join the program, after joining you can at any time through the app settings page opt to exit the program. If necessary you can always opt out. You can easily join the program at any time to help us improve our products and services.
+ 1. Opting in or out
+ You can opt in or out of the Program anytime in Settings.
  
- 2. Scope of this plan
- Provided you allow use to collect statistical data to help us improve the Mi router app, phone compatibility, stability and ease of use, including:
- （1）The latest version of the Mi WiFi operating system ROM, more timely fixes to all kinds of problems, further improving the stability of the system to make a better product;
- （2）A better fit for your Internet service provider (ISP), providing different types of network service (ADSL, Fibre optic etc);
- （3）Help you better understand the number of devices connected, duration, disk usage. Ensure also that the Mi router can ensure compatibility and stabilty for all attached devices;
- （4）Use the Mi router to intelligently control your surroundings. Also improve relevant functions for devices and Mi router connectivity;
- （5）Mi router plugins system (Games, Download speed, Ad blocking) providing anonymous statistical information to the developer. Help improve the platform and plugins available to make a better user experience.
+ 2. Purpose of this Program
+ We aggregate your data and usage statistics into anonymous statistics to help us learn more about how Mi Router is being used and improve overall stability and quality. More specifically, we use this info for the following:
+ 1. Pushing new updates and repairing bugs as quickly as possible.
+ 2. Optimizing router performance for different types of connections (e.g. ADSL, Optical fiber).
+ 3. Making sure the Mi Router is compatible with as many different types of devices as possible
+ 4. Improving connectivity and features for Mi devices.
+ 5. Provide anonymous data usage statistics for plug-in developers for Mi Router.
  
- 3. Updates to this program
- According to the continuous improvement and renewal of the Mi router series products, we may from time to time have to modify this plan, we will inform you through the app of any such changes. If you did not change the user experience improvement program status this indicates you accept the modifications and continue to participate in the program.
+ 3. Updates to the Program
+ We're always changing and improving our products, we may also make changes to the Program. If we do, we'll notify you via a notification in the Mi Router app.
  
- Xiaomi Corporation, Beijing, China. Last updated: October 2014
+ Xiaomi Inc.
 "</string>
     <string name="user_experience_improve_not_agree">Μη αποδοχή</string>
     <string name="user_experience_improve_plan">Πρόγραμμα Εμπειρίας Χρηστών</string>
