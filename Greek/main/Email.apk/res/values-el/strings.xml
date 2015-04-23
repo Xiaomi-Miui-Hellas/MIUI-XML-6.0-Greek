@@ -954,7 +954,7 @@
      <string name="veiled_summary_unknown_person" />
      <string name="via_domain">μέσω %1$s</string>
      <string name="view_more_conversations">Δείτε περισσότερες συνομιλίες</string>
-     <string name="wait_for_manual_sync_body">""Αυτός ο λογαριασμός δεν έχει ρυθμιστεί για τον αυτόματο συγχρονισμό.
+     <string name="wait_for_manual_sync_body">"Αυτός ο λογαριασμός δεν έχει ρυθμιστεί για τον αυτόματο συγχρονισμό.
 Πιέστε "<b>Συγχρονισμός τώρα</b> για συγχρονισμό αλληλογραφίας μία φορά, ή <b>Αλλαγή ρυθμίσεων συγχρονισμού</b> να δημιουργήσει αυτόν το λογαριασμό για αυτόματο συγχρονισμό αλληλογραφίας."</string>
      <string name="wait_for_sync_body">Το email σας θα εμφανιστεί σύντομα.</string>
      <string name="wait_for_sync_body_2">Ο Exchange Server θα σας προτρέψει σε 1-30 δευτερόλεπτα. Επιβεβαιώστε τις ρυθμίσεις ασφαλείας και ενεργοποιήστε το γραμματοκιβώτιό σας.</string>
