@@ -2180,6 +2180,9 @@
      <string name="stable_build">" | Stable"</string>
      <string name="status_awake_time">Χρόνος που παραμένει ξύπνιο</string>
      <string name="status_bar_and_notification_bar">Μπάρα ειδοποιήσεων και γραμμή κατάστασης</string>
+     <string name="status_bar_app_disable_notification">Κενό</string>
+     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Οθόνη κλειδώματος, Μπάρα ειδοποιήσεων</string>
+     <string name="status_bar_app_enable_on_notificationBar">Μπάρα ειδοποιήσεων</string>
      <string name="status_bar_key_position_custom">Προσαρμ.θέσης πλήκτρων</string>
      <string name="status_bar_screen_button_key">Εικονικά πλήκτρα Οθόνης</string>
      <string name="status_bar_screen_key_back">Πλήκτρο Πίσω</string>
@@ -2311,10 +2314,13 @@
      <string name="title_color_calibration">Διόρθωση χρωμάτων προκαθορισμένη</string>
      <string name="title_dolby_control">Dolby digital plus</string>
      <string name="title_font">Γραμματοσειρά</string>
+     <string name="title_font2">Γραμματοσειρά</string>
      <string name="title_font_current">Επιλέξτε γραμματοσειρά</string>
+     <string name="title_font_current2">Επιλέξτε γραμματοσειρά συστήματος</string>
      <string name="title_font_size">Μέγεθος γραμματοσειράς</string>
      <string name="title_hdmi_color_calibration">Διόρθωση χρωμάτων προκαθορισμένη</string>
      <string name="title_layout_current">Επιλέξτε το μέγεθος της γραμματοσειράς</string>
+     <string name="title_layout_current2">Επιλέξτε μέγεθος γραμματοσειράς</string>
      <string name="title_local_resource">Τοπικοί πόροι</string>
      <string name="title_system_resource">Πόροι του συστήματος</string>
      <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>

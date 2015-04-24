@@ -5,8 +5,8 @@
         <item quantity="one">%d αποκλεισμένο</item>
      </plurals>
      <plurals name="find_on_page_matches">
-        <item quantity="other">%d βρέθηκαν</item>
-        <item quantity="one">%d βρέθηκε</item>
+        <item quantity="other">%d εγγραφές</item>
+        <item quantity="one">%d εγγραφή</item>
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Τελευταίες %d ημέρες</item>
@@ -14,7 +14,7 @@
      </plurals>
      <plurals name="matches_found">
         <item quantity="other">%1$d από %2$d</item>
-        <item quantity="one">1 ταυτοποίηση</item>
+        <item quantity="one">1 εγγραφή</item>
      </plurals>
      <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d επιλέχθηκαν</item>

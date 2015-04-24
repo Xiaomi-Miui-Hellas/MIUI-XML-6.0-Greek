@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="alwaysUsePrompt">Να θυμάστε τη επιλογή</string>
-     <string name="app_no_notification">Κενό</string>
-     <string name="app_notificaiton_on_notificationBar">Μπάρα ειδοποιήσεων</string>
-     <string name="app_notificaiton_on_statusBar_and_notificationBar">Οθόνη κλειδώματος, Μπάρα ειδοποιήσεων</string>
      <string name="auto_start_warning_allow">Να Επιτρέπεται</string>
      <string name="auto_start_warning_deny">Άρνηση</string>
      <string name="auto_start_warning_title">Να επιτρέπεται %s να ξεκινά αυτόματα στο μέλλον;</string>

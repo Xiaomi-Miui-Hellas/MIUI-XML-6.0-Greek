@@ -40,6 +40,10 @@
         <item quantity="other">"Δεν έχετε άδεια να διαγράψετε αυτά τα %d αρχεία."</item>
         <item quantity="one">"Δεν έχετε άδεια να διαγράψετε αυτό το %d αρχείο."</item>
      </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s νέα πρόσωπα μπορούν επίσης να ανήκουν σε %2$s >></item>
+        <item quantity="one">%1$s νέο πρόσωπο μπορεί επίσης να ανήκει σε %2$s >></item>
+     </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d φωτογραφίες</item>
         <item quantity="zero">%1$d φωτογραφίες</item>
@@ -51,9 +55,9 @@
         <item quantity="one">%1$d στοιχείο</item>
      </plurals>
      <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">%1$d επιλεγμένο</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
      </plurals>
      <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>

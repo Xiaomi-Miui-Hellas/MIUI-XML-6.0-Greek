@@ -154,6 +154,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="label_giftcard">Κάρτα Δώρου</string>
      <string name="label_order_name">Προϊόν:</string>
      <string name="label_order_price">Τιμή:</string>
+     <string name="list_item_bottom_hint">"Φτάσατε στο κάτω μέρος αυτής της λίστας"</string>
      <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το σχέδιό σας</string>
      <string name="lockpassword_confirm_your_pattern_header">Επιβεβαιώστε το μοτίβο σας</string>
      <string name="lockpassword_input_your_pattern_header">Επιβεβαιώστε το μοτίβο σας</string>
@@ -178,6 +179,9 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="lockscreen_forgot_pattern_button_text">&lt;u>Ξεχάσατε το κωδικό μοτίβο&lt;/u></string>
      <string name="login">Σύνδεση</string>
      <string name="memu_refresh">Ανανέωση</string>
+     <string name="menu_lock">Μοτίβο κλειδώματος</string>
+     <string name="menu_qa">Συχνές Ερωτήσεις</string>
+     <string name="menu_shotcut">Αποστολή στην Αρχική Οθόνη</string>
      <string name="mibi_license_message">"Είστε έτοιμοι να χρησιμοποιήσετε το Mi Credit, το οποίο είναι μια υπηρεσία που παρέχεται από την Xiaomi. Πριν χρησιμοποιήσετε αυτή την υπηρεσία πρέπει να συμφωνήσετε στους Όρους Παροχής Υπηρεσιών που αναφέρονται στο %1$s. Πατήστε OK εάν συμφωνείτε με τους όρους και τις προϋποθέσεις που περιγράφονται στο %1$s. Χρειάζεστε μια σύνδεση  Internet για να χρησιμοποιήσετε το Mi Credit."</string>
      <string name="mibi_license_message_span">MiCredit Συμφωνία χρήστη</string>
      <string name="mibi_license_title">Συμφωνία χρήστη</string>
@@ -290,12 +294,14 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="recharge_push_notification_sub_title">Ανανέωση ολοκληρώθηκε.</string>
      <string name="recharge_tenpay_title">Tenpay</string>
      <string name="recharge_value_money">Επαναφόρτιση RMB %s</string>
+     <string name="recharge_value_money_with_tip">"Αγορά Mi Credits αξίας %s RMB &lt;font color=red>(Δεν μπορείτε να ξοδέψετε Mi Credits στο Mi.com)&lt;/font>"</string>
      <string name="recharge_voucher_title">MiCredit κάρτα</string>
      <string name="scan_prompt_number">Σάρωση %1$s Αριθμού προπληρωμένης κάρτας</string>
      <string name="scan_prompt_password">Σάρωση %1$s κωδικού πρόσβασης της προπληρωμένης κάρτας</string>
      <string name="scan_prompt_retry">Κρατήστε τον κωδικό σταθερά</string>
      <string name="scan_prompt_voucher">Σάρωση MiCredit κωδικού πρόσβασης</string>
      <string name="security_setting">Ρυθμίσεις ασφαλείας</string>
+     <string name="shurtcut_create_success">Απεστάλη στην Αρχική οθόνη</string>
      <string name="sms_code_empty">Εισάγετε τον κωδικό επαλήθευσης που λάβατε στο τηλέφωνό σας.</string>
      <string name="sms_code_error">Σφάλμα κωδικού επαλήθευσης κινητού τηλεφώνου. Παρακαλώ ζητήστε ξανά</string>
      <string name="sms_code_hint">Κωδικός επαλήθευσης κινητού τηλεφώνου</string>
@@ -309,7 +315,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="title_custom_service_phone">Επικοινωνήστε με την υποστήριξη πελατών</string>
      <string name="title_discounts">Εκπτώσεις</string>
      <string name="title_gesture">Μοτίβο κλειδώματος</string>
-     <string name="title_giftcard">Προσφορές</string>
      <string name="title_lockpattern">Απαιτείται Μοτίβο κλειδώματος</string>
      <string name="title_mili_center">MiCredits</string>
      <string name="title_nopassword">«Δεν απαιτείται για τις μικρές πληρωμές</string>
@@ -318,7 +323,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="title_password_threshold">Ημερήσιο όριο = %1$s γιουάν</string>
      <string name="title_recharge">Συμπληρώστε MiCredit</string>
      <string name="title_sms_code">Παρακαλώ εισάγετε τον κωδικό επαλήθευσης του κινητού τηλεφώνου</string>
-     <string name="title_transaction">Συναλλαγές</string>
      <string name="title_visible_pattern">Κάντε το μοτίβο ορατό</string>
      <string name="unit">Mi Credit</string>
      <string name="unit_value">%1$s Mi Credit</string>

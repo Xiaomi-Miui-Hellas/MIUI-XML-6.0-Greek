@@ -17,6 +17,7 @@
      <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτερολέπτων</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
      <string name="add_blacklist">Φραγή</string>
+     <string name="add_blacklist_dialog_title">Προσθήκη στη λίστα φραγών</string>
      <string name="add_connection_button">Προσθήκη σύνδεσης</string>
      <string name="add_contact_dlg_message_fmt">Προσθήκη \"%s\" στις επαφές;</string>
      <string name="add_field">Προσθήκη άλλου πεδίου</string>
@@ -40,6 +41,7 @@
      <string name="auto_nickname">Αυτόματο</string>
      <string name="auto_set_nickname">Αυτόματο</string>
      <string name="batch_delete">Ομαδική διαγραφή</string>
+     <string name="blacklist">Φραγή</string>
      <string name="bluetooth_connection_failed_toast">Η σύνδεση Bluetooth διακόπηκε</string>
      <string name="blurbJoinContactDataWith">Επιλέξτε την επαφή που θέλετε να συγχωνευθεί με %s:</string>
      <string name="btn_rotation">Περιστροφή</string>
@@ -321,8 +323,6 @@
      <string name="display_sim_contacts">Εμφάνιση επαφών SIM</string>
      <string name="display_ungrouped">Όλες οι άλλες επαφές</string>
      <string name="display_warn_remove_ungrouped">Αφαίρεση \"%s\" από τον συγχρονισμό θα καταργήσει επίσης τις επαφές χωρίς ομαδοποίηση από τον συγχρονισμό.</string>
-     <string name="dlg_add_blacklist">Φραγή αυτού του αριθμού;</string>
-     <string name="dlg_remove_blacklist">Άρση φραγής</string>
      <string name="download_failed">Αποτυχία λήψης</string>
      <string name="download_preview_failed">Απέτυχε να φορτώσει την προεπισκόπηση</string>
      <string name="duplicate_group_name">Μια ομάδα με αυτό το όνομα υπάρχει ήδη</string>
@@ -685,6 +685,7 @@
      <string name="percent_sign">%</string>
      <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Τηλέφωνο</string>
+     <string name="phone_call_type_voip">VoIP</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_primary">Κύριο</string>
      <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες εικόνες στο τηλέφωνο.</string>
@@ -800,6 +801,7 @@
      <string name="relationLabelsGroup">Σχέση</string>
      <string name="removePhoto">Αφαίρεση φωτογραφίας</string>
      <string name="remove_blacklist">Άρση φραγής</string>
+     <string name="remove_blacklist_dialog_title">Αφαίρεση από την λίστα γραφών</string>
      <string name="remove_duplicate">"Η MIUI θα σας βοηθήσει να βρείτε και να συγχωνεύσετε τις διπλές επαφές.
 
 Για να ξεκινήσετε, πατήστε το εικονίδιο συγχώνευσης στο κάτω μέρος της οθόνης σας."</string>
@@ -942,6 +944,7 @@
      <string name="resource_see_more">Δείτε περισσότερα</string>
      <string name="resource_select">Επιλέξτε</string>
      <string name="resource_select_ringtone_confirm">Επιλογή αυτού του ήχου;</string>
+     <string name="resource_select_ringtone_confirm_picker">Επιλογή αυτού του ήχου;</string>
      <string name="resource_selected">Προτεινόμενο</string>
      <string name="resource_send">Αποστολή</string>
      <string name="resource_server_alert_dialog_title">"Επιστρέφουμε αμέσως…"</string>
