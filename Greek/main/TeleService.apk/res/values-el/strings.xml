@@ -144,6 +144,8 @@
      <string name="carrier_settings_menu" />
      <string name="cb_sms_settings">Ρυθμίσεις εκπομπής κυψέλης SMS</string>
      <string name="cdma_activate_device">Ενεργοποίηση της συσκευής</string>
+     <string name="cdma_alert_message">"Εάν επιλέξετε μια άλλη κάρτα ως προεπιλογή για τα δεδομένα κινητής, δεν θα είστε σε θέση να χρησιμοποιήσετε την κάρτα σας China Telecom UIM."</string>
+     <string name="cdma_alert_title">Η κάρτα UIM πρέπει να είναι η προεπιλεγμένη</string>
      <string name="cdma_display_precise_call_state_message">Εάν το δίκτυό σας δεν υποστηρίζει αυτή τη λειτουργία, η κατάσταση κλήσης μπορεί να είναι ανακριβής.</string>
      <string name="cdma_display_precise_call_state_summary">Επιβεβαιώστε ότι το δίκτυό σας υποστηρίζει αυτή τη λειτουργία</string>
      <string name="cdma_display_precise_call_state_title">Εμφάνιση κατάστασης κλήσης</string>
@@ -163,6 +165,9 @@
      <string name="cfnrc_title_cta">Προώθηση όταν είμαι απρόσιτος</string>
      <string name="cfnry_title">Προώθηση όταν δεν απαντάω</string>
      <string name="cfu_title">Προώθηση πάντα</string>
+     <string name="change_default_data">Αλλαγή</string>
+     <string name="change_default_data_alert_message">"Δεν θα είστε σε θέση να χρησιμοποιήσετε την κάρτα σας China Telecom UIM."</string>
+     <string name="change_default_data_alert_title">Η κάρτα UIM πρέπει να είναι η προεπιλεγμένη</string>
      <string name="change_num">Ενημέρωση</string>
      <string name="change_password">Αλλαγή κωδικού φραγής</string>
      <string name="change_pin">Αλλαγή PIN κάρτας SIM</string>
@@ -175,6 +180,7 @@
      <string name="cloud_antispam_title">Αναγνώριση αγνώστων αριθμών</string>
      <string name="command_error_fdn_failure">Θα πρέπει να απενεργοποιήσετε πρώτα το FDN</string>
      <string name="config_dialing_emergency_number_suffix" />
+     <string name="confirm_change_default_data">Αλλαγή</string>
      <string name="confirm_password_label">Επιβεβαίωση νέου κωδικού</string>
      <string name="confirm_pin2_label">Επιβεβαίωση νέου PIN2</string>
      <string name="confirm_pin_label">Επιβεβαίωση νέου PIN</string>
@@ -318,6 +324,8 @@
      <string name="fdn_enabled">Τα FDNs έχουν ενεργοποιηθεί</string>
      <string name="fdn_invalid_number">Ο FDN δεν ενημερώθηκε επειδή ο αριθμός δεν μπορεί να υπερβαίνει τα 20 ψηφία.</string>
      <string name="fdn_summary">Περιορισμός εξερχόμενων κλήσεων σε καταχωρημένα FDNs, ή αριθμούς με συγκεκριμένα προθέματα</string>
+     <string name="flash_when_ring_summary">Να αναβοσβήνει το LED για τις εισερχόμενες κλήσεις</string>
+     <string name="flash_when_ring_title">Να αναβοσβήνει όταν κουδουνίζει</string>
      <string name="fw_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.
 Επικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει."</string>
      <string name="fw_get_in_vm_failed">"Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.
@@ -509,6 +517,7 @@
      <string name="no_wifi_available_title">Δεν υπάρχει σύνδεση WLAN</string>
      <string name="not_a_valid_port">Ο αριθμός θύρας θα πρέπει να είναι από 1000 έως 65534.</string>
      <string name="not_allowed">Η κάρτα SIM δεν επιτρέπει σύνδεση σε αυτό το δίκτυο.</string>
+     <string name="not_change_default_data">"Μην αλλάξετε"</string>
      <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
      <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
      <string name="notification_missedCall_call_back">Επανάκληση</string>
@@ -658,6 +667,7 @@
      <string name="reject_via_sms_summary">Επεξεργασία προτύπων κειμένου απαντήσεων</string>
      <string name="reject_via_sms_title">Γρήγορες απαντήσεις</string>
      <string name="remember_my_choice">Να χρησιμοποιείτε πάντα για την πραγματοποίηση κλήσεων Διαδικτύου</string>
+     <string name="remind_another_time">"Να μην εμφανιστεί ξανά"</string>
      <string name="remove">Διαγραφή</string>
      <string name="remove_ims_account">Κατάργηση λογαριασμού</string>
      <string name="remove_sip_account">Κατάργηση λογαριασμού</string>

@@ -31,6 +31,7 @@
      <string name="all_episode">Όλα τα Επεισόδια</string>
      <string name="app_latest_version">Η εφαρμογή είναι ήδη η πιο πρόσφατη έκδοση</string>
      <string name="app_name">Βίντεο</string>
+     <string name="app_plugin_ready">το στοιχείο %1$s είναι έτοιμο</string>
      <string name="app_update_background">Αναβαθμίστε την εφαρμογή σας στο παρασκήνιο</string>
      <string name="app_upgrade_version">Νέα έκδοση</string>
      <string name="app_version">Έκδοση Εφαρμογής</string>
@@ -113,8 +114,11 @@
      <string name="download_progress_0p">0%</string>
      <string name="download_queue">Ανάκτηση διεύθυνσης</string>
      <string name="download_running">Εκτελείται</string>
+     <string name="download_start_message">Το στοιχείο %1$s θα ληφθεί και θα εγκατασταθεί</string>
      <string name="download_task_with">%d εργασίες</string>
+     <string name="download_url_waiting">Αναμονή ανάκτησης url</string>
      <string name="download_with">Λήψη %1$s/%2$s</string>
+     <string name="downloading_app_plugin">Λήψη στοιχείου %1$s</string>
      <string name="edit">Επεξεργασία</string>
      <string name="edit_comment">Προσθέστε σχόλιο</string>
      <string name="empty_data">Σφάλμα φόρτωσης</string>
@@ -137,13 +141,14 @@
      <string name="gong_count_ji">%d Eπ. συνολικά</string>
      <string name="gong_count_xiang">%d Βίντεο</string>
      <string name="good">ΟΚ</string>
-     <string name="hint_apk_download">Πατήστε \"%1$s\" για λήψη και εγκατάσταση της εφαρμογής</string>
+     <string name="hint_apk_download">Εγκατάσταση της εφαρμογής</string>
      <string name="hint_apk_install">Λήψη εφαρμογής</string>
-     <string name="hint_apk_text_update">Υπάρχει νέα έκδοση της εφαρμογής διαθέσιμη. Θέλετε να γίνει λήψη και εγκατάσταση;</string>
-     <string name="hint_apk_title_update">Νέα έκδοση</string>
+     <string name="hint_apk_text_update">%1$s νέα έκδοση της εφαρμογής διαθέσιμη. Θέλετε να γίνει ενημέρωση;</string>
+     <string name="hint_apk_title_update">%1$s Νέα Έκδοση</string>
      <string name="icntv">iCNTV</string>
      <string name="info_video_loading">Φόρτωση…</string>
      <string name="init">Εκκίνηση</string>
+     <string name="install_apk">Εγκατάσταση</string>
      <string name="install_comfirm">Πατήστε για να εγκαταστήσετε</string>
      <string name="install_plugin">Εγκατάσταση plug-in</string>
      <string name="introduce">Περίληψη</string>
@@ -161,6 +166,7 @@
      <string name="login_tip_content">Σύνδεση με το λογαριασμό σας Mi για να συγχρονίσετε και να ενημερώσετε τα δείχνει τα οποία ακολουθείτε.</string>
      <string name="login_tip_title">Σύνδεση</string>
      <string name="media_name_comment">%s σχόλια</string>
+     <string name="memory_mode_desc">Εξοικονόμηση μνήμης</string>
      <string name="menu_item_enable_audio_enhance">Ενεργοποίηση βελτιώσεων ήχου</string>
      <string name="menu_name">Μενού</string>
      <string name="mine_info_account_summary_none">Δεν έχετε συνδεθεί</string>
@@ -169,6 +175,7 @@
      <string name="mipush_setting">Xiaomi push</string>
      <string name="month">Μήνας</string>
      <string name="my_favorite">Με αστέρι</string>
+     <string name="my_local_favorite">Τοπικά Αγαπημένα</string>
      <string name="my_offline">Εκτός σύνδεσης</string>
      <string name="mycamera">Τα βίντεο μου</string>
      <string name="myfavorite">Με αστέρι</string>
@@ -211,6 +218,8 @@
      <string name="other_setting">Άλλο</string>
      <string name="pause">Παύση</string>
      <string name="percent_status">%.1f%%</string>
+     <string name="performance_mode">Λειτουργία Εκτέλεσης</string>
+     <string name="performance_mode_desc">Προτεραιότητα Επιδόσεων</string>
      <string name="personal_center">Προσωπικό Κέντρο</string>
      <string name="pick_addon_to_delete">επιλέξετε αντικείμενα</string>
      <string name="place_at">No. %d</string>
@@ -307,6 +316,7 @@
      <string name="version_select_summary">Επιλέξτε alpha, developing ή stable έκδοση</string>
      <string name="vertical_line"><CDATA> | </CDATA></string>
      <string name="video">Βίντεο</string>
+     <string name="video_app_update">Ενημέρωση</string>
      <string name="video_bbs">Ελάτε μαζί μας</string>
      <string name="video_bbs_url">Ελάτε μαζί μας και βοηθήστε στην ανάπτυξη αυτής της εφαρμογής βίντεο</string>
      <string name="video_count">%d βίντεο</string>

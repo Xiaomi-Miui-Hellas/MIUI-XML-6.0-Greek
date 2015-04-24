@@ -3,7 +3,7 @@
      <string name="access_denied">Δεν επιτρέπεται η πρόσβαση</string>
      <string name="account">Λογαριασμός</string>
      <string name="activate">Ενεργοποίηση</string>
-     <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VoIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
+     <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VOIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
      <string name="activating">Ενεργοποίηση…</string>
      <string name="alert_notif_title_dspt">Χωρίς συγχρονισμό</string>
      <string name="antispam_sync">Ρυθμίσεις Μην Ενοχλείτε</string>
@@ -41,6 +41,7 @@
      <string name="cloud_app_back_up_quit_notification_content3">Λήψη αντιγράφων</string>
      <string name="cloud_back_up_button_ok">Αναγκαστική διακοπή</string>
      <string name="cloud_back_up_close_info">Πατήστε για αντίγραφο.</string>
+     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
      <string name="cloud_back_up_dialog_content">"Διακοπή αντιγράφου ασφαλείας σε εξέλιξη; Αν σταματήσετε τώρα, δεν θα είστε σε θέση να χρησιμοποιήσετε αυτό το αντίγραφο ασφαλείας για να επαναφέρετε εφαρμογές."</string>
      <string name="cloud_back_up_interval_long">7 ημέρες</string>
      <string name="cloud_back_up_interval_short">1 ώρα</string>

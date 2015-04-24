@@ -227,6 +227,7 @@
      <string name="resource_see_more">Δείτε περισσότερα</string>
      <string name="resource_select">Επιλέξτε</string>
      <string name="resource_select_ringtone_confirm">Επιλογή αυτού του ήχου;</string>
+     <string name="resource_select_ringtone_confirm_picker">Επιλογή αυτού του ήχου;</string>
      <string name="resource_selected">Επιλεγμένα</string>
      <string name="resource_send">Αποστολή</string>
      <string name="resource_server_alert_dialog_title">Η υπηρεσία δεν είναι διαθέσιμη προς το παρόν</string>

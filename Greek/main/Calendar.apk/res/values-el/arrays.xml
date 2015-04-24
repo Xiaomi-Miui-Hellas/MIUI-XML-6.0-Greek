@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Ειδοποίηση</item>
-        <item>Email</item>
-        <item>Μήνυμα κειμένου</item>
-        <item>Ξυπνητήρι</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
+     <string-array name="availability">
+        <item>Απασχολημένος</item>
+        <item>Διαθέσιμος</item>
+        <item>Αβέβαιος</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>Ημέρα</item>
+        <item>Εβδομάδα</item>
+        <item>Μήνας</item>
+        <item>Ατζέντα</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Μόνο αυτό το γεγονός</item>
+        <item>Όλα τα γεγονότα στη σειρά</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Μόνο αυτό το γεγονός</item>
+        <item>Αυτό και μελλοντικά γεγονότα</item>
+        <item>Όλα τα γεγονότα</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Αυτό &amp; μελλοντικά γεγονότα</item>
+        <item>Όλα τα γεγονότα</item>
+     </string-array>
+     <string-array name="miui_reminder_minutes_labels">
         <item>Χωρίς υπενθύμιση</item>
         <item>0 λεπτά</item>
         <item>5 λεπτά</item>
@@ -17,8 +35,20 @@
         <item>1 ημέρα</item>
         <item>2 ημέρες</item>
         <item>1 εβδομάδα</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>πρώτη</item>
+        <item>δεύτερη</item>
+        <item>τρίτη</item>
+        <item>τέταρτη</item>
+        <item>τελευταία</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο όταν είναι σε σίγαση</item>
+        <item>Ποτέ</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
         <item>Χωρίς υπενθύμιση</item>
         <item>0 λεπτά</item>
         <item>5 λεπτά</item>
@@ -29,14 +59,90 @@
         <item>1 ημέρα</item>
         <item>2 ημέρες</item>
         <item>1 εβδομάδα</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
         <item>Τοπική Προεπιλογή</item>
         <item>Σάββατο</item>
         <item>Κυριακή</item>
         <item>Δευτέρα</item>
-    </string-array>
-    <string-array name="timezone_labels">
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Έχω αργήσει μερικά λεπτά.</item>
+        <item>Θα είμαι εκεί σε περίπου 10 λεπτά.</item>
+        <item>Ξεκινήστε χωρίς εμένα.</item>
+        <item>Συγνώμη, δεν θα τα καταφέρω. Θα πρέπει να το επαναπρογραμματίσουμε.</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Ειδοποίηση</item>
+        <item>Email</item>
+        <item>Μήνυμα κειμένου</item>
+        <item>Ξυπνητήρι</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>Χωρίς υπενθύμιση</item>
+        <item>0 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>1 ημέρα</item>
+        <item>2 ημέρες</item>
+        <item>1 εβδομάδα</item>
+     </string-array>
+     <string-array name="repeat_choose_end">
+        <item>Ποτέ</item>
+        <item>Χρόνος</item>
+        <item>Μετρητής</item>
+     </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Ιαν</item>
+        <item>Φεβ</item>
+        <item>Μάρ</item>
+        <item>Απρ</item>
+        <item>Μάϊ</item>
+        <item>Ιούν</item>
+        <item>Ιούλ</item>
+        <item>Άυγ</item>
+        <item>Σεπ</item>
+        <item>Οκτ</item>
+        <item>Δεκ</item>
+        <item>Νοέ</item>
+     </string-array>
+     <string-array name="repeat_choose_week_left">
+        <item>πρώτη</item>
+        <item>δεύτερη</item>
+        <item>τρίτη</item>
+        <item>τέταρτη</item>
+        <item>τελευταία</item>
+     </string-array>
+     <string-array name="repeat_choose_week_right">
+        <item>Δευ - Παρ</item>
+        <item>Σαββατοκύριακο</item>
+        <item>Όλη την εβδομάδα</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Δευ</item>
+        <item>Τρί</item>
+        <item>Τετ</item>
+        <item>Πέμ</item>
+        <item>Παρ</item>
+        <item>Σάβ</item>
+        <item>Κυρ</item>
+     </string-array>
+     <string-array name="repeat_frequency_spinner">
+        <item>ημέρα</item>
+        <item>εβδομάδα</item>
+        <item>μήνα</item>
+        <item>έτος</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Χωρίς απάντηση</item>
+        <item>Ναι</item>
+        <item>Ίσως</item>
+        <item>Όχι</item>
+     </string-array>
+     <string-array name="timezone_labels">
         <item>Νησιά Μάρσαλ</item>
         <item>Νήσος Midway</item>
         <item>Χαβάη</item>
@@ -121,141 +227,14 @@
         <item>Auckland</item>
         <item>Φίτζι</item>
         <item>Τόνγκα</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Απασχολημένος</item>
-        <item>Διαθέσιμος</item>
-        <item>Αβέβαιος</item>
-    </string-array>
-    <string-array name="visibility">
+     </string-array>
+     <string-array name="visibility">
         <item>Προκαθορισμένο</item>
         <item>Ιδιωτικός</item>
         <item>Κοινόχρηστος</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>πρώτη</item>
-        <item>δεύτερη</item>
-        <item>τρίτη</item>
-        <item>τέταρτη</item>
-        <item>τελευταία</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Χωρίς απάντηση</item>
-        <item>Ναι</item>
-        <item>Ίσως</item>
-        <item>Όχι</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Μόνο αυτό το γεγονός</item>
-        <item>Αυτό και μελλοντικά γεγονότα</item>
-        <item>Όλα τα γεγονότα</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Αυτό &amp; μελλοντικά γεγονότα</item>
-        <item>Όλα τα γεγονότα</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Μόνο αυτό το γεγονός</item>
-        <item>Όλα τα γεγονότα στη σειρά</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Ημέρα</item>
-        <item>Εβδομάδα</item>
-        <item>Μήνας</item>
-        <item>Ατζέντα</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Έχω αργήσει μερικά λεπτά.</item>
-        <item>Θα είμαι εκεί σε περίπου 10 λεπτά.</item>
-        <item>Ξεκινήστε χωρίς εμένα.</item>
-        <item>Συγνώμη, δεν θα τα καταφέρω. Θα πρέπει να το επαναπρογραμματίσουμε.</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Πάντα</item>
-        <item>Μόνο όταν είναι σε σίγαση</item>
-        <item>Ποτέ</item>
-    </string-array>
-    <string-array name="widget_style_list">
+     </string-array>
+     <string-array name="widget_style_list">
         <item>Διαφανές</item>
         <item>Άσπρο φόντο</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>ημέρα</item>
-        <item>εβδομάδα</item>
-        <item>μήνα</item>
-        <item>έτος</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1η</item>
-        <item>2η</item>
-        <item>3η</item>
-        <item>4η</item>
-        <item>5η</item>
-        <item>6η</item>
-        <item>7η</item>
-        <item>8η</item>
-        <item>9η</item>
-        <item>10η</item>
-        <item>11η</item>
-        <item>12η</item>
-        <item>13η</item>
-        <item>14η</item>
-        <item>15η</item>
-        <item>16η</item>
-        <item>17η</item>
-        <item>18η</item>
-        <item>19η</item>
-        <item>20η</item>
-        <item>21η</item>
-        <item>22η</item>
-        <item>23η</item>
-        <item>24η</item>
-        <item>25η</item>
-        <item>26η</item>
-        <item>27η</item>
-        <item>28η</item>
-        <item>29η</item>
-        <item>30η</item>
-        <item>31η</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Δευ</item>
-        <item>Τρί</item>
-        <item>Τετ</item>
-        <item>Πέμ</item>
-        <item>Παρ</item>
-        <item>Σάβ</item>
-        <item>Κυρ</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Ιαν</item>
-        <item>Φεβ</item>
-        <item>Μάρ</item>
-        <item>Απρ</item>
-        <item>Μάϊ</item>
-        <item>Ιούν</item>
-        <item>Ιούλ</item>
-        <item>Άυγ</item>
-        <item>Σεπ</item>
-        <item>Οκτ</item>
-        <item>Δεκ</item>
-        <item>Νοέ</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>πρώτη</item>
-        <item>δεύτερη</item>
-        <item>τρίτη</item>
-        <item>τέταρτη</item>
-        <item>τελευταία</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Δευ - Παρ</item>
-        <item>Σαββατοκύριακο</item>
-        <item>Όλη την εβδομάδα</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Ποτέ</item>
-        <item>Χρόνος</item>
-        <item>Μετρητής</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -125,7 +125,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="set_auto">Αυτόματος έλεγχος ενημερώσεων</string>
      <string name="set_auto_msg">Όταν υπάρχει νέα έκδοση, δεν θα χρειάζεται να κάνετε χειροκίνητη ενημέρωση. Σε περίπτωση σύνδεσης σε δίκτυο Wi-Fi, θα γίνεται έξυπνα η επιλογή του κατάλληλου χρόνου ενημέρωσης της συσκευής, χωρίς να χρειάζεται πλέον να ασχολείστε επί μακρόν για την λήψη της ενημέρωσης.</string>
      <string name="set_auto_update_title">Ενεργοποίηση έξυπνης λήψης ενημερώσεων</string>
-     <string name="set_installfail_full_msg">Δεν είναι δυνατή η ενημέρωση αυτή τη στιγμή. Πατήστε \\OK\\ για να αναφέρετε αυτό το σφάλμα στους μηχανικούς μας.</string>
+     <string name="set_installfail_full_msg">Δεν είναι δυνατή η ενημέρωση αυτή τη στιγμή. Πατήστε \"OK\" για να αναφέρετε αυτό το σφάλμα στους μηχανικούς μας.</string>
      <string name="set_installfail_msg">Η λήψη αυτής της ενημερωμένης έκδοσης σε σύνδεση δεδομένων κινητής τηλεφωνίας σας θα αυξήσει τη χρήση των δεδομένων σας.</string>
      <string name="set_installfail_title">Θα προσπαθήσετε να κάνετε ξανά λήψη της ενημερωμένης έκδοσης;</string>
      <string name="set_installfail_title_full">Η ενημέρωση απέτυχε</string>
@@ -161,7 +161,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="update_comment_title">Σχόλιο</string>
      <string name="update_downfull_no_info_sum">Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
      <string name="update_downfull_no_info_title">Δεν είναι δυνατή η λήψη της ενημερωμένης έκδοσης</string>
-     <string name="update_feedback">Σχόλια αναβάθμισης</string>
+     <string name="update_feedback">Βαθμολογήστε αυτή την ενημέρωση</string>
      <string name="update_feedback_end">Χάσατε την προθεσμία αυτής της εβδομάδας</string>
      <string name="update_feedback_end_sum">Μπορείτε να συμμετάσχετε κάθε Τρίτη</string>
      <string name="update_feedback_expired">"Έχετε χάσει την προθεσμία για αυτή την εβδομάδα.

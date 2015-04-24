@@ -20,6 +20,14 @@
         <item quantity="other">%1$d επαφές έχουν εισαχθεί</item>
         <item quantity="one">%1$d επαφή έχει εισαχθεί</item>
      </plurals>
+     <plurals name="dlg_add_blacklist">
+        <item quantity="other">Φραγή αυτών των %1$d αριθμών;</item>
+        <item quantity="one">Φραγή αυτού του αριθμού;</item>
+     </plurals>
+     <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Άρση φραγής αυτών των %1$d αριθμών;</item>
+        <item quantity="one">Άρση φραγής αυτού του αριθμού;</item>
+     </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Αντιγράφηκαν %d επαφές</item>
         <item quantity="one">Αντιγράφηκε %d επαφή</item>
