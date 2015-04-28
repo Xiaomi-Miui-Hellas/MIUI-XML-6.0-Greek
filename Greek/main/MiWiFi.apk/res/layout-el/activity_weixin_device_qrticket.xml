@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+<RelativeLayout android:orientation="vertical" android:id="@id/background" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Δοκιμαστικός λογαριασμός" />
-    <ImageView android:id="@id/qr_code" android:layout_width="150.0dip" android:layout_height="150.0dip" />
-    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Επίσημος λογαριασμός" />
-    <ImageView android:id="@id/qr_code_2" android:layout_width="150.0dip" android:layout_height="150.0dip" />
-    <Button android:enabled="false" android:id="@id/bind_weixin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Δεσμεύεται weixin" />
-</LinearLayout>
+    <include layout="@layout/title_bar" />
+    <RelativeLayout android:id="@id/top_area" android:background="@color/app_style_background_color" android:paddingTop="50.0dip" android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_below="@id/title_bar">
+        <RelativeLayout android:id="@id/animation_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tips_icon_weixin" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <ScrollView android:id="@id/scroll_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/top_area">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="@color/common_textcolor_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Μπαίνει το Xiaomi, αμέσως μετά την υπηρεσία μηχανισμού δρομολόγησης, μέσω μικρο-επιστολές：" />
+                <View android:layout_width="fill_parent" android:layout_height="15.0dip" />
+                <TextView android:textColor="@color/common_textcolor_2" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="◆ Άμεση κατανόηση πληροφοριών συσκευών δικτύου άκρη, ώστε να υποστηρίξει ένα μαύρο κλειδί" />
+                <TextView android:textColor="@color/common_textcolor_2" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="◆ Καταλαβαίνω την ανησυχία του εξοπλισμού στη γραμμή" />
+                <TextView android:textColor="@color/common_textcolor_2" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="◆ Προβολή κατάστασης δικτύωσης συσκεών στο σπίτι" />
+                <TextView android:textColor="@color/common_textcolor_2" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="◆ Διαχείριση εργασιών σε μη απευθείας σύνδεση λήψης" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="25.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Δοκιμαστικό λογαριασμό" />
+                    <ImageView android:id="@id/qr_code" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+                </LinearLayout>
+                <View android:layout_width="25.0dip" android:layout_height="25.0dip" />
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Επίσημος λογαριασμός" />
+                    <ImageView android:id="@id/qr_code_2" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:layout_width="fill_parent" android:layout_height="70.0dip" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/common_bg" android:layout_width="fill_parent" android:layout_height="70.0dip" android:layout_alignBottom="@id/scroll_area">
+        <TextView android:textSize="@dimen/common_textsize_2" android:textColor="@color/common_button_text_color" android:gravity="center" android:layout_gravity="center" android:id="@id/bind_weixin" android:background="@drawable/common_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:text="@string/weixin_confirm_link" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>
