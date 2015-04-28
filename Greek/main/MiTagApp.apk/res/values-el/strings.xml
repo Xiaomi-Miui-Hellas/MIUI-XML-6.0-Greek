@@ -212,12 +212,12 @@
   <string name="write_tag">Γράψτε tag</string>
   <string name="writing">Εγγραφή…</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος για αποθήκευση, παρακαλούμε να ελέγξετε την κάρτα SD.</string>
+  <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Παρακαλώ ελέγξτε την κάρτα SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Παρουσιάζοντας την έκδοση %1$s
+  <string name="xiaomi_update_dialog_message">"Σας παρουσιάζουμε την έκδοση %1$s
 Μέγεθος: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Παρουσιάζοντας την έκδοση %1$s
-Delta μέγεθος ενημέρωσης: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s ενημέρωση!</string>
+  <string name="xiaomi_update_dialog_message_diff">"Σας παρουσιάζουμε την έκδοση %1$s
+Μέγεθος ενημέρωσης Delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s νέα έκδοση!</string>
 </resources>

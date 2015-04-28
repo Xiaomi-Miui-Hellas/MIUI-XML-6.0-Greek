@@ -319,9 +319,9 @@
      <string name="kick_sharer">Διαγραφή κοινόχρηστου</string>
      <string name="kick_sharer_failed">Αποτυχία διαγραφής κοινόχρηστου</string>
      <string name="kick_sharer_successfully">Επιτυχής διαγραφή κοινόχρηστου</string>
-     <string name="last_chinese_new_year">Τελευταία Κινέζικα Πρωτοχρονιά</string>
+     <string name="last_chinese_new_year">Τελευταία Κινέζικη Πρωτοχρονιά</string>
      <string name="last_new_year">Τελευταία Πρωτοχρονιά</string>
-     <string name="last_valentine_day">Τελευταία ημέρα του Αγίου Βαλεντίνου</string>
+     <string name="last_valentine_day">Τελευταία Ημέρα του Αγίου Βαλεντίνου</string>
      <string name="last_year_today">Πριν 1 χρόνο</string>
      <string name="loading">Φορτώνει…</string>
      <string name="loading_failure">Η φωτογραφία δε μπορεί να φορτωθεί</string>
