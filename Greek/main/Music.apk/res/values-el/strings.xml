@@ -150,6 +150,7 @@
      <string name="higher_quality_music">Υψηλής ποιότητας μουσική</string>
      <string name="higher_quality_music_summary">Ακούστε και κάνετε λήψη υψηλότερης ποιότητας μουσικής</string>
      <string name="i_know">ΟΚ</string>
+     <string name="i_know_it">OK</string>
      <string name="impunity_declaration">Η δικτυακή μουσική που θα ακούσετε, παρέχεται από την αντίστοιχη υπηρεσία της Baidu. Επιλέξτε Επιβεβαίωση για αποδοχή των <a href="http://music.baidu.com/doc/agreement">όρων χρήσης</a>, μπορεί να αυξηθεί το κόστος χρήσης δεδομένων.</string>
      <string name="impunity_declaration_ignore">Χωρίς προτροπή</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
@@ -258,6 +259,7 @@
      <string name="send_to">Αποστολή προς</string>
      <string name="send_to_title">Αποστολή προς (%1$s)</string>
      <string name="server_error">Σφάλμα διακομιστή. Παρακαλώ δοκιμάστε ξανά αργότερα</string>
+     <string name="service_stop">Η υπηρεσία διακόπηκε</string>
      <string name="set_album_successful">Επιτυχής επιλογή άλμπουμ</string>
      <string name="set_as_ring">Ορισμός ως ήχος κλήσης</string>
      <string name="set_id3_failed">Αποτυχία ορισμού πληροφοριών ID3</string>
@@ -302,6 +304,12 @@
      <string name="ultra_high_quality">Εξαιρετική ποιότητα</string>
      <string name="unknown_album_name">Άγνωστο άλμπουμ</string>
      <string name="unknown_artist_name">Άγνωστος καλλιτέχνης</string>
+     <string name="upgrade_force">"Διακόπτουμε την τρέχουσα υπηρεσία μας ροής, λόγω δικαιωμάτων πνευματικής ιδιοκτησίας. Εγκαταστήστε την πιο πρόσφατη έκδοση της εφαρμογής Μουσική για να ακούσετε μουσική υψηλής ποιότητας."</string>
+     <string name="upgrade_immediate">Ενημέρωση τώρα</string>
+     <string name="upgrade_nobeta">"Διακόπτουμε την τρέχουσα υπηρεσία μας ροής, μέχρι την επίλυση ζητημάτων πνευματικών δικαιωμάτων. Συγγνώμη για την ταλαιπωρία :("</string>
+     <string name="upgrade_remind">Διαθέσιμη ενημέρωση</string>
+     <string name="upgrade_suggest">"Διακόπτουμε την τρέχουσα υπηρεσία μας ροής, λόγω δικαιωμάτων πνευματικής ιδιοκτησίας. Εγκαταστήστε την πιο πρόσφατη έκδοση της εφαρμογής Μουσική για να ακούσετε μουσική υψηλής ποιότητας."</string>
+     <string name="upgrade_waringing">"Θα είστε είναι σε θέση να ακούσετε μουσική που είναι αποθηκευμένη εκτός σύνδεσης."</string>
      <string name="valid_period">"Έγκυρο από: "</string>
      <string name="vip_recommend_title">Υψηλότερη ποιότητα μουσικής</string>
 </resources>

@@ -205,6 +205,7 @@
      <string name="group_name_title" />
      <string name="hms_no_subject_view">(Δεν υπάρχει θέμα)</string>
      <string name="hms_notification">Μηνύματα</string>
+     <string name="info_divider">|</string>
      <string name="locating_fail">Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας</string>
      <string name="login_before_use">Πρέπει να συνδεθείτε πρώτα</string>
      <string name="login_ok">Σύνδεση</string>

@@ -13,33 +13,11 @@
         <item>Δευτέρα έως Παρασκευή</item>
         <item>Προσαρμοσμένη</item>
      </string-array>
-     <string-array name="auto_clean_time">
-        <item>Καθημερινά</item>
-        <item>Κάθε 3 ημέρες</item>
-        <item>Κάθε 7 ημέρες</item>
-     </string-array>
      <string-array name="auto_memory_clean">
         <item>Σε 1 λεπτό</item>
         <item>Σε 5 λεπτά</item>
         <item>Σε 10 λεπτά</item>
         <item>Ποτέ</item>
-     </string-array>
-     <string-array name="auto_process_mode">
-        <item>Προτροπή με ειδοποίηση</item>
-        <item>Καθαρισμός στο παρασκήνιο</item>
-        <item>Προβολή ειδοποίησης μετά</item>
-     </string-array>
-     <string-array name="cache_sort_type">
-        <item>Μέγεθος</item>
-        <item>Όνομα</item>
-     </string-array>
-     <string-array name="installed_app_sort_type">
-        <item>Χρησιμοποιούνται συχνά</item>
-        <item>Μέγεθος</item>
-     </string-array>
-     <string-array name="large_file_sort_type">
-        <item>Μέγεθος</item>
-        <item>Όνομα</item>
      </string-array>
      <string-array name="power_dialog_auto_clean_memory_items">
         <item>Μετά από 1 λεπτό</item>
