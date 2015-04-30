@@ -300,6 +300,7 @@
      <string name="roaming_not_start_title">Διεθνής περιαγωγή</string>
      <string name="roaming_start_body">Επιτρέψτε στις εφαρμογές στη λίστα εξαιρέσεων να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
      <string name="roaming_start_title">Διεθνής περιαγωγή</string>
+     <string name="root">Root</string>
      <string name="sc_allow_network_dialog_message">Πρέπει να επιτρέψετε σε αυτή την εφαρμογή να συνδεθεί στο Internet για να λειτουργήσει σωστά.</string>
      <string name="sc_allow_network_dialog_tiltle">Αδυναμία χρήσης Εξοικονόμησης Δεδομένων</string>
      <string name="see_detail">Λεπτομέρειες</string>

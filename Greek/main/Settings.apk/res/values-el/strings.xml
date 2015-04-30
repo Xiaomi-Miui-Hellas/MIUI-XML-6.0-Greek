@@ -970,6 +970,12 @@
      <string name="firmware_version">Έκδοση Android</string>
      <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
      <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
+     <string name="fluency_mode">Βελτιστοποίηση απόδοσης συστήματος</string>
+     <string name="fluency_mode_confirm_title">Επανεκκίνηση τώρα;</string>
+     <string name="fluency_mode_confirm_will_fluency_mode_text">Η συσκευή σας πρέπει να επανεκκινηθεί για να ισχύσουν αυτές οι ρυθμίσεις.</string>
+     <string name="fluency_mode_confirm_will_normal_mode_text">Η ενεργοποίηση των animation και η χρήση περισσότερης μνήμης, μπορεί να προκαλέσει μικρότερη απόδοση σε ορισμένες συσκευές.</string>
+     <string name="fluency_mode_enabled_name">Βελτιστοποίηση απόδοσης συστήματος</string>
+     <string name="fluency_mode_summary">Απενεργοποίηση animation συστήματος και μείωση χρήσης μνήμης</string>
      <string name="font_size_huge">Τεράστια</string>
      <string name="font_size_large">Μεγάλη</string>
      <string name="font_size_medium">Μεσαία</string>
@@ -1035,6 +1041,7 @@
      <string name="gadget_toggle_wifi">Ενημέρωση Wi-Fi ρύθμισης</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Ελεγκτής παιχνιδιών</string>
+     <string name="gesture_wakeup_title">Διπλό κλικ για ενεργοποίηση οθόνης</string>
      <string name="getConfiguredNetworks">Ρυθμισμένα δίκτυα</string>
      <string name="getConnectionInfo">Στοιχεία Σύνδεσης</string>
      <string name="global_change_warning">Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο.</string>
@@ -2007,6 +2014,7 @@
      <string name="search_date_time">ημερομηνίας και ώρας</string>
      <string name="search_description">Ρυθμίσεις αναζήτησης</string>
      <string name="search_display">οθόνη</string>
+     <string name="search_fluency_mode">ομαλή λειτουργία</string>
      <string name="search_font">γραμματοσειρά</string>
      <string name="search_gps">GPS</string>
      <string name="search_handy_mode">εύχρηστη λειτουργία</string>
@@ -2193,6 +2201,7 @@
      <string name="status_bar_settings_advanced">Πρόσθετες ρυθμίσεις</string>
      <string name="status_bar_settings_all_app_display_loading">Φόρτωση…</string>
      <string name="status_bar_settings_basic_settings">Βασικές ρυθμίσεις</string>
+     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
      <string name="status_bar_settings_custom_carrier">Αλλαγή ονόματος παρόχου</string>
      <string name="status_bar_settings_custom_notification">Διαχείριση ειδοποιήσεων</string>
      <string name="status_bar_settings_custom_wifi_name">Επεξ. ονόματος Wi-Fi</string>

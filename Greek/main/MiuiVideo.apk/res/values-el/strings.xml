@@ -152,6 +152,8 @@
      <string name="install_comfirm">Πατήστε για να εγκαταστήσετε</string>
      <string name="install_plugin">Εγκατάσταση plug-in</string>
      <string name="introduce">Περίληψη</string>
+     <string name="join_alert_title">Συμμετοχή στις εσωτερικές δοκιμές</string>
+     <string name="join_hint">Εισάγετε τον κωδικό πρόσκλησης</string>
      <string name="key_back_down_toast">Για να εξέλθετε, πιέστε πάλι Πίσω</string>
      <string name="lastrefresh">Πρόσφατη ενημέρωση:</string>
      <string name="lekan">Lekan</string>

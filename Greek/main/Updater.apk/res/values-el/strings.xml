@@ -208,5 +208,8 @@ http://zhushou.xiaomi.com"</string>
      <string name="vote_recommend">Συνιστώ αυτή την αναβάθμιση</string>
      <string name="vote_submit">Υποβολή</string>
      <string name="weekly_build">Εβδομαδιαία</string>
+     <string name="welcom_button">OK</string>
+     <string name="welcom_message">"Ολοκληρώθηκε!"</string>
+     <string name="welcom_title">Καλώς ήλθατε στο MIUI 6</string>
      <string name="worst_update">Η χειρότερη αναβάθμιση μέχρι στιγμής</string>
 </resources>

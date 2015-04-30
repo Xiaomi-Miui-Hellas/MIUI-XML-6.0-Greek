@@ -18,6 +18,7 @@
      <string name="activity_find_city_dialog_message">Επιτρέπεται η χρήση εύρεσης τοποθεσίας για τον καιρό.</string>
      <string name="activity_find_city_dialog_set">Ρυθμίσεις</string>
      <string name="activity_find_city_dialog_title">Υπηρεσία τοποθεσίας</string>
+     <string name="activity_main_refresh_fail">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="activity_main_refresh_time">Ενημέρωση %1$s</string>
      <string name="activity_main_refresh_timeout">Ανανέωση χρόνου</string>
      <string name="activity_main_time_format">MM/dd</string>
