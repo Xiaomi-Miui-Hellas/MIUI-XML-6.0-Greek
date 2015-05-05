@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="ApplicationIconMore99">99+</string>
-     <string name="Folders">Φάκελοι</string>
      <string name="SMTP_independent_verification_text">Ανεξάρτητη επαλήθευση SMTP</string>
      <string name="SMTP_password_text">Κωδικός πρόσβασης</string>
      <string name="SMTP_username_text">Όνομα χρήστη</string>
@@ -70,7 +69,7 @@
      <string name="account_settings_policies">Πολιτικές ασφάλειας</string>
      <string name="account_settings_retry_label">Προσπάθεια συγχρονισμού</string>
      <string name="account_settings_retry_summary">Ακουμπήστε εδώ για να συγχρονίσετε τον λογαριασμό</string>
-     <string name="account_settings_ringtone">Επιλογή ήχου κλήσεις</string>
+     <string name="account_settings_ringtone">Ήχος ειδοποίησης</string>
      <string name="account_settings_servers">Ρυθμίσεις διακομιστή</string>
      <string name="account_settings_summary">Συχνότητα συγχρονισμού, ειδοποιήσεων, κλπ.</string>
      <string name="account_settings_sync_calendar_enable">Συγχρονισμός ημερολογίου</string>
@@ -81,6 +80,7 @@
      <string name="account_settings_sync_email_summary">Συγχρονισμός email για το λογαριασμό αυτό</string>
      <string name="account_settings_unsupported_label">Μη υποστηριζόμενες πολιτικές</string>
      <string name="account_settings_unsupported_summary">Κανένα</string>
+     <string name="account_settings_using_ringtone">Ειδοποίηση με ήχο</string>
      <string name="account_settings_vibrate_when_label">Δόνηση</string>
      <string name="account_setup_account_type_headline">Τύπος λογαριασμού</string>
      <string name="account_setup_account_type_instructions">Τι είδους λογαριασμού είναι αυτός;</string>
@@ -453,7 +453,9 @@
      <string name="folder_icon_desc">Εικονίδιο του φακέλου</string>
      <string name="folder_junk_name_en0">Junk</string>
      <string name="folder_junk_name_en1">Bulk Mail</string>
-     <string name="folder_picker_title">Επιλογέας φακέλου</string>
+     <string name="folder_list_display_all">Προβολή όλων των φακέλων</string>
+     <string name="folder_list_display_only_import">Προβολή μόνο σημαντικών φακέλων</string>
+     <string name="folder_picker_title">Επιλέξτε φακέλους</string>
      <string name="folder_removed">Καταργήθηκε από %1$s</string>
      <string name="folder_sent_name_en0">Sent</string>
      <string name="folder_sent_name_en1">Sent Messages</string>
@@ -510,6 +512,7 @@
      <string name="hint_quick_reply_all">Απάντηση σε όλους εδώ</string>
      <string name="ignore_spam_warning">Αγνοήστε, εμπιστεύομαι αυτό το μήνυμα</string>
      <string name="imap_name">IMAP</string>
+     <string name="imap_password_error">Ο κωδικός πρόσβασης του διακομιστή εισερχόμενης αλληλογραφίας είναι λάθος</string>
      <string name="inbox_folders_heading">Τοπικοί Φάκελοι</string>
      <string name="info">Πληροφ.</string>
      <string name="inline_picture_deleted">"Αδυναμία εύρεσης αυτής της εικόνας. Λήψη…"</string>
@@ -681,11 +684,14 @@
      <string name="outbox_alert_button_resend">Αποστολή ξανά</string>
      <string name="outbox_alert_certificate_error">Το πιστοποιητικό email εξαιρέθηκε. Παρακαλώ να το ενημερώσετε</string>
      <string name="outbox_alert_description_auth_error">Αιτία: Σφάλμα πιστοποίησης από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
+     <string name="outbox_alert_description_cannot_authenticate">Σφάλμα διακομιστή %s</string>
      <string name="outbox_alert_description_http_error">Αιτία: Σφάλμα HTTP από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_insufficient_storage_error">Ανεπαρκής χώρος αποθήκευσης στο διακομιστή</string>
      <string name="outbox_alert_description_provision_error">Αιτία: Σφάλμα ρύθμισης παραμέτρων από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
+     <string name="outbox_alert_description_reject_by_server">Απορρίφθηκε από %s</string>
      <string name="outbox_alert_description_sent_failed">"Αιτία: Το συνημμένο
 ξεπέρασε το όριο λήψης μεγέθους"</string>
+     <string name="outbox_alert_description_time_out">Αποτυχία σύνδεσης δικτύου</string>
      <string name="outbox_alert_duplicate_click">Ακόμη συγχρονίζει…</string>
      <string name="outbox_alert_edit_resend">Επεξ.και αποστολή ξανά</string>
      <string name="outbox_alert_failed_edit_resend">"Αδυναμία αποστολής. Επεξεργαστείτε και δοκιμάστε πάλι."</string>
@@ -884,6 +890,7 @@
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
+     <string name="smtp_password_error">Ο κωδικός πρόσβασης του διακομιστή εξερχόμενης αλληλογραφίας είναι λάθος</string>
      <string name="sort_attachment">Ταξινόμηση κατά</string>
      <string name="spaceChar">" "</string>
      <string name="special_text_colon_en">:</string>
