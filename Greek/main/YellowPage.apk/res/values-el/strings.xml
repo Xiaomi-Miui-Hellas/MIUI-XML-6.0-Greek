@@ -239,6 +239,7 @@
      <string name="nearby_no_yellow_page">Κανένα αποτέλεσμα σε κοντινή απόσταση</string>
      <string name="nearby_yellow_page_title">Πλησίον</string>
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+     <string name="network_access_denied">Άρνηση πρόσβασης στο δίκτυο</string>
      <string name="network_unavaliable">Δίκτυο μη διαθέσιμο, παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου</string>
      <string name="no_brief">Χωρίς εισαγωγή</string>
      <string name="no_evaluation">Δεν υπάρχουν σχόλια</string>

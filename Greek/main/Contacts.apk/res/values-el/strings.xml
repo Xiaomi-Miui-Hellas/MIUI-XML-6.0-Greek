@@ -731,6 +731,7 @@
      <string name="preference_contacts_display">Προβολή προτιμήσεων</string>
      <string name="preference_contacts_filter">Διαμόρφωση λίστας επαφών</string>
      <string name="preference_contacts_more">Οργάνωση επαφών</string>
+     <string name="preference_contacts_recovery_introduction">Ανάκτηση επαφών</string>
      <string name="preference_dial_pad_touch_tone_default">Προκαθορισμένο</string>
      <string name="preference_dial_pad_touch_tone_human">Φωνή</string>
      <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα του πιάνου</string>
