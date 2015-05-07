@@ -152,7 +152,7 @@
      <string name="i_know">ΟΚ</string>
      <string name="i_know_it">OK</string>
      <string name="impunity_declaration">Η δικτυακή μουσική που θα ακούσετε, παρέχεται από την αντίστοιχη υπηρεσία της Baidu. Επιλέξτε Επιβεβαίωση για αποδοχή των <a href="http://music.baidu.com/doc/agreement">όρων χρήσης</a>, μπορεί να αυξηθεί το κόστος χρήσης δεδομένων.</string>
-     <string name="impunity_declaration_ignore">Χωρίς προτροπή</string>
+     <string name="impunity_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
      <string name="impunity_declaration_positive_text">OK και συνέχεια</string>
      <string name="impunity_declaration_settings">Ειδοποίηση σε κάθε χρήση δικτύου</string>
