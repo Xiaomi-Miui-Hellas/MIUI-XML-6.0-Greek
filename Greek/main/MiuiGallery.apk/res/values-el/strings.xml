@@ -293,7 +293,7 @@
      <string name="import_complete">Η εισαγωγή ολοκληρώθηκε</string>
      <string name="import_fail">Αποτυχία εισαγωγής</string>
      <string name="impunity_declaration">Συμφωνείτε για σύνδεση στο Internet με την χρήση του άλμπουμ;</string>
-     <string name="impunity_declaration_ignore">Όχι προβολή ξανά</string>
+     <string name="impunity_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
      <string name="impunity_declaration_positive_text">OK</string>
      <string name="impunity_declaration_settings">Προβολή ειδοποίησης δικτύου</string>
      <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου σε κάθε εκκίνηση του άλμπουμ</string>

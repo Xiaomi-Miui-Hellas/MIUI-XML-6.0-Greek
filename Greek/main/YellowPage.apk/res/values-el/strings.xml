@@ -245,7 +245,7 @@
      <string name="no_evaluation">Δεν υπάρχουν σχόλια</string>
      <string name="no_more_result">Δεν υπάρχουν άλλα αποτελέσματα</string>
      <string name="no_price">Καμία πληροφορία τιμής</string>
-     <string name="notify_connect_summary">Προτροπή για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
+     <string name="notify_connect_summary">Ερώτηση για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
      <string name="notify_connect_title">Ειδοποίηση σύνδεσης στο Internet</string>
      <string name="order_date_label">Ημερομηνία αγοράς:</string>
      <string name="order_detail">Λεπτομέρειες</string>

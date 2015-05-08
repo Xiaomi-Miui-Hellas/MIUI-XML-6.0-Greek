@@ -363,6 +363,7 @@
      <string name="incall_error_no_phone_number_supplied">Η κλήση δεν πραγματοποιήθηκε, μη έγκυρος αριθμός.</string>
      <string name="incall_error_out_of_service">Δίκτυο κινητής τηλεφωνίας μη διαθέσιμο.</string>
      <string name="incall_error_power_off">Για να πραγματοποιήσετε μια κλήση, πρώτα να απενεργοποιήσετε τη λειτουργία πτήσης.</string>
+     <string name="incall_error_sim_deactive">Ανενεργή κάρτα SIM</string>
      <string name="incall_error_turn_off_airplane_mode">Απενεργ. λειτουργίας πτήσης</string>
      <string name="incall_status_dialed_mmi">Έναρξη ακολουθίας MMI…</string>
      <string name="international_disable">Διεθνείς ειδήσεις απενεργοποιημένες</string>

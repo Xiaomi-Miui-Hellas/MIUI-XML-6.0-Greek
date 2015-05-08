@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Action_Accept">Επέτρεψε</string>
-    <string name="HIPS_Action_Prompt">Προτροπή</string>
+    <string name="HIPS_Action_Prompt">Ερώτηση</string>
     <string name="HIPS_Action_Reject">Απόρριψη</string>
     <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Επέτρεψε&lt;/font></string>
-    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Προτροπή&lt;/font></string>
+    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Ερώτηση&lt;/font></string>
     <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Απόρριψη&lt;/font></string>
     <string name="HIPS_Group_Expense">Ασφάλεια</string>
     <string name="HIPS_Group_PIM">Δεδομένα χρήστη</string>
@@ -125,7 +125,7 @@
     <string name="HIPS_Perm_PhoneID_Number">να διαβάσει τον αριθμό τηλεφώνου σας</string>
     <string name="HIPS_Perm_PhoneID_IMSI">να διαβάσει το IMSI</string>
     <string name="HIPS_Perm_AllowAll">Επιτρέπονται όλα</string>
-    <string name="HIPS_Perm_PromptAll">Προτροπή για όλα</string>
+    <string name="HIPS_Perm_PromptAll">Ερώτηση για όλα</string>
     <string name="HIPS_Perm_RejectAll">Άρνηση σε όλα</string>
     <string name="HIPS_Perm_ROOT_Title">Η εφαρμογή έχει πρόσβαση root</string>
     <string name="HIPS_Perm_ListenCallState">παρακολούθηση κατάστασης κλήσης</string>
