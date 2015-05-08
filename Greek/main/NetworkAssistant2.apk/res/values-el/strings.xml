@@ -105,6 +105,8 @@
      <string name="firewall_fragment_sys_listempty">Άδειο</string>
      <string name="firewall_fragment_tab_title_nonsys">Εγκαταστάθηκε</string>
      <string name="firewall_fragment_tab_title_sys">Σύστημα</string>
+     <string name="firewall_network_restrict_notify_message">Πατήστε για αλλαγή ρυθμίσεων.</string>
+     <string name="firewall_network_restrict_notify_title">"%1$s δεν επιτρέπεται να συνδεθεί με %2$s."</string>
      <string name="firewall_rule_group_title_mobile">Κινητή</string>
      <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -378,6 +380,7 @@
      <string name="traffic_correction_start_correction">Επικοινωνία με τους διακομιστές του φορέα…</string>
      <string name="traffic_correction_start_correction_failed">Αίτηση απέτυχε, παρακαλώ ελέγξτε τις ρυθμίσεις του φορέα</string>
      <string name="traffic_correction_success">Η χρήση δεδομένων ενημερώθηκε</string>
+     <string name="traffic_correction_success_notify_message">Πατήστε για λεπτομέρειες.</string>
      <string name="traffic_limit_error_alert_body">"Ο λογαριασμός του παρόχου σας δείχνει ότι έχετε %1$s υπόλοιπο για αυτό το μήνα. Αυτό είναι περισσότερο από το %2$s όριο που έχετε ορίσει χειροκίνητα."</string>
      <string name="traffic_limit_error_alert_iknow">OK</string>
      <string name="traffic_limit_error_alert_reset">Επαναφορά ορίου</string>
