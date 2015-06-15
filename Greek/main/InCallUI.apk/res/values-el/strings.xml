@@ -541,9 +541,6 @@
      <string name="sip_account_list">Λογαριασμοί SIP</string>
      <string name="sip_accounts">Κλήσεις μέσω διαδικτύου λογαριασμοί (SIP)</string>
      <string name="sip_accounts_title">Λογαριασμοί</string>
-     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-     <string name="sip_always">SIP_ALWAYS</string>
-     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
      <string name="sip_call_options_entry_1">Για όλες τις κλήσεις όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
      <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω Διαδικτύου</string>
      <string name="sip_call_options_entry_3">Ρωτήστε για κάθε κλήση</string>
