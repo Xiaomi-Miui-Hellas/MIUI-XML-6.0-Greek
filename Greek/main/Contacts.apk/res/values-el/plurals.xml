@@ -28,10 +28,6 @@
         <item quantity="other">Άρση φραγής αυτών των %1$d αριθμών;</item>
         <item quantity="one">Άρση φραγής αυτού του αριθμού;</item>
      </plurals>
-     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Αντιγράφηκαν %d επαφές</item>
-        <item quantity="one">Αντιγράφηκε %d επαφή</item>
-     </plurals>
      <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφές.</item>
         <item quantity="one">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφή.</item>

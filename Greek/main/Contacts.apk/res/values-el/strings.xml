@@ -225,6 +225,7 @@
      <string name="delete_unknown_contact_calllog_title">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="deleting">Διαγραφή…</string>
      <string name="deleting_sim_entry_miui">Διαγραφή επαφών από την κάρτα SIM…</string>
+     <string name="deleting_sim_entry_miui_prepare">Προετοιμασία επαφών…</string>
      <string name="description_add_contact">Προσθήκη επαφής</string>
      <string name="description_author">Συγγραφέας</string>
      <string name="description_call">Κλήση %1$s</string>
@@ -345,7 +346,7 @@
      <string name="eventTypeCustom">Προσαρμογή</string>
      <string name="event_edit_field_hint_text">Ημερομηνία</string>
      <string name="export_sim_contact_finish">Εξαγωγή ολοκληρώθηκε</string>
-     <string name="export_sim_contact_finish_failure">Μεταφέρθηκαν: %1$d Απομένουν: %2$d</string>
+     <string name="export_sim_contact_finish_msg">%1$d μεταφέρθηκαν | %2$d παραλείφθηκαν | %3$d απομένουν</string>
      <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
      <string name="export_to_sim">Εξαγωγή σε κάρτα SIM</string>
      <string name="export_to_sim1">Εξαγωγή σε κάρτα SIM 1</string>
@@ -402,6 +403,7 @@
      <string name="group_rename_dialog_title">Μετονομασία ομάδας</string>
      <string name="group_rename_fail_toast">Αποτυχία μετονομασίας ομάδας</string>
      <string name="group_rename_success_toast">Μετονομασία ομάδας</string>
+     <string name="group_sms_error_message">"Το SMS δεν μπορεί να έχει περισσότερους από %s παραλήπτες."</string>
      <string name="group_sms_progress_msg">Ομαδοποίηση…</string>
      <string name="groupsLabel">Ομάδες</string>
      <string name="groups_list_empty">Δεν υπάρχουν ομάδες</string>
@@ -449,6 +451,7 @@
      <string name="import_weibo_progress_name">Αντιστοίχηση   \"%1$s\"…</string>
      <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Εισαγωγή επαφών από την κάρτα SIM…</string>
+     <string name="importing_sim_contacts_miui_prepare">Προετοιμασία επαφών…</string>
      <string name="importing_vcard_canceled_title">Εισαγωγή %s ακυρώθηκε</string>
      <string name="importing_vcard_description">Εισαγωγή %s</string>
      <string name="importing_vcard_finished_title">Ολοκληρώθηκε η εισαγωγή vCard %s</string>
@@ -478,6 +481,7 @@
      <string name="list_filter_phones">Όλες οι επαφές με αριθμούς τηλεφώνου</string>
      <string name="list_filter_single">Επαφή</string>
      <string name="loading">Φορτώνει…</string>
+     <string name="loading_accounts">Μισό λεπτό…</string>
      <string name="loading_group_members">Φόρτωση μελών της ομάδας…</string>
      <string name="loading_groups">Φόρτωση ομάδων…</string>
      <string name="loading_recent">Φόρτωση πρόσφατων επαφών…</string>
