@@ -289,6 +289,7 @@
      <string name="history_most_visited">Δημοφιλή</string>
      <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
      <string name="history_track">Ιστορικό</string>
+     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
      <string name="homepage_set">Αρχική ρυθμίστηκε</string>
      <string name="http">http://</string>
      <string name="in_incognito">Η λειτουργία σελίδας πλοηγού είναι ενεργή, δεν θα κρατηθεί κανένα ιστορικό πλοήγησης.</string>
@@ -305,6 +306,7 @@
      <string name="js_dialog_before_unload_positive_button">Φύγετε από αυτή τη Σελίδα</string>
      <string name="js_dialog_before_unload_title">Επιβεβαίωση Περιήγησης</string>
      <string name="js_dialog_title">Η σελίδα στο \" %s \" αναφέρει:</string>
+     <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Η απενεργοποίηση του JavaScript μπορεί να προκαλέσει προβλήματα σε μερικές σελίδες.</string>
      <string name="js_disable_confirm_title">Απενεργοποίηση JavaScript;</string>
      <string name="js_engine_flags">Ορισμός JS flags</string>
@@ -446,6 +448,9 @@
      <string name="pref_data_preload_dialogtitle">Προ-φόρτωση αποτελεσμάτων αναζήτησης</string>
      <string name="pref_data_preload_summary">Να επιτρέπεται στον πλοηγό να προ-φορτώνει αποτελέσματα αναζήτησης με υψηλό σκορ στο παρασκήνιο</string>
      <string name="pref_data_preload_title">Προ-φορτώνει αποτέλεσμα αναζήτησης</string>
+     <string name="pref_data_preload_value_always">ALWAYS</string>
+     <string name="pref_data_preload_value_never">NEVER</string>
+     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_data_title">Διαχείριση εύρους ζώνης</string>
      <string name="pref_default_text_encoding">Κωδικοποίηση κειμένου</string>
      <string name="pref_default_text_encoding_default">UTF-8</string>
@@ -490,8 +495,11 @@
      <string name="pref_images_preload_dialogtitle">Προ-φορτώνουν εικόνες…</string>
      <string name="pref_images_preload_summary">" Να επιτρέπεται στον πλοηγό να προ-φορτώνει εικόνες όταν υποστηρίζεται από τον server"</string>
      <string name="pref_images_preload_title">Προ-φόρτωση εικόνων</string>
+     <string name="pref_images_preload_value_always">2</string>
      <string name="pref_images_preload_value_always_summary">Πάντα να επιτρέπεται στον πλοηγό να προ-φορτώνει εικόνες όταν υποστηρίζεται από τον server</string>
+     <string name="pref_images_preload_value_never">0</string>
      <string name="pref_images_preload_value_never_summary">Ποτέ να μην επιτρέπεται στον πλοηγό να προ-φορτώσει εικόνες</string>
+     <string name="pref_images_preload_value_wifi_only">1</string>
      <string name="pref_images_preload_value_wifi_only_summary">Προ-φόρτωση εικόνων όταν σε δίκτυο Wi-Fi</string>
      <string name="pref_inverted">Ανεστραμμένη προβολή</string>
      <string name="pref_inverted_category">Προβολή ανεστραμμένης οθόνης</string>
@@ -501,7 +509,10 @@
      <string name="pref_link_prefetch_dialogtitle">Προ-φόρτωση σελίδων</string>
      <string name="pref_link_prefetch_summary">Να επιτρέπεται στον πλοηγό να προ-φορτώνει σελίδες στο παρασκήνιο</string>
      <string name="pref_link_prefetch_title">Προ-φόρτωση σελίδων</string>
+     <string name="pref_link_prefetch_value_always">ALWAYS</string>
+     <string name="pref_link_prefetch_value_never">NEVER</string>
      <string name="pref_link_prefetch_value_never_summary">Πάντα να επιτρέπεται στον πλοηγό να προ-φορτώνει σελίδες στο παρασκήνιο</string>
+     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_min_font_size_value">%dpt</string>
      <string name="pref_other_title">Other</string>
      <string name="pref_privacy_clear_cache">Καθαρισμός cache</string>
@@ -545,18 +556,27 @@
      <string name="pref_set_homepage_to">Ορισμός σε</string>
      <string name="pref_setting_title">Ρυθμίσεις σελίδας</string>
      <string name="pref_ua_mione_entry">MiOne</string>
+     <string name="pref_ua_mione_value">4</string>
      <string name="pref_ua_string">Αναγνωριστικό περιήγησης</string>
      <string name="pref_ua_title">Διαχείριση αναγνωριστικού</string>
      <string name="pref_version_summary">Έκδοση:%s</string>
      <string name="pref_video_preload_dialogtitle">Προ-φόρτωση βίντεο…</string>
      <string name="pref_video_preload_summary">Να επιτρέπεται στον πλοηγό να προ-φορτώνει τα βίντεο όπου υποστηρίζεται από τον server</string>
      <string name="pref_video_preload_title">Προ-φόρτωση βίντεο</string>
+     <string name="pref_video_preload_value_always">ALWAYS</string>
+     <string name="pref_video_preload_value_never">NEVER</string>
+     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_volume_key_action">Πλήκτρα ήχου: Προηγούμενη/Επόμενη σελίδα</string>
      <string name="pref_volume_key_enabled">Πλήκτρα ήχου</string>
      <string name="pref_volume_key_operation">Λειτουργία πλήκτρου ήχου</string>
      <string name="pref_webapp_settings_fontsize">Μέγεθος γραμματοσειράς</string>
+     <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
      <string name="pref_webapp_settings_hidebottombar">Απόκρυψη κάτω μπάρας</string>
+     <string name="pref_webapp_settings_hidebottombar_key">pref_webapp_settings_hidebottombar_key</string>
+     <string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
      <string name="pref_webapp_settings_savewidth">"Χωρίς χρήση 2G/3G δεδομένων για λήψη εικόνων"</string>
+     <string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>
+     <string name="pref_webapp_settings_wifisave_key">pref_webapp_settings_wifisave_key</string>
      <string name="pref_zoom_on_double_tap">Ζουμ σε διπλό-πάτημα</string>
      <string name="preview">Προεπισκόπηση</string>
      <string name="private_browsing_warning">Αυτή η λειτουργία δεν υποστηρίζεται σε αυτή την έκδοση του Android.</string>
@@ -737,6 +757,7 @@
      <string name="v5_edit_mode_title_empty">0 επιλεγμένα</string>
      <string name="v5_select_all">Επιλογή όλων</string>
      <string name="video_activity_name">Συλλογές Βίντεο</string>
+     <string name="video_buffering_percent_string">Φόρτωση…</string>
      <string name="video_collect_cancel">Cancel Collect</string>
      <string name="video_collect_success">Video Collect Success</string>
      <string name="video_download_downloaded">Κατέβηκε</string>
@@ -767,7 +788,14 @@
      <string name="webapp_add_to_desktop">Πρόσθεση στην αρχική οθόνη</string>
      <string name="webapp_add_to_favorite_toast">Προσθήκη στην πάνω λίστα αγαπημένων</string>
      <string name="webapp_addtodeskpop_append">Προστέθηκε στην αρχική οθόνη</string>
+     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
+     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
+     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
+     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
+     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
+     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
      <string name="webapp_app_name">Ηλεκτρονικό κατάστημα MiMarket</string>
+     <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
      <string name="webapp_bottom_bar_addtodesk">Προσθήκη στην επιφάνεια εργασίας</string>
      <string name="webapp_dialog_title">Πρόσθεση εφαρμογής στην αρχική οθόνη</string>
      <string name="webapp_menu_addtodesk">Προσθήκη στην αρχική σελίδα</string>
@@ -777,6 +805,7 @@
      <string name="webapp_menu_nightmode">Λειτ.νύχτας</string>
      <string name="webapp_menu_settings">Ρυθμίσεις</string>
      <string name="webapp_menu_share">Μοίρασμα</string>
+     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="webapp_settings_title">Ρυθμίσεις</string>
      <string name="webapp_splashview_loading">Φόρτωση…</string>
      <string name="webapp_webapp_favortes_title">Αγαπημένα</string>

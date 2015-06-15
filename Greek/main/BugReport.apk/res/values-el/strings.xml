@@ -14,7 +14,10 @@
      <string name="bugreport_dump_complete_notification_summary">Πατήστε για να τη δείτε.</string>
      <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
      <string name="bugreport_dump_start_notification_summary">Διαρκεί περίπου ένα λεπτό.</string>
-     <string name="bugreport_dump_start_notification_title">Δημιουργία αναφορά σφάλματος</string>
+     <string name="bugreport_dump_start_notification_title">Δημιουργία αναφοράς σφάλματος</string>
+     <string name="bugreport_tool_log">Δημιουργία αναφοράς σφάλματος</string>
+     <string name="bugreport_tool_log_toast">Το αρχείο καταγραφής αποθηκεύτηκε στο %s</string>
+     <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς σφάλματος (διαρκεί περίπου ένα λεπτό)</string>
      <string name="button_feedback">Άλλο</string>
      <string name="button_plus">+1</string>
      <string name="camera_problem1">Κακή ποιότητα φωτογραφίας</string>
@@ -57,6 +60,11 @@
      <string name="loading_hot_problem">Φόρτωση…</string>
      <string name="loading_problem_list">Φόρτωση λίστας…</string>
      <string name="menu_copy">Αντιγραφή</string>
+     <string name="modem_tool_log">Σύλληψη αρχείου καταγραφής modem</string>
+     <string name="modem_tool_log_start">Έναρξη</string>
+     <string name="modem_tool_log_start_toast">"Έναρξη αποθήκευσης αρχείου καταγραφής modem στο %s"</string>
+     <string name="modem_tool_log_stop">Διακοπή</string>
+     <string name="modem_tool_log_stop_toast">"Διακοπή αποθήκευσης αρχείου καταγραφής modem στο %s"</string>
      <string name="network_disconnected">Δεν υπάρχει δίκτυο</string>
      <string name="network_err">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και ανανεώστε.</string>
      <string name="network_unavailable_dialog_button_ok">ΟΚ</string>

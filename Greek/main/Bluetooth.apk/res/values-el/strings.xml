@@ -9,9 +9,10 @@
      <string name="auth_notif_ticker">Αίτημα ελέγχου ταυτότητας Obex</string>
      <string name="auth_notif_title">Κλειδί περιόδου σύνδεσης</string>
      <string name="ble_device_address">MAC address συσκευής BLE</string>
+     <string name="ble_device_profile">Προφίλ συσκευής Bluetooth</string>
      <string name="ble_device_profile_header_title">Προφίλ</string>
      <string name="ble_device_profile_title">Συνδεδεμένη συσκευή BLE</string>
-     <string name="ble_device_unbind">Εκκαθάριση ρυθμίσεων</string>
+     <string name="ble_device_rename">Μετονομασία</string>
      <string name="bluetooth_connected">Συνδέθηκε</string>
      <string name="bluetooth_connecting">Σύνδεση…</string>
      <string name="bluetooth_disconnected">Αποσυνδέθηκε</string>
@@ -61,6 +62,7 @@
      <string name="enabling_progress_content">Ενεργοποίηση Bluetooth…</string>
      <string name="enabling_progress_title">Παρακαλώ περιμένετε…</string>
      <string name="format_progress_text">%1$d%%</string>
+     <string name="goto_package">Άνοιγμα %1$s</string>
      <string name="hello">Hello World Έλεγχος δραστηριότητας</string>
      <string name="inbound_history_title">Εισερχόμενες μεταφορές</string>
      <string name="inbound_noti_title">Bluetooth: Ληφθέντα αρχεία</string>
@@ -76,6 +78,7 @@
      <string name="incoming_file_confirm_title">Μεταφορά αρχείου</string>
      <string name="incoming_file_toast_msg">Εισερχόμενο αρχείο από άλλη συσκευή. Παρακαλώ επιβεβαιώστε ότι επιθυμείτε να λάβετε αυτό το αρχείο</string>
      <string name="insert_record">Εισαγωγή εγγραφής</string>
+     <string name="install_package">Εγκαταστήστε το %1$s για περισσότερες λειτουργίες</string>
      <string name="localPhoneName">Το όνομα μου</string>
      <string name="mi_band_vibrate_alarm">Δόνηση όταν ηχεί η αφύπνιση</string>
      <string name="mi_band_vibrate_incall">Δόνηση όταν χτυπάει</string>
@@ -88,6 +91,10 @@
      <string name="mi_key_alert_dialog_title">Ειδοποίηση MiKey</string>
      <string name="mi_key_find_mikey">Βρείτε MiKey</string>
      <string name="mi_key_find_phone">Βρείτε το τηλέφωνο</string>
+     <string name="mi_key_open_camera">Άνοιγμα Κάμερας</string>
+     <string name="mi_key_summary_find_phone">Πατήστε &amp; κρατήστε το Mi Key για να κουδουνίσει</string>
+     <string name="mi_key_summary_open_camera">Διπλό κλικ στο Mi Key για να ανοίξετε την Κάμερα</string>
+     <string name="mi_key_summary_take_photo">Κλικ στο Mi Key για λήψη φωτογραφίας</string>
      <string name="mi_key_take_photo">Λήψη φωτογραφίας</string>
      <string name="miui_transfer_history_title">Μεταφορές Bluetooth</string>
      <string name="miui_transfer_inbound_title">Εισερχόμενα</string>
@@ -120,7 +127,9 @@
      <string name="permlab_handoverStatus">Λήψη BT εκπομπών μεταφοράς-παράδοσης.</string>
      <string name="process" />
      <string name="progress_scanning">Αναζήτηση</string>
+     <string name="reset_function_msg">Μηδενίζοντας αυτή την λειτουργία, μπορεί να προκαλέσει δυσλειτουργία στο %1$s.</string>
      <string name="sharedUserId" />
+     <string name="some_app_taking">(Το %1$s χρησιμοποιεί ήδη αυτή τη λειτουργία)</string>
      <string name="start_server">Εκκίνηση διακομιστή TCP</string>
      <string name="status_canceled">Η μεταφορά ακυρώθηκε από το χρήστη.</string>
      <string name="status_connection_error">Η σύνδεση απέτυχε.</string>

@@ -259,6 +259,7 @@
   <string name="search">Αναζήτηση</string>
   <string name="search_history_cleared">Καθαρισμός ιστορικού ολοκληρώθηκε</string>
   <string name="search_title">Αναζήτηση στα ημερολόγια μου</string>
+  <string name="select_date">Επιλέξτε ημερομηνία</string>
   <string name="select_synced_calendars_button">Ημερολόγια για συγχρονισμό</string>
   <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
   <string name="select_visible_calendars_title">Ημερολόγια για προβολή</string>
