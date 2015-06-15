@@ -51,6 +51,7 @@
      <string name="cloudservice_new_sync">Συγχρονισμός %s με το Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Χρησιμοποιήστε το Mi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>
      <string name="contact">Επαφές</string>
+     <string name="deskclock_backup">Αντίγραφο ασφαλείας Ρολογιών</string>
      <string name="disable_find_device_error">Αδυναμία απενεργοποίησης Εύρεσης συσκευής. %1$s</string>
      <string name="enableAll">Συγχρονισμός όλων</string>
      <string name="enable_cloud_service_notification">Δεν έχετε ενεργοποιημένο το Mi Cloud</string>
@@ -105,12 +106,14 @@
      <string name="header_data_and_synchronization">Δεδομένα &amp; συγχρονισμός</string>
      <string name="header_other_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="i_know">ΟΚ</string>
+     <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο internet για να λειτουργήσει κανονικά.</string>
      <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
      <string name="loading">Φόρτωση…</string>
      <string name="loading_hint">Φόρτωση</string>
      <string name="master_alert_notif_dspt_add">%s δεν έχουν συγχρονιστεί</string>
      <string name="master_alert_notif_dspt_no">Συγχρονισμένα</string>
      <string name="master_alert_notif_title">Τελευταίος συγχρονισμός πριν %s ημέρες</string>
+     <string name="micloud_buy_member">Αναβάθμιση συνδρομής</string>
      <string name="micloud_check_sim_notify_text">"Φαίνεται ότι έχετε αλλάξει τις κάρτες SIM. Συνδεθείτε
 στον λογαριασμό Mi για επανενεργοποίηση του Mi Cloud."</string>
      <string name="micloud_check_sim_notify_title">Επανενεργοποίηση Mi Cloud</string>
@@ -145,19 +148,40 @@
      <string name="micloud_main_network_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
      <string name="micloud_main_set_internet">Ρύθμιση δικτύου</string>
      <string name="micloud_main_space_full">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
-     <string name="micloud_main_space_risk">%d συγχρονισμένα.</string>
+     <string name="micloud_main_space_low">Σχεδόν χωρίς διαθέσιμο χώρο…</string>
      <string name="micloud_main_stop_sync">Διακοπή συγχρονισμού</string>
+     <string name="micloud_main_suggest_setting">"Αναμονή για σύνδεση WI-Fi για συγχρονισμό
+Πατήστε το κουμπί Ρυθμίσεις για να δείτε περισσότερες επιλογές"</string>
      <string name="micloud_main_suggest_sync">Ορισμένα στοιχεία θα πρέπει να συγχρονιστούν με το Mi Cloud.</string>
      <string name="micloud_main_sync_exception">Σφάλμα συγχρονισμού</string>
      <string name="micloud_main_sync_init">Λήψη πληροφοριών</string>
      <string name="micloud_main_sync_now">Συγχρονισμός τώρα</string>
      <string name="micloud_main_sync_on_wifi">Χρήση Wi-Fi</string>
      <string name="micloud_main_sync_pause">Παύση συγχρονισμού</string>
+     <string name="micloud_main_sync_setting">Ρυθμίσεις συγχρονισμού</string>
      <string name="micloud_main_sync_stop">Διακοπή συγχρονισμού</string>
      <string name="micloud_main_synced_data_count">%d συγχρονισμένα</string>
      <string name="micloud_main_syncing">συγχρονισμός…</string>
+     <string name="micloud_main_title_sync_fail">"Αδυναμία συγχρονισμού"</string>
+     <string name="micloud_main_title_sync_off">Ανενεργός συγχρονισμός</string>
+     <string name="micloud_main_title_sync_on_wifi">Χρήση Wi-Fi</string>
      <string name="micloud_main_update_space">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
      <string name="micloud_main_wlan_sync_data_count">%d περιμένουν συγχρονισμό μέσω Wi-Fi</string>
+     <string name="micloud_member">Συνδρομή Mi Cloud</string>
+     <string name="micloud_member_advantage">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
+     <string name="micloud_member_buy_content" formatted="false">"Ισχύει για %s-%s-%s
+
+%s Mi Credits ετησίως"</string>
+     <string name="micloud_member_buy_title">Επιβεβαίωση παραγγελίας</string>
+     <string name="micloud_member_net_error_alert_message">"Δεν έχετε σύνδεση στο internet."</string>
+     <string name="micloud_member_net_error_alert_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="micloud_member_pay_fail_toast">"Αδυναμία ολοκλήρωσης πληρωμής"</string>
+     <string name="micloud_member_pay_miid_error_toast">Σφάλμα λογαριασμού</string>
+     <string name="micloud_member_pay_order_error_toast">Σφάλμα δεδομένων</string>
+     <string name="micloud_member_refresh_button">Ανανέωση</string>
+     <string name="micloud_member_webload_fail_error_message">Σφάλμα δικτύου</string>
+     <string name="micloud_member_webload_fail_toast_4xx">"Αδυναμία φόρτωσης σελίδας"</string>
+     <string name="micloud_member_webload_fail_toast_5xx">Σφάλμα διακομιστή</string>
      <string name="micloud_more">Μάθετε περισσότερα</string>
      <string name="micloud_other_product_price">Σύγκριση τιμών</string>
      <string name="micloud_proceed">Συνέχεια</string>
@@ -165,6 +189,7 @@
      <string name="micloud_setting_antispam_summary">Εξαιρέσεις για Μην Ενοχλείτε και μπλοκαρισμένους αριθμούς τηλεφώνου.</string>
      <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό και ετικέτες</string>
      <string name="micloud_setting_contact_summary">Πληροφορίες επαφών και φωτογραφίες προφίλ</string>
+     <string name="micloud_setting_deskclock_summary">Ρυθμίσεις Ρολογιών</string>
      <string name="micloud_setting_gallery_summary">Φωτογραφίες και βίντεο</string>
      <string name="micloud_setting_music_summary">Λίστες αναπαραγωγής και αγαπημένα</string>
      <string name="micloud_setting_sms_summary">Μηνύματα SMS και MMS</string>
@@ -173,11 +198,16 @@
      <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">&lt;u>Τι συμβαίνει όταν έχω ξεμείνει από χώρο;&lt;/u></string>
+     <string name="micloud_storage">Χώρος αποθήκευσης</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
      <string name="micloud_storage_expires_manually_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
      <string name="micloud_storage_expires_soon_title">Ο χώρος αποθήκευσης Mi Cloud λήγει σύντομα</string>
      <string name="micloud_storage_expires_very_soon_title">Ο χώρος αποθήκευσης Mi Cloud λήγει σύντομα</string>
      <string name="micloud_storage_usage" formatted="false">Σε χρήση %s / Συνολικός χώρος %s</string>
+     <string name="micloud_sync_alert_dialog_message">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, και άλλα πολλά μεταξύ των συσκευών σας.</string>
+     <string name="micloud_sync_alert_dialog_negative">Ακύρωση</string>
+     <string name="micloud_sync_alert_dialog_positive">OK</string>
+     <string name="micloud_sync_alert_dialog_title">Χρήση του Mi Cloud</string>
      <string name="micloud_title_dspt" formatted="false">"%s συνολικά
  %s σε χρήση | %s απομένουν"</string>
      <string name="micloud_title_dspt_remain">%s απομένουν</string>
@@ -225,6 +255,7 @@
      <string name="remind_later">Υπενθύμιση αργότερα</string>
      <string name="restoreSync">Συγχρονισμός τώρα</string>
      <string name="setting">Ρυθμίσεις</string>
+     <string name="settings_backup_title">Δημιουργία αντιγράφου ασφαλείας των ρυθμίσεων του συστήματος</string>
      <string name="share_cancel">ακύρωση κοινής χρήσης</string>
      <string name="share_failed">αποτυχία κοινής χρήσης</string>
      <string name="share_miliao_not_installed">Το MiTalk δεν έχει εγκατασταθεί.</string>

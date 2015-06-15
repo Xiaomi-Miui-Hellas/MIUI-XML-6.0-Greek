@@ -123,6 +123,16 @@
      <string name="privacy_tip_content">"Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές του Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
+     <string name="recommend_downloading">Λήψη…</string>
+     <string name="recommend_failed">Απέτυχε</string>
+     <string name="recommend_install">Εγκατάσταση</string>
+     <string name="recommend_installing">Εγκατάσταση…</string>
+     <string name="recommend_loading">Φόρτωση…</string>
+     <string name="recommend_open">Άνοιγμα</string>
+     <string name="recommend_other_downloads">Δημοφιλή</string>
+     <string name="recommend_paused">Σε παύση</string>
+     <string name="recommend_prepare">Αναμονή…</string>
+     <string name="recommend_show_other_downloads">Προβολή δημοφιλών</string>
      <string name="remove_download">Αφαίρεση</string>
      <string name="restart_download">Επανεκκίνηση</string>
      <string name="resume_download">Συνέχιση</string>

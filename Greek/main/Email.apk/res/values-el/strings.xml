@@ -146,6 +146,7 @@
      <string name="account_setup_incoming_server_label">Διακομιστής</string>
      <string name="account_setup_incoming_title">Ρυθμίσεις λογαριασμού</string>
      <string name="account_setup_incoming_username_label">Όνομα</string>
+     <string name="account_setup_incoming_username_label_default_hint">Μπορεί να περιλαμβάνει τον τομέα</string>
      <string name="account_setup_names_account_name_label">Δώστε ένα φιλικό όνομα στον λογαριασμό (δεν απαιτείται)</string>
      <string name="account_setup_names_headline">"Ο λογαριασμός σας έχει ρυθμιστεί και τα email είναι καθ' οδόν!"</string>
      <string name="account_setup_names_title">Ρύθμιση λογαριασμού</string>
@@ -322,6 +323,13 @@
      <string name="confirm_send_message_with_no_subject">"Δεν υπάρχει κείμενο στο πλαίσιο θέματος."</string>
      <string name="confirm_send_title">Αποστολή μηνύματος;</string>
      <string name="contact_content_provider">Επικοινωνία Παρόχου Περιεχομένου</string>
+     <string name="contact_edit_set_black_list">Ορίστε την λίστα φραγών</string>
+     <string name="contact_edit_set_phone_contact">Επεξεργασία επαφών</string>
+     <string name="contact_edit_set_pop_up_tips">Αναδυόμενες συμβουλές</string>
+     <string name="contact_edit_set_unread_top">Εμφάνιση πρώτα των μη αναγνωσμένων email</string>
+     <string name="contact_edit_set_vip">Ορισμός VIP</string>
+     <string name="contact_edit_title_permission">Δικαιώματα επαφών</string>
+     <string name="contact_edit_title_phone_contact">Λίστα επαφών τηλεφώνου</string>
      <string name="contact_info_string">Εμφάνιση πληροφοριών επαφής για %1$s</string>
      <string name="contact_info_string_default">Εμφάνιση πληροφοριών επαφής</string>
      <string name="contact_list_add_btn">Προσθήκη</string>
@@ -379,7 +387,9 @@
      <string name="device_admin_label">Email</string>
      <string name="device_not_activiey_lint1">Η Διαχείριση Συσκευών δεν έχει ενεργοποιηθεί</string>
      <string name="device_not_activiey_lint2">Η υπηρεσία ταχυδρομείου του Exchange δεν λειτουργεί σωστά</string>
+     <string name="dialog_account_auto_sync_setting_no_open">"Ο συγχρονισμός του ταχυδρομείου είναι ανενεργός. Αδυναμία λήψης νέων μηνυμάτων."</string>
      <string name="dialog_auto_download_failed">"Αδυναμία ολοκλήρωσης αυτόματης λήψης. Δοκιμάστε χειροκίνητη λήψη."</string>
+     <string name="dialog_auto_sync_setting_no_open">"Ο συγχρονισμός είναι ανενεργός. Αδυναμία λήψης νέων μηνυμάτων."</string>
      <string name="dialog_insufficient_space_for_single_account_on_internal">Μη επαρκής χώρος για %s.</string>
      <string name="dialog_insufficient_space_on_external">"Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης."</string>
      <string name="dialog_insufficient_space_on_internal">"Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης."</string>
@@ -675,6 +685,9 @@
      <string name="notification_action_undo_delete">Διαγράφεται</string>
      <string name="notification_action_undo_remove_label">Ετικέτα Αφαιρέθηκε</string>
      <string name="notification_exchange_calendar_added">Προστέθηκε ημερολόγιο Exchange</string>
+     <string name="oauth_error_description">"Σφάλμα ελέγχου ταυτότητας"</string>
+     <string name="oauth_gmail_login_notify">Εισάγετε το όνομα χρήστη και τον κωδικό πρόσβασης του Google λογαριασμού σας στην επόμενη σελίδα σύνδεσης.</string>
+     <string name="oauth_login_continue">Συνέχεια</string>
      <string name="ok">ΟΚ</string>
      <string name="okay_action">ΟΚ</string>
      <string name="open_proxy_in_settings">"Το Gmail δεν είναι διαθέσιμο στην τρέχουσα τοποθεσία σας. Μπορείτε όμως, να στέλνετε και να λαμβάνετε μηνύματα από τα εισερχόμενά σας στο Gmail με την χρήση του διακομιστή μεσολάβησης αλληλογραφίας. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
@@ -798,6 +811,8 @@
      <string name="quote_begin">&lt;div class=\"παράθεση\"></string>
      <string name="quoted_text">Συμπερίληψη του αναφερόμενου κειμένου</string>
      <string name="quoted_text_label">Παράθεση κειμένου</string>
+     <string name="re_download_message_button">Πατήστε για επανάληψη λήψης</string>
+     <string name="re_download_message_info">"Αδυναμία λήψης email"</string>
      <string name="read_string">ανάγνωση συνομιλίας</string>
      <string name="recent_folders_heading">Πρόσφατοι φάκελοι</string>
      <string name="recipient_needed">Προσθέστε τουλάχιστον έναν παραλήπτη.</string>
@@ -951,7 +966,6 @@
      <string name="upload_log_no">Ακύρωση</string>
      <string name="upload_log_success">Επιτυχής αποστολή αρχείων καταγραφής</string>
      <string name="upload_log_title">Αποστολή αρχείων καταγραφής διαγνωστικών;</string>
-     <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
      <string name="upload_log_yes">Αποστολή</string>
      <string name="uploading_logs">Αποστολή αρχείων καταγραφής…</string>
      <string name="validation_failed_prompt">Η επαλήθευση απέτυχε. Παρακαλώ ελέγξτε τις ρυθμίσεις του διακομιστή %s</string>
