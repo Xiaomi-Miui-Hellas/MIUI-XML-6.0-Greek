@@ -32,6 +32,7 @@
      <string name="activity_title_virus_settings">Ρυθμίσεις</string>
      <string name="antivirus_sec_support">Powered by Tencent</string>
      <string name="app_name_securitycenter">Κέντρο Ασφάλειας</string>
+     <string name="app_not_installed_toast">"Η εφαρμογή δεν είναι εγκατεστημένη στην συσκευή σας."</string>
      <string name="auto_handle_title">ΓΕΝΙΚΑ</string>
      <string name="back">Επιστροφή</string>
      <string name="battery_desc_apps">Χρήση μπαταρίας από την εφαρμογή</string>

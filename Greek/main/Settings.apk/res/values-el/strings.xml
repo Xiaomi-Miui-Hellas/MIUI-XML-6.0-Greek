@@ -494,9 +494,6 @@
      <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
      <string name="bugreport_in_power">Εκθέσεις αναφοράς σφάλματος μενού ρεύματος</string>
      <string name="bugreport_in_power_summary">Συμπεριλάβετε την επιλογή στο μενού για τη λήψη μιας αναφοράς σφάλματος</string>
-     <string name="bugreport_tool_log">Σύλληψη αναφοράς λάθους</string>
-     <string name="bugreport_tool_log_toast">Το αρχείο αποθηκεύτηκε στο %s</string>
-     <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία Αναφοράς σφάλματος (διαρκεί περίπου 1 λεπτό)</string>
      <string name="build_number">Αριθμός κατασκευής</string>
      <string name="builtin_keyboard_settings_summary">Ρυθμίσεις φυσικού πληκτρολογίου</string>
      <string name="builtin_keyboard_settings_title">Φυσικό πληκτρολόγιο</string>
@@ -548,6 +545,7 @@
      <string name="carrier_enabled_summaryOn">APN ενεργοποιημένο</string>
      <string name="cdma_security_settings_summary">Ορισμός της Τοποθεσίας μου, ξεκλειδώματος οθόνης, κλειδώματος χώρου διαπιστευτηρίων</string>
      <string name="cell_broadcast_settings">Εκπομπές κυψέλης</string>
+     <string name="cell_broadcast_settings_summary">Επιλέξτε τους τύπους των ειδοποιήσεων έκτακτης ανάγκης για εμφάνιση</string>
      <string name="change_password">Αλλαγή του κωδικού πρόσβασης</string>
      <string name="change_security_lock">Δοκιμάστε άλλους τρόπους για να ξεκλειδώσετε</string>
      <string name="check_update">Έλεγχος για ενημερώσεις</string>
@@ -971,11 +969,7 @@
      <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
      <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
      <string name="fluency_mode">Βελτιστοποίηση απόδοσης συστήματος</string>
-     <string name="fluency_mode_confirm_title">Επανεκκίνηση τώρα;</string>
-     <string name="fluency_mode_confirm_will_fluency_mode_text">Η συσκευή σας πρέπει να επανεκκινηθεί για να ισχύσουν αυτές οι ρυθμίσεις.</string>
-     <string name="fluency_mode_confirm_will_normal_mode_text">Η ενεργοποίηση των animation και η χρήση περισσότερης μνήμης, μπορεί να προκαλέσει μικρότερη απόδοση σε ορισμένες συσκευές.</string>
-     <string name="fluency_mode_enabled_name">Βελτιστοποίηση απόδοσης συστήματος</string>
-     <string name="fluency_mode_summary">Απενεργοποίηση animation συστήματος και μείωση χρήσης μνήμης</string>
+     <string name="fluency_mode_confirm_and_reboot">Επανεκκίνηση τώρα</string>
      <string name="font_size_huge">Τεράστια</string>
      <string name="font_size_large">Μεγάλη</string>
      <string name="font_size_medium">Μεσαία</string>
@@ -1261,6 +1255,9 @@
      <string name="lock_after_timeout">Αυτόματο κλείδωμα</string>
      <string name="lock_after_timeout_summary">%1$s μετά τον ύπνο</string>
      <string name="lock_intro_message">Lock_intro_message</string>
+     <string name="lock_screen_secure_after_timeout_immediately_summary">Απαιτείται άμεσα κωδικός πρόσβασης</string>
+     <string name="lock_screen_secure_after_timeout_summary">Απαιτείται κωδικός πρόσβασης στο %1$s</string>
+     <string name="lock_screen_secure_after_timeout_title">Απαιτείται κωδικός πρόσβασης</string>
      <string name="lock_screen_unlock_show">Προβολή κωδικού στην οθόνη</string>
      <string name="lock_screen_unlock_show_summary">Μην χρησιμοποιείτε άλλες οθόνες κλειδώματος, μετά την εισαγωγή κωδικού ξεκλειδώστε την οθόνη</string>
      <string name="lock_settings">Κλείδωμα οθόνης</string>
@@ -1442,11 +1439,6 @@
      <string name="mobile_no_provisioning_url">%1$s δεν έχει καμία γνωστή ιστοσελίδα προβλέψεων</string>
      <string name="mobile_unknown_sim_operator">Άγνωστος φορέας SIM</string>
      <string name="model_number">Μοντέλο</string>
-     <string name="modem_tool_log">Σύλληψη αρχείων καταγραφής Μodem</string>
-     <string name="modem_tool_log_start">Έναρξη σύλληψης</string>
-     <string name="modem_tool_log_start_toast">Έναρξη εγγραφής αρχείων στο %s</string>
-     <string name="modem_tool_log_stop">Στοπ σύλληψης</string>
-     <string name="modem_tool_log_stop_toast">Σταμάτημα σύλληψης αρχείων στο %s</string>
      <string name="move_app">Μετακίνηση</string>
      <string name="move_app_failed_dlg_text">Αδύνατη η μετακίνηση της εφαρμογής %1$s</string>
      <string name="move_app_failed_dlg_title" />
@@ -1495,6 +1487,7 @@
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Βασική έκδοση</string>
+     <string name="music_dirac_mode_piston_standard">Κανονική έκδοση</string>
      <string name="music_dolby_mode_movie">Ταινία</string>
      <string name="music_dolby_mode_music">Μουσική</string>
      <string name="music_dolby_mode_off">Ανενεργό</string>
@@ -1631,6 +1624,7 @@
      <string name="passwordIncorrect">Λανθασμένη εισαγωγή κωδικού</string>
      <string name="password_guard">Ασφάλεια</string>
      <string name="percentage">%d%%</string>
+     <string name="performance_category">Επίδοση</string>
      <string name="permission_detail_info">Λεπτομέρειες άδειας</string>
      <string name="permission_detail_info_summary">Δικαιώματα: Ασφάλεια %1$d | Ιδιωτικότητα %2$d | Άλλα %3$d</string>
      <string name="permission_manage">Διαχείριση δικαιωμάτων</string>
@@ -2016,7 +2010,6 @@
      <string name="search_date_time">ημερομηνίας και ώρας</string>
      <string name="search_description">Ρυθμίσεις αναζήτησης</string>
      <string name="search_display">οθόνη</string>
-     <string name="search_fluency_mode">ομαλή λειτουργία</string>
      <string name="search_font">γραμματοσειρά</string>
      <string name="search_gps">GPS</string>
      <string name="search_handy_mode">εύχρηστη λειτουργία</string>
@@ -2205,11 +2198,11 @@
      <string name="status_bar_settings_basic_settings">Βασικές ρυθμίσεις</string>
      <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
      <string name="status_bar_settings_custom_carrier">Αλλαγή ονόματος παρόχου</string>
-     <string name="status_bar_settings_custom_notification">Διαχείριση ειδοποιήσεων</string>
      <string name="status_bar_settings_custom_wifi_name">Επεξ. ονόματος Wi-Fi</string>
      <string name="status_bar_settings_enable_notification">Εμφάνιση ειδοποιήσεων</string>
      <string name="status_bar_settings_expandable_under_keyguard">Ενεργοπ.οθόνης κλειδώματος</string>
      <string name="status_bar_settings_long_click_sort">Πιέστε &amp; κρατήστε για μετακίνηση</string>
+     <string name="status_bar_settings_manage_notification">Διαχείριση ειδοποιήσεων</string>
      <string name="status_bar_settings_no_carrier">Κανένα</string>
      <string name="status_bar_settings_notification_bar">Μπάρα ειδοποιήσεων</string>
      <string name="status_bar_settings_notification_led">LED ειδοποίησης</string>
@@ -2226,12 +2219,7 @@
      <string name="status_bar_settings_show_wifi_name">Προβολή Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Μπάρα κατάστασης</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Κλείσιμο μετά το άγγιγμα</string>
-     <string name="status_bar_settings_toggle_layout_style">Εναλλαγή στυλ</string>
-     <string name="status_bar_settings_toggle_layout_style_applying">Αλλαγή στυλ…</string>
-     <string name="status_bar_settings_toggle_layout_style_compact">Μπάρα</string>
-     <string name="status_bar_settings_toggle_layout_style_single_page">Σελίδα</string>
      <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
-     <string name="status_bar_style_settings">Ειδοποιήσεις</string>
      <string name="status_bt_address">Διεύθυνση Bluetooth</string>
      <string name="status_data_state">Κατάσταση κινητού δικτύου</string>
      <string name="status_icc_id">ICCID</string>
@@ -2573,6 +2561,9 @@
      <string name="vibrate_input_devices">Χρήση δόνησης</string>
      <string name="vibrate_input_devices_summary">Ανακατεύθυνση δονητή στο παιχνίδι ελεγκτή όταν είναι συνδεδεμένο.</string>
      <string name="vibrate_when_ringing_title">Δόνηση όταν κουδουνίζει</string>
+     <string name="virtual_sim_category_title">Εικονική Sim</string>
+     <string name="virtual_sim_description">Αξιόπιστη υπηρεσία διεθνούς περιαγωγής</string>
+     <string name="virtual_sim_title">Δίκτυο περιαγωγής δεδομένων</string>
      <string name="virus_scan">Σάρωση ιών</string>
      <string name="virus_scan_app_continue">Συνέχεια σάρωσης</string>
      <string name="virus_scan_app_find_risk">%d αποτελεί κίνδυνο, προτείνεται η αφαίρεσή του</string>

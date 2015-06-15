@@ -230,6 +230,18 @@
         <item>Μεγάλο</item>
         <item>Τεράστιο</item>
      </string-array>
+     <string-array name="fluency_mode_confirms">
+        <item>Επανεκκίνηση της συσκευής για εφαρμογή αυτής της ρύθμισης;</item>
+        <item>Επανεκκίνηση της συσκευής για εφαρμογή αυτής της ρύθμισης;</item>
+     </string-array>
+     <string-array name="fluency_mode_entries">
+        <item>Απόκρυψη animation συστήματος</item>
+        <item>Εμφάνιση animation συστήματος</item>
+     </string-array>
+     <string-array name="fluency_mode_summaries">
+        <item>"Για να επιταχυνθεί η απόδοση της συσκευής, απόκρυψη animation συστήματος"</item>
+        <item>"Η εμφάνιση των animation συστήματος, μπορεί να επιβραδύνει την απόδοση της συσκευής"</item>
+     </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 ίντσες</item>
         <item>4.0 ίντσες</item>
