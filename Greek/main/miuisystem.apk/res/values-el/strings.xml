@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_ringtone_silent">Κανένα</string>
+    <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
+    <string name="presentation_payphone">Καρτοτηλέφωνο</string>
+    <string name="presentation_private">Απόρρητος αριθμός</string>
+    <string name="presentation_unknown">Άγνωστος αριθμός</string>
+    <string name="yellow_page_module_sms_sent">Αποστολή SMS</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">"Δεν είναι δυνατή η αποστολή μηνυμάτων σε λειτουργία επισκέπτη"</string>
+    <string name="yellow_page_sms_send_failed">"Αδυναμία αποστολής SMS"</string>
+    <string name="yellow_page_sms_sending">Αποστολή…</string>
+    <string name="yellow_page_unable_send_sms">"Αδυναμία αποστολής SMS"</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">Mi Pad</string>
+    <string name="device_xiaomi">Mi Phone</string>
+    <string name="miui_device_name">Android</string>
+    <string name="group_name_contacts">Επαφές</string>
+    <string name="group_name_friends">φίλοι</string>
+    <string name="group_name_family">Οικογένεια</string>
+    <string name="group_name_coworkers">Συνάδελφοι</string>
+    <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις.</string>
+    <string name="maml_component_customization_title">Ρυθμίσεις</string>
+    <string name="default_name">Προεπιλογή</string>
+    <string name="resource_select">Επιλέξτε</string>
+    <string name="android_ringtone_default_with_actual">Προεπιλεγμένος ήχος κλήσης (%1$s)</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="app_name_which_call">Εφαρμογή:%s</string>
+    <string name="app_version_which_call">Έκδοση εφαρμογής:%s</string>
+    <string name="policy_name">Πολιτική:%s</string>
+    <string name="mibi_license">Όροι χρήσης Mi Credit</string>
+    <string name="license_host_unreachable">"Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, 
+πηγαίνετε τώρα στο %s"</string>
+</resources>
