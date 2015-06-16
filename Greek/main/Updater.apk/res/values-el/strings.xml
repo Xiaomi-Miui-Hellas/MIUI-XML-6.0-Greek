@@ -47,6 +47,7 @@
      <string name="download_diff">Λήψη διαφορών</string>
      <string name="download_error">Σφάλμα λήψης. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
      <string name="download_full">Πλήρης λήψη</string>
+     <string name="download_success_reboot_immediately">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
      <string name="download_title">Λήψη (%s)</string>
      <string name="download_title_first">Λήψη πληροφοριών ενημέρωσης…</string>
      <string name="download_title_full_download">Λήψη πληροφοριών πακέτου…</string>
@@ -94,6 +95,7 @@
      <string name="no_wifi_msg">Δεν είστε πια συνδεδεμένοι στο WLAN. Συνεχίζοντας τη λήψη με την σύνδεση δεδομένων κινητής τηλεφωνίας, θα αυξηθεί η χρήση των δεδομένων σας.</string>
      <string name="no_wifi_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="not_open">Μην ενεργοποιείς</string>
+     <string name="notification_auto_reboot_seccess_title">Η συσκευή ενημερώθηκε αυτόματα</string>
      <string name="notification_downloading">Λήψη ενημέρωσης…</string>
      <string name="notification_load_body_alpha">Αποκτήστε τις τελευταίες ενημερώσεις για τη συσκευή σας.</string>
      <string name="notification_load_body_dev">Αποκτήστε τις τελευταίες ενημερώσεις για τη συσκευή σας.</string>
@@ -176,10 +178,12 @@ http://zhushou.xiaomi.com"</string>
      <string name="update_sad">Μπα (όχι καλή)</string>
      <string name="update_success">Η ενημέρωση ολοκληρώθηκε</string>
      <string name="update_success_body">Τρέχουσα έκδοση: %s</string>
+     <string name="update_success_reboot_immediately">Η συσκευή ενημερώθηκε</string>
      <string name="update_success_title">Ενημέρωση πλήρης!</string>
      <string name="updater_nolog">Δεν υπάρχει αρχείο καταγραφής</string>
      <string name="updater_nonetwork">Σύνδεση με το δίκτυο για να πάρετε αρχείο καταγραφής</string>
      <string name="updater_nonetwork_clause">Συνδεθείτε στο Διαδίκτυο για να δείτε την ενημερωμένη Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="updater_wait_for_unzip">Αποσυμπίεση ενημέρωσης…</string>
      <string name="upgrade_close">Κλείσιμο</string>
      <string name="upgrade_kernel">O Kernel είναι παλιός</string>
      <string name="upgrade_kernel_msg">"Ο kernel της έκδοσης που χρησιμοποιείτε δεν ταιριάζει με την τελευταία έκδοση του MIUI. Χρειάζεται να αναβαθμίσετε τον Kernel σας χειροκίνητα. Ανατρέξτε στην βοήθεια αναβάθμισης:

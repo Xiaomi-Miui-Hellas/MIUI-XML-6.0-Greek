@@ -278,7 +278,6 @@
      <string name="toast_burst_snap_finished_end">φωτογραφίες ελήφθησαν</string>
      <string name="toast_burst_snap_finished_start">Λειτουργία ριπής:</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Η λειτουργία ριπής δεν υποστηρίζεται όταν το φωνητικό κλείστρο είναι ενεργοποιημένο.</string>
-     <string name="toast_cannot_preview_image_when_screen_locked">Φωτογραφίες και βίντεο δεν μπορεί να εμφανίζονται όταν η οθόνη είναι κλειδωμένη.</string>
      <string name="toast_start_audio_capture">Φωνητικό κλείστρο ενεργό. Φωνάξτε ή κάντε έναν ήχο για λήψη φωτογραφίας</string>
      <string name="ubi_focus_capture_fail">Αδυναμία λήψης φωτογραφίας</string>
      <string name="ubifocus_capture_warning_message">Για καλύτερα αποτελέσματα, η εικόνα σας πρέπει να περιέχει αντικείμενα (όχι λιγότερο από 1 μέτρο από το φακό) και μακρύτερα</string>

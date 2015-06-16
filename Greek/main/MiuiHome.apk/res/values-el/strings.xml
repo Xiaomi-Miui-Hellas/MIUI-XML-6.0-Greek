@@ -54,6 +54,7 @@
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
      <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
      <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
+     <string name="download_action">Λήψη</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
      <string name="durationformatshort">%2$2d:%5$02d</string>
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -129,9 +130,10 @@
      <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη</string>
      <string name="install">Εγκατάσταση</string>
      <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
-     <string name="is_setting_wallpaper_toast">Ρύθμιση ταπετσαρίας…</string>
+     <string name="is_setting_wallpaper_message">Εφαρμογή ταπετσαρίας…</string>
      <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
      <string name="loading_desktop">Φόρτωση του launcher…</string>
+     <string name="loading_wallpaper">Μισό λεπτό…</string>
      <string name="local_wallpaper">Τοπικά</string>
      <string name="lock_screen_failed_message">Δεν μπορεί να εφαρμοστεί</string>
      <string name="lock_screen_success_message">Εφαρμόστηκε</string>
