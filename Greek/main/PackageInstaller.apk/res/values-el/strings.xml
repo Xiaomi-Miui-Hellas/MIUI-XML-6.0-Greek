@@ -2,12 +2,18 @@
 <resources>
      <string name="Parse_error_dlg_text">Υπήρξε ένα πρόβλημα αναλύοντας το πακέτο.</string>
      <string name="Parse_error_dlg_title">Σφάλμα ανάλυσης πακέτου</string>
+     <string name="activity_package_delete_confirm_title">Σημαντική Προειδοποίηση</string>
      <string name="allow_source_dlg_text">"%1$s θέλει να εγκαταστήσει άλλες εφαρμογές. Να επιτραπεί αυτό τώρα και στο μέλλον;"</string>
      <string name="allow_source_dlg_title">Επιτρέψτε νέα πηγή για εφαρμογές;</string>
      <string name="app_name">Εγκατάσταση πακέτου</string>
      <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών.</string>
      <string name="app_not_found_dlg_title">Η εφαρμογή δεν βρέθηκε</string>
      <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέψτε την αυτόματη έναρξη;"</string>
+     <string name="button_text_cancel">Ακύρωση</string>
+     <string name="button_text_delete">Διαγραφή</string>
+     <string name="button_text_delete_timer">Διαγραφή (%d)</string>
+     <string name="button_text_next_step">Επόμενο</string>
+     <string name="button_text_next_step_timer">Επόμενο (%d)</string>
      <string name="caller_app">Καλών: %1$s</string>
      <string name="cancel">Άκυρο</string>
      <string name="dlg_app_replacement_statement">"Η εφαρμογή που εγκαθιστάτε θα αντικαταστήσει μια άλλη εφαρμογή. Όλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν."</string>
@@ -42,6 +48,9 @@
      <string name="other_relative">Άλλα δικαιώματα</string>
      <string name="out_of_space_dlg_text">%1$s δεν μπόρεσε να εγκατασταθεί. Ελευθερώσετε λίγο χώρο και προσπαθήστε ξανά.</string>
      <string name="out_of_space_dlg_title">Δεν απομένει χώρος</string>
+     <string name="package_delete_confirm_step_1">Διαγραφή %s;</string>
+     <string name="package_delete_confirm_step_2">Η διαγραφή αυτής της εφαρμογής, μπορεί να προκαλέσει αστάθεια στο σύστημά σας.</string>
+     <string name="package_delete_confirm_step_3">"Δεν θα είστε σε θέση να ανοίξετε αυτή την εφαρμογή, μετά την διαγραφή της."</string>
      <string name="perm_action_accept">Αποδοχή</string>
      <string name="perm_action_prompt">Υπενθύμιση</string>
      <string name="perm_action_reject">Απόρριψη</string>

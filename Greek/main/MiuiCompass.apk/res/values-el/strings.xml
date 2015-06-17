@@ -23,7 +23,9 @@
      <string name="direction_south_east">ΝΑ</string>
      <string name="direction_south_west">ΝΔ</string>
      <string name="direction_west">Δ</string>
-     <string name="do_not_show_next_time">Μη το δείχνεις ξανά</string>
+     <string name="do_not_show_next_time">Να μην εμφανιστεί ξανά</string>	 
+     <string name="first_using_dialog_message">"Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση δικτύου της συσκευής σας, την φωτογραφική μηχανή και τις υπηρεσίες τοποθεσίας για να λειτουργήσει κανονικά."</string>
+     <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
      <string name="getting_location">Λήψη τοποθεσίας…</string>
      <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
      <string name="latitude">LAT</string>
@@ -45,7 +47,5 @@
      <string name="pressure_unit">hPa</string>
      <string name="shake_enter_tip">Ανακινήστε για βαθμονόμηση</string>
      <string name="using_camera_confirm_cancel">Έξοδος</string>
-     <string name="using_camera_confirm_message">Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση του δικτύου της συσκευής σας και την φωτογραφική μηχανή για να λειτουργήσει κανονικά.</string>
      <string name="using_camera_confirm_ok">Συμφωνώ</string>
-     <string name="using_camera_confirm_title">Άδεια πρόσβασης</string>
 </resources>

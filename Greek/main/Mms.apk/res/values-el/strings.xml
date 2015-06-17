@@ -430,6 +430,9 @@
      <string name="search_setting_description">Κείμενο στα μηνύματά σας</string>
      <string name="search_show_more_results">Δείτε περισσότερα</string>
      <string name="secs">δευτερόλεπτα</string>
+     <string name="security_alert_desc">"Ο αποστολέας δεν είναι στις επαφές σας. "<u><font color="red">Αναφορά αυτού του αριθμού</font></u></string>
+     <string name="security_alert_dialog_desc">Αναφορά αυτού του αριθμού (%s) και του μηνύματος, αποστέλλοντας τα στην Xiaomi για έλεγχο.</string>
+     <string name="security_alert_dialog_title">Αναφορά</string>
      <string name="select_audio">Επιλογή ήχου</string>
      <string name="select_bottom_text">Κείμενο στο κάτω μέρος</string>
      <string name="select_copy_text">επιλέξτε και αντιγράψτε το κείμενο του μηνύματος</string>
@@ -478,6 +481,8 @@
      <string name="sms_full_title">Μνήμη μηνυμάτων κειμένου πλήρης</string>
      <string name="sms_rejected_body">Το εισερχόμενο μήνυμα απορρίφθηκε για άγνωστη αιτία.</string>
      <string name="sms_rejected_title">Γραπτό μήνυμα απορρίπτεται</string>
+     <string name="sms_report_failed">"Αδυναμία αποστολής αναφοράς"</string>
+     <string name="sms_report_success">Η αναφορά απεστάλη</string>
      <string name="snippet_audio">[ήχος]</string>
      <string name="snippet_picture">[εικόνα]</string>
      <string name="sp_category_all">Όλα τα μηνύματα υπηρεσίας</string>
