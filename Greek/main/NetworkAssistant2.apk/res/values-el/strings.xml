@@ -19,8 +19,6 @@
      <string name="app_name">Χρήση Δεδομένων</string>
      <string name="app_version">Έκδοση</string>
      <string name="app_wifi">Wi-Fi</string>
-     <string name="arrearage_exception_summary">"Ο λογαριασμός του παρόχου σας, δείχνει ότι πρέπει να ανανεώσετε τώρα"</string>
-     <string name="arrearage_exception_title">Το υπόλοιπό σας είναι πολύ χαμηλό</string>
      <string name="background_traffic">Παρασκήνιο %s</string>
      <string name="begin_date">Ημερομηνία μηδενισμού δεδομένων</string>
      <string name="btn_finish_diagnostic">OK</string>
@@ -39,6 +37,7 @@
      <string name="daily_limit_network_available_body">Πατήστε για να δείτε τα στατιστικά στοιχεία χρήσης δεδομένων.</string>
      <string name="daily_limit_over_message">Έχετε υπερβεί το ημερήσιο όριο των δεδομένων σας.</string>
      <string name="daily_pkg_traffic">Ορισμός ορίου δεδομένων για ώρα αιχμής</string>
+     <string name="data_network_blocked_notification_title">Δεν υπάρχει σύνδεση στο Internet</string>
      <string name="data_usage_correction_timeout_body">Αγγίξτε για χειροκίνητη ενημέρωση.</string>
      <string name="data_usage_correction_timeout_title">Λήξη χρονικού ορίου συγχρονισμού δεδομένων</string>
      <string name="data_usage_disabled_dialog">Φτάσατε στο μέγιστο όριο δεδομένων. Η συνέχιση της χρήσης πάνω από το όριο που θέτει ο πάροχός σας, θα έχει ως αποτέλεσμα επιπλέον χρεώσεις.</string>
@@ -91,6 +90,7 @@
      <string name="detail_app_button">Λεπτομέρειες</string>
      <string name="dialog_app_roaming_message">Όταν είστε σε περιαγωγή στο εξωτερικό, μόνο εφαρμογές που έχετε προσθέσει στη λίστα εξαιρέσεων μπορούν να χρησιμοποιήσουν τις υπηρεσίες δεδομένων. %1$s δεν έχει προστεθεί στη λίστα εξαιρέσεων. Προβολή λίστας τώρα;</string>
      <string name="dialog_app_roaming_title">Η διεθνής περιαγωγή δεν είναι ενεργοποιημένη για %1$s</string>
+     <string name="dialog_roaming_apps_sorted_title">Ταξινόμηση κατά</string>
      <string name="dialog_roaming_message">Οι εφαρμογές στην λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή. Προσθήκη αυτής της εφαρμογής στην λίστα εξαιρέσεων;</string>
      <string name="dialog_roaming_title">Διεθνής περιαγωγή</string>
      <string name="disable_air_mode">Απενεργοποίηση λειτουργίας πτήσης</string>
@@ -121,16 +121,22 @@
      <string name="free_time_traffic_title">Εισαγωγή ορίων εκτός αιχμής</string>
      <string name="free_traffic_settings">Ρυθμίσεις χρήσης δεδομένων εκτός αιχμής</string>
      <string name="gateway_exception_summary">Ελέγξτε το router και δοκιμάστε ξανά.</string>
+     <string name="gateway_exception_summary2">"Αδυναμία σύνδεσης στον διακομιστή"</string>
      <string name="gateway_exception_title">Δοκιμή router</string>
+     <string name="hints_input_roaming_daily_limit">Εισάγετε το όριο χρήσης δεδομένων</string>
+     <string name="hints_install_apps_new">Δεν χρησιμοποιήθηκαν ποτέ</string>
+     <string name="hints_install_apps_today">Χρησιμοποιήθηκαν σήμερα</string>
      <string name="input_aviable_traffic">Ορισμός ορίου δεδομένων</string>
      <string name="input_traffic_pkg">Δώστε το όριο</string>
      <string name="input_used_hint">Εισάγετε το όριο δεδομένων</string>
      <string name="input_used_max_hint">Εισάγετε το όριο δεδομένων (λιγότερο από %s)</string>
      <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
      <string name="international_roaming_whitelist_count">%d εφαρμογές μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή</string>
+     <string name="ip_address_exception_summary">"Αδυναμία λήψης διεύθυνσης IP. Εάν αντιμετωπίσετε ξανά από το πρόβλημα, δοκιμάστε να χρησιμοποιήσετε μια στατική διεύθυνση IP."</string>
      <string name="left_precent">60%</string>
      <string name="list_empty_text">Άδειο</string>
      <string name="load_fail">"Αδυναμία φόρτωσης"</string>
+     <string name="local_ip_exception_summary">"Αδυναμία λήψης τοπικής διεύθυνσης IP. Για να αναφέρετε αυτό το πρόβλημα στη MIUI, πηγαίνετε στην εφαρμογή Σχόλια και στείλτε ένα αρχείο καταγραφής από τη συσκευή σας."</string>
      <string name="lock_screen_setting_summary">Εμφάνισης ειδοποίησης μετά την χρήση 100KB</string>
      <string name="lock_screen_traffic_guide_notification_summary">Δεδομένα κινητής που χρησιμοποιήθηκαν κατά την διάρκεια κλειδώματος οθόνης.</string>
      <string name="lock_screen_traffic_guide_notification_title">Χρησιμοποιήθηκαν %s δεδομένα κινητής</string>
@@ -184,10 +190,56 @@
      <string name="mi_service_framework">Πλαίσιο υπηρεσιών Mi</string>
      <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
      <string name="mi_service_traffic_detail">Λεπτομέρειες υπηρεσιών Mi</string>
+     <string name="mian_page_primary_txt">Διεθνής περιαγωγή</string>
+     <string name="miuishare_title_more">Περισσότερα</string>
+     <string name="miuishare_title_share">Κοινή χρήση</string>
+     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Πατήστε για να περιορίσετε τη χρήση των δεδομένων.</string>
      <string name="network_assistant_upgraded_title">Ενημέρωση ολοκληρώθηκε</string>
+     <string name="network_blocked_connected_open_wifi">Συνδεδεμένο σε δημόσιο δίκτυο</string>
+     <string name="network_blocked_notification_summary">Πατήστε για λεπτομέρειες.</string>
+     <string name="network_blocked_switch_wifi">Αλλαγή δικτύου</string>
+     <string name="network_connected_exception_title">Έλεγχος δικτύου</string>
      <string name="network_control">Προβολή ρυθμίσεων εφαρμογών</string>
      <string name="network_diagnostics">Δοκιμή δικτύου</string>
+     <string name="network_mobile_exception_detail">"Η συσκευή σας δεν μπορεί να συνδεθεί στο Internet:
+
+ 1. Βεβαιωθείτε ότι δεν έχετε υπερβεί το όριο του πακέτου δεδομένων κινητής του φορέα σας.
+
+ 2. Αν έχετε μόλις ανανεώσει το υπόλοιπό σας, κάντε επανεκκίνηση της συσκευής σας και προσπαθήστε ξανά.
+
+ 3. Το σήμα δικτύου του φορέα σας μπορεί να είναι ασθενές στην τρέχουσα τοποθεσία σας."</string>
+     <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="network_operator_exception_summary">"Αδυναμία ενεργοποίησης κάρτας SIM. Βεβαιωθείτε ότι έχετε τοποθετήσει σωστά την κάρτα SIM και ότι το πακέτο δεδομένων κινητής έχει ενεργοποιηθεί από τον φορέα σας."</string>
+     <string name="network_permission_exception_tips">"Αδυναμία χρήσης δεδομένων κινητής για σύνδεση στο δίκτυο"</string>
+     <string name="network_roaming_exception_tips">"Αδυναμία χρήσης δεδομένων κινητής κατά την περιαγωγή για σύνδεση στο δίκτυο."</string>
+     <string name="network_route_exception_detail">"Μπορεί να υπάρχει πρόβλημα στον router που είστε συνδεδεμένοι:
+
+ "<b>"1. Προβλήματα με δημόσιο δίκτυο Wi-Fi
+"</b>"Εάν είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi-Fi, ο αριθμός των χρηστών που είναι συνδεδεμένοι σε αυτό, μπορεί να το επιβραδύνει ή να δημιουργεί προβλήματα συνδεσιμότητας. Αλλάξτε δίκτυο και δοκιμάστε ξανά.
+
+ 2."<b>" Προβλήματα παρόχου υπηρεσιών Internet
+Β"</b>"εβαιωθείτε ότι δεν υπάρχουν εκκρεμότητες με τον λογαριασμό σας από τον πάροχο υπηρεσιών Internet.
+
+ 3."<b>" Προβλήματα Router
+Δ"</b>"οκιμάστε να κάνετε επανεκκίνηση του router η/και ελέγξτε τις ρυθμίσεις του.
+
+ 4."<b>" Άλλα προβλήματα του router
+Δ"</b>"ιαβάστε τις οδηγίες που συνοδεύουν τον router σας και κάντε επαναφορά εργοστασιακών ρυθμίσεων.
+
+ 5."<b>" Βεβαιωθείτε ότι το router έχει εγκατασταθεί σωστά
+Δ"</b>"οκιμάστε να χρησιμοποιήσετε άλλο καλώδιο Ethernet για να συνδέσετε τον router σας. Αν υποψιάζεστε ότι υπάρχει κάποιο πρόβλημα με τη σύνδεση στο σπίτι σας, επικοινωνήστε με το πάροχο υπηρεσιών Internet."</string>
+     <string name="network_sim_exception_detail">"Μπορεί να υπάρχει κάποιο πρόβλημα με την κάρτα σας SIM:
+
+ 1. Βεβαιωθείτε ότι δεν υπάρχει εκκρεμότητα με τον λογαριασμό σας από τον φορέα σας. Δοκιμάστε να χρησιμοποιήσετε την κάρτα SIM ενός φίλου σας και δείτε αν μπορείτε να συνδεθείτε κανονικά.
+
+ 2. Αν χρησιμοποιείτε δύο κάρτες SIM, δοκιμάστε να επιλέξετε την άλλη κάρτα και δείτε αν μπορείτε να συνδεθείτε κανονικά.
+
+ 3. Βεβαιωθείτε ότι η κάρτα SIM και η υποδοχή κάρτας SIM της συσκευής σας δεν έχουν υποστεί ζημιά. Επιβεβαιώστε ότι η κάρτα SIM που χρησιμοποιείτε είναι σωστά τοποθετημένη στην υποδοχή SIM της συσκευής σας."</string>
+     <string name="networkchanged_exception_summary">Η σύνδεση δικτύου έχει αλλάξει. Παρακαλώ ελέγξτε ξανά.</string>
+     <string name="networkchanged_exception_title">Η σύνδεση άλλαξε</string>
+     <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="none_mi_service_app_detail">Κενό</string>
      <string name="notify_daily_data_usage_body">%s χρησιμοποιήθηκαν σήμερα. Πατήστε για να ρυθμίσετε το όριο.</string>
      <string name="notify_daily_limit_body">%s χρησιμοποιήθηκαν σήμερα. Πατήστε για να ρυθμίσετε το όριο.</string>
@@ -201,14 +253,19 @@
      <string name="online_chat">Chat</string>
      <string name="online_read">Ανάγνωση</string>
      <string name="online_songs">Μουσική</string>
+     <string name="open_now">Να επιτρέπεται στην εφαρμογή να χρησιμοποιεί δεδομένα κινητής</string>
      <string name="operator_name_cmcc">China Mobile</string>
      <string name="operator_name_telcom">China Telecom</string>
      <string name="operator_name_unicom">China Unicom</string>
      <string name="operator_number_cmcc">10086</string>
      <string name="operator_number_telcom">10000</string>
      <string name="operator_number_unicom">10010</string>
+     <string name="other_exception_summary">"Δεν έχετε σύνδεση στο Internet"</string>
+     <string name="other_exception_title">Έλεγχος για άλλα προβλήματα</string>
      <string name="pay_charge">Αγορά επιπλέον δεδομένων</string>
      <string name="per_month_pkg_traffic_settings">Ορισμός ορίου δεδομένων</string>
+     <string name="permission_exception_summary">"Ορισμένες εφαρμογές δεν έχουν άδεια να συνδεθούν στο Internet"</string>
+     <string name="permission_exception_title">Προβολή αδειών δικτύου</string>
      <string name="permit_running_network">Επιτρέψτε κίνηση δεδομένων παρασκηνίου</string>
      <string name="person_hotpot">Κινητά hotspots</string>
      <string name="pkg_traffic">Ορισμός ορίου δεδομένων</string>
@@ -259,6 +316,7 @@
      <string name="pref_package_traffic_overlay">%1$s | Επιπλέον: %2$s</string>
      <string name="pref_package_traffic_settings">Όριο δεδομένων</string>
      <string name="pref_pkg_begin_date">Ημερομηνία επαναφοράς του κύκλου χρήσης</string>
+     <string name="pref_roaming_daily_limit_setting">Ημερήσιο όριο δεδομένων για την περιαγωγή</string>
      <string name="pref_setting_operators_message">Επεξεργαστείτε το μήνυμα της συσκευής σας που αποστέλλεται στο φορέα σας για να συγχρονίσετε τα στατιστικά χρήσης των δεδομένων σας</string>
      <string name="pref_show_mobile_traffic">Όταν ξεκλειδώσετε το τηλέφωνο, εμφάνιση στατιστικών χρήσης δεδομένων για την περίοδο κατά την οποία η συσκευή σας είχε κλειδωθεί (πρέπει να είναι μεγαλύτερη από 5 λεπτά)</string>
      <string name="pref_special_traffic_exceed_limit">Ειδοποίηση όταν τη χρήση δεδομένων φτάσει στο όριο</string>
@@ -266,6 +324,7 @@
      <string name="pref_specified_adjust">Ορίστε προσαρμοσμένο όριο δεδομένων</string>
      <string name="pref_specified_traffic_settings">Ρυθμίσεις ορίου δεδομένων</string>
      <string name="pref_title_declaration">Σημαντική ενημέρωση</string>
+     <string name="pref_title_diagnostics_dont_show_float_notification">Εμφάνιση ειδοποιήσεων στην μπάρα ειδοποιήσεων</string>
      <string name="pref_title_mobile_traffic">Δείτε τη χρήση δεδομένων, ενώ είναι κλειδωμένο</string>
      <string name="pref_title_network_diagnostics">Διαγνωστικά δικτύου</string>
      <string name="pref_title_over_traffic_limit_warning">Απενεργοποίηση δεδομένων σε περίπτωση υπέρβασης ορίου</string>
@@ -290,14 +349,21 @@
      <string name="privacy_prompt_traffic_adjust_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για ενημέρωση των προτύπων ερωτημάτων SMS και για έλεγχο εάν αυτό το χαρακτηριστικό είναι διαθέσιμο στην περιοχή σας.</string>
      <string name="privacy_prompt_traffic_purchase_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν στους διακομιστές της Xiaomi για λήψη περισσότερων πληροφοριών σχετικά με τις επιλογές αγοράς δεδομένων.</string>
      <string name="privacy_prompt_upload">Ειδοποίηση Απορρήτου</string>
+     <string name="protocol_exception_title">Διαγνωστικά πρωτοκόλλου δικτύου</string>
+     <string name="protocol_loop_back_exception_summary">Αποτυχία ελεγχου τοπικού βρόγχου. Για να αναφέρετε αυτό το πρόβλημα στη MIUI, πηγαίνετε στην εφαρμογή Σχόλια και στείλτε ένα αρχείο καταγραφής από τη συσκευή σας.</string>
      <string name="reach_daily_limit_value_body">Μειώστε τη χρήση δεδομένων κινητής.</string>
-     <string name="reach_daily_limit_value_title">Ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
+     <string name="reach_daily_limit_value_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
      <string name="read_number">86 άρθρα</string>
      <string name="read_unit">άρθρα</string>
+     <string name="renew_ip">Επανάληψη</string>
      <string name="repair">Επιδιόρθωση</string>
      <string name="repair_loading_text">Φόρτωση…</string>
      <string name="replace_dns">Αυτόματη αντικατάσταση DNS</string>
      <string name="right_precent">100%</string>
+     <string name="roaming_limit_dialog_message">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί.</string>
+     <string name="roaming_limit_network_notification_body">Πατήστε για να δείτε τα διαθέσιμα δίκτυα δεδομένων</string>
+     <string name="roaming_limit_notification_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
+     <string name="roaming_limit_warning_notification_body">Πατήστε για να δείτε την χρήση δεδομένων.</string>
      <string name="roaming_not_start_body">Οι εφαρμογές στην λίστα εξαιρέσεων θα μπορούν να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
      <string name="roaming_not_start_title">Διεθνής περιαγωγή</string>
      <string name="roaming_start_body">Επιτρέψτε στις εφαρμογές στη λίστα εξαιρέσεων να συνδεθούν σε υπηρεσίες δεδομένων κατά τη διεθνή περιαγωγή.</string>
@@ -305,6 +371,7 @@
      <string name="root">Root</string>
      <string name="sc_allow_network_dialog_message">Πρέπει να επιτρέψετε σε αυτή την εφαρμογή να συνδεθεί στο Internet για να λειτουργήσει σωστά.</string>
      <string name="sc_allow_network_dialog_tiltle">Αδυναμία χρήσης Εξοικονόμησης Δεδομένων</string>
+     <string name="search_input_txt">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
      <string name="see_detail">Λεπτομέρειες</string>
      <string name="setting_traffic_pkg">Ορισμός πακέτου δεδομένων</string>
      <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
@@ -312,6 +379,7 @@
      <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στην μπάρα ειδοποιήσεων</string>
      <string name="signal_exception_summary">"Δεν είναι δυνατή η σύνδεση στο δίκτυο σε αυτή την περιοχή."</string>
      <string name="signal_exception_title">Ασθενές σήμα δικτύου</string>
+     <string name="sim_state_exception_summary">Η κατάσταση της SIM δείχνει ότι κάτι μπορεί να είναι λάθος με την κάρτα SIM.</string>
      <string name="songs_number">18 τραγούδια</string>
      <string name="songs_unit">τραγούδια</string>
      <string name="sorted_button">Ταξινόμηση κατά</string>
@@ -462,6 +530,8 @@
      <string name="usage_sorted_loading_text">Φορτώνει…</string>
      <string name="usbsharenet_exception_summary">"Δεν είναι δυνατή η δοκιμή δικτύου που διαμοιράζεται από το Mi PC Suite."</string>
      <string name="usbsharenet_exception_title">Δοκιμή κοινόχρηστου δικτύου USB</string>
+     <string name="usbsharenet_pc_exception_summary">"Αδυναμία σύνδεσης στο Internet με χρήση της κοινόχρηστης σύνδεσης USB. Ελέγξτε τη σύνδεση Internet του υπολογιστή σας."</string>
      <string name="wifi_exception_summary">Δοκιμή ενός διαθέσιμου δικτύου Wi-Fi</string>
      <string name="wifi_exception_title">Δοκιμή δικτύου Wi-Fi</string>
+     <string name="wifi_network_blocked_notification_title">Δεν υπάρχει σύνδεση στο Internet</string>
 </resources>

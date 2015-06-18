@@ -185,7 +185,7 @@
      <string name="hint_search_sms">%d μηνύματα</string>
      <string name="hms_add_image_progress_message">Επεξεργασία…</string>
      <string name="hms_first_use_tips">Για την λήψη μηνυμάτων υπηρεσίας, θα πρέπει να είστε συνδεδεμένοι σε δίκτυο Wi-Fi</string>
-     <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub  δεν μπορεί να είναι κενή"</string>
+     <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub δεν μπορεί να είναι κενή"</string>
      <string name="importing_progress_private_message">Εισαγωγή…</string>
      <string name="in_sms">Μήνυμα</string>
      <string name="insufficient_drm_rights">Ανιχνεύτηκαν ανεπαρκή δικαιώματα DRM.</string>
@@ -210,7 +210,7 @@
      <string name="menu_edit">Επεξεργασία</string>
      <string name="menu_forward">Προώθηση</string>
      <string name="menu_lock">Κλείδωμα</string>
-     <string name="menu_mark">Σημάδι</string>
+     <string name="menu_mark">Μαρκάρισμα</string>
      <string name="menu_more">Περισσότερα</string>
      <string name="menu_new_contact">Νέα επαφή</string>
      <string name="menu_new_manual">Εισάγετε αριθμό τηλεφώνου</string>

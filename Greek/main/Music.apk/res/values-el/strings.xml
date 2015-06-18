@@ -231,6 +231,7 @@
      <string name="playlist_renamed_message">Μετονομασία λίστας.</string>
      <string name="please_download_first">Πρέπει να λάβετε αυτό το τραγούδι πριν από την χρήση του ως ήχου κλήσης</string>
      <string name="please_search_or_select">Παρακαλώ αναζητήστε ή επιλέξτε</string>
+     <string name="preset_music_playlist">Λίστα αναπαραγωγής Mi Music</string>
      <string name="presonal_center">Ρυθμίσεις λογαριασμού</string>
      <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
      <string name="priority_storage_summary">Αυτόματη λήψη στην εξωτερική κάρτα SD αν υπάρχει</string>
@@ -263,6 +264,8 @@
      <string name="set_album_successful">Επιτυχής επιλογή άλμπουμ</string>
      <string name="set_as_ring">Ορισμός ως ήχος κλήσης</string>
      <string name="set_id3_failed">Αποτυχία ορισμού πληροφοριών ID3</string>
+     <string name="set_id3_not_have_read_or_write_permission">"Δεν έχετε άδεια για να επεξεργαστείτε αυτό το αρχείο"</string>
+     <string name="set_id3_not_support_format">"Δεν μπορείτε να επεξεργαστείτε αυτόν τον τύπο αρχείου"</string>
      <string name="set_id3_successful">Επιτυχία ορισμού πληροφοριών ID3</string>
      <string name="set_lyric_successful">Επιτυχής ορισμός στίχων</string>
      <string name="set_ringtones_failed">"Αποτυχία ορισμού ήχου κλήσης"</string>
