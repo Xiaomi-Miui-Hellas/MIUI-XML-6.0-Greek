@@ -6,6 +6,8 @@
      <string name="accept_or_deny">%1$s μοιράστηκε το άλμπουμ %2$s με εσάς.</string>
      <string name="activity_not_found">Δεν υπάρχει διαθέσιμη εφαρμογή για να ολοκληρωθεί η ενέργεια.</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
+     <string name="add_event">Προσθήκη γεγονότος</string>
+     <string name="add_event_hint">Εισάγετε ετικέτα</string>
      <string name="add_sharer">Προσθήκη μέλους</string>
      <string name="add_to_cloud_album">Προσθήκη στο Cloud</string>
      <string name="add_to_cloud_exceeded_the_size_message">Το αρχείο είναι πολύ μεγάλο για το MiCloud.</string>
@@ -96,7 +98,7 @@
      <string name="cannot_remove_creator">Αδυναμία διαγραφής του ιδιοκτήτη</string>
      <string name="cannot_send_message">Αδυναμία αποστολής μηνύματος</string>
      <string name="cannot_send_message_reason">Το μήνυμά σας δεν έχει παραλήπτες.</string>
-     <string name="cant_delete_cloud_album">Αδυναμία διαγραφής: %s είναι άλμπουμ συστήματος ή μοιράζεται από άλλους.</string>
+     <string name="cant_delete_system_album">"Αδυναμία διαγραφής του %s γιατί είναι άλμπουμ συστήματος."</string>
      <string name="choose_cloud_album">Επιλέξτε άλμπουμ</string>
      <string name="cleaning_cache">Εκκαθάριση προσωρινής μνήμης…</string>
      <string name="clear_thumbnail_cache">Εκκαθάριση μνήμης μικρογραφιών</string>
@@ -130,21 +132,22 @@
      <string name="comfirm_delete_current_album">Διαγραφή του τρέχοντος άλμπουμ;</string>
      <string name="comma">, </string>
      <string name="confirm">ΟΚ</string>
-     <string name="confirm_all_photo_not_this_people_face">Χωρίς αποτελέσματα;</string>
+     <string name="confirm_all_photo_are_this_people_face">Συσχέτιση όλων των φωτογραφιών με %s;</string>
+     <string name="confirm_all_photo_not_this_people_face">Χωρίς αποτελέσματα για %s;</string>
      <string name="confirm_delete">Διαγραφή %s φωτογραφιών;</string>
-     <string name="confirm_delete_album" formatted="false">Διαγραφή %s άλμπουμ (%s συνολικά αρχεία);</string>
      <string name="confirm_delete_has_cloud_image_video">Διαγραφή %s στοιχείων σε cloud;</string>
      <string name="confirm_delete_has_cloud_local_image_video">Διαγραφή %s στοιχείων σε &lt;β> τοπικό και cloud &lt;/ b>;</string>
      <string name="confirm_delete_has_local_image_video">Διαγραφή %s στοιχείων;</string>
      <string name="confirm_delete_init_message">Η εικόνα θα πρέπει να διαγραφεί από αυτή τη συσκευή και από το Mi Cloud. Αν το μόνο που θέλετε να διαγράψετε από τη συσκευή σας, δοκιμάστε αυτή τη δράση μέσα από την καρτέλα \"Τοπικά\".</string>
      <string name="confirm_delete_init_title">Διαγραφή εικόνας</string>
-     <string name="confirm_delete_system_album">%s είναι άλμπουμ συστήματος, είστε σίγουροι;</string>
      <string name="confirm_download">Χρειάζεται η λήψη %s . Αυτή η συμβουλή δεν θα εμφανιστεί ξανά.</string>
      <string name="confirm_download_video_message">Το βίντεο απαιτεί λήψη! Η λήψη θα συνεχίσει όταν βρεθεί διαθέσιμο δίκτυο Wi-Fi.</string>
      <string name="confirm_download_video_title">Λήψη βίντεο</string>
      <string name="confirm_face">Ταυτοποίηση</string>
-     <string name="confirm_left_photo_will_move_out">Οι φωτογραφίες στα αριστερά, θα αφαιρεθούν από αυτό το άλμπουμ.</string>
+     <string name="confirm_left_photo_will_move_in">"%s δεν είναι σε καμία από τις υπόλοιπες φωτογραφίες;"</string>
+     <string name="confirm_left_photo_will_move_out">"%s δεν είναι σε καμία από τις υπόλοιπες φωτογραφίες;"</string>
      <string name="confirm_merge_face_albums">" "<Data> Συγχώνευση αυτού του άλμπουμ με &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>; </Data>" "</string>
+     <string name="confirm_merge_many_face_albums">" "<Data> Συγχώνευση αυτών των άλμπουμ με %s; </Data>" "</string>
      <string name="confirm_not_face">Δεν είναι αυτό το άτομο</string>
      <string name="contact_photo">Εικόνα επαφής</string>
      <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
@@ -221,6 +224,8 @@
      <string name="error_title">Αδυναμία συγχρονισμού</string>
      <string name="error_unauthorized">Ο συγχρονισμός έχει απενεργοποιηθεί λόγω πάρα πολλών προσπαθειών σύνδεσης.</string>
      <string name="error_unknown_host">Όνομα κεντρικού υπολογιστή, κάντε έλεγχο στην σύνδεσή σας!</string>
+     <string name="event_create_long_photo">Δημιουργία φωτογραφίας…</string>
+     <string name="event_manage_photos">Διαχείριση φωτογραφιών</string>
      <string name="exit">Έξοδος</string>
      <string name="exit_share">Έξοδος από το άλμπουμ</string>
      <string name="exit_share_failed">Η έξοδος από το άλμπουμ %1$s απέτυχε</string>
@@ -232,10 +237,12 @@
      <string name="external_usb_device">Εξ.χώρος USB</string>
      <string name="external_usb_device_hm">Εξωτερική συσκευή USB</string>
      <string name="face_album">Άνθρωποι</string>
+     <string name="face_album_long_tap_tip">Για να επιλέξετε πολλά πρόσωπα ή να αλλάξετε τις ρυθμίσεις της ομάδας, πατήστε &amp; κρατήστε μια εικόνα προφίλ</string>
      <string name="face_album_not_named">Χωρίς όνομα</string>
      <string name="face_album_rename_hint">Εισάγετε το όνομα</string>
      <string name="face_albumset_detecting_tip">Μισό λεπτό…</string>
      <string name="face_albumset_empty">Κενό.</string>
+     <string name="face_albumset_loading_data">Φόρτωση δεδομένων…</string>
      <string name="face_albumset_pending_enable_tip">Οι φωτογραφίες θα ταξινομηθούν όταν η συσκευή συνδεθεί σε Wi-Fi</string>
      <string name="face_albumset_use_tip">Χρησιμοποιήστε την ανίχνευση προσώπου για να ταξινομήσετε τις φωτογραφίες από τους ανθρώπους που βρίσκονται σε αυτές</string>
      <string name="face_move_dialog_title">Επιλέξτε ένα άλμπουμ</string>
@@ -286,6 +293,7 @@
      <string name="home_page_tab_local">Τοπικό</string>
      <string name="home_page_tab_photo">Φωτογραφίες</string>
      <string name="ignore_album">Αγνοήστε</string>
+     <string name="ignore_alert_title">"Να μην εμφανίζεται αυτό το άλμπουμ;"</string>
      <string name="ignore_face">Αγνοήστε αυτό το άτομο</string>
      <string name="image_download_item_title">Λήψη εικόνας ( %s )</string>
      <string name="image_quota_fulfiled">Αδυναμία δημιουργίας εικόνας, ξεπεράστηκε το όριο.</string>
@@ -310,6 +318,7 @@
      <string name="internal_sdcard_root">Κατάλογος root εσωτερικής κάρτας SD</string>
      <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
      <string name="invalid_recipient_message">Διορθώστε τα λάθη στους παραλήπτες, διαφορετικά δεν θα λάβουν μήνυμα.</string>
+     <string name="is">Είναι %s;</string>
      <string name="iso">ISO</string>
      <string name="item_not_sync_for_origin_image">Δεν μπορείτε να κατεβάστε αυτή την εικόνα, επειδή δεν έχει συγχρονιστεί με το cloud σας.</string>
      <string name="item_not_sync_for_origin_video">Δεν μπορείτε να κατεβάσετε αυτό το βίντεο γιατί δεν έχει συγχρονιστεί με το cloud σας.</string>
@@ -351,7 +360,8 @@
      <string name="menu_item_sort_size_asc">Μικρότερο μέγεθος</string>
      <string name="menu_item_sort_size_desc">Μεγαλύτερο μέγεθος</string>
      <string name="menu_view_contact">Προβολή επαφής</string>
-     <string name="merge_album_positive_button_text">Συγχώνευση</string>
+     <string name="merge_album">Συγχώνευση</string>
+     <string name="merge_album_title">Συγχώνευση άλμπουμ</string>
      <string name="message_no_delete_access">Η πρόσβαση δεν επιτρέπεται. Αδύνατη η διαγραφή του αρχείου ή του φακέλου: %s</string>
      <string name="messagelist_sender_self">Εγώ</string>
      <string name="miliao">MiTalk</string>
@@ -396,6 +406,7 @@
      <string name="no_thumbnail">Χωρίς μικρογραφία</string>
      <string name="none_picture">Δεν βρέθηκαν φωτογραφίες</string>
      <string name="not_auto_create_recent_album">Μη αυτόματη δημιουργία πρόσφατου άλμπουμ</string>
+     <string name="not_is">Δεν είναι %s;</string>
      <string name="not_now">Όχι τώρα</string>
      <string name="not_show_hidden_albums">Να μην προβάλλονται τα κρυφά άλμπουμ</string>
      <string name="old">​Ρετρό</string>
@@ -432,6 +443,8 @@
      <string name="paint_crop_cancel_title">Ακύρωση αλλαγών</string>
      <string name="paint_crop_tips">Για να πάρετε μια καλύτερη εικόνα, δοκιμάστε να τοποθετήσετε τα μέρη που σας ενδιαφέρουν σε σημεία του πλέγματος με αλλαγή μεγέθους και μετακίνηση.</string>
      <string name="paint_highlight">Επισήμανση</string>
+     <string name="paint_highlight_cancel_context">Αποθήκευση επισημασμένης εικόνας;</string>
+     <string name="paint_highlight_cancel_title">Απόρριψη αλλαγών</string>
      <string name="path">Διαδρομή</string>
      <string name="people">Άτομα</string>
      <string name="photo_page_always_rotate">Αυτ. περιστροφή φωτογραφιών</string>
@@ -443,6 +456,7 @@
      <string name="photo_size">Μέγεθος</string>
      <string name="photoeditor_name">Photo Studio</string>
      <string name="photos">Φωτογραφίες</string>
+     <string name="pick_from_contact">Επιλέξτε από τις επαφές</string>
      <string name="pick_too_many_recipients">Πολλοί παραλήπτες</string>
      <string name="pick_too_much_tips">Δεν μπορείτε να επιλέξετε τόσα πολλά στοιχεία (όριο %d ).</string>
      <string name="picker_no_album_selected">Κανένα άλμπουμ δεν επιλέχτηκε</string>
@@ -476,6 +490,7 @@
      <string name="remove_from_secret_unfinished_message_with_count">%1$s στοιχεία δεν αφαιρέθηκαν από το μυστικό</string>
      <string name="remove_hidden_album">Ακύρωση απόκρυψης</string>
      <string name="remove_recent_album">Αφαίρεση από τα αγαπημένα άλμπουμ</string>
+     <string name="rename_event">Μετονομασία γεγονότος</string>
      <string name="rename_face_album">Αλλαγή ονόματος</string>
      <string name="rename_fail_msg">"Δεν ήταν δυνατή η αλλαγή ονόματος"</string>
      <string name="rename_failed">Η μετονομασία απέτυχε</string>
@@ -514,7 +529,7 @@
      <string name="select_auto_upload_albums">Επιλέξτε άλμπουμ για μεταφόρτωση</string>
      <string name="select_image">Επιλογή φωτογραφίας</string>
      <string name="select_item">Επιλογή αντικειμένου</string>
-     <string name="select_item_face">Επιλέξτε τις φωτογραφίες που ανήκουν σε %1</string>
+     <string name="select_item_face">"Στις φωτογραφίες μπορεί να είναι '%s'"</string>
      <string name="select_too_much_to_send_tips">Οι επιλεγμένες φωτογραφίες είναι πάρα πολύ μεγάλες για να αποσταλούν. Το επιτρεπόμενο όριο είναι %d .</string>
      <string name="select_video">Επιλογή βίντεο</string>
      <string name="send">Αποστολή</string>
@@ -543,6 +558,7 @@
      <string name="share_by_email_successfully">Κοινόχρηστο %1$s</string>
      <string name="share_current_album">Κοινή χρήση τρέχοντος άλμπουμ</string>
      <string name="share_public_url_text">Έχω μοιράσει το άλμπουμ %1$s . Δείτε το στο %2$s</string>
+     <string name="share_title_more">Περισσότερα</string>
      <string name="sharer_quota_fulfiled">Έχετε ήδη μοιραστεί αυτό το άλμπουμ με το μέγιστο αριθμό χρηστών.</string>
      <string name="sharpen">Όξυνση</string>
      <string name="show_all">Εικόνες και βίντεο</string>
@@ -625,6 +641,7 @@
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Προσοχή</string>
      <string name="wechat">WeChat</string>
+     <string name="wechat_timeline_title">Χρονοδιάγραμμα WeChat</string>
      <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>

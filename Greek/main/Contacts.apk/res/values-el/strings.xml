@@ -150,6 +150,7 @@
      <string name="close_dial_pad">Κλείσιμο πληκτρολογίου</string>
      <string name="cloud_antispam_mark">Ετικέτα ως spam</string>
      <string name="cloud_antispam_title">Εντοπισμός άγνωστων αριθμών</string>
+     <string name="cloud_recommend_msg">Πατήστε για να συγχρονίσετε τις επαφές με το Mi Cloud.</string>
      <string name="composer_failed_to_get_database_infomation">"Δεν μπορούν να ληφθούν πληροφορίες από την βάσης δεδομένων."</string>
      <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές προς εξαγωγή. Αν έχετε επαφές στο τηλέφωνό σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν την εξαγωγή επαφών από το τηλέφωνο.</string>
      <string name="composer_not_initialized">"Ο συνθέτης vCard δεν έχει ξεκινήσει σωστά."</string>

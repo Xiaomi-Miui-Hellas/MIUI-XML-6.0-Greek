@@ -2,7 +2,6 @@
 <resources>
      <string-array name="version_list_entries">
         <item>Stable</item>
-        <item>Dev</item>
         <item>Alpha</item>
      </string-array>
 </resources>

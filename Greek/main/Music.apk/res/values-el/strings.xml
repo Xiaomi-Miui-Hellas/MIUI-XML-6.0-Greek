@@ -19,6 +19,7 @@
      <string name="artist_name">Καλλιτέχνης</string>
      <string name="artist_search_title">Καλλιτέχνης</string>
      <string name="artist_view">Καλλιτέχνης</string>
+     <string name="atmd_music">Ultimate</string>
      <string name="audio_picker_title">Επιλέξτε ένα τραγούδι</string>
      <string name="auto_download_in_wifi">Δεν υπάρχει σύνδεση στο Internet ανιχνεύθηκε</string>
      <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>

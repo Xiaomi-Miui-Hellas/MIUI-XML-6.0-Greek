@@ -34,6 +34,7 @@
      <string name="SMS_SERVICE">Λίστα φραγών παρόχου</string>
      <string name="SMSpass">Επέτρεψε μηνύματα</string>
      <string name="STRANGER_BLOCK">Λίστα φραγής αγνώστων</string>
+     <string name="action_source_sms_title">Φραγμένα SMS</string>
      <string name="ad_block_hint">%d φραγμένα</string>
      <string name="ad_install_monitor">Παρακολούθηση εφαρμογών για adware</string>
      <string name="ad_install_monitor_hint">Έλεγχος για adware κατά την εγκατάσταση εφαρμογών</string>
@@ -131,17 +132,13 @@
      <string name="log_count">(%d)</string>
      <string name="mark_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
-     <string name="mark_banking_insurance">Ασφαλιστής</string>
-     <string name="mark_banking_insurance_block">Επισήμανση ως Ασφαλιστής</string>
-     <string name="mark_express">Ταχυμεταφορές</string>
-     <string name="mark_express_block">Επισήμανση ως ταχυμεταφορές</string>
      <string name="mark_fraud">Απάτη</string>
-     <string name="mark_fraud_block">Επισήμανση ως απάτη</string>
-     <string name="mark_meal">Διανομέας φαγητού</string>
-     <string name="mark_meal_block">Επισήμανση ως διανομέας φαγητού</string>
+     <string name="mark_fraud_block">Αναφέρθηκε ως απάτη</string>
+     <string name="mark_harass">Παρενόχληση</string>
+     <string name="mark_harass_block">Αναφέρθηκε ως παρενόχληση</string>
      <string name="mark_number_agent">Αντιπρ. πωλήσεων</string>
-     <string name="mark_number_banking">Ασφαλιστής</string>
      <string name="mark_number_fraud">Απάτη</string>
+     <string name="mark_number_harass">Παρενόχληση</string>
      <string name="mark_number_info">"
 Σημειώστε ότι μερικές φορές, αυτές οι κλήσεις μπορεί να σας φανούν χρήσιμες (πχ εάν ψάχνετε για σπίτι). Μπλοκάρετε μόνο τους αριθμούς, για τους οποίους δεν θέλετε να λαμβάνετε κλήσεις."</string>
      <string name="mark_number_sell">Τηλεπωλητής</string>

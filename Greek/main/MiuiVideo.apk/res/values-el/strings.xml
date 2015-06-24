@@ -41,6 +41,8 @@
      <string name="average_score">Μέσος όρος</string>
      <string name="avg_score">%.1f</string>
      <string name="bestv">BesTV</string>
+     <string name="bmp_quality_mode">Λειτουργία Ποιότητας Εικόνας</string>
+     <string name="bmp_quality_mode_desc">Λειτουργία υψηλής ποιότητας βίντεο.</string>
      <string name="buffering">Φόρτωση …</string>
      <string name="buffering_video_netplay_label_v5">Φόρτωση …</string>
      <string name="cancel">Ακύρωση</string>
@@ -123,6 +125,8 @@
      <string name="edit_comment">Προσθέστε σχόλιο</string>
      <string name="empty_data">Σφάλμα φόρτωσης</string>
      <string name="empty_keyword_hint">Η λέξη-κλειδί δεν μπορεί να είναι κενή</string>
+     <string name="empty_tv_exiting">Έξοδος από το…</string>
+     <string name="episode_name_format">第%1$s集</string>
      <string name="episode_suffix">Eπ. %d</string>
      <string name="error_empty_filter_title">Κανένα αποτέλεσμα</string>
      <string name="error_empty_title">Κάτι πήγε στραβά</string>
@@ -145,6 +149,7 @@
      <string name="hint_apk_install">Λήψη εφαρμογής</string>
      <string name="hint_apk_text_update">%1$s νέα έκδοση της εφαρμογής διαθέσιμη. Θέλετε να γίνει ενημέρωση;</string>
      <string name="hint_apk_title_update">%1$s Νέα Έκδοση</string>
+     <string name="i_will_write_comments">Γράψτε εδώ στα σχόλιά σας</string>
      <string name="icntv">iCNTV</string>
      <string name="info_video_loading">Φόρτωση…</string>
      <string name="init">Εκκίνηση</string>
@@ -175,6 +180,11 @@
      <string name="mine_info_account_title">Πληροφορίες λογαριασμού</string>
      <string name="minute"> Λεπτό</string>
      <string name="mipush_setting">Xiaomi push</string>
+     <string name="miwifi_app_download_content">Λήψη…</string>
+     <string name="miwifi_app_download_title">Xiaomi Router</string>
+     <string name="miwifi_app_update_button">Ενημέρωση</string>
+     <string name="miwifi_app_update_content">Σημείωση: αυτή η λειτουργία απαιτεί ένα router με έκδοση 2.0 ή νεότερη</string>
+     <string name="miwifi_app_update_title">Θα πρέπει να ενημερώσετε την εφαρμογή του router για να χρησιμοποιήσετε αυτήν τη λειτουργία. Ενημέρωση τώρα;</string>
      <string name="month">Μήνας</string>
      <string name="my_favorite">Με αστέρι</string>
      <string name="my_local_favorite">Τοπικά Αγαπημένα</string>
@@ -202,6 +212,7 @@
      <string name="offline_loading">Offline</string>
      <string name="offline_max_promote">Αναμονή για προσωρινή αποθήκευση, υπάρχουν μόνο 2 εργασίες προσωρινής αποθήκευσης που μπορούν να τρέχουν ταυτόχρονα.</string>
      <string name="offline_media_empty_title">Κενό</string>
+     <string name="offline_no_avail_item_hint">Δεν υπάρχουν διαθέσιμα επεισόδια για λήψη</string>
      <string name="offline_no_selected_item_hint">Επιλέξτε ένα βίντεο</string>
      <string name="offline_no_source">Αδύνατη η προβολή σε λειτουργία εκτός σύνδεσης</string>
      <string name="offline_setting">Offline πολυμέσα</string>
@@ -230,6 +241,8 @@
      <string name="play_his_empty_title">Κενό</string>
      <string name="play_history">Πρόσφατα έπαιξαν</string>
      <string name="play_source_fetching">Σύνδεση…</string>
+     <string name="player_plugin_des">Προβολή διαθέσιμων βίντεο plug-in</string>
+     <string name="player_plugin_title">Βίντεο plug-in</string>
      <string name="positive_comment">Θετικό</string>
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
@@ -249,6 +262,9 @@
      <string name="reload_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="reload_title_ep">"Αδυναμία λήψης όλης της σειράς"</string>
      <string name="retry">Επανάληψη</string>
+     <string name="router">Remote offline</string>
+     <string name="router_download_task_with">%d εργασίες</string>
+     <string name="router_update">Η εφαρμογή Xiaomi router χρειάζεται αναβάθμιση.</string>
      <string name="score">Αξιολόγηση </string>
      <string name="score_by">Σκορ: %s</string>
      <string name="sdcard_storage">Εσωτερική μνήμη</string>
@@ -339,6 +355,7 @@
      <string name="vp_VideoView_error_title">Σφάλμα αναπαραγωγής βίντεο!</string>
      <string name="vp_adapt_height">Ταίριασμα ύψους</string>
      <string name="vp_adapt_width">Ταίριασμα πλάτους</string>
+     <string name="vp_app_name">Βίντεο</string>
      <string name="vp_audio">Ένταση</string>
      <string name="vp_auto_select">Αυτόματη επιλογή</string>
      <string name="vp_back">Πίσω</string>
@@ -374,6 +391,9 @@
      <string name="vp_media_info">Προβολή πληροφοριών βίντεο</string>
      <string name="vp_milink">MiLink</string>
      <string name="vp_milink_function">Cast to display</string>
+     <string name="vp_mobile_network_using_negative">Ακύρωση</string>
+     <string name="vp_mobile_network_using_positive">Συνέχεια</string>
+     <string name="vp_mobile_network_using_warning">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="vp_newest_ep">Πιο πρόσφατα</string>
      <string name="vp_next_ci">Το Επόμενο επεισόδιο</string>
      <string name="vp_offline">Αποσυνδεδεμένος</string>
@@ -385,6 +405,9 @@
      <string name="vp_offline_status_wait">Αναμονή</string>
      <string name="vp_offline_title">Offline</string>
      <string name="vp_offline_title_name">Επεισόδιο %d</string>
+     <string name="vp_player_plugin_dlg_neg_btn">Κλείσιμο</string>
+     <string name="vp_player_plugin_dlg_no_content">Δεν υπάρχουν Βίντεο Plugin</string>
+     <string name="vp_player_plugin_dlg_title">Βίντεο Plugin</string>
      <string name="vp_plugin_message">Εγκατάσταση HD βίντεο plug-in;</string>
      <string name="vp_retry">Δοκιμάστε ξανά</string>
      <string name="vp_scale_screen">Αλλαγή αναλογίας</string>
@@ -403,6 +426,7 @@
      <string name="vp_using_16_9">Εξαναγκασμός 16:9</string>
      <string name="vp_using_4_3">Εξαναγκασμός 4:3</string>
      <string name="vp_video_bad_network_condition">Κακή κατάσταση δικτύου. Δοκιμάστε ξανά αργότερα</string>
+     <string name="vp_video_invalid_cp_info">Λανθασμένες πληροφορίες σχετικά με το βίντεο. Παρακαλώ επανεκκινήστε την εφαρμογή</string>
      <string name="vp_video_loading"><CDATA>Φόρτωση…</CDATA></string>
      <string name="vp_video_plugin_installation">Εγκατάσταση %1$s plug-in για καλύτερη ποιότητα εικόνας…</string>
      <string name="waiting_to_download">Αναμονή</string>

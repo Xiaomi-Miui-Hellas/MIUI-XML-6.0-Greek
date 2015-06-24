@@ -79,12 +79,15 @@
      <string name="description_direction_left">Σύρετε προς τα αριστερά για %s.</string>
      <string name="description_direction_up">Σύρετε προς τα πάνω για %s.</string>
      <string name="description_target_search">Αναζήτηση</string>
+     <string name="disable_notification_summary">Η ειδοποίηση δεν θα εμφανίζεται μετά την απενεργοποίηση</string>
+     <string name="disable_notification_title">Απενεργοποίηση ειδοποίησης</string>
      <string name="dismount_storage">Όχι</string>
      <string name="dlg_confirm_kill_storage_users_text">Εάν ενεργοποιήσετε την συσκευή αποθήκευσης USB, κάποιες εφαρμογές που χρησιμοποιείτε θα σταματήσουν και δε θα είναι διαθέσιμες μέχρι να απενεργοποιήσετε τον αποθ. χώρο USB.</string>
      <string name="dlg_confirm_kill_storage_users_title">Ενεργοποίηση συσκευή αποθήκευσης USB.</string>
      <string name="dlg_error_title">Η λειτουργία USB απέτυχε</string>
      <string name="dlg_ok">OK</string>
      <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
+     <string name="expanded_notification_manager">Διαχείριση</string>
      <string name="ext_media_badremoval_notification_message">Αποσυνδέστε την συσκευή αποθήκευσης USB πριν από την αφαίρεση για να αποφύγετε απώλεια δεδομένων.</string>
      <string name="ext_media_badremoval_notification_title">Η συσκευή αποθήκευσης USB αφαιρέθηκε απροσδόκητα</string>
      <string name="ext_media_checking_notification_message">Έλεγχος για σφάλματα.</string>
@@ -138,6 +141,7 @@
      <string name="notification_otg_trackball_out">Το Trackball αποσυνδέθηκε</string>
      <string name="notification_otg_unknow_in">Η συσκευή OTG συνδέθηκε</string>
      <string name="notification_otg_unknow_out">Η συσκευή OTG αποσυνδέθηκε</string>
+     <string name="notification_template_text">Υπάρχει μήνυμα. Πατήστε για εμφάνιση</string>
      <string name="oldman_status_bar_time_format_12">h:mm</string>
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Απόρριψη κλήσης</string>

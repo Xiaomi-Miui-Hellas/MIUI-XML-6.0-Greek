@@ -455,6 +455,10 @@
      <string name="mobile_networks">Δίκτυα κινητής τηλεφωνίας</string>
      <string name="msim_apn_not_set">Δεν ορίστηκε</string>
      <string name="msim_default_setting">Προεπιλεγμένες ρυθμίσεις</string>
+     <string name="msim_disable_sim_card_btn_text">OK</string>
+     <string name="msim_disable_sim_card_summary_default_card">"Αυτή η κάρτα έχει οριστεί ως η προεπιλεγμένη σας SIM. Εάν σταματήσετε να την χρησιμοποιείτε, δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Μπορείτε να σταματήσετε αυτήν την κάρτα SIM αφού πρώτα ορίσετε άλλη κάρτα SIM ως προεπιλογή."</string>
+     <string name="msim_disable_sim_card_summary_non_default_card">Δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Απενεργοποίηση της %s κάρτας SIM;</string>
+     <string name="msim_disable_sim_card_title">Απενεργοποίηση κάρτας SIM</string>
      <string name="msim_enable_sim">Ενεργοποίηση</string>
      <string name="msim_general_setting">Ρυθμίσεις</string>
      <string name="msim_has_been_disabled">(Disabled)</string>

@@ -20,6 +20,7 @@
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
      <string name="default_folder_name">Σημειώσεις</string>
      <string name="dlg_desc_confirm_alarm_silent">Οι ενεργοί συναγερμοί δεν θα ηχούν σε σιωπηλή λειτουργία.</string>
+     <string name="dlg_info_creating_message">Δημιουργία μηνύματος…</string>
      <string name="dlg_title_confirm_alarm_silent">Σίγαση συναγερμών</string>
      <string name="enable_sync">Συγχρονισμός</string>
      <string name="enable_sync_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi(%1$s);</string>
@@ -95,6 +96,7 @@
      <string name="sns_title_send">Αποστολή μηνύματος</string>
      <string name="sns_toast_empty">Δεν μπορείτε να στείλετε κενό μήνυμα</string>
      <string name="sns_toast_over_limit">Αποστολή ως εικόνα (πάνω από το όριο κειμένου))</string>
+     <string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
      <string name="toast_folder_privacy_mode">Δεν είναι δυνατή η επεξεργασία του φακέλου σε λειτουργία επισκέπτη</string>
      <string name="toast_message_add_image_fail">Αποτυχία εισαγωγής εικόνας!</string>
      <string name="toast_message_add_text_warn">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>

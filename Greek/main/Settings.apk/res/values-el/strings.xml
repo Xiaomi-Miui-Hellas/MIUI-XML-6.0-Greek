@@ -551,6 +551,7 @@
      <string name="check_update">Έλεγχος για ενημερώσεις</string>
      <string name="checkbox_notification_same_as_incoming_call">Χρήση της έντασης κουδουνίσματος και για ειδοποιήσεις</string>
      <string name="checking_for_updates">Έλεγχος για ενημερώσεις…</string>
+     <string name="choose_smartcover_type">Επιλέξτε το είδος της θήκης</string>
      <string name="choose_timezone">Επιλογή ζώνης ώρας</string>
      <string name="cleaner">Καθαρισμός</string>
      <string name="clear_activities">Εκκαθάριση προεπιλογών</string>
@@ -1557,6 +1558,7 @@
      <string name="no_updates_warning2">Ησυχάστε, θα σας ενημερώσουμε όταν βρεθεί νέα έκδοση :)</string>
      <string name="noise_suppression">Μείωση του θορύβου περιβάλλοντος</string>
      <string name="normal_date_format">Κανονικό (%s)</string>
+     <string name="normal_smartcover_title">Χωρίς παράθυρο μπροστά</string>
      <string name="not_installed">Δεν είναι εγκατεστημένο</string>
      <string name="notification_breathing_light_color_title">Χρωματισμός LED ειδοποίησης</string>
      <string name="notification_breathing_light_freq_title">Συχνότητα LED flash ειδοποιήσεων</string>
@@ -2144,6 +2146,7 @@
      <string name="skip_step">Παράλειψη</string>
      <string name="slot_status_title">IMEI πληροφορίες</string>
      <string name="small_font">Μικρή</string>
+     <string name="smallwindow_smartcover_title">Με παράθυρο μπροστά</string>
      <string name="smartcover_sensitive_title">Λειτουργία Smartcover</string>
      <string name="sms_application_title">Προεπιλεγμένη εφαρμογή SMS</string>
      <string name="sms_change_default_dialog_text" formatted="false">Χρήση του %s αντί του %s ως εφαρμογή SMS;</string>

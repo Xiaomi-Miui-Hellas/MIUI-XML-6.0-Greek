@@ -66,6 +66,8 @@
      <string name="metered_play_toast">Χρήση σύνδεσης δεδομένων κινητής για ακρόαση Ράδιο</string>
      <string name="min_sleep_time">1</string>
      <string name="more">Περισσότερα</string>
+     <string name="multi_subscriptions_subtitle_title">Πατήστε για να ακούσετε %1$s/%2$s.</string>
+     <string name="multi_subscriptions_title">%1$d συνδρομές ενημερώθηκαν</string>
      <string name="my_favorite">ΑΓΑΠΗΜΕΝΑ</string>
      <string name="my_program">Εκτός σύνδεσης</string>
      <string name="no_display_channel_text">Δεν υπάρχουν κανάλια</string>
@@ -80,6 +82,7 @@
      <string name="not_login">Δεν έχετε συνδεθεί</string>
      <string name="notification_description_from_radio">Ράδιο</string>
      <string name="ok">OK</string>
+     <string name="one_subscription_title">%1$s ενημερώθηκε</string>
      <string name="play_local_sound">Αναπαραγωγή εκτός σύνδεσης: %1$s</string>
      <string name="play_quality_toast">Επιλέξτε ποιότητα ροής</string>
      <string name="presonal_center">Λογαριασμός</string>

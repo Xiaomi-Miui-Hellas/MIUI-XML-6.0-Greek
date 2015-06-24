@@ -195,9 +195,13 @@
      <string name="micloud_setting_sms_summary">Μηνύματα SMS και MMS</string>
      <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi-Fi</string>
      <string name="micloud_single_dspt">Χρησιμοποιήστε το Mi Cloud για συγχρονισμό δεδομένων, εντοπισμό της συσκευή σας και για να μοιραστείτε πράγματα με τους φίλους σας.</string>
+     <string name="micloud_space_applist_detail">Διαχείριση των εφαρμογών στην Αρχική οθόνη σας</string>
+     <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
      <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">&lt;u>Τι συμβαίνει όταν έχω ξεμείνει από χώρο;&lt;/u></string>
+     <string name="micloud_space_soundrecorder_detail">Διαχείριση των ηχογραφήσεων που είναι αποθηκευμένες στη συσκευή σας</string>
+     <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
      <string name="micloud_storage">Χώρος αποθήκευσης</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
      <string name="micloud_storage_expires_manually_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>

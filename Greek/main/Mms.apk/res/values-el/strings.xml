@@ -171,7 +171,8 @@
      <string name="forward_prefix">"Fwd: "</string>
      <string name="found_old_messages">Μεταφόρτωση μηνυμάτων από %1$s στο %2$s;</string>
      <string name="found_old_messages_title">Μεταφόρτωση μηνυμάτων από τις άλλες σας κάρτες SIM;</string>
-     <string name="found_wild_messages">Τα μηνύματα από τους παρακάτω αριθμούς έχουν αποθηκευτεί στο Mi Cloud. %sΘέλετε να τα κατεβάσετε τώρα;</string>
+     <string name="found_wild_messages_guide_cloud_desc">Για να συγχρονίσετε τα μηνύματα από το Mi Cloud, συνδεθείτε στο Mi λογαριασμό σας και ενεργοποιήστε το συγχρονισμό SMS.</string>
+     <string name="found_wild_messages_guide_settings_desc">Συγχρονισμός μηνυμάτων SMS από Mi Cloud στις Ρυθμίσεις Μηνυμάτων.</string>
      <string name="found_wild_messages_title">Λήψη μηνυμάτων</string>
      <string name="from_label">"Από: "</string>
      <string name="group_message">Ομαδικό μήνυμα</string>
@@ -325,6 +326,7 @@
      <string name="pref_mms_settings_title">Μηνύματα πολυμέσων (MMS)</string>
      <string name="pref_notification_settings_title">Ρυθμίσεις ειδοποιήσεων</string>
      <string name="pref_other_title">Πρόσθετες ρυθμίσεις</string>
+     <string name="pref_show_blocked_messages_summary">Εμφάνιση φραγμένων SMS στη λίστα των συζητήσεων</string>
      <string name="pref_show_sms_template_summary">Αυτόματη αντιγραφή και συμπλήρωση κωδικών επαλήθευσης</string>
      <string name="pref_sms_theme_title">Ρυθμίσεις θεμάτων</string>
      <string name="pref_summary_allow_si_sl_push">Να επιτρέψετε τη λήψη και την κοινοποίηση των μηνυμάτων WAP push (SI/SL)</string>
@@ -406,6 +408,7 @@
      <string name="remove_video">Κατάργηση βίντεο</string>
      <string name="replace">Αντικατάσταση</string>
      <string name="replace_image">Αντικατάσταση εικόνας</string>
+     <string name="reply_button_msg">Απάντηση</string>
      <string name="resent_message">Αποστολή ξανά</string>
      <string name="resize_image_error_information">Αυτή η εικόνα είναι πολύ μεγάλη για την αποστολή, ακόμη και αν αλλάξει το μέγεθός της.</string>
      <string name="resource_price_free">Δωρεάν</string>
@@ -523,6 +526,7 @@
      <string name="timed_message_to">προς</string>
      <string name="title_collapse_sp_messages">Ομαδοποίηση μηνυμάτων παρόχου</string>
      <string name="title_date_type">Χρονοσήμανση μηνυμάτων</string>
+     <string name="title_show_blocked_messages">Εμφάνιση φραγμένων SMS</string>
      <string name="title_show_sms_template">Έλεγχος στα SMS για κωδικούς επαλήθευσης</string>
      <string name="title_timed_message_dialog">Ορισμός χρονικού μηνύματος</string>
      <string name="to_address_label">"Προς: "</string>

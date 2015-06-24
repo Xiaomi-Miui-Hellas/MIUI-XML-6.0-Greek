@@ -21,7 +21,7 @@
      <string name="average_price">Μέσος όρος %d RMB</string>
      <string name="back">Επιστροφή</string>
      <string name="balance_inquiry_send_sms_fail_hint">Δεν ήταν δυνατή η αποστολή SMS</string>
-     <string name="balance_inquiry_send_sms_hint">Ένα SMS θα σταλεί στο παροχό σας για να ελέγξετε υπόλοιπο σας.</string>
+     <string name="balance_inquiry_send_sms_hint">Ένα SMS θα σταλεί στο πάροχό σας για να ελέγξετε υπόλοιπο σας.</string>
      <string name="balance_inquiry_send_sms_summmary">Έλεγχος υπολοίπου</string>
      <string name="balance_inquiry_title">Ερώτηση υπολοίπου</string>
      <string name="call">Κλήση</string>
@@ -88,6 +88,8 @@
      <string name="express_contact_phone">Εισάγετε τον αριθμό του τηλεφώνου σας</string>
      <string name="express_contact_phone_finding">Λήψη αριθμού τηλεφώνου…</string>
      <string name="express_contact_prefix">"Επικοινωνία "</string>
+     <string name="express_copied">Ο αριθμός αποστολής αντιγράφηκε</string>
+     <string name="express_copy_number">Αντιγραφή</string>
      <string name="express_delete_order">Διαγραφή</string>
      <string name="express_dest_city_label">Προορισμός</string>
      <string name="express_detailed_address">Διεύθυνση</string>
@@ -160,6 +162,8 @@
      <string name="express_select_city">Επιλέξτε πόλη</string>
      <string name="express_select_sender">Από</string>
      <string name="express_send">Αποστολή</string>
+     <string name="express_send_mms">Αποστολή</string>
+     <string name="express_send_mms_format">Σας έχει αποσταλεί ένα πακέτο από %1$s. Ο αριθμός αποστολής είναι %2$s.</string>
      <string name="express_send_notice">Σχετικά με απαγορευμένα αντικείμενα</string>
      <string name="express_sender_info">Πληροφορίες Αποστολέα</string>
      <string name="express_sender_name">Όνομα αποστολέα</string>
@@ -209,8 +213,16 @@
      <string name="locating_fail">Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας</string>
      <string name="login_before_use">Πρέπει να συνδεθείτε πρώτα</string>
      <string name="login_ok">Σύνδεση</string>
-     <string name="mark_number_custom_dialog_maintitle">Επιβεβαιώστε ή διορθώστε την επισήμανση</string>
+     <string name="mark_number_custom_mark_deleted">Η επισήμανση αφαιρέθηκε.</string>
      <string name="mark_number_dialog_maintitle">Επισημάνετε τον αριθμό και αποστολή</string>
+     <string name="mark_number_dialog_subtitle">Επισημάνθηκε από %2$d ανθρώπους σαν %1$s.</string>
+     <string name="mark_number_feedback">Αναφορά</string>
+     <string name="mark_number_feedback_hint">Συμπληρώστε τα σχόλιά σας</string>
+     <string name="mark_number_feedback_invalid_hint">Εισάγετε μια έγκυρη γνώμη</string>
+     <string name="mark_number_feedback_success">Επιτυχής αποστολή σχολίων. Θα επαληθευτούν το ταχύτερο δυνατόν.</string>
+     <string name="mark_number_marked_maintitle">Τροποποίηση</string>
+     <string name="mark_number_marked_subtitle">Το επισήμανα ως %s</string>
+     <string name="mark_number_remove">Αφαίρεση επισήμανσης</string>
      <string name="mark_title_null_hint">Η επισήμανση δεν μπορεί να είναι κενή</string>
      <string name="menu_add_black_list">Προσθήκη στη λίστα φραγών</string>
      <string name="menu_add_to_favorite">Προσθήκη στα αγαπημένα</string>
@@ -318,7 +330,6 @@
      <string name="remind_user_suspect_number_title">Ύποπτος αριθμός</string>
      <string name="scan">Σάρωση</string>
      <string name="select_package_before_buy">Επιλογή πακέτου</string>
-     <string name="selected_category_format">Επισημάνθηκε από %2$d άτομα σαν %1$s.</string>
      <string name="send_shortcut_failed">Αδυναμία αποστολής</string>
      <string name="send_shortcut_success">Τοποθετήθηκε στην Αρχική Οθόνη</string>
      <string name="sending_shortcut">Αποστολή…</string>
