@@ -49,7 +49,7 @@
      <string name="gift_present_dlg_anonymous">Ανώνυμο δώρο</string>
      <string name="gift_present_dlg_input_hint">Mi Account ID/Phone</string>
      <string name="gift_present_dlg_no_fee">Δεν θα χρεωθείτε από τον φορέα σας για την αποστολή των δώρων</string>
-     <string name="gift_present_dlg_present_max_limit">Αυτό το θέμα έχει ήδη δοθεί ως δώρο %$1s φορές (αυτό είναι το όριο).</string>
+     <string name="gift_present_dlg_present_max_limit">Το θέμα δεν μπορεί να δοθεί ως δώρο πάνω από %1$s φορές.</string>
      <string name="gift_present_dlg_share">Δημιουργία κωδικού και κοινή χρήση δώρου</string>
      <string name="gift_present_fail_dlg_content">"Αδυναμία αποστολής αυτού του δώρου. "</string>
      <string name="gift_present_fail_dlg_title">Αδυναμία αποστολής δώρου</string>
