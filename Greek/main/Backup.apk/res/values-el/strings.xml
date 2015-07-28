@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abort_backup_confirm">"ο αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;"</string>
      <string name="account_contact_backup_info">Δεδομένα (Αντίγραφο πληροφοριών Mi και Gmail)</string>
      <string name="account_login">Είσοδος</string>
      <string name="account_summary">Δημιουργία αντιγράφων για τους λογαριασμούς Gmail E-mail και Mi</string>
      <string name="already_enable_encrypt">Η κρυπτογράφηση ενεργοποιήθηκε</string>
      <string name="app_name">Αντίγραφα</string>
+     <string name="apps_and_data_item_desc">Εφαρμογές και δεδομένα</string>
      <string name="auto_backup">Αυτόματα αντίγραφα</string>
      <string name="auto_backup_all_user_apps">Όλες οι εφαρμογές</string>
      <string name="auto_backup_choose">Αυτόματη δημιουργία αντιγράφων ασφαλείας</string>
@@ -30,6 +32,7 @@
      <string name="backup_file_error">Υπήρξε ένα πρόβλημα με το αρχείο η διεργασία δεν είναι σωστή.</string>
      <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
      <string name="backup_hint">Μην απενεργοποιήσετε το τηλέφωνο ίσως χάσετε δεδομένα</string>
+     <string name="backup_is_running">Λήψη αντιγράφου ασφαλείας συσκευής</string>
      <string name="backup_items_app_tailer">"  Δεδομένα εφαρμογών "</string>
      <string name="backup_items_sysdata_tailer">"  Δεδομένα συστήματος, "</string>
      <string name="backup_new">Νέο:</string>
@@ -46,6 +49,7 @@
      <string name="button_ok">Εντάξει</string>
      <string name="button_return">Πίσω</string>
      <string name="call_title">Μητρώο κλήσεων</string>
+     <string name="camera_summary">Ρυθμίσεις κάμερας (χωρίς τις φωτογραφίες)</string>
      <string name="cancel">Άκυρο</string>
      <string name="cancel_backup">Ακύρωση αντιγραφής</string>
      <string name="cancel_restore">Ακύρωση επαναφοράς</string>
@@ -65,14 +69,17 @@
      <string name="compute_delete_contact_info">Αναζήτηση για επαφές </string>
      <string name="contact_title">Επαφές</string>
      <string name="current_account">Συνδεδεμένο ως %s</string>
+     <string name="current_phone_location">Τηλέφωνο</string>
      <string name="current_sim">Κάρτα SIM</string>
-     <string name="data_no_enough_space">Δεν υπάρχει αρκετή εσωτερική μνήμη ελευθερώστε λίγο χώρο και δοκιμάστε ξανά</string>
+     <string name="custom_progress">%d στοιχεία</string>
+     <string name="data_item_desc">Δεδομένα</string>
      <string name="data_no_enough_space_message">Η εσωτερική μνήμη είναι μικρότερη από 30MB και η επαναφορά ίσως αποτύχει Θέλετε σίγουρα να συνεχίσετε </string>
      <string name="date_format">HH mm ss dd/MM/yyyy</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_backup_process">Διαγραφή αντιγράφου ασφαλείας παρακαλώ περιμένετε </string>
      <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
+     <string name="digit_percent">%</string>
      <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
      <string name="disable_encrypt_title">Η κρυπτογράφηση έχει απενεργοποιηθεί</string>
      <string name="enable_encrypt">Ενεργοποίηση τώρα</string>
@@ -83,9 +90,19 @@
      <string name="enable_encrypt_summery2">Το νέο αντίγραφο ασφαλείας θα είναι αυτομάτως κρυπτογραφημένο Θα πρέπει να συνδεθείτε στο λογαριασμό σας Mi κατά την αφαίρεση των δεδομένων ή με τη χρήση άλλων συσκευών για να επαναφέρετε το αντίγραφο ασφαλείας </string>
      <string name="enable_encrypt_title">Η κρυπτογράφηση ενεργοποιήθηκε</string>
      <string name="enable_encrypt_xiaomi_account">Αυτό το αντίγραφο ασφαλείας δημιουργήθηκε από %1$s παρακαλώ διαγράψτε τον τρέχοντα λογαριασμό και να συνδεθείτε στο %2$s, ώστε να επαναφέρετε τα δεδομένα </string>
+     <string name="err_authentication_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
+     <string name="err_bakfile_broken">"Αδυναμία χρήσης αυτού του αντιγράφου ασφαλείας."</string>
+     <string name="err_low_storage">Δεν υπάρχει αρκετός χώρος</string>
+     <string name="err_unknown">Άγνωστο σφάλμα</string>
+     <string name="err_version_too_old">Το αντίγραφο ασφαλείας είναι πολύ παλιό.</string>
+     <string name="err_version_unsupported">"Η έκδοση του αντιγράφου ασφαλείας δεν υποστηρίζεται."</string>
      <string name="every_day">Κάθε μέρα</string>
      <string name="exchange_account">Λογαριασμός Exchange</string>
      <string name="fail">Ανεπιτυχής δημιουργία αντιγράφων</string>
+     <string name="feature_title_account">Λογαριασμός</string>
+     <string name="feature_title_call_log">Ιστορικό κλήσεων</string>
+     <string name="feature_title_mms">MMS</string>
+     <string name="file_uploading">Αποστολή…</string>
      <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
      <string name="findlost_contact_online">Επαναφορά διαγραμμένων επαφών απ το Cloud</string>
      <string name="guarded_mode_dialog_message">Αδύνατη η χρήση της εφαρμογής στην λειτουργία προστασίας</string>
@@ -107,10 +124,18 @@
      <string name="mms_title">Μηνύματα πολυμέσων</string>
      <string name="multi_select_title">Επιλέχθηκαν %1$s αντικείμενα</string>
      <string name="never">Ποτέ</string>
+     <string name="new_backup">Αντίγραφο ασφαλείας</string>
      <string name="no_encrypt_password">Χωρίς κωδικό κρυπτογράφησης</string>
      <string name="no_network">"Σφάλμα δικτύου Παρακαλώ δοκιμάστε τις ρυθμίσεις δικτύου και προσπαθήστε πάλι"</string>
      <string name="note_title">Σημειώσεις</string>
      <string name="nothing_searched">Χωρίς αποτελέσματα δε βρέθηκε τίποτε</string>
+     <string name="notif_backup_complete_title">Επιτυχής δημιουργία αντιγράφου</string>
+     <string name="notif_backup_content">Λήψη αντιγράφου δεδομένων χρήστη</string>
+     <string name="notif_backup_title">Λήψη αντιγράφου δεδομένων</string>
+     <string name="notif_restore_complete_title">Επιτυχής επαναφορά</string>
+     <string name="notif_restore_content">Επαναφορά δεδομένων χρήστη</string>
+     <string name="notif_restore_title">Επαναφορά δεδομένων</string>
+     <string name="page_loading">Μισό λεπτό…</string>
      <string name="progress_backup_hint">Αντιγραφή </string>
      <string name="progress_restore_hint">Επαναφορά </string>
      <string name="prompt_reading">Ανάγνωση </string>
@@ -119,6 +144,7 @@
      <string name="read_encrypt_fail">Η ανάγνωση της κρυπτογράφηση απέτυχε</string>
      <string name="refresh">Ανανέωση</string>
      <string name="restore">Επαναφορά</string>
+     <string name="restore_backup">Επαναφορά</string>
      <string name="restore_contact">Επαναφορά επαφών</string>
      <string name="restore_contact_content">Η επαναφορά επαφών ίσως δημιουργήσει διπλότυπα είστε σίγουροι?/nΣημείωση: Μπορείτε να συγχωνεύσετε επαφές από τις ρυθμίσεις</string>
      <string name="restore_contacts_hit">(Σημείωση: θα πρέπει να επαναφέρετε χειροκίνητα τις Επαφές που έχουν καθοριστεί πριν από τον αρχικό λογαριασμό)</string>
@@ -126,12 +152,14 @@
      <string name="restore_data">Επαναφορά δεδομένων</string>
      <string name="restore_failed">Η επαναφορά απέτυχε!</string>
      <string name="restore_finished">Η επαναφορά ολοκληρώθηκε</string>
+     <string name="restore_is_running">Επαναφορά συσκευής</string>
      <string name="restore_launcher_layout_hit">(Σημείωση: αποθήκευση θέσης εικονιδίων)</string>
      <string name="restore_progress">Επαναφορά…</string>
      <string name="restore_report">Αναφορά επαναφοράς</string>
      <string name="restore_telephony_hit">(Σημείωση: Η διαδικασία ανάκαμψης θα επανεκκινήσει την εφαρμογή του τηλεφώνου)</string>
      <string name="retry">Επανάληψη</string>
      <string name="reverse_all">Εκκαθάριση όλων</string>
+     <string name="router_backup_hint">Κρατήστε τη συσκευή σας σε λειτουργία</string>
      <string name="sc_bad_request">Εσφαλμένο αίτημα</string>
      <string name="sc_internal_server_error">Εσωτερικό σφάλμα εξυπηρετητή</string>
      <string name="sc_network_unavailable">Σφάλμα σύνδεσης δικτύου</string>
@@ -145,8 +173,10 @@
      <string name="sdcard_no_enough_space">Δεν υπάρχει αρκετός χώρος στην κάρτα SD</string>
      <string name="sdcard_no_enough_space_message">Λίγος χώρος στην κάρτα SD το αντίγραφο ίσως να μη δημιουργηθεί θέλετε να συνεχίσετε</string>
      <string name="sdcard_unmounted">Δεν βρέθηκε κάρτα SD!</string>
+     <string name="see_backup_files_on_router">Δείτε τα αντίγραφα ασφαλείας στο Mi Router %s</string>
      <string name="select_all">Επιλογή όλων</string>
      <string name="select_backup_item">Επιλογή αντικειμένου</string>
+     <string name="select_storage_location">Επιλέξτε τη θέση αντιγράφων ασφαλείας</string>
      <string name="service_stoped">Η υπηρεσία σταμάτησε</string>
      <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και τηλεφώνου</string>
      <string name="sms_title">Μηνύματα</string>
@@ -158,7 +188,12 @@
      <string name="st_antispam_mode_smart_state">11111111</string>
      <string name="start_backup">Εκκίνηση δημιουργίας αντιγράφου ασφαλείας</string>
      <string name="start_restore">Επαναφορά</string>
+     <string name="state_waiting">Μισό λεπτό…</string>
      <string name="succeed">Επιτυχής δημιουργία αντιγράφων</string>
+     <string name="summary_err_backup_encrypting">Συνδεθείτε στο Mi λογαριασμό σας.</string>
+     <string name="summary_err_backup_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="summary_err_restore_encrypting">"Αδυναμία επαναφοράς. Βεβαιωθείτε ότι αυτό το αντίγραφο έγινε μέσω του Mi λογαριασμού σας."</string>
+     <string name="summary_err_restore_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="system_backup">Αντίγραφα</string>
      <string name="system_backup_info">Ρυθμίσεις συστήματος, διάταξη επιφ. εργασίας κτλ.</string>
      <string name="task_backup_cancel_progress">Ακύρωση αντιγράφου…</string>
@@ -166,12 +201,12 @@
      <string name="task_canceled">Ακυρώθηκε</string>
      <string name="task_canceled_all_local">Ακύρωση διεργασίας</string>
      <string name="task_canceled_local">Η διεργασία %1$s ακυρώθηκε</string>
-     <string name="task_cloud_backup_cancel_dialog">Το αντίγραφο δε δημιουργήθηκε ακόμη\nΠατήστε OK για ακύρωση</string>
+     <string name="task_cloud_backup_cancel_dialog">Το αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;</string>
      <string name="task_failed">Απέτυχε</string>
      <string name="task_failed_all_local">Αδυναμία δημιουργίας αντιγράφου</string>
      <string name="task_failed_local">Η διεργασία %1$s απέτυχε να ολοκληρωθεί</string>
      <string name="task_finished">Ολοκληρώθηκε</string>
-     <string name="task_local_backup_cancel_dialog">Το αντίγραφο δε δημιουργήθηκε ακόμη\nΠατήστε OK για ακύρωση</string>
+     <string name="task_local_backup_cancel_dialog">Το αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;</string>
      <string name="task_pending">Εκκρεμεί</string>
      <string name="task_post_running">Επεξεργασία</string>
      <string name="task_pre_running">Προετοιμασία</string>
@@ -194,4 +229,6 @@
      <string name="unknown_hint">Άγνωστο</string>
      <string name="wifi_title">Ρυθμίσεις Wi-Fi</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_router">Mi Router</string>
+     <string name="xiaomi_router_location">Mi Router %s</string>
 </resources>

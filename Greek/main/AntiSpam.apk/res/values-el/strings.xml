@@ -132,10 +132,13 @@
      <string name="log_count">(%d)</string>
      <string name="mark_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
+     <string name="mark_agent_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως αντιπρ. πωλήσεων</string>
      <string name="mark_fraud">Απάτη</string>
      <string name="mark_fraud_block">Αναφέρθηκε ως απάτη</string>
+     <string name="mark_fraud_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως απάτη</string>
      <string name="mark_harass">Παρενόχληση</string>
      <string name="mark_harass_block">Αναφέρθηκε ως παρενόχληση</string>
+     <string name="mark_harass_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως παρενόχληση</string>
      <string name="mark_number_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_number_fraud">Απάτη</string>
      <string name="mark_number_harass">Παρενόχληση</string>
@@ -149,6 +152,9 @@
      <string name="mark_number_setting_guide_title">Αποκλεισμός αναφερθέντων αριθμών</string>
      <string name="mark_sell">Τηλεπωλητής</string>
      <string name="mark_sell_block">Επισήμανση ως τηλεπωλητής</string>
+     <string name="mark_sell_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως τηλεπωλητές</string>
+     <string name="mark_time_setting_dialog_title">Ρυθμίσεις αναφερθέντων αριθμών</string>
+     <string name="mark_time_text">%d</string>
      <string name="marked_by_others">"%d άλλοι χρήστες το επισήμαναν ως "</string>
      <string name="marked_by_user">"το έχετε επισημάνει ως "</string>
      <string name="menu_add">Προσθήκη</string>
@@ -180,7 +186,13 @@
      <string name="note_sms_none">Χωρίς μήνυμα για επεξεργασία</string>
      <string name="one_address_choose_hint">%s1 τοποθεσία</string>
      <string name="open_callwait">Ενεργοποίηση</string>
+     <string name="quiet">Σίγαση</string>
+     <string name="quiet_important_interruptions_mode">Επέτρεψε μόνο τις εξαιρέσεις</string>
+     <string name="quiet_mode">Αθόρυβη λειτουργία</string>
+     <string name="quiet_off_mode">Κανονική λειτουργία</string>
      <string name="read_all_sms">Σήμανση όλων των μηνυμάτων ως αναγνωσμένα</string>
+     <string name="repeated_marked_number_summary">"Μην εμποδίζετε τη δεύτερη κλήση μέσα σε τρία λεπτά από τον ίδιο αριθμό"</string>
+     <string name="repeated_marked_number_title">"Μην εμποδίζετε τις επανειλημμένες κλήσεις από τους αριθμούς που αναφέρθηκαν"</string>
      <string name="report">Αναφορά</string>
      <string name="report_error">Λήξη χρονικού ορίου αναφοράς, παρακαλώ δοκιμάστε ξανά αργότερα</string>
      <string name="report_error_not_net">Δεν είστε συνδεδεμένοι με το δίκτυο, παρακαλώ δοκιμάστε ξανά αργότερα</string>
