@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="show_dev_countdown">
+        <item quantity="other">Απομένουν %1$d βήματα για να γίνετε προγραμματιστής VoIP.</item>
+        <item quantity="one">Απομένει %1$d βήμα για να γίνετε προγραμματιστής VoIP.</item>
+     </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">Απομένουν %1$d βήματα για να βγείτε από την λειτουργία προγραμματιστή VoIP.</item>
+        <item quantity="one">Απομένει %1$d βήμα για να βγείτε από την λειτουργία προγραμματιστή VoIP.</item>
+    </plurals>
+</resources>
