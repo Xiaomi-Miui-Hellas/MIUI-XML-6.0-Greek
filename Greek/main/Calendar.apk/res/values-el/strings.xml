@@ -117,6 +117,8 @@
   <string name="event_info_end">Τέλος\u0009\u0009\u0009</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Υπενθυμίσεις</string>
+  <string name="event_info_reminders_label_1">Υπενθύμιση</string>
+  <string name="event_info_reminders_label_more">Υπενθύμιση %d</string>
   <string name="event_info_repeat">"Επανάληψη: "</string>
   <string name="event_info_title">Προβολή γεγονότος</string>
   <string name="event_info_title_invite">Πρόσκληση σε ραντεβού</string>

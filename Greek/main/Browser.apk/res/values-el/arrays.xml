@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="bookmarks">
+     <string-array name="bookmarks">
         <item>Xiaomi-Miui Hellas</item>
         <item>https://xiaomi-miui.gr/</item>
         <item>Google</item>
-        <item>https://www.google.com/</item>
+        <item>http://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
@@ -25,75 +31,24 @@
         <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
+     </string-array>
+     <string-array name="menu_theme_setting">
         <item>Λευκό</item>
         <item>Κίτρινο</item>
         <item>Γκρι</item>
         <item>Καφέ</item>
         <item>Πράσινο</item>
         <item>Μπλε</item>
-    </string-array>
-    <string-array name="pre_webapp_text_sizes">
-        <item>Μεγαλύτερο</item>
-        <item>Μεγάλο</item>
-        <item>Κανονικό</item>
-        <item>Μικρό</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Πάντα ενεργά</item>
-        <item>Ρώτα πρώτα</item>
-        <item>Κλειστά</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Ποτέ</item>
-        <item>Μόνο σε Wi-Fi</item>
-        <item>Πάντα</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Μικρό</item>
-        <item>Μεσαίο</item>
-        <item>Μεγάλο</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Σελίδα μπροστά/πίσω</item>
-        <item>Εναλλαγή Παραθύρου</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
+     </string-array>
+     <string-array name="pref_homepage_choices">
         <item>Προκαθορισμένη σελίδα έναρξης</item>
         <item>Προσαρμοσμένη</item>
-    </string-array>
-    <string-array name="pref_images_preload_choices">
-        <item>Ποτέ</item>
-        <item>Μόνο σε Wi-Fi</item>
-        <item>Πάντα</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Ποτέ</item>
-        <item>Μόνο σε Wi-Fi</item>
-        <item>Πάντα</item>
-    </string-array>
-    <string-array name="pref_text_size_choices">
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
         <item>Μικρό</item>
         <item>Κανονικό</item>
         <item>Μεγάλο</item>
         <item>Πολύ Μεγάλο</item>
-    </string-array>
-    <string-array name="pref_text_zoom_choices">
-        <item>Πολύ μικρό</item>
-        <item>Μικρό</item>
-        <item>Κανονικό</item>
-        <item>Μεγάλο</item>
-        <item>Πολύ Μεγάλο</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Ποτέ</item>
-        <item>Μόνο σε Wi-Fi</item>
-        <item>Πάντα</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Προηγούμενη σελίδα/Επόμενη σελίδα</item>
-        <item>Προηγούμενη καρτέλα/Επόμενη καρτέλα</item>
-    </string-array>
+     </string-array>
 </resources>

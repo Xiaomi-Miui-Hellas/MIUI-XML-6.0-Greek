@@ -146,6 +146,10 @@ http://zhushou.xiaomi.com"</string>
      <string name="sina_share_success">Εστάλη</string>
      <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
      <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
+     <string name="sogou_uninstall_msg">Το πληκτρολόγιο Sogou (Mi Edition) δεν είναι πλέον συμβατό με το MIUI 6. Αλλάξτε πληκτρολόγιο ή αναβαθμίστε σε νεώτερη έκδοση του Sogou.</string>
+     <string name="sogou_uninstall_negative_button">Ενημέρωση Sogou</string>
+     <string name="sogou_uninstall_positive_button">Εναλλαγή πληκτρολογίων</string>
+     <string name="sogou_uninstall_title">Συμβατότητα πληκτρολογίου</string>
      <string name="space_not_enough_msg">Δεν υπάρχει αρκετός χώρος αποθήκευσης στη συσκευή σας για να κατεβάσετε αυτήν την ενημερωμένη έκδοση.</string>
      <string name="space_not_enough_title">Δεν υπάρχει αρκετός χώρος</string>
      <string name="stable_build">Σταθερή</string>

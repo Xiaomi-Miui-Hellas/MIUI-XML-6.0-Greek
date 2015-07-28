@@ -20,6 +20,9 @@
      <string name="confirm_location_alert">προσθήκη γεωγραφικών ετικετών</string>
      <string name="confirm_location_message">Προσθήκη ετικέτας στις φωτογραφίες και τα βίντεο με την τοποθεσία όπου λαμβάνονται;</string>
      <string name="confirm_location_title">Προσθήκη γεωγραφικών ετικετών</string>
+     <string name="confirm_recording_fail_calling_alert">"Δεν είναι δυνατή η εγγραφή κατά τη διάρκεια της κλήσης."</string>
+     <string name="confirm_recording_fail_recorder_busy_alert">"Μια άλλη εφαρμογή μπορεί ήδη να χρησιμοποιεί το μικρόφωνο της συσκευής για καταγραφή."</string>
+     <string name="confirm_recording_fail_title">"Αδυναμία εγγραφής"</string>
      <string name="confirm_restore_message">Επαναφορά προεπιλεγμένων ρυθμίσεων της κάμερας;</string>
      <string name="confirm_restore_title">Επαναφορά προεπιλογών</string>
      <string name="dialog_ok">OK</string>
