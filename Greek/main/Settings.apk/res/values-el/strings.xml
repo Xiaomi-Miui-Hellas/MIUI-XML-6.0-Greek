@@ -216,6 +216,12 @@
      <string name="background_data_dialog_message">Η απενεργοποίηση δεδομένων παρασκηνίου παρατείνει τη διάρκεια ζωής της μπαταρίας και μειώνει τη χρήση δεδομένων. Ορισμένες εφαρμογές μπορεί να εξακολουθούν να χρησιμοποιούν τη σύνδεση δεδομένων παρασκηνίου.</string>
      <string name="background_data_dialog_title">Απενεργοποίηση δεδομένων παρασκηνίου;</string>
      <string name="background_data_summary">Εφαρμογές μπορούν να συγχρονίσουν, να στείλουν και να λάβουν δεδομένα ανά πάσα στιγμή</string>
+     <string name="background_location_control_summary">"Επιτρέψετε ή εμποδίστε τις εφαρμογές από το να παίρνουν πληροφορίες γεωγραφικής θέσης της συσκευής σας στο παρασκήνιο"</string>
+     <string name="background_location_control_title">Πρόσβαση τοποθεσίας στο παρασκήνιο</string>
+     <string name="background_location_deselect_apps">Αποεπιλογή όλων</string>
+     <string name="background_location_requests_summary">"Επιτρέπεται στις εφαρμογές να χρησιμοποιούν την υπηρεσία τοποθεσίας όταν δεν τις χρησιμοποιείτε"</string>
+     <string name="background_location_requests_title">Ενεργοποίηση τοποθεσίας στο παρασκήνιο</string>
+     <string name="background_location_select_apps">Επιλογή όλων</string>
      <string name="background_process_stop_description">Αυτή είναι μια παλιά διαδικασία εφαρμογής που βρίσκεται ακόμη σε εξέλιξη, σε περίπτωση που χρειαστεί και πάλι. Συνήθως δεν υπάρχει λόγος να σταματήσει.</string>
      <string name="backup_configure_account_default_summary">Δεν έχετε λογαριασμό τώρα που να αποθηκεύει τα δεδομένα αντιγράφων ασφαλείας</string>
      <string name="backup_configure_account_title">Αποθήκευση λογαριασμού</string>
@@ -581,6 +587,7 @@
      <string name="common_settings">Απλές ρυθμίσεις</string>
      <string name="complete_settings">Πλήρεις ρυθμίσεις</string>
      <string name="computing_size">Υπολογισμός…</string>
+     <string name="config_charging_function_name">φόρτιση</string>
      <string name="config_list_label">Ρυθμισμένα δίκτυα</string>
      <string name="config_mass_storage_function_name">mass_storage</string>
      <string name="config_mtp_function_name">mtp</string>
@@ -1482,6 +1489,7 @@
      <string name="music_dirac_mode_general">Γενικά</string>
      <string name="music_dirac_mode_general_earbuds">Γενικά Ear-Buds</string>
      <string name="music_dirac_mode_general_inear">Γενικά In-Ear</string>
+     <string name="music_dirac_mode_headset">Ακουστικά Mi</string>
      <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
      <string name="music_dirac_mode_off">Απενεργοποίηση Dirac</string>
      <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -1489,6 +1497,7 @@
      <string name="music_dirac_mode_piston_2">Mi piston-2</string>
      <string name="music_dirac_mode_piston_basic">Βασική έκδοση</string>
      <string name="music_dirac_mode_piston_standard">Κανονική έκδοση</string>
+     <string name="music_dirac_mode_piston_youth">Έκδοση Youth</string>
      <string name="music_dolby_mode_movie">Ταινία</string>
      <string name="music_dolby_mode_music">Μουσική</string>
      <string name="music_dolby_mode_off">Ανενεργό</string>
@@ -1659,6 +1668,8 @@
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Κινητό σήμα</string>
      <string name="power_center">Τροφοδοσία</string>
+     <string name="power_hide_mode_summary">"Εξοικονομήστε μπαταρία, μέσω του περιορισμού των διεργασιών παρασκηνίου μεμονωμένων εφαρμογών, όπως WLAN, συνδέσεις δεδομένων κινητής και GPS"</string>
+     <string name="power_hide_mode_title">Διαχ. χρήσης μπαταρίας εφαρμογών</string>
      <string name="power_idle">Τηλέφωνο σε αδράνεια</string>
      <string name="power_mgr">Ενέργεια</string>
      <string name="power_mode">Λειτουργία ενέργειας</string>
@@ -2457,6 +2468,8 @@
      <string name="usage_type_video">Βίντεο</string>
      <string name="usage_type_wake_lock">Ενεργή συσκευή</string>
      <string name="usage_type_wifi_running">Wi-Fi σε λειτουργία</string>
+     <string name="usb_charging_summary">Απενεργοποιήστε όλα τα άλλα χαρακτηριστικά συνδέσεων USB για επιτάχυνση της φόρτισης.</string>
+     <string name="usb_charging_title">Επιτάχυνση φόρτισης</string>
      <string name="usb_connection_category">Σύνδεση ως</string>
      <string name="usb_host_mode_subtext">Για να χρησιμοποιήσετε ελεγκτές παιχνιδιών και άλλα περιφερειακά στη θύρα USB, μπορεί να μειώσει την διάρκεια ζωής της μπαταρίας</string>
      <string name="usb_host_mode_text">Ενεργοποίηση λειτουργίας υποδοχής USB</string>
@@ -2750,6 +2763,7 @@
      <string name="wifi_eap_ca_cert">Πιστοποιητικό CA</string>
      <string name="wifi_eap_identity">Ταυτότητα</string>
      <string name="wifi_eap_method">Μέθοδος EAP</string>
+     <string name="wifi_eap_sim_simcard">Επιλέξτε SIM</string>
      <string name="wifi_eap_user_cert">Πιστοποιητικό χρήστη</string>
      <string name="wifi_empty_list_user_restricted">Δεν έχετε άδεια για να αλλάξετε το δίκτυο Wi-Fi.</string>
      <string name="wifi_empty_list_wifi_off">Για προβολή διαθέσιμων δικτύων ενεργοποιήστε το Wi-Fi</string>

@@ -35,6 +35,8 @@
      <string name="app_update_background">Αναβαθμίστε την εφαρμογή σας στο παρασκήνιο</string>
      <string name="app_upgrade_version">Νέα έκδοση</string>
      <string name="app_version">Έκδοση Εφαρμογής</string>
+     <string name="app_wifi_mode">Αυτόματη αναβάθμιση με Wi-Fi</string>
+     <string name="app_wifi_mode_summary">Κατά τη λειτουργία Wi-Fi, να γίνεται αυτόματη αναβάθμιση στην πιο πρόσφατη έκδοση.</string>
      <string name="authenticated_failed">Αποτυχία εισόδου</string>
      <string name="authenticating">Επαλήθευση</string>
      <string name="authenticating_manually">Αποτυχία πιστοποίησης</string>
