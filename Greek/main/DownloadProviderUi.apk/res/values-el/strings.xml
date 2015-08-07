@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="DOWNLOAD_UNIT_BIT">B</string>
+     <string name="DOWNLOAD_UNIT_GB">GB</string>
+     <string name="DOWNLOAD_UNIT_KB">KB</string>
+     <string name="DOWNLOAD_UNIT_MB">MB</string>
+     <string name="DOWNLOAD_UNIT_TB">TB</string>
      <string name="Only_the_wifi">Χρήση μόνο με Wi-Fi</string>
      <string name="add_flow_fail_haveget_msg">Η δοκιμαστική περίοδος έληξε.</string>
      <string name="add_flow_fail_vip_msg">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
@@ -41,6 +46,7 @@
      <string name="disable">Απενεργοποίηση</string>
      <string name="display_expire_netiv1">Αυτό το μήνα</string>
      <string name="doc_filter">ΕΓΓΡΑΦΑ</string>
+     <string name="download">Λήψεις</string>
      <string name="download_complete">Ολοκληρώθηκε</string>
      <string name="download_error">Απέτυχε</string>
      <string name="download_error_insufficient_space">Ανεπαρκείς χώρος</string>
@@ -72,11 +78,15 @@
      <string name="download_title_sorted_by_size">Λήψεις - Κατά μέγεθος</string>
      <string name="download_wait_connect">Λήψη σε αναμονή σύνδεσης</string>
      <string name="download_when_network_connected">Λήψη με χρήση Δικτύου Κινητής</string>
+     <string name="downloaded_empty">Κενό</string>
+     <string name="downloading_empty">Κενό</string>
      <string name="downloads_operating">Σε λειτουργία…</string>
      <string name="dredge_xunlei_account">Δημιουργία λογαριασμού Xunlei</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
      <string name="editmode_menu_share">Κοινή χρήση</string>
      <string name="experience_xunlei_account_speed">Τα μέλη της Xunlei απολαμβάνουν γρήγορες ταχύτητες</string>
+     <string name="expire_notification_msg">Η συνδρομή Xunlei λήγει σύντομα.</string>
+     <string name="expire_today_notification_msg">Η συνδρομή Xunlei λήγει σήμερα.</string>
      <string name="free_high_speed_channel">Επιτάχυνση Xunlei (δωρεάν)</string>
      <string name="free_speedup_exp">Δωρεάν δοκιμή επιτάχυνσης λήψεων Xunlei</string>
      <string name="get_account_dialog_msg">Λήψη πληροφοριών λογαριασμού…</string>
@@ -98,6 +108,9 @@
      <string name="mi_money_">Mi Credits</string>
      <string name="missing_title">&lt;Άγνωστο</string>
      <string name="no_downloads">Χωρίς λήψεις</string>
+     <string name="no_vip_info">Αποκτήστε συνδρομή Xunlei για επιτάχυνση των λήψεων</string>
+     <string name="no_vip_show_info">"Επιταχύνετε τις λήψεις σας
+σε όλες τις συσκευές σας με την Xunlei"</string>
      <string name="one_month">Ένας μήνας</string>
      <string name="open_download">Άνοιγμα</string>
      <string name="open_xunlei_speed_service">Έναρξη υπηρεσίας επιτάχυνσης λήψεων Xunlei</string>
@@ -141,6 +154,15 @@
      <string name="select_all">Επιλογή Όλων</string>
      <string name="select_operation_items">Επιλέξτε στοιχεία</string>
      <string name="selected_count">Επιλέχθηκαν %1$d από %2$d</string>
+     <string name="show_more">Εμφάνιση %s περισσότερων</string>
+     <string name="start_xunlei_speedup_info">Συνδεθείτε για να επιταχύνετε τις λήψεις σας.</string>
+     <string name="third_web_cancel">Ακύρωση</string>
+     <string name="third_web_confirm">OK</string>
+     <string name="third_web_default">Ορισμός ως προεπιλεγμένη τοποθεσία</string>
+     <string name="third_web_filename_hint">Όνομα</string>
+     <string name="third_web_filesize">Μέγεθος</string>
+     <string name="third_web_savepath">Τοποθεσία</string>
+     <string name="third_web_title">Αποθήκευση</string>
      <string name="toast_xunlei_engine_open">Ενεργοποίηση επιτάχυνσης λήψεων Xunlei</string>
      <string name="turn_off_xunlei_message">Μπορεί να έχετε αργή ταχύτητα λήψεων</string>
      <string name="turn_off_xunlei_tips">Η επιτάχυνση της Xunlei είναι ανενεργή</string>
@@ -149,6 +171,12 @@
      <string name="unbind_xunlei_success">Έξοδος από το λογαριασμό Xunlei</string>
      <string name="valid_in_this_month">Ισχύει μόνο αυτό το μήνα</string>
      <string name="vip_auto_speedup">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
+     <string name="vip_expire_show_info">"Η συνδρομή Xunlei membership έληξε.
+Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
+     <string name="vip_expire_today_show_info">"Η συνδρομή Xunlei membership έληξε.
+Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
+     <string name="vip_show_info">"5 εκατομμύρια μέλη.
+Επιταχύνετε τις λήψεις σας σε όλες τις συσκευές σας."</string>
      <string name="xunlei_brand">Powered by Xunlei</string>
      <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
      <string name="xunlei_close_tips_button">Ενεργοποίηση</string>

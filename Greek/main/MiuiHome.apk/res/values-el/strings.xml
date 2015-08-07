@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
+     <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
      <string name="app_being_backup_message">Η εφαρμογή γίνεται backup.</string>
+     <string name="app_being_restored_message">Η εφαρμογή θα αποκατασταθεί</string>
      <string name="app_category_books">Βιβλία</string>
      <string name="app_category_education">Εκπαίδευση</string>
      <string name="app_category_entertainment">Διασκέδαση</string>
@@ -37,6 +39,7 @@
      <string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>
      <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
      <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
+     <string name="choose_theme">Θέμα</string>
      <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
      <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
      <string name="cloud_app_restore_title">Σε αναμονή</string>
@@ -50,9 +53,11 @@
      <string name="default_folder_title_security">Ασφάλεια</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
+     <string name="default_theme_name">Προεπιλεγμένο</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
      <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
+     <string name="deselect_all">Αποεπιλογή όλων</string>
      <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
      <string name="download_action">Λήψη</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -106,6 +111,7 @@
      <string name="gadget_photo_24_label">Κορνίζα 4x2</string>
      <string name="gadget_photo_44_label">Κορνίζα 4x4</string>
      <string name="gadget_photo_label">Εικόνα</string>
+     <string name="gadget_power_clear_button_label">Βαθύς καθαρισμός</string>
      <string name="gadget_search_label">Αναζήτηση</string>
      <string name="gadget_weather_app_not_installed">Κλικ για εγκατάσταση του MIUI weather</string>
      <string name="gadget_weather_aqi_title">Ποιότητα αέρα</string>
@@ -185,8 +191,14 @@
      <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
      <string name="preferences_title">Ρυθμίσεις Launcher</string>
      <string name="process" />
+     <string name="recommend_apps_default_title">Κενό</string>
+     <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
+     <string name="recommend_apps_switch_summary">Εμφάνιση συνιστώμενων εφαρμογών στο κάτω μέρος της οθόνης.</string>
+     <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
+     <string name="recommend_apps_tips">"Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου."</string>
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
      <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
+     <string name="select_all">Επιλογή όλων</string>
      <string name="select_frame">Κάδρο</string>
      <string name="select_photo">Φωτογραφία</string>
      <string name="setting_wallpaper_tip">Μετακίνηση ή/και αλλαγή κλίμακας</string>
@@ -229,6 +241,7 @@
      <string name="wallpaper">Ταπετσαρία</string>
      <string name="wallpaper_failed_message">Αδυναμία εφαρμογής ταπετσαρίας</string>
      <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
+     <string name="wallpaper_settings_for_pad">Ταπετσαρία</string>
      <string name="wallpaper_success_message">Επιτυχής εφαρμογή ταπετσαρίας</string>
      <string name="widget_favorite_contacts_edit">Επεξεργασία</string>
      <string name="widget_favorite_contacts_label">Αγαπημένες επαφές</string>

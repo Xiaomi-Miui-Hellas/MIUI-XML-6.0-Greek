@@ -239,9 +239,14 @@
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
      <string name="mx_dspt_provision_privacy">"Αυτή η υπηρεσία μπορεί να ζητήσει τον αριθμό του τηλεφώνου σας. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.
 Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές ΜΙ."</string>
+     <string name="mx_dspt_provision_privacy_2_sim">"Για αυτή την λειτουργία, μπορεί να απαιτηθεί ο αριθμός τηλεφώνου σας. Ο φορέας σας μπορεί να σας χρεώσει για δύο μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της λειτουργίας.
+
+Αυτή η λειτουργία κρυπτογραφεί και στέλνει το ID της συσκευής σας στους διακομιστές της Mi."</string>
      <string name="mx_dspt_provision_with_voip">Καλέστε άλλους χρήστες MIUI δωρεάν, με χρήση της σύνδεσής σας στο Internet. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.</string>
+     <string name="mx_dspt_provision_with_voip2">Πολιτική Απορρήτου</string>
      <string name="mx_sub_dspt_provision">Mi Message</string>
      <string name="mx_sub_dspt_provision_with_voip">Κλήσεις μέσω διαδικτύου</string>
+     <string name="mx_voip_dspt">Mi VoIP</string>
      <string name="next">Επόμενο</string>
      <string name="noRemind">Μην μου το θυμίζεις</string>
      <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
@@ -332,7 +337,6 @@
      <string name="verify">Επαλήθευση</string>
      <string name="view_storage_title">Χώρος αποθήκευσης</string>
      <string name="voip_choose_sim">Επιλέξτε τον αριθμό τηλεφώνου για να ενεργοποιήσετε το Mi Voice</string>
-     <string name="voip_dspt">Mi Voice</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>

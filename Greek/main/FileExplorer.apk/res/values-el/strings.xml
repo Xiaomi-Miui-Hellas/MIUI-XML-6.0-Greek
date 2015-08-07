@@ -7,6 +7,7 @@
      <string name="adding_upload_tasks">Πρόσθεση εργασίας…</string>
      <string name="already_signin_description">"Είστε ήδη συνδεδεμένος."</string>
      <string name="app_name">Αρχεία</string>
+     <string name="archive_send_to">Αποστολή σε…</string>
      <string name="background">Μεταφόρτωση στο παρασκήνιο</string>
      <string name="big5_summary">Παραδοσιακή κινεζική Windows κωδικοποίηση</string>
      <string name="big5_title">BIG5</string>
@@ -24,10 +25,11 @@
      <string name="category_default_number_text">(0)</string>
      <string name="category_document">Έγγραφα</string>
      <string name="category_favorite">Αγαπημένα</string>
-     <string name="category_log">Ημερολόγιο</string>
+     <string name="category_file">Αρχεία</string>
      <string name="category_music">Μουσική</string>
      <string name="category_other">Διάφορα</string>
      <string name="category_picture">Εικόνες</string>
+     <string name="category_recent">Πρόσφατα</string>
      <string name="category_theme">Θέματα</string>
      <string name="category_type_document">Έγγραφα</string>
      <string name="category_type_meida">Πολυμέσα</string>
@@ -57,6 +59,7 @@
      <string name="data_capacity">Διαθ χώρος %1$s</string>
      <string name="decompress_cancel">Άκυρο</string>
      <string name="decompress_confirm">Αποσυμπίεση </string>
+     <string name="decompress_destination_error">"Αποτυχία αποσυμπίεσης: αδύνατη η εξαγωγή των αρχείων εδώ."</string>
      <string name="decompress_fail">Αποτυχία αποσυμπίεσης: αρχείο κατεστραμμένο ή ένα αρχείο με το ίδιο όνομα υπάρχει ήδη.</string>
      <string name="decompress_success">Αποσυμπιέστηκε επιτυχώς</string>
      <string name="decompress_to">Αποσυμπίεση…</string>
@@ -86,6 +89,7 @@
      <string name="error_filename_too_long">Πολύ μεγάλο όνομα αρχείου.</string>
      <string name="error_info_cant_send_folder">Αυτός ο τύπος αρχείου δεν υποστηρίζεται.</string>
      <string name="error_open_file_failed_no_app_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια.</string>
+     <string name="expand_all">Όλα</string>
      <string name="fail_to_create_folder">Αποτυχία δημιουργίας φακέλου: δεν υπάρχει αρκετός χώρος ή ο φάκελος υπάρχει ήδη.</string>
      <string name="fail_to_create_folder_unknown">Αποτυχία δημιουργίας φακέλου.</string>
      <string name="fail_to_rename">Απέτυχε η μετονομασία του φακέλου ή αρχείου επειδή υπάρχει ήδη</string>
@@ -101,11 +105,13 @@
      <string name="file_info_modified">Τροποποίηση :</string>
      <string name="file_info_size">Μέγεθος :</string>
      <string name="file_loading">Φορτώνει…</string>
+     <string name="file_name_invalid">"Τα ονόματα των αρχείων δεν μπορούν να περιέχουν τους παρακάτω χαρακτήρες: /\\:*?&lt;>"</string>
      <string name="file_not_exist">το αρχείο δεν υπάρχει</string>
      <string name="file_too_large">Αποτυχία αποστολής: πολύ μεγάλο αρχείο.</string>
      <string name="files">Αρχεία</string>
      <string name="finished">Ολοκληρώθηκε</string>
      <string name="folder_exist">Ο φάκελος ήδη υπάρχει</string>
+     <string name="folder_name_empty">Το όνομα φακέλου δεν μπορεί να είναι κενό</string>
      <string name="folder_name_illegal">μη έγκυρο όνομα φακέλου</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Άγγιξε&lt;/a>να πάει στον κάδο ανακύκλωσης</string>
      <string name="ftp_account_req_notice">8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών)</string>
@@ -121,6 +127,7 @@
      <string name="gbk_title">GBK</string>
      <string name="get_cloud_space">Προσθέστε 500GB</string>
      <string name="gigabyteShort">GB</string>
+     <string name="group_title">%2$s από %1$s</string>
      <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP Client </string>
      <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
      <string name="kilobyteShort">KB</string>
@@ -167,6 +174,7 @@
      <string name="migrate_announcement_title">Ολοκλήρωση μετεγκατάστασης</string>
      <string name="mobile_photo">Φωτογραφίες τηλεφώνου</string>
      <string name="mobile_photo_desc" />
+     <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Αδυναμία αποκοπής</string>
      <string name="multi_select_title">%1$s επιλέχθηκαν</string>
      <string name="my_app">Δεδομένα εφαρμογών</string>
@@ -196,7 +204,7 @@
      <string name="my_photo_desc" />
      <string name="my_video">βίντεο</string>
      <string name="my_video_desc" />
-     <string name="name_illegal">Δώστε ένα όνομα</string>
+     <string name="name_empty">Πρέπει να εισάγετε ένα όνομα.</string>
      <string name="net_lose_connected">Η σύνδεση χάθηκε</string>
      <string name="networkView_notConnected">Μη διαθέσιμο δίκτυο.</string>
      <string name="network_connect_confirm_des">Η εφαρμογή χρειάζεται να συνδεθεί με το Internet για να λειτουργήσει κανονικά.</string>
@@ -220,6 +228,7 @@
      <string name="open_file_failed">αποτυχία ανοίγματος</string>
      <string name="operate_confirm_in_3g">Χρήση της σύνδεσης δεδομένων κινητής για λήψη αυτού το μεγάλου αρχείου;</string>
      <string name="operating">Επεξεργασία…</string>
+     <string name="operation_add_fav">Προσθήκη στα αγαπημένα…</string>
      <string name="operation_agree">Αποδοχή &amp; Συνέχεια</string>
      <string name="operation_cancel">Άκυρο</string>
      <string name="operation_compress">Συμπίεση</string>
@@ -230,6 +239,7 @@
      <string name="operation_create_folder">Νέος Φάκελος</string>
      <string name="operation_create_folder_message">Εισαγωγή ονόματος φακέλου</string>
      <string name="operation_decompressing">Αποσυμπίεση </string>
+     <string name="operation_del_fav">Αφαίρεση από τα αγαπημένα…</string>
      <string name="operation_delete">Διαγραφή</string>
      <string name="operation_delete_confirm_message">Επιβεβαίωση Διαγραφής </string>
      <string name="operation_delete_confirm_message_folder">"Με τη διαγραφή του φακέλου θα διαγραφούν και τα αρχεία του 
@@ -260,13 +270,18 @@
      <string name="paused">Διακόπηκε</string>
      <string name="petabyteShort">PB</string>
      <string name="phone">Τηλέφωνο</string>
+     <string name="port_range">Η θύρα πρέπει να είναι μεταξύ 1024–65535</string>
      <string name="pull_to_signin">Σύρετε προς τα κάτω για να συνδεθείτε.</string>
      <string name="release_to_signin">Απελευθέρωση σύνδεσης</string>
+     <string name="rename_alert">"Εάν αλλάξετε την επέκταση αυτού του αρχείου, ίσως να μην μπορείτε να το ανοίξετε."</string>
      <string name="rename_description">Μετονομασία…</string>
      <string name="rename_failed">Αποτυχία μετονομασίας %1$s</string>
      <string name="sd_card_available">Διαθέσιμα: %1$s</string>
      <string name="sd_card_size">Κάρτα SD: %1$s</string>
      <string name="sd_full">"Ο εσωτερικός χώρος της συσκευής σας είναι γεμάτος"</string>
+     <string name="sdcard">Κάρτα SD</string>
+     <string name="sdcard_available">Διαθέσιμα %1$s</string>
+     <string name="sdcard_total">Σύνολο %1$s</string>
      <string name="search_hint">Αναζήτηση</string>
      <string name="search_title">Αναζήτηση</string>
      <string name="send_to_midrive">KuaiPan</string>
@@ -297,10 +312,15 @@
      <string name="sys_size_enable">" διαθέσιμα"</string>
      <string name="system_alert">Υπενθύμιση</string>
      <string name="tab_category">Κατηγορίες</string>
-     <string name="tab_expand">Expand</string>
+     <string name="tab_expand">Ανάπτυξη</string>
      <string name="tab_local">Τοπικά</string>
+     <string name="tab_more">Περισσότερα</string>
      <string name="tab_path">ΦΑΚΕΛΟΙ</string>
+     <string name="tab_source">Εφαρμογές</string>
+     <string name="tab_storage">ΑΠΟΘΗΚΕΥΣΗ</string>
      <string name="terabyteShort">TB</string>
+     <string name="title_more_source">Περισσότερες εφαρμογές</string>
+     <string name="title_recent">Πρόσφατα</string>
      <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="tools">Εργαλεία</string>
      <string name="trans_task">Δίκτυο μεταφοράς</string>
@@ -318,7 +338,7 @@
      <string name="ui_main_toast_operation_failed">Αποτυχία αγαπημένου %1$s</string>
      <string name="unmount_inform_text">Αποσύνδεση USB χώρου;</string>
      <string name="upload_failed">Αποτυχία αποστολής</string>
-     <string name="upload_file_toolarge_message">%1$d απέτυχαν στην αποστολή: Μη \u0009 στέλνετε αρχεία μεγαλύτερα από 300M.</string>
+     <string name="upload_file_toolarge_message">%1$d απέτυχαν στην αποστολή: Μη \u0009 στέλνετε αρχεία μεγαλύτερα από 300Mb.</string>
      <string name="uploading">Αποστολή…</string>
      <string name="usb_label">USB</string>
      <string name="used">Σε χρήση</string>
@@ -338,7 +358,9 @@
      <string name="wait_wifi">Αναμονή για Wi-Fi…</string>
      <string name="waiting">Αναμονή…</string>
      <string name="wangpan_root_path">Kuaipan</string>
+     <string name="wechat_video">Βίντεο %s</string>
      <string name="wifi_state">Κατάσταση Wi-Fi</string>
      <string name="xiaomi_account">Λογαριασμός Mi</string>
+     <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Ναι</string>
 </resources>

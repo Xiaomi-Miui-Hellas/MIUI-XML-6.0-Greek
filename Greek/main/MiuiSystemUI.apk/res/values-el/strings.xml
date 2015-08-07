@@ -44,6 +44,8 @@
      <string name="accessibility_wimax_signal_full">Τέλειο σήμα WiMAX.</string>
      <string name="accessibility_wimax_three_bars">Τρεις γραμμές WiMAX.</string>
      <string name="accessibility_wimax_two_bars">Μια γραμμή WiMAX.</string>
+     <string name="activate_usb_message">Για να ενεργοποιήσετε αυτή τη λειτουργία, τοποθετήστε την κάρτα SIM.</string>
+     <string name="activate_usb_title">Ενεργοποίηση USB</string>
      <string name="always_use_accessory">Χρήση προεπιλογών για αυτό το αξεσουάρ USB</string>
      <string name="always_use_device">Χρήση προεπιλογών για αυτή τη συσκευή USB</string>
      <string name="app_label">Γραμμή κατάστασης</string>
@@ -146,6 +148,8 @@
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Απόρριψη κλήσης</string>
      <string name="return_to_incall_screen">Κάντε κλικ για επιστροφή στην κλήση</string>
+     <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα Home και Power ταυτόχρονα.</string>
+     <string name="screen_button_notification_title">Τα πλήκτρα πλοήγησης είναι ανενεργά</string>
      <string name="screenshot_failed_text">Αδύνατη η αποθήκευση του στιγμιότυπου. Ο αποθ.χώρος ενδέχεται να βρίσκεται σε χρήση.</string>
      <string name="screenshot_saved_text">Αγγίξτε για να δείτε το στιγμιότυπο.</string>
      <string name="screenshot_saved_title">Αποθηκευμένο στιγμιότυπο</string>
@@ -195,6 +199,7 @@
      <string name="usb_debugging_title">Επιτρέπεται η αποσφαλμάτωση USB;</string>
      <string name="usb_device_confirm_prompt">Άνοιγμα του %1$s όταν συνδέετε αυτή η USB συσκευή;</string>
      <string name="usb_device_permission_prompt">Επιτρέπετε στην εφαρμογή %1$s να έχει πρόσβαση στη συσκευή USB;</string>
+     <string name="usb_function_charging_text">Συνδεδεμένο σε λειτουργία φόρτισης</string>
      <string name="usb_mode_dont_ask">Να θυμάσαι την επιλογή μου</string>
      <string name="usb_mode_mount_storage_title">Σύνδεση εξ.χώρου USB;</string>
      <string name="usb_mode_notification">Εξ.χώρος USB</string>

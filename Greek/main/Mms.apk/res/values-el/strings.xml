@@ -59,6 +59,10 @@
      <string name="chenghu_disable_mms">Δεν μπορείτε να χρησιμοποιήσετε ψευδώνυμα στα MMS</string>
      <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
      <string name="close">Κλείσιμο</string>
+     <string name="cloud_recommend_msg">Πατήστε για να συγχρονίσετε τα μηνύματα με το Mi Cloud.</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
+     <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cloud_state_syncing">Συγχρονισμός με Mi Cloud…</string>
      <string name="compressing">Η εικόνα είναι πολύ μεγάλη. Συμπίεση…</string>
      <string name="confirm">OK</string>
      <string name="confirm_add_blacklist_dialog_dspt">Προσθήκη αυτού του αριθμού στην λίστα φραγών;</string>
@@ -243,6 +247,7 @@
      <string name="message_too_big_for_video">Το μήνυμα είναι πολύ μεγάλο για να επισυνάψετε βίντεο.</string>
      <string name="message_type_label">"Τύπος: "</string>
      <string name="messagelist_sender_self">Εγώ</string>
+     <string name="mipub_messaging_entry_title">Mi Message</string>
      <string name="mms">MMS</string>
      <string name="move_down">Μετακίνηση προς τα κάτω</string>
      <string name="move_up">Μετακίνηση προς τα πάνω</string>
@@ -257,6 +262,7 @@
      <string name="multimedia_notification">Ειδοποίηση μηνύματος πολυμέσων</string>
      <string name="mx2_type_description">[%s]</string>
      <string name="mx_activate_dlg_title">Ενεργοποίηση Mi Message</string>
+     <string name="mx_activate_dlg_title_ex">Ενεργοποίηση Mi Message &amp; Voice</string>
      <string name="mx_activate_error_malformed_info">Χρειάζεται να ενεργοποιήσετε ξανά το Mi message.</string>
      <string name="mx_activate_error_server">Αδυναμία ενεργοποίησης</string>
      <string name="mx_activate_error_sim_change">Φαίνεται ότι έχετε αλλάξει κάρτα SIM. Χρειάζεται να ενεργοποιήσετε ξανά το Mi message.</string>
@@ -267,7 +273,6 @@
      <string name="mx_activate_int_hint_malformed_info">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_server">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message</string>
      <string name="mx_activate_int_hint_sim_change">Φαίνεται ότι έχετε αλλάξει κάρτα SIM. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για να ενεργοποιήσετε ξανά το Mi Message.</string>
-     <string name="mx_activate_user_agreement_p1">"Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με το Mi Message "</string>
      <string name="mx_auto_resend_mms">Αποστολή ως MMS</string>
      <string name="mx_auto_resend_mms_summary">Αποστολή ως MMS μέσω σύνδεσης δεδομένων κινητής τηλεφωνίας όταν δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi. Θα επιβαρυνθείτε με τις τακτικές χρεώσεις του φορέα σας.</string>
      <string name="mx_auto_resend_sms">Αποστολή ως SMS</string>
@@ -278,7 +283,10 @@
      <string name="mx_current_status">Τρέχουσα κατάσταση: Συνδεδεμένος</string>
      <string name="mx_dspt">Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS</string>
      <string name="mx_dspt_provision">Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.</string>
+     <string name="mx_dspt_provision_ex">"Στείλτε μηνύματα και κάντε κλήσεις σε άλλους χρήστες MIUI χωρίς επιβάρυνση από το φορέα σας. Το VoIP υποστηρίζεται από το Weihui. Δείτε την πολιτική απορρήτου του Weihui."</string>
+     <string name="mx_dspt_provision_ex2">Πολιτική Απορρήτου</string>
      <string name="mx_enable">Mi Message</string>
+     <string name="mx_enable_ex">Mi Message &amp; Voice</string>
      <string name="mx_enable_popup_msg">Το Mi message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS</string>
      <string name="mx_msg">Mi Message</string>
      <string name="mx_offline">Αποσυνδεδεμένος</string>
@@ -434,6 +442,7 @@
      <string name="search_show_more_results">Δείτε περισσότερα</string>
      <string name="secs">δευτερόλεπτα</string>
      <string name="security_alert_desc">"Ο αποστολέας δεν είναι στις επαφές σας. "<u><font color="red">Αναφορά αυτού του αριθμού</font></u></string>
+     <string name="security_alert_desc_highlight">Αναφορά αυτού του αριθμού</string>
      <string name="security_alert_dialog_desc">Αναφορά αυτού του αριθμού (%s) και του μηνύματος, αποστέλλοντας τα στην Xiaomi για έλεγχο.</string>
      <string name="security_alert_dialog_title">Αναφορά</string>
      <string name="select_audio">Επιλογή ήχου</string>

@@ -24,6 +24,22 @@
         <item quantity="few">%d στοιχεία</item>
         <item quantity="many">%d στοιχεία</item>
      </plurals>
+     <plurals name="items_file">
+        <item quantity="other"> (%1$d στοιχεία)</item>
+        <item quantity="zero"> (%1$d στοιχεία)</item>
+        <item quantity="one"> (%1$d στοιχείο)</item>
+        <item quantity="two"> (%1$d στοιχεία)</item>
+        <item quantity="few"> (%1$d στοιχεία)</item>
+        <item quantity="many"> (%1$d στοιχεία)</item>
+     </plurals>
+     <plurals name="items_picture">
+        <item quantity="other"> (%1$d στοιχεία)</item>
+        <item quantity="zero"> (%1$d στοιχεία)</item>
+        <item quantity="one"> (%1$d στοιχείο)</item>
+        <item quantity="two"> (%1$d στοιχεία)</item>
+        <item quantity="few"> (%1$d στοιχεία)</item>
+        <item quantity="many"> (%1$d στοιχεία)</item>
+     </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">%1$d επιλεγμένα</item>
         <item quantity="zero">%1$d επιλεγμένα</item>

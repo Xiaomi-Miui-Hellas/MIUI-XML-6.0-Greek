@@ -23,6 +23,8 @@
      <string name="handy_mode_title">Λειτουργία με ένα χέρι</string>
      <string name="key_btn_ok">OK</string>
      <string name="key_btn_space">Space</string>
+     <string name="location_usage_restricted_body">Πατήστε για άρση των περιορισμών.</string>
+     <string name="location_usage_restricted_title">Το ιστορικό τοποθεσίας περιορίστηκε</string>
      <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
      <string name="lockscreen_access_pattern_cleared">Το μοτίβο ακυρώθηκε</string>
      <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
@@ -33,6 +35,8 @@
      <string name="paste">Επικόλληση</string>
      <string name="perm_send_push_dspt">Επέτρεψε την αυτόματη αποστολή μηνυμάτων Mi</string>
      <string name="perm_send_push_lab">Αποστολή αυτόματου μηνύματος</string>
+     <string name="permdesc_manageLocationPolicy">Επιτρέπει στην εφαρμογή να διαχειρίζεται τις πολιτικές σχετικά με την τοποθεσία και να καθορίζει ειδικούς κανόνες εφαρμογών.</string>
+     <string name="permlab_manageLocationPolicy">Διαχείριση πολιτικής εντοπισμού</string>
      <string name="reboot_confirm_title">Το τηλέφωνό σας θα επανεκκινήσει.</string>
      <string name="reboot_progress">Επανεκκίνηση…</string>
      <string name="replace">Αντικατάσταση</string>

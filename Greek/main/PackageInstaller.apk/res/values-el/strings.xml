@@ -8,6 +8,10 @@
      <string name="app_name">Εγκατάσταση πακέτου</string>
      <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα των εγκατεστημένων εφαρμογών.</string>
      <string name="app_not_found_dlg_title">Η εφαρμογή δεν βρέθηκε</string>
+     <string name="app_store_install_hint">Εγκατάσταση τώρα</string>
+     <string name="app_store_installing_message">Εγκατάσταση…</string>
+     <string name="app_store_missing_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκατάσταση τώρα;"</string>
+     <string name="app_store_missing_title">"Το App Store δεν έχει εγκατασταθεί"</string>
      <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέψτε την αυτόματη έναρξη;"</string>
      <string name="button_text_cancel">Ακύρωση</string>
      <string name="button_text_delete">Διαγραφή</string>
@@ -72,6 +76,7 @@
      <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
      <string name="permission_send_sms_descx">Η εφαρμογή μπορεί να στέλνει SMS και MMS</string>
      <string name="privacy_relative">Δικαιώματα απορρήτου</string>
+     <string name="reboot_time">Προετοιμασία για επανεκκίνηση… (%1$s)</string>
      <string name="safe_guard_support">Τεχνική υποστήριξη που παρέχεται από %1$s</string>
      <string name="safe_relative">Ασφαλής δικαιώματα</string>
      <string name="security_settings_desc">Αφήστε αυτήν την εφαρμογή να:</string>
