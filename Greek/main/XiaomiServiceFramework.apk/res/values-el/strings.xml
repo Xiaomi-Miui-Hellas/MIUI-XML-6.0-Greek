@@ -6,16 +6,22 @@
      <string name="activate_feature_find_device">Αναζήτηση συσκευής</string>
      <string name="activate_feature_mms_sync">Συγχρονισμός SMS</string>
      <string name="activate_feature_mx">Δωρεάν μηνύματα Cloud</string>
+     <string name="activate_feature_mx_and_voip">Mi Message και Voice</string>
      <string name="activate_phone_failed_notif_title">Δεν ήταν δυνατή η ενεργοποίηση της κάρτας SIM</string>
      <string name="activate_phone_failed_notif_title_msim">Δεν ήταν δυνατή η ενεργοποίηση της κάρτας SIM %s</string>
+     <string name="activate_popup_confirm_all_gateway_failed_query_info">Επανάληψη</string>
+     <string name="activate_popup_confirm_all_gateway_failed_send_sms">επανάληψη</string>
      <string name="activate_popup_confirm_failed_phone_error">Επανάληψη</string>
      <string name="activate_popup_confirm_failed_query_info">Επανάληψη</string>
      <string name="activate_popup_confirm_failed_receive_sms">Επανάληψη</string>
      <string name="activate_popup_confirm_failed_send_sms">Επανάληψη αποστολής</string>
      <string name="activate_popup_confirm_failed_server">Επανάληψη</string>
-     <string name="activate_popup_confirm_upload_diagnosis_info">Αποστολή αναφοράς</string>
      <string name="activate_popup_desc_2_intl_sim_cards">2 διεθνή SMS θα σταλούν να ενεργοποιήσετε την κάρτα SIM, ώστε να καταστεί δυνατή η χρήση χαρακτηριστικών όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>
      <string name="activate_popup_desc_2_sim_cards">2 SMS θα σταλούν να ενεργοποιήσετε τις 2 κάρτες SIM, ώστε να καταστεί δυνατή η χρήση χαρακτηριστικών όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>
+     <string name="activate_popup_desc_all_gateway_failed_query_info">"Αδυναμία εύρεσης του τηλεφωνικού σας αριθμού. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.
+Εισάγετε τον αριθμό τηλεφώνου που σχετίζεται με τη νέα κάρτα SIM για την επανενεργοποίηση του %s"</string>
+     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Αδυναμία αποστολής SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί
+Εισάγετε τον αριθμό τηλεφώνου που σχετίζεται με τη νέα κάρτα SIM για την επανενεργοποίηση του %s"</string>
      <string name="activate_popup_desc_failed_phone_error">Η μορφή του αριθμού τηλεφώνου δεν είναι έγκυρη.</string>
      <string name="activate_popup_desc_failed_query_info">Αδυναμία λήψης του αριθμού τηλεφώνου σας. Παρακαλούμε βεβαιωθείτε ότι η κάρτα SIM είναι ενεργή.</string>
      <string name="activate_popup_desc_failed_receive_sms">Παρακαλούμε ελέγξτε τον αριθμό που έχετε εισάγει, και εξασφαλίστε ότι η κάρτα SIM είναι ενεργή.</string>
@@ -34,9 +40,10 @@
      <string name="activate_popup_desc_register_account_intl">Ένα διεθνές SMS θα σταλεί για την εγγραφή στο λογαριασμό σας</string>
      <string name="activate_popup_desc_sim_card">Ένα SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM, ώστε να καταστεί δυνατή η χρήση χαρακτηριστικών όπως %s (ισχύουν χρεώσεις της εταιρείας)</string>
      <string name="activate_popup_desc_sim_card_downlink">Παρακαλώ εισάγετε τον αριθμό της κάρτας SIM, ώστε να καταστεί δυνατή η χρήση χαρακτηριστικών όπως %s</string>
-     <string name="activate_popup_desc_upload_diagnosis_info">"Αδυναμία ενεργοποίησης κάρτας SIM. Παρακαλώ σκεφτείτε την περίπτωση αποστολής διαγνωστικών πληροφοριών για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. (ID αναφοράς : %s)"</string>
-     <string name="activate_popup_link_diagnosis_detail">Ποια προσωπικά στοιχεία θα συμπεριληφθούν;</string>
-     <string name="activate_popup_title_diagnosis_detail">Πληροφορίες Διάγνωσης</string>
+     <string name="activate_popup_desc_voip_privacy">Πολιτική Απορρήτου</string>
+     <string name="activate_popup_desc_voip_privacy_prefix">". Το VoIP υποστηρίζεται από το Weihui. Δείτε την "</string>
+     <string name="activate_popup_title_all_gateway_failed_query_info">"Αδυναμία εύρεσης του αριθμού"</string>
+     <string name="activate_popup_title_all_gateway_failed_send_sms">"Αδυναμία αποστολής μηνύματος SMS"</string>
      <string name="activate_popup_title_failed_phone_error">Λάθος αριθμός τηλεφώνου</string>
      <string name="activate_popup_title_failed_query_info">Η ενεργοποίηση απέτυχε</string>
      <string name="activate_popup_title_failed_receive_sms">Η ενεργοποίηση απέτυχε</string>
@@ -45,7 +52,7 @@
      <string name="activate_popup_title_manual">Ενεργοποίηση %s</string>
      <string name="activate_popup_title_new_sim_card">Eπανενεργοποίηση %s</string>
      <string name="activate_popup_title_register_account">Εγγραφή λογαριασμού</string>
-     <string name="activate_popup_title_upload_diagnosis_info">"Αδυναμία ενεργοποίησης κάρτας SIM"</string>
+     <string name="activate_sms_postfix">Αυτό το SMS χρησιμοποιείται για την ενεργοποίηση της Mi συσκευής σας.</string>
      <string name="activate_status_desc_acquire_phone_number">Αναζήτηση αριθμού τηλεφώνου από το διακομιστή</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Παρουσιάστηκε σφάλμα στο διακομιστή κατά την αναζήτηση του αριθμού τηλεφώνου</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Αδυναμία εύρεσης του αριθμού τηλεφώνου</string>

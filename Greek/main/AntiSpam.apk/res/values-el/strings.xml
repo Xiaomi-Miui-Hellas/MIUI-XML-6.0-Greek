@@ -187,6 +187,7 @@
      <string name="one_address_choose_hint">%s1 τοποθεσία</string>
      <string name="open_callwait">Ενεργοποίηση</string>
      <string name="quiet">Σίγαση</string>
+     <string name="quiet_group">Αθόρυβη λειτουργία</string>
      <string name="quiet_important_interruptions_mode">Επέτρεψε μόνο τις εξαιρέσεις</string>
      <string name="quiet_mode">Αθόρυβη λειτουργία</string>
      <string name="quiet_off_mode">Κανονική λειτουργία</string>
@@ -202,6 +203,7 @@
      <string name="report_warning">Αναφορά %1$s SMS στη Mi; Αυτά τα μηνύματα και οι αριθμοί τηλεφώνου από τους οποίους στάλθηκαν, θα φορτωθούν στους διακομιστές Mi για επανεξέταση. Οποιεσδήποτε προσωπικές πληροφορίες που σχετίζονται με αυτά τα μηνύματα, παραμένουν πάντα ανώνυμες.</string>
      <string name="report_warning_title">Αναφορά SMS</string>
      <string name="sim_not_ready">Η κάρτα SIM δεν είναι έτοιμη</string>
+     <string name="sim_not_ready_toast">Η κάρτα SIM δεν είναι έτοιμη. Η ρύθμιση απέτυχε</string>
      <string name="sms_delete_hint">Διαγραφή των φραγμένων μηνυμάτων αυτού του αριθμού;</string>
      <string name="sms_delete_title">Διαγραφή Μηνύματος</string>
      <string name="sms_smart_engine_update">Αυτόματη ενημέρωση φίλτρου SMS</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_fraud_num_online_identification">Σχετικά με την φραγή τηλεπωλητών</string>
+     <string name="about_phone_event">Πληροφορίες σχετικά με την υπηρεσία</string>
      <string name="about_smart_antispam_summary">Σχετικά με αυτό το χαρακτηριστικό</string>
      <string name="about_telephone_fraud">Προσέχετε για απάτες</string>
      <string name="account_address">Διευθύνσεις</string>
@@ -78,6 +79,7 @@
      <string name="express_addressee_info">Πληροφορίες Παραλήπτη</string>
      <string name="express_addressee_name">Όνομα παραλήπτη</string>
      <string name="express_addressee_region">Περιοχή παραλήπτη</string>
+     <string name="express_banner_header">%1$s / Αριθμός εντοπισμού</string>
      <string name="express_cancel_order">Ακύρωση</string>
      <string name="express_company_list_empty">Δεν υπάρχουν εταιρείες</string>
      <string name="express_company_phone_prefix">Επικοινωνία:</string>
@@ -132,12 +134,10 @@
      <string name="express_no_order">Καμία παραγγελία</string>
      <string name="express_no_order_info">Δεν υπάρχουν πληροφορίες παραγγελίας</string>
      <string name="express_order_confirmation">Επιβεβαίωση της παραγγελίας</string>
-     <string name="express_order_created_time">Ώρα παραγγελίας</string>
      <string name="express_order_failed">Απέτυχε</string>
-     <string name="express_order_info">Πληροφορίες παραγγελίας</string>
-     <string name="express_order_internal_id">Αριθμός παραγγελίας</string>
      <string name="express_order_ongoing">Παραγγελία…</string>
      <string name="express_order_result">Αποτέλεσμα</string>
+     <string name="express_order_state">%1$s / %2$s</string>
      <string name="express_order_state_accepted">Αποδεκτή</string>
      <string name="express_order_state_allograph">Υπογράφτηκε</string>
      <string name="express_order_state_cancelled">Ακυρώθηκε</string>
@@ -176,6 +176,8 @@
      <string name="express_view_status">Προβολή κατάστασης</string>
      <string name="expresss_inquiry_all_logistics">Όλα</string>
      <string name="expresss_inquiry_frequently_used_logistics">Κοινό</string>
+     <string name="follow_label">Ακολουθήστε %1$s</string>
+     <string name="follow_success">Μην ακολουθείτε %1$s.</string>
      <string name="fraud_number_online_identification">Αποκλεισμός τηλεπωλητών(απαιτείται σύνδεση στο Internet)</string>
      <string name="gallery">Άλμπουμ</string>
      <string name="general_btn_follow">Ακολουθήστε</string>
@@ -185,9 +187,7 @@
      <string name="general_delete_recent_ok">Διαγράφτηκαν πρόσφατα</string>
      <string name="general_favorite_ok">Αγαπημένο προστέθηκε</string>
      <string name="general_favorite_title">Αγαπημένα</string>
-     <string name="general_follow_hint">"Όταν ακολουθείτε %1$s, μπορείτε να λαμβάνετε ειδοποιήσεις από %1$s, και να πάρετε περισσότερες υπηρεσίες από %1$s.
-
-Επιβεβαιώστε ότι θέλετε να  ακολουθείτε αυτή τη σελίδα"</string>
+     <string name="general_follow_hint">Ακολουθήστε το %1$s, για να λαμβάνετε σχετικές ενημερώσεις</string>
      <string name="general_follow_hint_title">Συμβουλή</string>
      <string name="general_menu_delete_recent">Διαγραφή πρόσφατων</string>
      <string name="general_menu_unfavorite">Διαγραφή από τα αγαπημένα</string>
@@ -259,17 +259,17 @@
      <string name="no_price">Καμία πληροφορία τιμής</string>
      <string name="notify_connect_summary">Ερώτηση για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
      <string name="notify_connect_title">Ειδοποίηση σύνδεσης στο Internet</string>
-     <string name="order_date_label">Ημερομηνία αγοράς:</string>
+     <string name="order_date_label">Ημερομηνία αγοράς: %1$s</string>
      <string name="order_detail">Λεπτομέρειες</string>
      <string name="order_empty_hint">Δεν υπάρχουν παραγγελίες</string>
-     <string name="order_id_label">Αριθμός Παραγγελίας:</string>
+     <string name="order_id_label">Παραγγελία: %1$s</string>
+     <string name="order_info">Πληροφορίες παραγγελίας</string>
      <string name="order_merchant_title">Οι παραγγελίες μου</string>
      <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Δεν βρέθηκε σχετική παραγγελία</string>
-     <string name="order_price_label">Συνολικό πληρωτέο ποσό:</string>
-     <string name="order_product_name_label">"Όνομα Προϊόντος: "</string>
-     <string name="order_status">%s</string>
-     <string name="order_status_label">Κατάσταση παραγγελίας:</string>
+     <string name="order_price_label">Τιμή παραγγελίας: %1$s</string>
+     <string name="order_product_name_label">Όνομα Προϊόντος: %1$s</string>
+     <string name="order_status_label">Κατάσταση παραγγελίας: %1$s</string>
      <string name="order_type_recharge">Ανανέωση</string>
      <string name="packages_no_package">Δεν υπάρχουν συνιστώμενα πακέτα</string>
      <string name="packages_pay">Αγορά</string>
@@ -285,6 +285,7 @@
      <string name="payment_failed_common_problems">Παρουσιάστηκε σφάλμα κατά την πληρωμή</string>
      <string name="payment_unknown_status_summary">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</string>
      <string name="payment_unknown_status_title">Δεν ήταν δυνατή η επιβεβαίωση της κατάστασης πληρωμής</string>
+     <string name="phone_event_setting_notice_text">"Ο Χρυσός Οδηγός θέλει να φορτώσει τους επαληθευμένους αριθμούς υπηρεσιών (όπως το φορέα σας παροχής υπηρεσιών κινητής) στους διακομιστές Mi, έτσι ώστε να μπορείτε να λαμβάνετε ενημερώσεις σχετικές με τις υπηρεσίες."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d συνολικά</string>
      <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
@@ -295,6 +296,7 @@
      <string name="recharge_actual_price">Τιμή:</string>
      <string name="recharge_charge_range">Τιμή: RMB %1$s-%2$s</string>
      <string name="recharge_charge_value">Τιμή: RMB %s</string>
+     <string name="recharge_follow_name">Επαναφόρτιση</string>
      <string name="recharge_history">Ιστορικό επαναφορτίσεων</string>
      <string name="recharge_history_empty">Δεν υπάρχει ιστορικό</string>
      <string name="recharge_input_phone_title">Εισάγετε τον αριθμό τηλεφώνου (China Mobile, China Unicom, ή η China Telecom)</string>
@@ -312,6 +314,7 @@
      <string name="recharge_payment_result_ok_title">Προστέθηκαν RMB %s</string>
      <string name="recharge_payment_result_progress_summary">Έλεγχος αποτελέσματος πληρωμής…</string>
      <string name="recharge_phone">Αριθμός για επαναφόρτιση:</string>
+     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Ο αριθμός τηλεφώνου που εισαγάγατε δεν μπορεί να είναι κενός</string>
      <string name="recharge_phone_number_error">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
      <string name="recharge_select_money_title">Επιλέξτε αξία επαναφόρτισης</string>
@@ -328,6 +331,7 @@
      <string name="remind_user_confirm">OK</string>
      <string name="remind_user_suspect_number_message">Προσοχή: Θα πρέπει να επαληθεύετε πάντα την ταυτότητα της επαφής για πρώτη φορά από το τηλέφωνο ή το βίντεο πριν απαντήσετε σε μηνύματα που αφορούν τις προσωπικές σας πληροφορίες.</string>
      <string name="remind_user_suspect_number_title">Ύποπτος αριθμός</string>
+     <string name="rmb">RMB</string>
      <string name="scan">Σάρωση</string>
      <string name="select_package_before_buy">Επιλογή πακέτου</string>
      <string name="send_shortcut_failed">Αδυναμία αποστολής</string>
@@ -347,6 +351,8 @@
      <string name="toast_finish_delete_call_log">Αρχείο κλήσεων διαγράφτηκε</string>
      <string name="toast_text_copied">Το κείμενο αντιγράφτηκε</string>
      <string name="try_again">Προσπαθήστε ξανά</string>
+     <string name="turn_on_phone_event_summary">Αποστολή κατάστασης τηλεφώνου και αριθμών υπηρεσιών</string>
+     <string name="turn_on_phone_event_title">Λήψη πληροφοριών υπηρεσίας</string>
      <string name="turn_on_smart_antispam_hint">Αναγνώριση κλήσης από άγνωστους αριθμούς με τη χρήση της βάσης δεδομένων της Mi</string>
      <string name="turn_on_smart_antispam_summary_off">Αναζήτηση μόνο σε αριθμούς που είναι αποθηκευμένους στην συσκευή</string>
      <string name="turn_on_smart_antispam_summary_on">Ανέβασμα και εντοπισμός άγνωστων αριθμών στα αρχεία κλήσεων και μηνυμάτων κειμένου</string>
@@ -371,5 +377,4 @@
      <string name="yellowpage_navigation_network_location_enabled">Η πρόσβαση στην τοποθεσία σας είναι ενεργή. Μπορείτε να την απενεργοποιήσετε ανά πάσα στιγμή στις Ρυθμίσεις.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_summary">Βελτίωση των αποτελεσμάτων αναζήτησης, επιτρέποντας στον Χρυσό Οδηγό την πρόσβαση σε πληροφορίες για την τοποθεσίας σας.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_title">Πρόσβαση στην τοποθεσία</string>
-     <string name="yuan">Yuan</string>
 </resources>

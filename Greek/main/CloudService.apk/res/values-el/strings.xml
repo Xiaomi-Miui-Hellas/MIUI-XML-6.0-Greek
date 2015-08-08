@@ -46,8 +46,6 @@
      <string name="cloud_space_upgrade_message">Πατήστε για να προσθέσετε %sGB στο cloud σας</string>
      <string name="cloud_space_upgrade_no_quota_info">Αποτυχία φόρτωσης. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="cloud_space_upgrade_title">Περισσότερος χώρος για το Mi Cloud</string>
-     <string name="cloud_sync_setting_summary_standard">Χρησιμοποιείστε τη σύνδεση δεδομένων κινητής τηλεφωνίας για να συγχρονίσετε SMS, πληροφορίες επαφών και αρχεία καταγραφής κλήσεων. Χρησιμοποιήστε Wi-Fi για να συγχρονίσετε φωτογραφίες, βίντεο, μηνύματα MMS, δεδομένα εφαρμογών, φωτογραφίες προφίλ επαφών και πολλά άλλα.</string>
-     <string name="cloud_sync_setting_summary_wlan">Συγχρονισμός μόνο σε σύνδεση Wi-Fi</string>
      <string name="cloudservice_new_sync">Συγχρονισμός %s με το Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Χρησιμοποιήστε το Mi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>
      <string name="contact">Επαφές</string>
@@ -250,7 +248,6 @@
      <string name="next">Επόμενο</string>
      <string name="noRemind">Μην μου το θυμίζεις</string>
      <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
-     <string name="only_in_wlan">Χρήση μόνο Wi-Fi</string>
      <string name="other_settings">Άλλες ρυθμίσεις</string>
      <string name="password">Εισάγετε τον κωδικό σας</string>
      <string name="phone_number_may_required_dspt_provision">"Αυτή η υπηρεσία μπορεί να σας ζητήσει τον αριθμό του τηλεφώνου σας. "</string>
@@ -309,8 +306,6 @@
      <string name="sync_off">Ανενεργό</string>
      <string name="sync_on">Ενεργό</string>
      <string name="sync_resend_sms_dspt_provision">. Αν αλλάξετε κάρτα SIM, ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την επανενεργοποίηση της υπηρεσίας.</string>
-     <string name="sync_setting">Ρυθμ.συγχρονισμού</string>
-     <string name="sync_standard">Συγχρονίστε τα μικρά πράγματα</string>
      <string name="sync_sub_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_1_sms">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
      <string name="sync_sub_1_sms_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 1 εγχώριο και 1 διεθνές 1 μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>

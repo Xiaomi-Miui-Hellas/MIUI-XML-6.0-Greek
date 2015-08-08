@@ -16,6 +16,7 @@
      <string name="adjust_position_prev_media_notice">Προηγούμενο</string>
      <string name="ads_control">Έλεγχος διαφημίσεων</string>
      <string name="ads_control_desc">Εμφάνιση διαφημίσεων κατά την έναρξη της εφαρμογής</string>
+     <string name="ads_ignore">Παράβλεψη</string>
      <string name="airkan_control_device_des">Μπορείτε να ελέγξετε την αναπαραγωγή βίντεο μέσω του πλήκτρου κάτω</string>
      <string name="airkan_device_xiaomi_phone">Μi</string>
      <string name="airkan_playing">casting</string>

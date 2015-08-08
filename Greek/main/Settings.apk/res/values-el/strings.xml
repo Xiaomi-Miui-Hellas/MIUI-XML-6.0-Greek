@@ -1934,6 +1934,7 @@
      <string name="runningservices_settings_title">Υπηρεσίες που εκτελούνται</string>
      <string name="scan_list_label">Αποτέλεσμα σάρωσης:</string>
      <string name="screen">Οθόνη</string>
+     <string name="screen_color_and_optimize">Χρώματα &amp; αντίθεση</string>
      <string name="screen_color_temperature">Θερμοκρασία χρώματος</string>
      <string name="screen_color_temperature_and_saturation">Θερμοκρασία χρώματος &amp; κορεσμός</string>
      <string name="screen_compatibility_label">Συμβατότητα οθόνης</string>

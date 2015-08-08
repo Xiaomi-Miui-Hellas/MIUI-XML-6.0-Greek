@@ -117,6 +117,8 @@
      <string name="cloud_folder_chooser_move">Διαγραφή εικόνων από το αρχικό άλμπουμ</string>
      <string name="cloud_gallery_recyclebin_full">Ο κάδος είναι πλήρης, παρακαλούμε να αδειάσετε τον κάδο ανακύκλωσης με την επίσκεψη στο i.xiaomi.com.</string>
      <string name="cloud_gallery_space_full">Η αποστολή απέτυχε !, Ο αποθ. χώρος στο Cloud είναι γεμάτος</string>
+     <string name="cloud_gallery_space_full_buy_more">"Αδυναμία συγχρονισμού νέων φωτογραφιών με το Mi Cloud. Για να συγχρονίσετε περισσότερες φωτογραφίες, αγοράστε επιπλέον αποθηκευτικό χώρο."</string>
+     <string name="cloud_gallery_space_full_title">Το Mi Cloud είναι γεμάτο</string>
      <string name="cloud_media_set_set">Στο Cloud</string>
      <string name="cloud_owner_album_share_guide">Μπορείτε να μοιράσετε το Mi Cloud άλμπουμ με φίλους.</string>
      <string name="cloud_screenshots_display_name">Στιγμιότυπα οθόνης</string>
@@ -132,8 +134,6 @@
      <string name="comfirm_delete_current_album">Διαγραφή του τρέχοντος άλμπουμ;</string>
      <string name="comma">, </string>
      <string name="confirm">ΟΚ</string>
-     <string name="confirm_all_photo_are_this_people_face">Συσχέτιση όλων των φωτογραφιών με %s;</string>
-     <string name="confirm_all_photo_not_this_people_face">Χωρίς αποτελέσματα για %s;</string>
      <string name="confirm_delete">Διαγραφή %s φωτογραφιών;</string>
      <string name="confirm_delete_has_cloud_image_video">Διαγραφή %s στοιχείων σε cloud;</string>
      <string name="confirm_delete_has_cloud_local_image_video">Διαγραφή %s στοιχείων σε &lt;β> τοπικό και cloud &lt;/ b>;</string>
@@ -144,8 +144,6 @@
      <string name="confirm_download_video_message">Το βίντεο απαιτεί λήψη! Η λήψη θα συνεχίσει όταν βρεθεί διαθέσιμο δίκτυο Wi-Fi.</string>
      <string name="confirm_download_video_title">Λήψη βίντεο</string>
      <string name="confirm_face">Ταυτοποίηση</string>
-     <string name="confirm_left_photo_will_move_in">"%s δεν είναι σε καμία από τις υπόλοιπες φωτογραφίες;"</string>
-     <string name="confirm_left_photo_will_move_out">"%s δεν είναι σε καμία από τις υπόλοιπες φωτογραφίες;"</string>
      <string name="confirm_merge_face_albums">" "<Data> Συγχώνευση αυτού του άλμπουμ με &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>; </Data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<Data> Συγχώνευση αυτών των άλμπουμ με %s; </Data>" "</string>
      <string name="confirm_not_face">Δεν είναι αυτό το άτομο</string>
@@ -199,6 +197,8 @@
      <string name="download_fail">Αποτυχία λήψης!</string>
      <string name="download_fail_confirm_continue">Η λήψη %s απέτυχε. Συνέχεια;</string>
      <string name="download_refocus_data">Λήψη δεδομένων επανεστιασμού</string>
+     <string name="download_without_wifi_msg">"Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε φωτογραφίες, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα."</string>
+     <string name="download_without_wifi_title">Προειδοποίηση Χρήση δεδομένων</string>
      <string name="duotone">Δίχρωμο</string>
      <string name="duration">Διάρκεια</string>
      <string name="early_bird">Earlybird</string>
@@ -238,6 +238,7 @@
      <string name="external_usb_device_hm">Εξωτερική συσκευή USB</string>
      <string name="face_album">Άνθρωποι</string>
      <string name="face_album_long_tap_tip">Για να επιλέξετε πολλά πρόσωπα ή να αλλάξετε τις ρυθμίσεις της ομάδας, πατήστε &amp; κρατήστε μια εικόνα προφίλ</string>
+     <string name="face_album_new_name_hint">Νέο όνομα</string>
      <string name="face_album_not_named">Χωρίς όνομα</string>
      <string name="face_album_rename_hint">Εισάγετε το όνομα</string>
      <string name="face_albumset_detecting_tip">Μισό λεπτό…</string>
@@ -245,6 +246,7 @@
      <string name="face_albumset_loading_data">Φόρτωση δεδομένων…</string>
      <string name="face_albumset_pending_enable_tip">Οι φωτογραφίες θα ταξινομηθούν όταν η συσκευή συνδεθεί σε Wi-Fi</string>
      <string name="face_albumset_use_tip">Χρησιμοποιήστε την ανίχνευση προσώπου για να ταξινομήσετε τις φωτογραφίες από τους ανθρώπους που βρίσκονται σε αυτές</string>
+     <string name="face_choose_tip">Επιλέξτε από τα υπάρχοντα άλμπουμ</string>
      <string name="face_move_dialog_title">Επιλέξτε ένα άλμπουμ</string>
      <string name="facelift">Υφή δέρματος</string>
      <string name="facetan">Μαύρισμα</string>
@@ -292,6 +294,17 @@
      <string name="home_page_tab_face">Πρόσωπο</string>
      <string name="home_page_tab_local">Τοπικό</string>
      <string name="home_page_tab_photo">Φωτογραφίες</string>
+     <string name="hue_polymorphism">photoeditor_effect_hue</string>
+     <string name="hybrid_check_network">Ρυθμίσεις δικτύου</string>
+     <string name="hybrid_data_error">Παρουσιάστηκε σφάλμα</string>
+     <string name="hybrid_locating_fail">"Αδυναμία εύρεσης της τοποθεσίας σας"</string>
+     <string name="hybrid_network_access_denied">Δεν επιτρέπετε η πρόσβαση στο δίκτυο</string>
+     <string name="hybrid_network_unavaliable">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="hybrid_pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
+     <string name="hybrid_pull_to_refresh_refreshing_label">Μισό λεπτό…</string>
+     <string name="hybrid_pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
+     <string name="hybrid_service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
+     <string name="hybrid_try_again">Προσπαθήστε ξανά</string>
      <string name="ignore_album">Αγνοήστε</string>
      <string name="ignore_alert_title">"Να μην εμφανίζεται αυτό το άλμπουμ;"</string>
      <string name="ignore_face">Αγνοήστε αυτό το άτομο</string>
@@ -482,6 +495,8 @@
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Αναγνώριση εικόνας…</string>
+     <string name="recommanded_face_abandon_tip">Αφαιρέθηκε από τις προτάσεις</string>
+     <string name="recommanded_face_added_tip">Προστέθηκε στο \"%s\"</string>
      <string name="redeye">Κόκκινα μάτια</string>
      <string name="redeye_tooltip">Αγγίξτε για την αφαίρεση των κόκκινων ματιών</string>
      <string name="refocus_data_downloading">Λήψη δεδομένων επανεστιασμού…</string>
@@ -630,6 +645,7 @@
      <string name="unpublish_succeeded">Αδημοσίευτα άλμπουμ!</string>
      <string name="unpublishing">Ακύρωση δημοσίευσης, παρακαλώ περιμένετε…</string>
      <string name="untagged">Χωρίς ετικέτα</string>
+     <string name="upgrade_micloud_space">Αποκτήστε περισσότερο χώρο</string>
      <string name="user_alias_self">Ο εαυτός μου</string>
      <string name="video_err">Αδύνατη η αναπαραγωγή βίντεο.</string>
      <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>

@@ -46,6 +46,8 @@
      <string name="account_user_using_facebook_avatar">Χρήση εικόνας προφίλ από Facebook</string>
      <string name="account_user_using_qq_avatar">Χρήση εικόνας προφίλ από QQ</string>
      <string name="account_user_using_weibo_avatar">Χρήση εικόνας προφίλ από Sina Weibo</string>
+     <string name="account_vip_level">Λογαριασμός</string>
+     <string name="account_vip_task">Πρόοδος</string>
      <string name="account_xiaomi_service">Υπηρεσίες</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
      <string name="alert_title_remove_account">Διαγραφή λογαριασμού;</string>
@@ -106,16 +108,15 @@
      <string name="error_ssl_hand_shake">Σφάλμα σύνδεσης με το διακομιστή. Προσπαθήστε να ρυθμίσετε την τρέχουσα ώρα και ημερομηνία στο σύστημά σας.</string>
      <string name="error_unknown">Άγνωστο σφάλμα</string>
      <string name="error_user_name">Μη έγκυρο όνομα χρήστη</string>
+     <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο Λογαριασμό Mi.</string>
      <string name="facebook">facebook</string>
      <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο λογαριασμό Mi</string>
-     <string name="failed_get_mibi_info">Αδυναμία ανάκτησης υπολοίπου</string>
      <string name="find_password_on_web_msg">Παρακαλώ επισκεφθείτε το account.mi.com για επαναφορά του κωδικού σας.</string>
      <string name="forget_password"><u>Ξεχάσατε τον κωδικό σας;</u></string>
      <string name="get_back_pwd">Ανάκτηση κωδικού πρόσβασης</string>
      <string name="get_device_list_failed">Αδυναμία λήψης συσκευών</string>
      <string name="get_email_verifycode_exceed_limit">Έχουν σταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτή την διεύθυνση email. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
      <string name="get_phone_verifycode_exceed_limit">Έχουν σταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτή τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
-     <string name="hide_mibi_info">Οι πληροφορίες νομισμάτων Mi είναι αθέατες</string>
      <string name="input_captcha_hint">εισάγετε τον κωδικό</string>
      <string name="input_password_hint">Εισάγετε τον κωδικό</string>
      <string name="input_vcode_hint">Εισάγετε κωδικό επαλήθευσης</string>
@@ -123,7 +124,6 @@
      <string name="license_host_unreachable">Αδυναμία σύνδεσης με το δίκτυο. Για να δείτε αυτές τις πληροφορίες, μεταβείτε στο %s.</string>
      <string name="loading">Φόρτωση…</string>
      <string name="loading_micloud_sync_data">Φόρτωση…</string>
-     <string name="loading_mili_center">Φόρτωση…</string>
      <string name="login">Είσοδος</string>
      <string name="login_failed">Αδυναμία σύνδεσης</string>
      <string name="login_instead_reg">Χρήση αυτού του αριθμού</string>
@@ -133,8 +133,7 @@
      <string name="logout_failed">Αδυναμία αποσύνδεσης</string>
      <string name="mi_account_dspt_provision">Συνδεθείτε στο Mi Cloud, MIUI Themes Store, και στις άλλες υπηρεσίες Mi services με ένα λογαριασμό.</string>
      <string name="mi_account_identity_title">Επιβεβαιώστε την ταυτότητα σας</string>
-     <string name="mi_support_service">Υποστήριξη</string>
-     <string name="mibi_balance">%s νομίσματα Mi</string>
+     <string name="mi_pass">Mi Pass</string>
      <string name="micloud_account_name">Λογαριασμός Mi</string>
      <string name="micloud_area_code_title">Κωδικός χώρας/περιοχής</string>
      <string name="micloud_delete_account">Αποσύνδεση</string>
@@ -352,6 +351,7 @@
      <string name="vcode_prompt_long">Εισάγετε τον κωδικό επαλήθευσης από την γεννήτρια ασφαλείας Mi</string>
      <string name="verification_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
      <string name="verify">Επαλήθευση</string>
+     <string name="vip_level_value">LV%d</string>
      <string name="wipe_data_dialog_msg">%s στοιχεία θα διαγραφούν αν συνεχίσετε.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">Ορισμένα στοιχεία δεν έχουν συγχρονιστεί</string>

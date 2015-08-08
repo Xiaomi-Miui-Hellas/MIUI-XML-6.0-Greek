@@ -111,6 +111,8 @@
      <string name="notification_sent">Bluetooth: Εστάλη %1$s</string>
      <string name="notification_sent_complete">100% πλήρες</string>
      <string name="notification_sent_fail">Bluetooth: Το αρχείο %1$s δεν στάλθηκε</string>
+     <string name="notify_device_lose_connection_text">Η σύνδεση με %1$s έχει χαθεί για μεγάλο χρονικό διάστημα. Κάντε κλικ για αποσύνδεση.</string>
+     <string name="notify_device_lose_connection_title">Χάθηκε η σύνδεση με την συσκευή %1$s</string>
      <string name="notify_server">Ειδοποίηση διακομιστή TCP</string>
      <string name="ok_button">ΟΚ</string>
      <string name="outbound_history_title">Εξερχόμενες μεταφορές</string>
@@ -147,6 +149,10 @@
      <string name="transfer_menu_clear">Εκκαθάριση από τη λίστα</string>
      <string name="transfer_menu_clear_all">Εκκαθάριση λίστας</string>
      <string name="transfer_menu_open">Άνοιγμα</string>
+     <string name="unbind_device_alert_cancel">Ακύρωση</string>
+     <string name="unbind_device_alert_content">Η σύνδεση με την συσκευή %1$s έχει χαθεί για μεγάλο χρονικό διάστημα. Αν την αποσυνδέσετε θα βελτιωθεί η επίδοση. Θέλετε να την αποσυνδέσετε;</string>
+     <string name="unbind_device_alert_ok">OK</string>
+     <string name="unbind_device_alert_title">Αποσύνδεση συσκευής</string>
      <string name="unknownName">Άγνωστο όνομα</string>
      <string name="unknownNumber">Άγνωστος</string>
      <string name="unknown_device">Άγνωστη συσκευή</string>
