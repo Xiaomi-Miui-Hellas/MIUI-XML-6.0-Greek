@@ -198,7 +198,7 @@
      <string name="download_fail_confirm_continue">Η λήψη %s απέτυχε. Συνέχεια;</string>
      <string name="download_refocus_data">Λήψη δεδομένων επανεστιασμού</string>
      <string name="download_without_wifi_msg">"Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε φωτογραφίες, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα."</string>
-     <string name="download_without_wifi_title">Προειδοποίηση Χρήση δεδομένων</string>
+     <string name="download_without_wifi_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="duotone">Δίχρωμο</string>
      <string name="duration">Διάρκεια</string>
      <string name="early_bird">Earlybird</string>

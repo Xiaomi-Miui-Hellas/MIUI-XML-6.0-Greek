@@ -52,7 +52,6 @@
      <string name="activate_popup_title_manual">Ενεργοποίηση %s</string>
      <string name="activate_popup_title_new_sim_card">Eπανενεργοποίηση %s</string>
      <string name="activate_popup_title_register_account">Εγγραφή λογαριασμού</string>
-     <string name="activate_sms_postfix">Αυτό το SMS χρησιμοποιείται για την ενεργοποίηση της Mi συσκευής σας.</string>
      <string name="activate_status_desc_acquire_phone_number">Αναζήτηση αριθμού τηλεφώνου από το διακομιστή</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Παρουσιάστηκε σφάλμα στο διακομιστή κατά την αναζήτηση του αριθμού τηλεφώνου</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Αδυναμία εύρεσης του αριθμού τηλεφώνου</string>

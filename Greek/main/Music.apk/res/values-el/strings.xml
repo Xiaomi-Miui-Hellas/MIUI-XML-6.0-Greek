@@ -25,7 +25,7 @@
      <string name="audio_picker_title">Επιλέξτε ένα τραγούδι</string>
      <string name="auto_download_in_wifi">Δεν υπάρχει σύνδεση στο Internet ανιχνεύθηκε</string>
      <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>
-     <string name="avoid_to_use_traffic_summary">Εμφάνιση προειδοποίηση χρήσης δεδομένων"</string>
+     <string name="avoid_to_use_traffic_summary">Εμφάνιση προειδοποίησης χρήσης δεδομένων"</string>
      <string name="avoid_to_use_traffic_title">Χρησιμοποιείτε μόνο WiFi για να κάνετε ροή μουσικής</string>
      <string name="baidu_music">Μουσική Baidu</string>
      <string name="bill_list_fragment_title">Charts</string>
