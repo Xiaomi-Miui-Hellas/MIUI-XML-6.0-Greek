@@ -5,20 +5,20 @@
         <item quantity="one">Διαγραφή %1$s άλμπουμ (%2$s συνολικά);</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="other"> Διαγραφή %s φωτογραφιών από το cloud</item>
+        <item quantity="one"> Διαγραφή %s φωτογραφίας από το cloud</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="other"> Διαγραφή %s φωτογραφιών ταυτόχρονα από τοπικά και cloud</item>
+        <item quantity="one"> Διαγραφή %s φωτογραφίας ταυτόχρονα από τοπικά και cloud</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="other"> Διαγραφή %s βίντεο ταυτόχρονα από τοπικά και cloud</item>
+        <item quantity="one"> Διαγραφή %s βίντεο ταυτόχρονα από τοπικά και cloud</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="other"> Διαγραφή %s βίντεο από το cloud</item>
+        <item quantity="one"> Διαγραφή %s βίντεο από το cloud</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
@@ -29,8 +29,8 @@
         <item quantity="one">Διαγραφή %s βίντεο;</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>Διαγραφή &lt;xliff:g id=ITEM>%1$d βίντεο&lt;/xliff:g> από %2$d άλμπουμ;&lt;/Data></item>
-        <item quantity="one">&lt;Data>Διαγραφή &lt;xliff:g id=ITEM>%1$d βίντεο&lt;/xliff:g> από %2$d άλμπουμ;&lt;/Data></item>
+        <item quantity="other">Διαγραφή %1$d βίντεο από %2$d άλμπουμ</item>
+        <item quantity="one">Διαγραφή %1$d βίντεο από %2$d άλμπουμ</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d φωτογραφίες</item>
